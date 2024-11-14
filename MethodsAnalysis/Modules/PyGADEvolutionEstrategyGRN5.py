@@ -52,6 +52,7 @@ class PyGAD_EvolutionStrategy_GRN5:
         return -mse
 
     # Faz a mutação de um indivíduo ao fazer alterações pequenas em seus coeficientes
+    # OBS: trocar a distribuição normal
     def mutate(self, individual):
         new_individual = {}
         for label in self.labels:
