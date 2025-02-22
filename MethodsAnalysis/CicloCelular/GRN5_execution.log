@@ -1,0 +1,2413 @@
+2025-02-20 15:25:49,774 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=0
+2025-02-20 15:25:49,776 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=0
+2025-02-20 15:25:49,776 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=0
+2025-02-20 15:25:49,776 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=0
+2025-02-20 15:25:49,788 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=1
+2025-02-20 15:25:49,790 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=1
+2025-02-20 15:25:49,790 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=1
+2025-02-20 15:25:49,803 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=1
+2025-02-20 15:25:49,803 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=2
+2025-02-20 15:25:49,803 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=2
+2025-02-20 15:25:49,819 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=2
+2025-02-20 15:25:49,824 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=2
+2025-02-20 15:29:42,961 - INFO - Sigma increased: 4.725005715233234
+2025-02-20 15:30:09,360 - INFO - Sigma increased: 6.296220994367763
+2025-02-20 15:30:15,591 - INFO - Sigma increased: 7.946862645277459
+2025-02-20 15:31:31,237 - INFO - Sigma increased: 1.072217501577037
+2025-02-20 15:32:33,918 - INFO - Sigma increased: 1
+2025-02-20 15:34:42,467 - INFO - Sigma increased: 1.0915300425259375
+2025-02-20 15:34:54,955 - INFO - Sigma increased: 3.8355017169910397
+2025-02-20 15:35:27,548 - INFO - Sigma increased: 1
+2025-02-20 15:37:28,960 - INFO - Sigma increased: 3.191864892060104
+2025-02-20 15:37:46,978 - INFO - Sigma increased: 3.8044081256455815
+2025-02-20 15:37:56,147 - INFO - Sigma increased: 4.376191342154595
+2025-02-20 15:39:36,969 - INFO - Sigma increased: 7.596461040985894
+2025-02-20 15:40:19,811 - INFO - Sigma increased: 5.568429556121529
+2025-02-20 15:40:39,486 - INFO - Sigma increased: 1
+2025-02-20 15:41:05,002 - INFO - Sigma increased: 7.301863539169812
+2025-02-20 15:42:24,593 - INFO - Sigma increased: 4.790571255463092
+2025-02-20 15:43:42,917 - INFO - Sigma increased: 6.806724872809723
+2025-02-20 15:43:53,756 - INFO - Sigma increased: 1
+2025-02-20 15:44:55,658 - INFO - Sigma increased: 5.067618829129108
+2025-02-20 15:46:12,088 - INFO - Sigma increased: 1
+2025-02-20 15:46:15,004 - INFO - Sigma increased: 1
+2025-02-20 15:46:19,432 - INFO - Sigma increased: 1
+2025-02-20 15:46:38,416 - INFO - Sigma increased: 4.844755548642076
+2025-02-20 15:46:46,274 - INFO - Sigma increased: 6.0419992033555046
+2025-02-20 15:47:06,235 - INFO - Sigma increased: 6.489090532238721
+2025-02-20 15:48:13,220 - INFO - Sigma increased: 1
+2025-02-20 15:48:33,035 - INFO - Sigma increased: 3.0107167649910487
+2025-02-20 15:48:44,493 - INFO - Sigma increased: 1
+2025-02-20 15:49:14,734 - INFO - Sigma increased: 1.6480061934057715
+2025-02-20 15:49:24,369 - INFO - Sigma increased: 4.401956276435327
+2025-02-20 15:49:57,787 - INFO - Sigma increased: 6.091706241239272
+2025-02-20 15:49:58,414 - INFO - Sigma increased: 6.414816156081527
+2025-02-20 15:50:30,247 - INFO - Sigma increased: 5.074763233230514
+2025-02-20 15:50:47,708 - INFO - Sigma increased: 1
+2025-02-20 15:51:17,394 - INFO - Sigma increased: 6.394292420477719
+2025-02-20 15:51:18,656 - INFO - Sigma increased: 6.6395804908994185
+2025-02-20 15:52:00,441 - INFO - Sigma increased: 5.341900515702285
+2025-02-20 15:52:14,753 - INFO - Sigma increased: 3.3622715215065844
+2025-02-20 15:52:32,026 - INFO - Sigma increased: 2.4769831639408375
+2025-02-20 15:52:46,365 - INFO - Sigma increased: 4.808050971847388
+2025-02-20 15:53:22,467 - INFO - Sigma increased: 1
+2025-02-20 15:54:27,921 - INFO - Sigma increased: 8.01878188030905
+2025-02-20 15:55:26,686 - INFO - Sigma increased: 5.384990669525108
+2025-02-20 15:55:26,873 - INFO - Sigma increased: 5.492546637364798
+2025-02-20 15:55:29,483 - INFO - Sigma increased: 9.409740591454774
+2025-02-20 15:55:36,407 - INFO - Sigma increased: 1
+2025-02-20 15:55:49,782 - WARNING - Force-stopping RK45 for seed 0, error MSE due to timeout.
+2025-02-20 15:55:49,782 - WARNING - Force-stopping RK45 for seed 0, error ABS due to timeout.
+2025-02-20 15:55:49,784 - WARNING - Force-stopping RK45 for seed 0, error SQUARED due to timeout.
+2025-02-20 15:55:49,786 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=3
+2025-02-20 15:55:49,792 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=3
+2025-02-20 15:55:49,792 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=3
+2025-02-20 15:55:49,800 - WARNING - Force-stopping RK45 for seed 0, error MABS due to timeout.
+2025-02-20 15:55:49,801 - WARNING - Force-stopping RK45 for seed 1, error ABS due to timeout.
+2025-02-20 15:55:49,802 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=3
+2025-02-20 15:55:49,806 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=4
+2025-02-20 15:55:49,814 - WARNING - Force-stopping RK45 for seed 2, error ABS due to timeout.
+2025-02-20 15:55:49,814 - WARNING - Force-stopping RK45 for seed 1, error MABS due to timeout.
+2025-02-20 15:55:49,815 - WARNING - Force-stopping RK45 for seed 1, error SQUARED due to timeout.
+2025-02-20 15:55:49,815 - WARNING - Force-stopping RK45 for seed 2, error SQUARED due to timeout.
+2025-02-20 15:55:49,818 - WARNING - Force-stopping RK45 for seed 1, error MSE due to timeout.
+2025-02-20 15:55:49,819 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=4
+2025-02-20 15:55:49,824 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=4
+2025-02-20 15:55:49,829 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=4
+2025-02-20 15:55:49,830 - WARNING - Force-stopping RK45 for seed 2, error MABS due to timeout.
+2025-02-20 15:55:49,830 - WARNING - Force-stopping RK45 for seed 2, error MSE due to timeout.
+2025-02-20 15:55:49,833 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=5
+2025-02-20 15:55:49,840 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=5
+2025-02-20 15:55:49,847 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=5
+2025-02-20 15:55:49,855 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=5
+2025-02-20 15:55:50,699 - WARNING - Timeout reached for RK45 on seed 1, error SQUARED
+2025-02-20 15:55:50,745 - WARNING - Timeout reached for RK45 on seed 1, error MSE
+2025-02-20 15:55:50,962 - INFO - Execution finished for RK45, seed 1, error SQUARED in 1800.91 seconds.
+2025-02-20 15:55:51,035 - INFO - Execution finished for RK45, seed 1, error MSE in 1800.94 seconds.
+2025-02-20 15:55:51,059 - WARNING - Timeout reached for RK45 on seed 2, error MABS
+2025-02-20 15:55:51,240 - INFO - Execution finished for RK45, seed 2, error MABS in 1801.24 seconds.
+2025-02-20 15:55:51,246 - WARNING - Timeout reached for RK45 on seed 1, error ABS
+2025-02-20 15:55:51,305 - WARNING - Timeout reached for RK45 on seed 0, error ABS
+2025-02-20 15:55:51,390 - INFO - Execution finished for RK45, seed 0, error ABS in 1801.53 seconds.
+2025-02-20 15:55:51,394 - INFO - Execution finished for RK45, seed 1, error ABS in 1801.46 seconds.
+2025-02-20 15:55:51,562 - WARNING - Timeout reached for RK45 on seed 0, error SQUARED
+2025-02-20 15:55:51,702 - INFO - Execution finished for RK45, seed 0, error SQUARED in 1801.79 seconds.
+2025-02-20 15:55:51,990 - WARNING - Timeout reached for RK45 on seed 2, error MSE
+2025-02-20 15:55:52,199 - INFO - Execution finished for RK45, seed 2, error MSE in 1802.17 seconds.
+2025-02-20 15:55:52,289 - WARNING - Timeout reached for RK45 on seed 2, error ABS
+2025-02-20 15:55:52,298 - WARNING - Timeout reached for RK45 on seed 1, error MABS
+2025-02-20 15:55:52,453 - INFO - Execution finished for RK45, seed 1, error MABS in 1802.50 seconds.
+2025-02-20 15:55:52,834 - WARNING - Timeout reached for RK45 on seed 0, error MABS
+2025-02-20 15:55:53,140 - INFO - Execution finished for RK45, seed 0, error MABS in 1803.05 seconds.
+2025-02-20 15:55:53,182 - INFO - Execution finished for RK45, seed 2, error ABS in 1802.49 seconds.
+2025-02-20 15:55:54,001 - WARNING - Timeout reached for RK45 on seed 0, error MSE
+2025-02-20 15:55:54,111 - INFO - Execution finished for RK45, seed 0, error MSE in 1804.22 seconds.
+2025-02-20 15:55:57,227 - WARNING - Timeout reached for RK45 on seed 2, error SQUARED
+2025-02-20 15:55:57,335 - INFO - Execution finished for RK45, seed 2, error SQUARED in 1807.40 seconds.
+2025-02-20 15:59:00,873 - INFO - Sigma increased: 6.049194670442898
+2025-02-20 16:01:43,991 - INFO - Sigma increased: 6.749823431188641
+2025-02-20 16:01:58,486 - INFO - Sigma increased: 1
+2025-02-20 16:02:34,777 - INFO - Sigma increased: 1
+2025-02-20 16:03:12,888 - INFO - Sigma increased: 1.0713745044229968
+2025-02-20 16:03:45,833 - INFO - Sigma increased: 2.8437693036045237
+2025-02-20 16:04:04,357 - INFO - Sigma increased: 1.9918644957826137
+2025-02-20 16:04:40,619 - INFO - Sigma increased: 2.1514349429117807
+2025-02-20 16:05:17,214 - INFO - Sigma increased: 2.31042276342024
+2025-02-20 16:05:26,915 - INFO - Sigma increased: 3.5763858891368923
+2025-02-20 16:07:23,757 - INFO - Sigma increased: 3.695096426792372
+2025-02-20 16:08:04,759 - INFO - Sigma increased: 2.4291343159376395
+2025-02-20 16:08:12,599 - INFO - Sigma increased: 1
+2025-02-20 16:08:13,945 - INFO - Sigma increased: 5.2527391739858755
+2025-02-20 16:09:48,749 - INFO - Sigma increased: 3.4984688117351483
+2025-02-20 16:10:05,270 - INFO - Sigma increased: 2.3364648350759416
+2025-02-20 16:10:28,044 - INFO - Sigma increased: 4.080163795096072
+2025-02-20 16:12:21,721 - INFO - Sigma increased: 5.186777132695523
+2025-02-20 16:12:22,874 - INFO - Sigma increased: 3.3811925244269316
+2025-02-20 16:12:40,227 - INFO - Sigma increased: 3.0179031203559052
+2025-02-20 16:13:29,553 - INFO - Sigma increased: 3.9858742047266476
+2025-02-20 16:15:06,047 - INFO - Sigma increased: 4.898668869066393
+2025-02-20 16:15:20,490 - INFO - Sigma increased: 6.667939826596216
+2025-02-20 16:16:04,141 - INFO - Sigma increased: 7.34414683833425
+2025-02-20 16:16:29,552 - INFO - Sigma increased: 3.9495270916518836
+2025-02-20 16:17:15,627 - INFO - Sigma increased: 6.890933325091969
+2025-02-20 16:18:08,830 - INFO - Sigma increased: 5.274046534578339
+2025-02-20 16:19:22,797 - INFO - Sigma increased: 3.542204346640979
+2025-02-20 16:19:44,956 - INFO - Sigma increased: 6.0413402960852896
+2025-02-20 16:19:55,261 - INFO - Sigma increased: 5.388586540023289
+2025-02-20 16:20:23,310 - INFO - Sigma increased: 10.887110440649732
+2025-02-20 16:20:26,919 - INFO - Sigma increased: 1
+2025-02-20 16:22:04,406 - INFO - Sigma increased: 5.422423205664395
+2025-02-20 16:22:15,536 - INFO - Sigma increased: 7.190644581989032
+2025-02-20 16:23:06,227 - INFO - Sigma increased: 3.6889946102183915
+2025-02-20 16:24:41,897 - INFO - Sigma increased: 1
+2025-02-20 16:24:54,878 - INFO - Sigma increased: 7.060737282623992
+2025-02-20 16:25:11,542 - INFO - Sigma increased: 8.186522384381792
+2025-02-20 16:25:49,792 - WARNING - Force-stopping RK45 for seed 3, error ABS due to timeout.
+2025-02-20 16:25:49,797 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=6
+2025-02-20 16:25:49,806 - WARNING - Force-stopping RK45 for seed 3, error SQUARED due to timeout.
+2025-02-20 16:25:49,806 - WARNING - Force-stopping RK45 for seed 3, error MSE due to timeout.
+2025-02-20 16:25:49,808 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=6
+2025-02-20 16:25:49,808 - WARNING - Force-stopping RK45 for seed 3, error MABS due to timeout.
+2025-02-20 16:25:49,812 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=6
+2025-02-20 16:25:49,819 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=6
+2025-02-20 16:25:49,824 - WARNING - Force-stopping RK45 for seed 4, error ABS due to timeout.
+2025-02-20 16:25:49,836 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=7
+2025-02-20 16:25:49,837 - WARNING - Force-stopping RK45 for seed 5, error ABS due to timeout.
+2025-02-20 16:25:49,837 - WARNING - Force-stopping RK45 for seed 4, error MSE due to timeout.
+2025-02-20 16:25:49,838 - WARNING - Force-stopping RK45 for seed 4, error MABS due to timeout.
+2025-02-20 16:25:49,838 - WARNING - Force-stopping RK45 for seed 4, error SQUARED due to timeout.
+2025-02-20 16:25:49,843 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=7
+2025-02-20 16:25:49,850 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=7
+2025-02-20 16:25:49,851 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=7
+2025-02-20 16:25:49,854 - WARNING - Force-stopping RK45 for seed 5, error SQUARED due to timeout.
+2025-02-20 16:25:49,854 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=8
+2025-02-20 16:25:49,854 - WARNING - Force-stopping RK45 for seed 5, error MSE due to timeout.
+2025-02-20 16:25:49,869 - WARNING - Force-stopping RK45 for seed 5, error MABS due to timeout.
+2025-02-20 16:25:49,871 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=8
+2025-02-20 16:25:49,886 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=8
+2025-02-20 16:25:49,890 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=8
+2025-02-20 16:25:49,922 - WARNING - Timeout reached for RK45 on seed 4, error MSE
+2025-02-20 16:25:50,266 - INFO - Execution finished for RK45, seed 4, error MSE in 1800.07 seconds.
+2025-02-20 16:25:50,609 - WARNING - Timeout reached for RK45 on seed 4, error MABS
+2025-02-20 16:25:51,111 - WARNING - Timeout reached for RK45 on seed 5, error SQUARED
+2025-02-20 16:25:51,209 - WARNING - Timeout reached for RK45 on seed 5, error MSE
+2025-02-20 16:25:51,389 - WARNING - Timeout reached for RK45 on seed 4, error SQUARED
+2025-02-20 16:25:51,449 - INFO - Execution finished for RK45, seed 4, error MABS in 1800.75 seconds.
+2025-02-20 16:25:51,536 - INFO - Execution finished for RK45, seed 5, error SQUARED in 1801.24 seconds.
+2025-02-20 16:25:51,562 - INFO - Execution finished for RK45, seed 4, error SQUARED in 1801.55 seconds.
+2025-02-20 16:25:51,697 - INFO - Execution finished for RK45, seed 5, error MSE in 1801.33 seconds.
+2025-02-20 16:25:51,932 - WARNING - Timeout reached for RK45 on seed 3, error MSE
+2025-02-20 16:25:52,100 - INFO - Execution finished for RK45, seed 3, error MSE in 1802.10 seconds.
+2025-02-20 16:25:53,517 - WARNING - Timeout reached for RK45 on seed 3, error SQUARED
+2025-02-20 16:25:53,627 - WARNING - Timeout reached for RK45 on seed 3, error ABS
+2025-02-20 16:25:53,758 - INFO - Execution finished for RK45, seed 3, error SQUARED in 1803.72 seconds.
+2025-02-20 16:25:53,764 - INFO - Execution finished for RK45, seed 3, error ABS in 1803.82 seconds.
+2025-02-20 16:25:54,794 - WARNING - Timeout reached for RK45 on seed 3, error MABS
+2025-02-20 16:25:54,923 - WARNING - Timeout reached for RK45 on seed 5, error ABS
+2025-02-20 16:25:55,240 - INFO - Execution finished for RK45, seed 5, error ABS in 1805.03 seconds.
+2025-02-20 16:25:55,513 - INFO - Execution finished for RK45, seed 3, error MABS in 1804.97 seconds.
+2025-02-20 16:25:58,025 - WARNING - Timeout reached for RK45 on seed 4, error ABS
+2025-02-20 16:25:58,605 - INFO - Execution finished for RK45, seed 4, error ABS in 1808.20 seconds.
+2025-02-20 16:26:14,486 - WARNING - Timeout reached for RK45 on seed 5, error MABS
+2025-02-20 16:26:14,639 - INFO - Execution finished for RK45, seed 5, error MABS in 1824.60 seconds.
+2025-02-20 16:31:00,818 - INFO - Sigma increased: 7.507808758097612
+2025-02-20 16:34:10,086 - INFO - Sigma increased: 5.857393420022829
+2025-02-20 16:35:54,203 - INFO - Sigma increased: 1
+2025-02-20 16:37:06,729 - INFO - Sigma increased: 1
+2025-02-20 16:37:28,307 - INFO - Sigma increased: 1
+2025-02-20 16:37:29,674 - INFO - Sigma increased: 3.456410111374689
+2025-02-20 16:38:38,435 - INFO - Sigma increased: 1
+2025-02-20 16:39:26,895 - INFO - Sigma increased: 1
+2025-02-20 16:39:46,612 - INFO - Sigma increased: 5.92502346654055
+2025-02-20 16:39:53,885 - INFO - Sigma increased: 3.404930443585857
+2025-02-20 16:40:45,977 - INFO - Sigma increased: 2.61088736646439
+2025-02-20 16:40:54,457 - INFO - Sigma increased: 1
+2025-02-20 16:41:39,846 - INFO - Sigma increased: 1.8470775582002936
+2025-02-20 16:42:41,785 - INFO - Sigma increased: 1
+2025-02-20 16:42:55,542 - INFO - Sigma increased: 3.666983611976555
+2025-02-20 16:43:18,821 - INFO - Sigma increased: 9.041259871172192
+2025-02-20 16:43:34,722 - INFO - Sigma increased: 3.1256984840236397
+2025-02-20 16:43:48,382 - INFO - Sigma increased: 1
+2025-02-20 16:44:13,891 - INFO - Sigma increased: 4.385502761932115
+2025-02-20 16:44:52,705 - INFO - Sigma increased: 2.9012612739385073
+2025-02-20 16:44:57,039 - INFO - Sigma increased: 7.17593548939479
+2025-02-20 16:45:05,989 - INFO - Sigma increased: 2.303988318044142
+2025-02-20 16:45:16,191 - INFO - Sigma increased: 3.2420664081224166
+2025-02-20 16:45:43,663 - INFO - Sigma increased: 5.772132525581166
+2025-02-20 16:45:44,000 - INFO - Sigma increased: 1
+2025-02-20 16:46:53,698 - INFO - Sigma increased: 8.031006178036911
+2025-02-20 16:47:04,778 - INFO - Sigma increased: 2.1435685124470933
+2025-02-20 16:47:10,927 - INFO - Sigma increased: 4.80754726525452
+2025-02-20 16:48:11,385 - INFO - Sigma increased: 5.574358535274822
+2025-02-20 16:48:18,242 - INFO - Sigma increased: 5.027685737637061
+2025-02-20 16:48:19,935 - INFO - Sigma increased: 5.809359004123454
+2025-02-20 16:48:38,438 - INFO - Sigma increased: 4.656466299931025
+2025-02-20 16:48:51,082 - INFO - Sigma increased: 2.638563547499154
+2025-02-20 16:49:19,791 - INFO - Sigma increased: 5.712017517397294
+2025-02-20 16:49:49,926 - INFO - Sigma increased: 7.600459271247938
+2025-02-20 16:50:36,602 - INFO - Sigma increased: 6.969957941763058
+2025-02-20 16:50:39,926 - INFO - Sigma increased: 5.96811281848735
+2025-02-20 16:51:11,543 - INFO - Sigma increased: 7.6885506878054315
+2025-02-20 16:51:45,373 - INFO - Sigma increased: 3.783234677774579
+2025-02-20 16:52:04,471 - INFO - Sigma increased: 4.7740396365461875
+2025-02-20 16:52:31,731 - INFO - Sigma increased: 5.8963702046536
+2025-02-20 16:53:12,194 - INFO - Sigma increased: 5.703896842239093
+2025-02-20 16:53:23,089 - INFO - Sigma increased: 8.276468239265974
+2025-02-20 16:54:16,483 - INFO - Sigma increased: 5.773474286805987
+2025-02-20 16:54:43,905 - INFO - Sigma increased: 3.76220493617358
+2025-02-20 16:54:55,811 - INFO - Sigma increased: 7.579816338410925
+2025-02-20 16:55:28,061 - INFO - Sigma increased: 5.685955360886304
+2025-02-20 16:55:49,811 - WARNING - Force-stopping RK45 for seed 6, error ABS due to timeout.
+2025-02-20 16:55:49,811 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=9
+2025-02-20 16:55:49,811 - WARNING - Force-stopping RK45 for seed 6, error SQUARED due to timeout.
+2025-02-20 16:55:49,811 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=9
+2025-02-20 16:55:49,827 - WARNING - Force-stopping RK45 for seed 6, error MSE due to timeout.
+2025-02-20 16:55:49,827 - WARNING - Force-stopping RK45 for seed 6, error MABS due to timeout.
+2025-02-20 16:55:49,827 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=9
+2025-02-20 16:55:49,827 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=9
+2025-02-20 16:55:49,843 - WARNING - Force-stopping RK45 for seed 7, error ABS due to timeout.
+2025-02-20 16:55:49,858 - WARNING - Force-stopping RK45 for seed 7, error MABS due to timeout.
+2025-02-20 16:55:49,858 - WARNING - Force-stopping RK45 for seed 8, error ABS due to timeout.
+2025-02-20 16:55:49,858 - WARNING - Force-stopping RK45 for seed 7, error MSE due to timeout.
+2025-02-20 16:55:49,858 - WARNING - Force-stopping RK45 for seed 7, error SQUARED due to timeout.
+2025-02-20 16:55:49,874 - WARNING - Force-stopping RK45 for seed 8, error SQUARED due to timeout.
+2025-02-20 16:55:49,889 - WARNING - Force-stopping RK45 for seed 8, error MSE due to timeout.
+2025-02-20 16:55:49,905 - WARNING - Force-stopping RK45 for seed 8, error MABS due to timeout.
+2025-02-20 16:55:50,296 - WARNING - Timeout reached for RK45 on seed 7, error ABS
+2025-02-20 16:55:50,468 - INFO - Execution finished for RK45, seed 7, error ABS in 1800.45 seconds.
+2025-02-20 16:55:50,733 - WARNING - Timeout reached for RK45 on seed 6, error MSE
+2025-02-20 16:55:50,764 - WARNING - Timeout reached for RK45 on seed 8, error MSE
+2025-02-20 16:55:50,843 - INFO - Execution finished for RK45, seed 6, error MSE in 1800.91 seconds.
+2025-02-20 16:55:50,874 - INFO - Execution finished for RK45, seed 8, error MSE in 1800.86 seconds.
+2025-02-20 16:55:51,046 - WARNING - Timeout reached for RK45 on seed 7, error MSE
+2025-02-20 16:55:51,061 - WARNING - Timeout reached for RK45 on seed 6, error SQUARED
+2025-02-20 16:55:51,093 - WARNING - Timeout reached for RK45 on seed 7, error MABS
+2025-02-20 16:55:51,186 - INFO - Execution finished for RK45, seed 7, error MSE in 1801.17 seconds.
+2025-02-20 16:55:51,202 - INFO - Execution finished for RK45, seed 6, error SQUARED in 1801.24 seconds.
+2025-02-20 16:55:51,233 - INFO - Execution finished for RK45, seed 7, error MABS in 1801.22 seconds.
+2025-02-20 16:55:51,577 - WARNING - Timeout reached for RK45 on seed 6, error ABS
+2025-02-20 16:55:51,593 - WARNING - Timeout reached for RK45 on seed 8, error SQUARED
+2025-02-20 16:55:51,702 - WARNING - Timeout reached for RK45 on seed 7, error SQUARED
+2025-02-20 16:55:51,702 - INFO - Execution finished for RK45, seed 6, error ABS in 1801.78 seconds.
+2025-02-20 16:55:51,733 - INFO - Execution finished for RK45, seed 8, error SQUARED in 1801.70 seconds.
+2025-02-20 16:55:51,811 - INFO - Execution finished for RK45, seed 7, error SQUARED in 1801.84 seconds.
+2025-02-20 16:55:51,952 - WARNING - Timeout reached for RK45 on seed 8, error MABS
+2025-02-20 16:55:51,999 - INFO - Execution finished for RK45, seed 8, error MABS in 1802.06 seconds.
+2025-02-20 16:55:52,358 - WARNING - Timeout reached for RK45 on seed 8, error ABS
+2025-02-20 16:55:52,499 - INFO - Execution finished for RK45, seed 8, error ABS in 1802.47 seconds.
+2025-02-20 16:55:52,936 - WARNING - Timeout reached for RK45 on seed 6, error MABS
+2025-02-20 16:55:52,999 - INFO - Execution finished for RK45, seed 6, error MABS in 1803.10 seconds.
+2025-02-20 16:57:13,436 - INFO - Sigma increased: 7.106204560902391
+2025-02-20 16:58:32,340 - INFO - Sigma increased: 5.910158912152533
+2025-02-20 16:59:34,512 - INFO - Sigma increased: 4.679265879549102
+2025-02-20 17:00:23,417 - INFO - Sigma increased: 1
+2025-02-20 17:01:00,166 - INFO - Sigma increased: 1
+2025-02-20 17:02:51,071 - INFO - Sigma increased: 1
+2025-02-20 17:04:05,791 - INFO - Sigma increased: 1.4047591708494458
+2025-02-20 17:04:36,531 - INFO - Sigma increased: 1
+2025-02-20 17:05:28,908 - INFO - Sigma increased: 3.0944926191309055
+2025-02-20 17:06:14,402 - INFO - Sigma increased: 3.7180159640537456
+2025-02-20 17:07:42,162 - INFO - Sigma increased: 5.056882342585655
+2025-02-20 17:08:39,656 - INFO - Sigma increased: 1
+2025-02-20 17:09:02,737 - INFO - Sigma increased: 5.735484398442087
+2025-02-20 17:09:54,517 - INFO - Sigma increased: 7.711942713692999
+2025-02-20 17:10:51,574 - INFO - Sigma increased: 12.957607599930805
+2025-02-20 17:11:28,154 - INFO - Sigma increased: 1
+2025-02-20 17:13:42,142 - INFO - Sigma increased: 1
+2025-02-20 17:14:30,514 - INFO - Sigma increased: 4.239172845375964
+2025-02-20 17:15:11,315 - INFO - Sigma increased: 8.852614776902152
+2025-02-20 17:16:20,412 - INFO - Sigma increased: 15
+2025-02-20 17:16:38,348 - INFO - Sigma increased: 1
+2025-02-20 17:17:09,997 - INFO - Sigma increased: 15
+2025-02-20 17:17:28,397 - INFO - Sigma increased: 1.936680257427482
+2025-02-20 17:17:48,296 - INFO - Sigma increased: 13.359818267145961
+2025-02-20 17:18:38,934 - INFO - Sigma increased: 15
+2025-02-20 17:19:32,805 - INFO - Sigma increased: 15
+2025-02-20 17:20:18,210 - INFO - Sigma increased: 15
+2025-02-20 17:20:56,892 - INFO - Sigma increased: 15
+2025-02-20 17:21:33,680 - INFO - Sigma increased: 1
+2025-02-20 17:21:49,408 - INFO - Sigma increased: 15
+2025-02-20 17:23:09,062 - INFO - Sigma increased: 15
+2025-02-20 17:23:14,090 - INFO - Sigma increased: 2.0961088090434927
+2025-02-20 17:24:20,755 - INFO - Sigma increased: 5.759785955282961
+2025-02-20 17:24:36,334 - INFO - Sigma increased: 14.32043292230037
+2025-02-20 17:25:49,832 - WARNING - Force-stopping RK45 for seed 9, error SQUARED due to timeout.
+2025-02-20 17:25:49,833 - WARNING - Force-stopping RK45 for seed 9, error ABS due to timeout.
+2025-02-20 17:25:49,847 - WARNING - Force-stopping RK45 for seed 9, error MABS due to timeout.
+2025-02-20 17:25:49,847 - WARNING - Force-stopping RK45 for seed 9, error MSE due to timeout.
+2025-02-20 17:25:50,353 - WARNING - Timeout reached for RK45 on seed 9, error SQUARED
+2025-02-20 17:25:50,408 - INFO - Execution finished for RK45, seed 9, error SQUARED in 1800.54 seconds.
+2025-02-20 17:25:50,566 - WARNING - Timeout reached for RK45 on seed 9, error MSE
+2025-02-20 17:25:50,665 - WARNING - Timeout reached for RK45 on seed 9, error MABS
+2025-02-20 17:25:50,716 - INFO - Execution finished for RK45, seed 9, error MABS in 1800.82 seconds.
+2025-02-20 17:25:50,743 - INFO - Execution finished for RK45, seed 9, error MSE in 1800.72 seconds.
+2025-02-20 17:25:51,374 - WARNING - Timeout reached for RK45 on seed 9, error ABS
+2025-02-20 17:25:51,448 - INFO - Execution finished for RK45, seed 9, error ABS in 1801.55 seconds.
+2025-02-20 17:43:47,768 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=0
+2025-02-20 17:43:47,769 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=0
+2025-02-20 17:43:47,776 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=0
+2025-02-20 17:43:47,790 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=0
+2025-02-20 17:43:47,794 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=1
+2025-02-20 17:43:47,797 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=1
+2025-02-20 17:43:47,797 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=1
+2025-02-20 17:43:47,797 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=1
+2025-02-20 17:43:47,797 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=2
+2025-02-20 17:43:47,811 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=2
+2025-02-20 17:43:47,811 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=2
+2025-02-20 17:43:47,811 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=2
+2025-02-20 17:49:31,955 - INFO - Sigma increased: 5.136425675000224
+2025-02-20 17:50:07,447 - INFO - Sigma increased: 3.5996838688084147
+2025-02-20 17:50:14,051 - INFO - Sigma increased: 2.3381052663946673
+2025-02-20 17:50:25,075 - INFO - Sigma increased: 2.609714392032582
+2025-02-20 17:51:39,179 - INFO - Sigma increased: 1.989937727588288
+2025-02-20 17:51:47,466 - INFO - Sigma increased: 1
+2025-02-20 17:52:01,129 - INFO - Sigma increased: 1.2264081783876937
+2025-02-20 17:52:05,833 - INFO - Sigma increased: 4.234818643214821
+2025-02-20 17:52:32,390 - INFO - Sigma increased: 1
+2025-02-20 17:52:35,997 - INFO - Sigma increased: 5.113726977264266
+2025-02-20 17:53:06,925 - INFO - Sigma increased: 3.8650944449986815
+2025-02-20 17:53:33,958 - INFO - Sigma increased: 4.92190964736821
+2025-02-20 17:53:36,627 - INFO - Sigma increased: 2.4495100978846165
+2025-02-20 17:53:59,054 - INFO - Sigma increased: 1
+2025-02-20 17:55:25,098 - INFO - Sigma increased: 6.198657407493342
+2025-02-20 17:55:46,493 - INFO - Sigma increased: 1.4584011521310254
+2025-02-20 17:56:22,223 - INFO - Sigma increased: 2.0691408383458167
+2025-02-20 17:56:30,630 - INFO - Sigma increased: 3.482914404741106
+2025-02-20 17:56:46,222 - INFO - Sigma increased: 4.9998284397859445
+2025-02-20 17:57:07,026 - INFO - Sigma increased: 3.650424314400644
+2025-02-20 17:57:34,891 - INFO - Sigma increased: 3.4225825344456
+2025-02-20 17:57:48,585 - INFO - Sigma increased: 3.154611331075514
+2025-02-20 17:58:42,879 - INFO - Sigma increased: 4.927610455162932
+2025-02-20 17:59:00,520 - INFO - Sigma increased: 2.188890240973422
+2025-02-20 17:59:28,695 - INFO - Sigma increased: 1.6672977772382815
+2025-02-20 17:59:36,336 - INFO - Sigma increased: 5.200061946028137
+2025-02-20 17:59:51,027 - INFO - Sigma increased: 6.79392461521421
+2025-02-20 18:00:40,370 - INFO - Sigma increased: 4.893875851632174
+2025-02-20 18:01:41,319 - INFO - Sigma increased: 6.548065793916087
+2025-02-20 18:01:45,684 - INFO - Sigma increased: 3.4970792782083966
+2025-02-20 18:02:27,595 - INFO - Sigma increased: 2.925231709818561
+2025-02-20 18:03:40,909 - INFO - Sigma increased: 5.0163758285016335
+2025-02-20 18:03:42,482 - INFO - Sigma increased: 8.097164642074375
+2025-02-20 18:04:26,549 - INFO - Sigma increased: 4.231584624530168
+2025-02-20 18:04:38,808 - INFO - Sigma increased: 7.083054078728353
+2025-02-20 18:06:17,229 - INFO - Sigma increased: 1
+2025-02-20 18:06:23,553 - INFO - Sigma increased: 1
+2025-02-20 18:06:33,568 - INFO - Sigma increased: 6.175874175592105
+2025-02-20 18:07:42,360 - INFO - Sigma increased: 3.7954024794588332
+2025-02-20 18:07:55,763 - INFO - Sigma increased: 1
+2025-02-20 18:08:02,832 - INFO - Sigma increased: 8.340127002396688
+2025-02-20 18:08:24,712 - INFO - Sigma increased: 9.043206163511305
+2025-02-20 18:08:38,155 - INFO - Sigma increased: 2.263001130313201
+2025-02-20 18:09:11,962 - INFO - Sigma increased: 7.00948716574133
+2025-02-20 18:09:19,024 - INFO - Sigma increased: 1
+2025-02-20 18:10:21,744 - INFO - Sigma increased: 4.768635637161979
+2025-02-20 18:10:37,135 - INFO - Sigma increased: 5.492603878837574
+2025-02-20 18:12:16,302 - INFO - Sigma increased: 7.319774728313824
+2025-02-20 18:13:01,516 - INFO - Sigma increased: 8.486142824890072
+2025-02-20 18:13:33,337 - INFO - Sigma increased: 4.4979331680233425
+2025-02-20 18:13:46,873 - INFO - Sigma increased: 4.392807921916389
+2025-02-20 18:13:47,780 - WARNING - Force-stopping RK45 for seed 0, error ABS due to timeout.
+2025-02-20 18:13:47,781 - WARNING - Force-stopping RK45 for seed 0, error SQUARED due to timeout.
+2025-02-20 18:13:47,786 - WARNING - Force-stopping RK45 for seed 0, error MSE due to timeout.
+2025-02-20 18:13:47,786 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=3
+2025-02-20 18:13:47,790 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=3
+2025-02-20 18:13:47,792 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=3
+2025-02-20 18:13:47,796 - WARNING - Force-stopping RK45 for seed 1, error ABS due to timeout.
+2025-02-20 18:13:47,796 - WARNING - Force-stopping RK45 for seed 0, error MABS due to timeout.
+2025-02-20 18:13:47,807 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=3
+2025-02-20 18:13:47,808 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=4
+2025-02-20 18:13:47,812 - WARNING - Force-stopping RK45 for seed 1, error MABS due to timeout.
+2025-02-20 18:13:47,812 - WARNING - Force-stopping RK45 for seed 1, error SQUARED due to timeout.
+2025-02-20 18:13:47,812 - WARNING - Force-stopping RK45 for seed 2, error ABS due to timeout.
+2025-02-20 18:13:47,812 - WARNING - Force-stopping RK45 for seed 1, error MSE due to timeout.
+2025-02-20 18:13:47,822 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=4
+2025-02-20 18:13:47,823 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=4
+2025-02-20 18:13:47,827 - WARNING - Force-stopping RK45 for seed 2, error MSE due to timeout.
+2025-02-20 18:13:47,827 - WARNING - Force-stopping RK45 for seed 2, error SQUARED due to timeout.
+2025-02-20 18:13:47,827 - WARNING - Force-stopping RK45 for seed 2, error MABS due to timeout.
+2025-02-20 18:13:47,827 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=4
+2025-02-20 18:13:47,831 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=5
+2025-02-20 18:13:47,844 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=5
+2025-02-20 18:13:47,844 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=5
+2025-02-20 18:13:47,849 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=5
+2025-02-20 18:13:48,315 - WARNING - Timeout reached for RK45 on seed 1, error MSE
+2025-02-20 18:13:48,324 - WARNING - Timeout reached for RK45 on seed 0, error MSE
+2025-02-20 18:13:48,586 - WARNING - Timeout reached for RK45 on seed 1, error SQUARED
+2025-02-20 18:13:48,761 - INFO - Execution finished for RK45, seed 1, error SQUARED in 1800.79 seconds.
+2025-02-20 18:13:48,804 - INFO - Execution finished for RK45, seed 0, error MSE in 1800.53 seconds.
+2025-02-20 18:13:49,115 - INFO - Execution finished for RK45, seed 1, error MSE in 1800.50 seconds.
+2025-02-20 18:13:49,488 - WARNING - Timeout reached for RK45 on seed 2, error MABS
+2025-02-20 18:13:49,631 - INFO - Execution finished for RK45, seed 2, error MABS in 1801.66 seconds.
+2025-02-20 18:13:50,133 - WARNING - Timeout reached for RK45 on seed 0, error SQUARED
+2025-02-20 18:13:50,140 - WARNING - Timeout reached for RK45 on seed 2, error SQUARED
+2025-02-20 18:13:50,144 - WARNING - Timeout reached for RK45 on seed 2, error MSE
+2025-02-20 18:13:50,198 - WARNING - Timeout reached for RK45 on seed 1, error ABS
+2025-02-20 18:13:50,336 - INFO - Execution finished for RK45, seed 2, error MSE in 1802.32 seconds.
+2025-02-20 18:13:50,600 - INFO - Execution finished for RK45, seed 1, error ABS in 1802.40 seconds.
+2025-02-20 18:13:50,776 - INFO - Execution finished for RK45, seed 0, error SQUARED in 1802.36 seconds.
+2025-02-20 18:13:51,047 - INFO - Execution finished for RK45, seed 2, error SQUARED in 1802.31 seconds.
+2025-02-20 18:13:51,449 - WARNING - Timeout reached for RK45 on seed 0, error ABS
+2025-02-20 18:13:51,525 - INFO - Execution finished for RK45, seed 0, error ABS in 1803.68 seconds.
+2025-02-20 18:13:53,348 - WARNING - Timeout reached for RK45 on seed 0, error MABS
+2025-02-20 18:13:53,691 - INFO - Execution finished for RK45, seed 0, error MABS in 1805.55 seconds.
+2025-02-20 18:13:54,821 - WARNING - Timeout reached for RK45 on seed 2, error ABS
+2025-02-20 18:13:55,041 - INFO - Execution finished for RK45, seed 2, error ABS in 1807.01 seconds.
+2025-02-20 18:13:55,369 - WARNING - Timeout reached for RK45 on seed 1, error MABS
+2025-02-20 18:13:55,491 - INFO - Execution finished for RK45, seed 1, error MABS in 1807.56 seconds.
+2025-02-20 18:18:50,192 - INFO - Sigma increased: 1
+2025-02-20 18:20:47,183 - INFO - Sigma increased: 1
+2025-02-20 18:21:51,066 - INFO - Sigma increased: 1.2214493623173752
+2025-02-20 18:21:51,588 - INFO - Sigma increased: 1.187610697214926
+2025-02-20 18:22:56,838 - INFO - Sigma increased: 1
+2025-02-20 18:23:28,717 - INFO - Sigma increased: 3.087870116867342
+2025-02-20 18:24:11,784 - INFO - Sigma increased: 1
+2025-02-20 18:24:26,032 - INFO - Sigma increased: 1.9913133756795869
+2025-02-20 18:24:29,728 - INFO - Sigma increased: 1
+2025-02-20 18:25:48,309 - INFO - Sigma increased: 2.842009500920144
+2025-02-20 18:26:15,491 - INFO - Sigma increased: 5.264952016369091
+2025-02-20 18:26:36,288 - INFO - Sigma increased: 2.283194840799529
+2025-02-20 18:27:19,254 - INFO - Sigma increased: 4.597215751620753
+2025-02-20 18:29:04,852 - INFO - Sigma increased: 6.169094594015052
+2025-02-20 18:29:10,971 - INFO - Sigma increased: 5.052887750283505
+2025-02-20 18:29:31,009 - INFO - Sigma increased: 2.756123434077451
+2025-02-20 18:30:23,059 - INFO - Sigma increased: 3.6267773498192173
+2025-02-20 18:30:24,859 - INFO - Sigma increased: 1
+2025-02-20 18:31:58,959 - INFO - Sigma increased: 4.061018978934882
+2025-02-20 18:31:59,279 - INFO - Sigma increased: 1
+2025-02-20 18:32:11,277 - INFO - Sigma increased: 2.1097698252762096
+2025-02-20 18:32:55,308 - INFO - Sigma increased: 3.038377741693827
+2025-02-20 18:33:08,817 - INFO - Sigma increased: 3.6103613721823997
+2025-02-20 18:33:16,761 - INFO - Sigma increased: 8.696237296198063
+2025-02-20 18:33:47,788 - INFO - Sigma increased: 4.511365892960056
+2025-02-20 18:34:09,159 - INFO - Sigma increased: 1
+2025-02-20 18:34:15,356 - INFO - Sigma increased: 1.4137383088230147
+2025-02-20 18:34:56,743 - INFO - Sigma increased: 5.159243010261667
+2025-02-20 18:35:21,127 - INFO - Sigma increased: 2.429724759763338
+2025-02-20 18:35:53,363 - INFO - Sigma increased: 5.1272509137165665
+2025-02-20 18:36:04,861 - INFO - Sigma increased: 5.090572653632072
+2025-02-20 18:36:47,737 - INFO - Sigma increased: 6.260525883694035
+2025-02-20 18:37:01,809 - INFO - Sigma increased: 6.365419477810804
+2025-02-20 18:37:49,149 - INFO - Sigma increased: 2.0978409407851824
+2025-02-20 18:37:51,905 - INFO - Sigma increased: 4.7186556666714665
+2025-02-20 18:38:06,549 - INFO - Sigma increased: 4.550014638205677
+2025-02-20 18:38:35,738 - INFO - Sigma increased: 4.167941462108012
+2025-02-20 18:39:26,033 - INFO - Sigma increased: 6.518012760964083
+2025-02-20 18:40:00,302 - INFO - Sigma increased: 9.261446320347812
+2025-02-20 18:40:28,944 - INFO - Sigma increased: 6.190088370532997
+2025-02-20 18:40:33,731 - INFO - Sigma increased: 5.707180706325826
+2025-02-20 18:40:57,601 - INFO - Sigma increased: 4.336260186289448
+2025-02-20 18:40:58,997 - INFO - Sigma increased: 1
+2025-02-20 18:41:26,834 - INFO - Sigma increased: 4.79222265751204
+2025-02-20 18:41:58,753 - INFO - Sigma increased: 5.421109540430967
+2025-02-20 18:42:22,255 - INFO - Sigma increased: 4.556630482053953
+2025-02-20 18:43:24,192 - INFO - Sigma increased: 5.546403657010229
+2025-02-20 18:43:37,614 - INFO - Sigma increased: 5.335076734323074
+2025-02-20 18:43:43,373 - INFO - Sigma increased: 6.272295664934707
+2025-02-20 18:43:47,801 - WARNING - Force-stopping RK45 for seed 3, error ABS due to timeout.
+2025-02-20 18:43:47,801 - WARNING - Force-stopping RK45 for seed 3, error MSE due to timeout.
+2025-02-20 18:43:47,803 - WARNING - Force-stopping RK45 for seed 3, error SQUARED due to timeout.
+2025-02-20 18:43:47,808 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=6
+2025-02-20 18:43:47,811 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=6
+2025-02-20 18:43:47,813 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=6
+2025-02-20 18:43:47,817 - WARNING - Force-stopping RK45 for seed 4, error ABS due to timeout.
+2025-02-20 18:43:47,820 - WARNING - Force-stopping RK45 for seed 3, error MABS due to timeout.
+2025-02-20 18:43:47,824 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=6
+2025-02-20 18:43:47,833 - WARNING - Force-stopping RK45 for seed 4, error MSE due to timeout.
+2025-02-20 18:43:47,833 - WARNING - Force-stopping RK45 for seed 4, error SQUARED due to timeout.
+2025-02-20 18:43:47,834 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=7
+2025-02-20 18:43:47,834 - WARNING - Force-stopping RK45 for seed 4, error MABS due to timeout.
+2025-02-20 18:43:47,834 - WARNING - Force-stopping RK45 for seed 5, error ABS due to timeout.
+2025-02-20 18:43:47,835 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=7
+2025-02-20 18:43:47,841 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=7
+2025-02-20 18:43:47,845 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=7
+2025-02-20 18:43:47,848 - WARNING - Force-stopping RK45 for seed 5, error SQUARED due to timeout.
+2025-02-20 18:43:47,850 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=8
+2025-02-20 18:43:47,863 - WARNING - Force-stopping RK45 for seed 5, error MABS due to timeout.
+2025-02-20 18:43:47,864 - WARNING - Force-stopping RK45 for seed 5, error MSE due to timeout.
+2025-02-20 18:43:47,869 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=8
+2025-02-20 18:43:47,883 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=8
+2025-02-20 18:43:47,890 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=8
+2025-02-20 18:43:48,160 - WARNING - Timeout reached for RK45 on seed 4, error ABS
+2025-02-20 18:43:48,333 - INFO - Execution finished for RK45, seed 4, error ABS in 1800.34 seconds.
+2025-02-20 18:43:48,787 - WARNING - Timeout reached for RK45 on seed 4, error SQUARED
+2025-02-20 18:43:49,021 - WARNING - Timeout reached for RK45 on seed 3, error SQUARED
+2025-02-20 18:43:49,044 - INFO - Execution finished for RK45, seed 4, error SQUARED in 1800.95 seconds.
+2025-02-20 18:43:49,129 - WARNING - Timeout reached for RK45 on seed 5, error MSE
+2025-02-20 18:43:49,289 - WARNING - Timeout reached for RK45 on seed 4, error MSE
+2025-02-20 18:43:49,322 - INFO - Execution finished for RK45, seed 3, error SQUARED in 1801.22 seconds.
+2025-02-20 18:43:49,356 - INFO - Execution finished for RK45, seed 5, error MSE in 1801.25 seconds.
+2025-02-20 18:43:49,568 - INFO - Execution finished for RK45, seed 4, error MSE in 1801.44 seconds.
+2025-02-20 18:43:49,616 - WARNING - Timeout reached for RK45 on seed 3, error MSE
+2025-02-20 18:43:49,734 - INFO - Execution finished for RK45, seed 3, error MSE in 1801.80 seconds.
+2025-02-20 18:43:50,617 - WARNING - Timeout reached for RK45 on seed 5, error ABS
+2025-02-20 18:43:50,868 - INFO - Execution finished for RK45, seed 5, error ABS in 1802.75 seconds.
+2025-02-20 18:43:51,490 - WARNING - Timeout reached for RK45 on seed 4, error MABS
+2025-02-20 18:43:51,505 - WARNING - Timeout reached for RK45 on seed 5, error SQUARED
+2025-02-20 18:43:51,594 - INFO - Execution finished for RK45, seed 4, error MABS in 1803.62 seconds.
+2025-02-20 18:43:51,628 - INFO - Execution finished for RK45, seed 5, error SQUARED in 1803.64 seconds.
+2025-02-20 18:43:52,143 - WARNING - Timeout reached for RK45 on seed 3, error ABS
+2025-02-20 18:43:52,394 - INFO - Execution finished for RK45, seed 3, error ABS in 1804.32 seconds.
+2025-02-20 18:43:53,423 - WARNING - Timeout reached for RK45 on seed 5, error MABS
+2025-02-20 18:43:53,557 - INFO - Execution finished for RK45, seed 5, error MABS in 1805.54 seconds.
+2025-02-20 18:43:55,337 - WARNING - Timeout reached for RK45 on seed 3, error MABS
+2025-02-20 18:43:55,459 - INFO - Execution finished for RK45, seed 3, error MABS in 1807.53 seconds.
+2025-02-20 18:47:03,489 - INFO - Sigma increased: 5.412698171979901
+2025-02-20 18:50:21,006 - INFO - Sigma increased: 1
+2025-02-20 18:50:23,558 - INFO - Sigma increased: 7.686124033428591
+2025-02-20 18:50:28,636 - INFO - Sigma increased: 1.8014583580675896
+2025-02-20 18:50:33,063 - INFO - Sigma increased: 2.217619215891885
+2025-02-20 18:50:46,892 - INFO - Sigma increased: 1.5127022630184852
+2025-02-20 18:52:13,227 - INFO - Sigma increased: 1.6777068192181577
+2025-02-20 18:52:30,459 - INFO - Sigma increased: 1.6720309883229776
+2025-02-20 18:54:05,166 - INFO - Sigma increased: 1.6966547263867668
+2025-02-20 18:56:29,499 - INFO - Sigma increased: 1.0448549636121205
+2025-02-20 19:01:15,399 - INFO - Sigma increased: 1
+2025-02-20 19:01:17,690 - INFO - Sigma increased: 1
+2025-02-20 19:01:54,631 - INFO - Sigma increased: 2.963992264665822
+2025-02-20 19:03:59,389 - INFO - Sigma increased: 1.9732845653445918
+2025-02-20 19:04:07,688 - INFO - Sigma increased: 1
+2025-02-20 19:04:25,183 - INFO - Sigma increased: 2.6487885518224603
+2025-02-20 19:06:02,450 - INFO - Sigma increased: 3.33588991354059
+2025-02-20 19:06:11,113 - INFO - Sigma increased: 2.362762384273645
+2025-02-20 19:07:23,630 - INFO - Sigma increased: 1
+2025-02-20 19:07:47,667 - INFO - Sigma increased: 4.632274707157423
+2025-02-20 19:07:58,007 - INFO - Sigma increased: 6.15436276727209
+2025-02-20 19:08:03,597 - INFO - Sigma increased: 3.894965846323392
+2025-02-20 19:08:47,803 - INFO - Sigma increased: 5.504202375390509
+2025-02-20 19:09:19,594 - INFO - Sigma increased: 1.8230525101184605
+2025-02-20 19:10:26,965 - INFO - Sigma increased: 7.454347902862393
+2025-02-20 19:10:37,732 - INFO - Sigma increased: 7.950418439266437
+2025-02-20 19:11:47,401 - INFO - Sigma increased: 1
+2025-02-20 19:12:09,332 - INFO - Sigma increased: 8.848668005628372
+2025-02-20 19:13:05,187 - INFO - Sigma increased: 5.03047179075394
+2025-02-20 19:13:05,733 - INFO - Sigma increased: 5.7156087882891455
+2025-02-20 19:13:47,821 - WARNING - Force-stopping RK45 for seed 6, error SQUARED due to timeout.
+2025-02-20 19:13:47,821 - WARNING - Force-stopping RK45 for seed 6, error MSE due to timeout.
+2025-02-20 19:13:47,823 - WARNING - Force-stopping RK45 for seed 6, error ABS due to timeout.
+2025-02-20 19:13:47,825 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=9
+2025-02-20 19:13:47,827 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=9
+2025-02-20 19:13:47,830 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=9
+2025-02-20 19:13:47,837 - WARNING - Force-stopping RK45 for seed 6, error MABS due to timeout.
+2025-02-20 19:13:47,839 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=9
+2025-02-20 19:13:47,840 - WARNING - Force-stopping RK45 for seed 7, error SQUARED due to timeout.
+2025-02-20 19:13:47,840 - WARNING - Force-stopping RK45 for seed 7, error ABS due to timeout.
+2025-02-20 19:13:47,853 - WARNING - Force-stopping RK45 for seed 7, error MABS due to timeout.
+2025-02-20 19:13:47,855 - WARNING - Force-stopping RK45 for seed 7, error MSE due to timeout.
+2025-02-20 19:13:47,856 - WARNING - Force-stopping RK45 for seed 8, error ABS due to timeout.
+2025-02-20 19:13:47,877 - WARNING - Timeout reached for RK45 on seed 6, error ABS
+2025-02-20 19:13:47,885 - WARNING - Force-stopping RK45 for seed 8, error SQUARED due to timeout.
+2025-02-20 19:13:47,900 - WARNING - Force-stopping RK45 for seed 8, error MSE due to timeout.
+2025-02-20 19:13:47,902 - WARNING - Force-stopping RK45 for seed 8, error MABS due to timeout.
+2025-02-20 19:13:48,048 - INFO - Execution finished for RK45, seed 6, error ABS in 1800.06 seconds.
+2025-02-20 19:13:48,068 - WARNING - Timeout reached for RK45 on seed 8, error SQUARED
+2025-02-20 19:13:48,268 - INFO - Execution finished for RK45, seed 8, error SQUARED in 1800.18 seconds.
+2025-02-20 19:13:48,878 - WARNING - Timeout reached for RK45 on seed 7, error MABS
+2025-02-20 19:13:49,018 - INFO - Execution finished for RK45, seed 7, error MABS in 1801.01 seconds.
+2025-02-20 19:13:49,134 - WARNING - Timeout reached for RK45 on seed 6, error MABS
+2025-02-20 19:13:49,386 - INFO - Execution finished for RK45, seed 6, error MABS in 1801.30 seconds.
+2025-02-20 19:13:50,018 - WARNING - Timeout reached for RK45 on seed 8, error MSE
+2025-02-20 19:13:50,234 - WARNING - Timeout reached for RK45 on seed 8, error MABS
+2025-02-20 19:13:50,244 - INFO - Execution finished for RK45, seed 8, error MSE in 1802.11 seconds.
+2025-02-20 19:13:50,392 - INFO - Execution finished for RK45, seed 8, error MABS in 1802.34 seconds.
+2025-02-20 19:13:50,515 - WARNING - Timeout reached for RK45 on seed 6, error SQUARED
+2025-02-20 19:13:50,605 - INFO - Execution finished for RK45, seed 6, error SQUARED in 1802.70 seconds.
+2025-02-20 19:13:50,755 - WARNING - Timeout reached for RK45 on seed 6, error MSE
+2025-02-20 19:13:51,210 - INFO - Execution finished for RK45, seed 6, error MSE in 1802.93 seconds.
+2025-02-20 19:13:51,463 - WARNING - Timeout reached for RK45 on seed 7, error MSE
+2025-02-20 19:13:51,653 - WARNING - Timeout reached for RK45 on seed 8, error ABS
+2025-02-20 19:13:51,890 - INFO - Execution finished for RK45, seed 8, error ABS in 1803.77 seconds.
+2025-02-20 19:13:51,976 - INFO - Execution finished for RK45, seed 7, error MSE in 1803.60 seconds.
+2025-02-20 19:13:53,717 - WARNING - Timeout reached for RK45 on seed 7, error ABS
+2025-02-20 19:13:53,754 - INFO - Execution finished for RK45, seed 7, error ABS in 1805.87 seconds.
+2025-02-20 19:13:55,216 - WARNING - Timeout reached for RK45 on seed 7, error SQUARED
+2025-02-20 19:13:55,248 - INFO - Execution finished for RK45, seed 7, error SQUARED in 1807.36 seconds.
+2025-02-20 19:15:55,811 - INFO - Sigma increased: 6.940443440342059
+2025-02-20 19:18:38,012 - INFO - Sigma increased: 1
+2025-02-20 19:19:02,138 - INFO - Sigma increased: 1
+2025-02-20 19:19:04,990 - INFO - Sigma increased: 1
+2025-02-20 19:19:18,230 - INFO - Sigma increased: 3.167504404572697
+2025-02-20 19:19:28,378 - INFO - Sigma increased: 1.595832012781146
+2025-02-20 19:19:46,242 - INFO - Sigma increased: 3.372793417517051
+2025-02-20 19:20:10,900 - INFO - Sigma increased: 3.307210590882802
+2025-02-20 19:21:04,636 - INFO - Sigma increased: 4.125531857041065
+2025-02-20 19:21:05,820 - INFO - Sigma increased: 3.519366963112631
+2025-02-20 19:21:52,456 - INFO - Sigma increased: 4.214233043211372
+2025-02-20 19:22:10,442 - INFO - Sigma increased: 3.362751019931536
+2025-02-20 19:22:42,993 - INFO - Sigma increased: 6.666516635724484
+2025-02-20 19:23:10,187 - INFO - Sigma increased: 4.465958073901054
+2025-02-20 19:24:04,885 - INFO - Sigma increased: 5.016498338594671
+2025-02-20 19:24:10,645 - INFO - Sigma increased: 7.885027839768676
+2025-02-20 19:24:57,010 - INFO - Sigma increased: 5.299994053464046
+2025-02-20 19:25:13,237 - INFO - Sigma increased: 1
+2025-02-20 19:25:29,609 - INFO - Sigma increased: 7.143237003909455
+2025-02-20 19:26:02,560 - INFO - Sigma increased: 5.113126355957616
+2025-02-20 19:26:02,887 - INFO - Sigma increased: 4.173862917047007
+2025-02-20 19:26:51,156 - INFO - Sigma increased: 6.406494974858363
+2025-02-20 19:26:58,882 - INFO - Sigma increased: 5.389039937780598
+2025-02-20 19:27:09,270 - INFO - Sigma increased: 1
+2025-02-20 19:27:23,580 - INFO - Sigma increased: 5.881715415038633
+2025-02-20 19:27:46,051 - INFO - Sigma increased: 7.17452904850485
+2025-02-20 19:28:23,391 - INFO - Sigma increased: 5.639150092794537
+2025-02-20 19:28:32,641 - INFO - Sigma increased: 8.038067742238878
+2025-02-20 19:28:41,083 - INFO - Sigma increased: 8.03357647555196
+2025-02-20 19:29:24,181 - INFO - Sigma increased: 8.975551718505475
+2025-02-20 19:29:29,532 - INFO - Sigma increased: 6.953039129137116
+2025-02-20 19:29:44,138 - INFO - Sigma increased: 6.825007582396302
+2025-02-20 19:30:19,935 - INFO - Sigma increased: 6.961824022597836
+2025-02-20 19:31:07,330 - INFO - Sigma increased: 8.484397822258105
+2025-02-20 19:31:21,590 - INFO - Sigma increased: 5.500753480451124
+2025-02-20 19:31:56,743 - INFO - Sigma increased: 10.750128089195742
+2025-02-20 19:32:48,565 - INFO - Sigma increased: 8.852769337524498
+2025-02-20 19:33:00,002 - INFO - Sigma increased: 9.114179373523339
+2025-02-20 19:33:35,787 - INFO - Sigma increased: 8.72752949048852
+2025-02-20 19:34:28,323 - INFO - Sigma increased: 11.385486714180132
+2025-02-20 19:34:46,798 - INFO - Sigma increased: 10.30419599796138
+2025-02-20 19:35:06,183 - INFO - Sigma increased: 1
+2025-02-20 19:35:33,014 - INFO - Sigma increased: 11.475919637746223
+2025-02-20 19:36:14,619 - INFO - Sigma increased: 8.316860426420408
+2025-02-20 19:36:20,493 - INFO - Sigma increased: 15
+2025-02-20 19:36:35,105 - INFO - Sigma increased: 1
+2025-02-20 19:37:02,308 - INFO - Sigma increased: 1.1509778654920975
+2025-02-20 19:37:11,168 - INFO - Sigma increased: 15
+2025-02-20 19:37:18,017 - INFO - Sigma increased: 13.538025083183937
+2025-02-20 19:37:30,494 - INFO - Sigma increased: 1.88767872839954
+2025-02-20 19:37:49,568 - INFO - Sigma increased: 15
+2025-02-20 19:38:25,754 - INFO - Sigma increased: 15
+2025-02-20 19:38:36,648 - INFO - Sigma increased: 11.660659193104737
+2025-02-20 19:38:41,165 - INFO - Sigma increased: 1
+2025-02-20 19:39:15,554 - INFO - Sigma increased: 15
+2025-02-20 19:39:52,200 - INFO - Sigma increased: 1
+2025-02-20 19:40:10,977 - INFO - Sigma increased: 9.316876535894288
+2025-02-20 19:40:20,747 - INFO - Sigma increased: 1.7833771220838843
+2025-02-20 19:41:35,499 - INFO - Sigma increased: 1
+2025-02-20 19:41:40,044 - INFO - Sigma increased: 15
+2025-02-20 19:41:40,594 - INFO - Sigma increased: 15
+2025-02-20 19:42:04,856 - INFO - Sigma increased: 1.3854617657248434
+2025-02-20 19:42:40,146 - INFO - Sigma increased: 14.560815679628888
+2025-02-20 19:43:08,760 - INFO - Sigma increased: 15
+2025-02-20 19:43:18,374 - INFO - Sigma increased: 1
+2025-02-20 19:43:47,838 - WARNING - Force-stopping RK45 for seed 9, error ABS due to timeout.
+2025-02-20 19:43:47,838 - WARNING - Force-stopping RK45 for seed 9, error SQUARED due to timeout.
+2025-02-20 19:43:47,839 - WARNING - Force-stopping RK45 for seed 9, error MSE due to timeout.
+2025-02-20 19:43:47,853 - WARNING - Force-stopping RK45 for seed 9, error MABS due to timeout.
+2025-02-20 19:43:47,972 - WARNING - Timeout reached for RK45 on seed 9, error MSE
+2025-02-20 19:43:47,989 - WARNING - Timeout reached for RK45 on seed 9, error ABS
+2025-02-20 19:43:48,043 - WARNING - Timeout reached for RK45 on seed 9, error SQUARED
+2025-02-20 19:43:48,062 - INFO - Execution finished for RK45, seed 9, error ABS in 1800.13 seconds.
+2025-02-20 19:43:48,076 - INFO - Execution finished for RK45, seed 9, error SQUARED in 1800.21 seconds.
+2025-02-20 19:43:48,092 - INFO - Execution finished for RK45, seed 9, error MSE in 1800.12 seconds.
+2025-02-20 19:43:48,204 - WARNING - Timeout reached for RK45 on seed 9, error MABS
+2025-02-20 19:43:48,212 - INFO - Execution finished for RK45, seed 9, error MABS in 1800.35 seconds.
+2025-02-20 20:32:20,731 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=0
+2025-02-20 20:32:20,733 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=0
+2025-02-20 20:32:20,733 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=0
+2025-02-20 20:32:20,733 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=0
+2025-02-20 20:32:20,745 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=1
+2025-02-20 20:32:20,749 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=1
+2025-02-20 20:32:20,756 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=1
+2025-02-20 20:32:20,759 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=2
+2025-02-20 20:32:20,760 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=1
+2025-02-20 20:32:20,763 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=2
+2025-02-20 20:32:20,763 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=2
+2025-02-20 20:32:20,763 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=2
+2025-02-20 20:39:03,388 - INFO - Sigma increased: 1.1187723869570243
+2025-02-20 20:39:08,995 - INFO - Sigma increased: 1
+2025-02-20 20:39:18,926 - INFO - Sigma increased: 1
+2025-02-20 20:41:00,741 - INFO - Sigma increased: 3.1678842254683475
+2025-02-20 20:41:29,389 - INFO - Sigma increased: 2.172788955490839
+2025-02-20 20:41:56,992 - INFO - Sigma increased: 3.096118841133592
+2025-02-20 20:42:57,514 - INFO - Sigma increased: 1.0129602932219963
+2025-02-20 20:43:07,484 - INFO - Sigma increased: 1
+2025-02-20 20:43:08,051 - INFO - Sigma increased: 3.568196511411026
+2025-02-20 20:43:47,750 - INFO - Sigma increased: 1
+2025-02-20 20:44:50,914 - INFO - Sigma increased: 2.2112556680464297
+2025-02-20 20:45:14,822 - INFO - Sigma increased: 6.407220625596564
+2025-02-20 20:45:31,611 - INFO - Sigma increased: 2.1201467470513853
+2025-02-20 20:45:31,878 - INFO - Sigma increased: 5.313540540053815
+2025-02-20 20:46:26,898 - INFO - Sigma increased: 2.160045301881591
+2025-02-20 20:48:06,177 - INFO - Sigma increased: 2.6607676495440384
+2025-02-20 20:48:16,465 - INFO - Sigma increased: 1
+2025-02-20 20:48:33,030 - INFO - Sigma increased: 3.0203910801644196
+2025-02-20 20:49:05,215 - INFO - Sigma increased: 1
+2025-02-20 20:49:39,970 - INFO - Sigma increased: 6.385643897428228
+2025-02-20 20:49:56,798 - INFO - Sigma increased: 2.4845123269653953
+2025-02-20 20:50:35,215 - INFO - Sigma increased: 3.5001182391464996
+2025-02-20 20:50:35,879 - INFO - Sigma increased: 1
+2025-02-20 20:50:47,409 - INFO - Sigma increased: 1
+2025-02-20 20:51:06,373 - INFO - Sigma increased: 5.2421271253478015
+2025-02-20 20:51:10,529 - INFO - Sigma increased: 4.61763116878543
+2025-02-20 20:51:19,532 - INFO - Sigma increased: 2.464227044714859
+2025-02-20 20:52:02,105 - INFO - Sigma increased: 5.51308553319685
+2025-02-20 20:52:54,461 - INFO - Sigma increased: 1
+2025-02-20 20:53:13,723 - INFO - Sigma increased: 4.7982430379395575
+2025-02-20 20:53:23,789 - INFO - Sigma increased: 3.4358243429675674
+2025-02-20 20:53:33,297 - INFO - Sigma increased: 4.528543663877587
+2025-02-20 20:53:39,676 - INFO - Sigma increased: 3.9003054728054916
+2025-02-20 20:54:08,080 - INFO - Sigma increased: 4.034434120102951
+2025-02-20 20:55:06,524 - INFO - Sigma increased: 5.299283484939079
+2025-02-20 20:55:17,560 - INFO - Sigma increased: 6.041809882078326
+2025-02-20 20:56:12,252 - INFO - Sigma increased: 1.6744336127536876
+2025-02-20 20:56:13,906 - INFO - Sigma increased: 4.7386590023593795
+2025-02-20 20:56:24,117 - INFO - Sigma increased: 4.482764617651791
+2025-02-20 20:56:42,628 - INFO - Sigma increased: 4.6633463926240095
+2025-02-20 20:58:02,348 - INFO - Sigma increased: 6.019673814916341
+2025-02-20 20:58:50,209 - INFO - Sigma increased: 3.1242484244019697
+2025-02-20 20:59:30,989 - INFO - Sigma increased: 7.902419334116204
+2025-02-20 20:59:31,390 - INFO - Sigma increased: 1
+2025-02-20 20:59:47,320 - INFO - Sigma increased: 6.251198784446358
+2025-02-20 20:59:50,656 - INFO - Sigma increased: 14.912510493807293
+2025-02-20 21:00:15,887 - INFO - Sigma increased: 1
+2025-02-20 21:01:04,953 - INFO - Sigma increased: 6.690290040862897
+2025-02-20 21:01:38,041 - INFO - Sigma increased: 4.805903312111511
+2025-02-20 21:02:03,870 - INFO - Sigma increased: 5.607369040057733
+2025-02-20 21:02:30,103 - INFO - Sigma increased: 5.086382063119928
+2025-02-20 21:03:00,550 - INFO - Sigma increased: 1
+2025-02-20 21:03:02,036 - INFO - Sigma increased: 2.7970358725079296
+2025-02-20 21:03:52,066 - INFO - Sigma increased: 6.429350740660792
+2025-02-20 21:03:59,017 - INFO - Sigma increased: 6.452712148944143
+2025-02-20 21:04:31,704 - INFO - Sigma increased: 4.330588198854503
+2025-02-20 21:05:30,632 - INFO - Sigma increased: 4.5661066048112975
+2025-02-20 21:05:31,278 - INFO - Sigma increased: 12.110662240113347
+2025-02-20 21:05:55,704 - INFO - Sigma increased: 8.331518079303443
+2025-02-20 21:06:04,989 - INFO - Sigma increased: 1
+2025-02-20 21:06:43,799 - INFO - Sigma increased: 4.57673203441561
+2025-02-20 21:07:03,518 - INFO - Sigma increased: 7.533045605349676
+2025-02-20 21:07:15,485 - INFO - Sigma increased: 1
+2025-02-20 21:07:28,531 - INFO - Sigma increased: 6.799602446594649
+2025-02-20 21:08:26,902 - INFO - Sigma increased: 1
+2025-02-20 21:09:08,258 - INFO - Sigma increased: 1.7484291041145337
+2025-02-20 21:09:10,553 - INFO - Sigma increased: 7.0746883702203025
+2025-02-20 21:09:47,086 - INFO - Sigma increased: 4.395905334902163
+2025-02-20 21:09:48,523 - INFO - Sigma increased: 6.197275477595976
+2025-02-20 21:10:39,394 - INFO - Sigma increased: 4.452253566328458
+2025-02-20 21:10:45,682 - INFO - Sigma increased: 1
+2025-02-20 21:10:49,835 - INFO - Sigma increased: 1
+2025-02-20 21:10:54,162 - INFO - Sigma increased: 4.435602177530149
+2025-02-20 21:11:06,990 - INFO - Sigma increased: 1
+2025-02-20 21:12:06,461 - INFO - Sigma increased: 5.672750957880581
+2025-02-20 21:12:13,296 - INFO - Sigma increased: 2.185101675023862
+2025-02-20 21:12:14,882 - INFO - Sigma increased: 1
+2025-02-20 21:12:59,216 - INFO - Sigma increased: 5.249713646310724
+2025-02-20 21:13:24,436 - INFO - Sigma increased: 6.910567805204039
+2025-02-20 21:13:24,883 - INFO - Sigma increased: 9.004779792949197
+2025-02-20 21:13:27,272 - INFO - Sigma increased: 4.852746189663693
+2025-02-20 21:13:46,309 - INFO - Sigma increased: 9.210998315710219
+2025-02-20 21:14:40,912 - INFO - Sigma increased: 7.882398174382711
+2025-02-20 21:15:13,195 - INFO - Sigma increased: 6.5083365289138415
+2025-02-20 21:15:16,769 - INFO - Sigma increased: 1
+2025-02-20 21:15:52,565 - INFO - Sigma increased: 7.097142841418397
+2025-02-20 21:16:07,523 - INFO - Sigma increased: 15
+2025-02-20 21:16:50,411 - INFO - Sigma increased: 7.418611374022657
+2025-02-20 21:16:55,294 - INFO - Sigma increased: 15
+2025-02-20 21:17:05,250 - INFO - Sigma increased: 6.842746746693216
+2025-02-20 21:17:07,019 - INFO - Sigma increased: 9.127228476679303
+2025-02-20 21:18:20,466 - INFO - Sigma increased: 9.176587735781755
+2025-02-20 21:18:37,254 - INFO - Sigma increased: 9.634660013444801
+2025-02-20 21:18:57,732 - INFO - Sigma increased: 1
+2025-02-20 21:19:39,133 - INFO - Sigma increased: 4.451334838391353
+2025-02-20 21:19:42,584 - INFO - Sigma increased: 6.505026963435974
+2025-02-20 21:20:09,003 - INFO - Sigma increased: 15
+2025-02-20 21:20:21,425 - INFO - Sigma increased: 1.7419040650222752
+2025-02-20 21:21:34,875 - INFO - Sigma increased: 10.017105361962049
+2025-02-20 21:21:55,147 - INFO - Sigma increased: 1
+2025-02-20 21:21:58,440 - INFO - Sigma increased: 8.038911442997685
+2025-02-20 21:22:43,186 - INFO - Sigma increased: 4.236411491088925
+2025-02-20 21:22:57,056 - INFO - Sigma increased: 15
+2025-02-20 21:23:12,810 - INFO - Sigma increased: 15
+2025-02-20 21:23:41,062 - INFO - Sigma increased: 13.382628627190156
+2025-02-20 21:23:59,648 - INFO - Sigma increased: 12.66773937418156
+2025-02-20 21:24:00,055 - INFO - Sigma increased: 3.608737542556169
+2025-02-20 21:24:27,705 - INFO - Sigma increased: 11.686141695961858
+2025-02-20 21:25:16,298 - INFO - Sigma increased: 7.178785738540493
+2025-02-20 21:25:49,093 - INFO - Sigma increased: 7.7166949654770995
+2025-02-20 21:26:20,136 - INFO - Sigma increased: 13.489593990877278
+2025-02-20 21:26:38,078 - INFO - Sigma increased: 15
+2025-02-20 21:27:16,193 - INFO - Sigma increased: 6.061566772671155
+2025-02-20 21:28:52,290 - INFO - Sigma increased: 8.184531087091994
+2025-02-20 21:28:56,360 - INFO - Sigma increased: 1
+2025-02-20 21:29:07,009 - INFO - Sigma increased: 10.998941419393445
+2025-02-20 21:29:12,911 - INFO - Sigma increased: 4.783041695787627
+2025-02-20 21:29:33,378 - INFO - Sigma increased: 8.196770793993608
+2025-02-20 21:29:50,415 - INFO - Sigma increased: 15
+2025-02-20 21:30:23,331 - INFO - Sigma increased: 1.4781960400394958
+2025-02-20 21:30:25,688 - INFO - Sigma increased: 12.808216099434354
+2025-02-20 21:30:58,234 - INFO - Sigma increased: 1
+2025-02-20 21:30:59,366 - INFO - Sigma increased: 5.876479841238416
+2025-02-20 21:31:36,488 - INFO - Sigma increased: 15
+2025-02-20 21:32:10,972 - INFO - Sigma increased: 15
+2025-02-20 21:32:37,758 - INFO - Sigma increased: 7.570130624041992
+2025-02-20 21:33:13,273 - INFO - Sigma increased: 9.500141914549586
+2025-02-20 21:33:26,055 - INFO - Sigma increased: 13.109050489884321
+2025-02-20 21:34:40,303 - INFO - Sigma increased: 10.637303717603086
+2025-02-20 21:34:40,787 - INFO - Sigma increased: 15
+2025-02-20 21:34:49,187 - INFO - Sigma increased: 8.104896372434236
+2025-02-20 21:36:21,309 - INFO - Sigma increased: 13.77058930308294
+2025-02-20 21:36:21,519 - INFO - Sigma increased: 1
+2025-02-20 21:36:40,236 - INFO - Sigma increased: 1
+2025-02-20 21:36:48,742 - INFO - Sigma increased: 8.15905889469407
+2025-02-20 21:37:44,833 - INFO - Sigma increased: 11.35542071819174
+2025-02-20 21:38:18,731 - INFO - Sigma increased: 15
+2025-02-20 21:38:27,403 - INFO - Sigma increased: 1
+2025-02-20 21:39:35,389 - INFO - Sigma increased: 13.205706825229608
+2025-02-20 21:41:20,744 - INFO - Sigma increased: 15
+2025-02-20 21:41:41,053 - INFO - Sigma increased: 11.150739394902478
+2025-02-20 21:41:41,398 - INFO - Sigma increased: 10.371127204120036
+2025-02-20 21:41:58,282 - INFO - Sigma increased: 1
+2025-02-20 21:42:36,326 - INFO - Sigma increased: 1
+2025-02-20 21:43:11,715 - INFO - Sigma increased: 14.808829868488342
+2025-02-20 21:44:20,738 - INFO - Sigma increased: 6.904711670795707
+2025-02-20 21:44:45,624 - INFO - Sigma increased: 1
+2025-02-20 21:44:49,530 - INFO - Sigma increased: 15
+2025-02-20 21:44:53,321 - INFO - Sigma increased: 1
+2025-02-20 21:45:04,913 - INFO - Sigma increased: 11.878359331433659
+2025-02-20 21:45:25,818 - INFO - Sigma increased: 1
+2025-02-20 21:46:32,918 - INFO - Sigma increased: 13.701596443017161
+2025-02-20 21:46:54,026 - INFO - Sigma increased: 1.1074762785723429
+2025-02-20 21:47:26,286 - INFO - Sigma increased: 15
+2025-02-20 21:47:47,193 - INFO - Sigma increased: 13.769129250965939
+2025-02-20 21:48:14,243 - INFO - Sigma increased: 1
+2025-02-20 21:48:15,999 - INFO - Sigma increased: 1
+2025-02-20 21:48:16,366 - INFO - Sigma increased: 5.513034684349526
+2025-02-20 21:48:19,493 - INFO - Sigma increased: 1.5724567262782685
+2025-02-20 21:49:40,931 - INFO - Sigma increased: 1
+2025-02-20 21:49:46,137 - INFO - Sigma increased: 1.2719557471220597
+2025-02-20 21:49:58,533 - INFO - Sigma increased: 15
+2025-02-20 21:50:46,563 - INFO - Sigma increased: 15
+2025-02-20 21:51:12,578 - INFO - Sigma increased: 2.6271580951794404
+2025-02-20 21:51:51,281 - INFO - Sigma increased: 5.009996772734421
+2025-02-20 21:52:50,365 - INFO - Sigma increased: 5.667444931419533
+2025-02-20 21:52:54,553 - INFO - Sigma increased: 1
+2025-02-20 21:53:09,852 - INFO - Sigma increased: 15
+2025-02-20 21:53:37,777 - INFO - Sigma increased: 15
+2025-02-20 21:54:40,172 - INFO - Sigma increased: 1
+2025-02-20 21:55:43,562 - INFO - Sigma increased: 15
+2025-02-20 21:57:50,656 - INFO - Sigma increased: 1
+2025-02-20 21:58:14,245 - INFO - Sigma increased: 14.57523978634622
+2025-02-20 21:58:34,575 - INFO - Sigma increased: 1
+2025-02-20 21:58:37,186 - INFO - Sigma increased: 15
+2025-02-20 21:59:08,540 - INFO - Sigma increased: 1
+2025-02-20 21:59:22,144 - INFO - Sigma increased: 1.473811465771782
+2025-02-20 21:59:32,436 - INFO - Sigma increased: 1
+2025-02-20 22:00:35,370 - INFO - Sigma increased: 15
+2025-02-20 22:00:59,626 - INFO - Sigma increased: 1.605339342373437
+2025-02-20 22:02:02,886 - INFO - Sigma increased: 1
+2025-02-20 22:02:05,512 - INFO - Sigma increased: 14.21844044558747
+2025-02-20 22:02:37,517 - INFO - Sigma increased: 2.0694058748268147
+2025-02-20 22:03:17,440 - INFO - Sigma increased: 1.5975047087390273
+2025-02-20 22:04:13,841 - INFO - Sigma increased: 1
+2025-02-20 22:06:07,177 - INFO - Sigma increased: 15
+2025-02-20 22:07:32,533 - INFO - Sigma increased: 15
+2025-02-20 22:07:40,559 - INFO - Sigma increased: 1
+2025-02-20 22:10:20,974 - INFO - Sigma increased: 15
+2025-02-20 22:11:55,567 - INFO - Sigma increased: 3.395906009804518
+2025-02-20 22:12:16,385 - INFO - Sigma increased: 15
+2025-02-20 22:14:14,085 - INFO - Sigma increased: 15
+2025-02-20 22:14:17,797 - INFO - Sigma increased: 1
+2025-02-20 22:14:55,377 - INFO - Sigma increased: 1
+2025-02-20 22:16:13,335 - INFO - Sigma increased: 1
+2025-02-20 22:16:42,654 - INFO - Sigma increased: 1.5489666781917037
+2025-02-20 22:16:43,372 - INFO - Sigma increased: 15
+2025-02-20 22:17:53,148 - INFO - Sigma increased: 11.033345653697687
+2025-02-20 22:18:34,718 - INFO - Sigma increased: 15
+2025-02-20 22:18:48,621 - INFO - Sigma increased: 1
+2025-02-20 22:19:04,475 - INFO - Sigma increased: 1.9426561909867726
+2025-02-20 22:19:20,173 - INFO - Sigma increased: 3.0232402851212417
+2025-02-20 22:20:21,383 - INFO - Sigma increased: 15
+2025-02-20 22:20:26,426 - INFO - Sigma increased: 1
+2025-02-20 22:20:46,636 - INFO - Sigma increased: 15
+2025-02-20 22:22:02,591 - INFO - Sigma increased: 15
+2025-02-20 22:22:29,925 - INFO - Sigma increased: 1
+2025-02-20 22:23:38,718 - INFO - Sigma increased: 9.31990578679469
+2025-02-20 22:23:43,536 - INFO - Sigma increased: 15
+2025-02-20 22:25:05,622 - INFO - Sigma increased: 3.0426655123394273
+2025-02-20 22:25:10,602 - INFO - Sigma increased: 10.242872470903432
+2025-02-20 22:26:25,931 - INFO - Sigma increased: 15
+2025-02-20 22:26:46,063 - INFO - Sigma increased: 9.900484466462542
+2025-02-20 22:28:21,724 - INFO - Sigma increased: 10.903757128301985
+2025-02-20 22:28:33,927 - INFO - Sigma increased: 1
+2025-02-20 22:28:57,653 - INFO - Sigma increased: 4.043501735585023
+2025-02-20 22:29:16,127 - INFO - Sigma increased: 15
+2025-02-20 22:29:58,911 - INFO - Sigma increased: 11.31778619593389
+2025-02-20 22:30:15,407 - INFO - Sigma increased: 1
+2025-02-20 22:31:37,038 - INFO - Sigma increased: 15
+2025-02-20 22:32:22,385 - INFO - Sigma increased: 15
+2025-02-20 22:33:22,816 - INFO - Sigma increased: 15
+2025-02-20 22:33:57,205 - INFO - Sigma increased: 1
+2025-02-20 22:34:53,480 - INFO - Sigma increased: 2.2954613625885396
+2025-02-20 22:35:16,472 - INFO - Sigma increased: 15
+2025-02-20 22:35:17,682 - INFO - Sigma increased: 14.89855134209918
+2025-02-20 22:36:24,154 - INFO - Sigma increased: 1
+2025-02-20 22:37:43,620 - INFO - Sigma increased: 15
+2025-02-20 22:38:23,639 - INFO - Sigma increased: 1
+2025-02-20 22:39:47,455 - INFO - Sigma increased: 15
+2025-02-20 22:41:03,034 - INFO - Sigma increased: 1.0107539845269817
+2025-02-20 22:41:42,833 - INFO - Sigma increased: 15
+2025-02-20 22:43:21,643 - INFO - Sigma increased: 1
+2025-02-20 22:45:57,602 - INFO - Sigma increased: 1.1368336521304323
+2025-02-20 22:47:22,280 - INFO - Sigma increased: 1
+2025-02-20 22:47:47,347 - INFO - Sigma increased: 15
+2025-02-20 22:48:35,384 - INFO - Sigma increased: 1
+2025-02-20 22:48:56,592 - INFO - Sigma increased: 1
+2025-02-20 22:50:35,107 - INFO - Sigma increased: 15
+2025-02-20 22:51:14,939 - INFO - Sigma increased: 1
+2025-02-20 22:52:14,333 - INFO - Sigma increased: 1
+2025-02-20 22:53:20,945 - INFO - Sigma increased: 1.6588534153269652
+2025-02-20 22:54:58,509 - INFO - Sigma increased: 15
+2025-02-20 22:55:10,761 - INFO - Sigma increased: 1
+2025-02-20 22:55:23,245 - INFO - Sigma increased: 3.1439229999862315
+2025-02-20 22:55:25,833 - INFO - Sigma increased: 2.0167321609055207
+2025-02-20 22:55:53,365 - INFO - Sigma increased: 1
+2025-02-20 22:56:59,764 - INFO - Sigma increased: 2.2754854509776137
+2025-02-20 22:57:32,247 - INFO - Sigma increased: 1.6765310977479655
+2025-02-20 22:58:02,745 - INFO - Sigma increased: 1
+2025-02-20 22:58:51,284 - INFO - Sigma increased: 15
+2025-02-20 22:59:40,011 - INFO - Sigma increased: 1.0797158169812016
+2025-02-20 23:01:27,946 - INFO - Sigma increased: 3.5834419892810536
+2025-02-20 23:01:48,310 - INFO - Sigma increased: 1.0380560512351165
+2025-02-20 23:02:49,227 - INFO - Sigma increased: 15
+2025-02-20 23:02:57,113 - INFO - Sigma increased: 1
+2025-02-20 23:03:59,227 - INFO - Sigma increased: 1.0746090783946283
+2025-02-20 23:04:01,341 - INFO - Sigma increased: 1
+2025-02-20 23:04:07,102 - INFO - Sigma increased: 1.259967001280259
+2025-02-20 23:06:10,347 - INFO - Sigma increased: 1.1174951961989674
+2025-02-20 23:06:15,621 - INFO - Sigma increased: 15
+2025-02-20 23:07:24,444 - INFO - Execution finished for RK45, seed 0, error SQUARED in 9303.60 seconds.
+2025-02-20 23:07:24,446 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=3
+2025-02-20 23:08:06,104 - INFO - Sigma increased: 1.1974726956208288
+2025-02-20 23:08:20,681 - INFO - Sigma increased: 2.8992624162398557
+2025-02-20 23:09:07,919 - INFO - Sigma increased: 1.2623098833329536
+2025-02-20 23:09:17,278 - INFO - Sigma increased: 15
+2025-02-20 23:12:17,808 - INFO - Sigma increased: 1.038176909998043
+2025-02-20 23:12:18,364 - INFO - Sigma increased: 1.2201407428221798
+2025-02-20 23:12:27,865 - INFO - Sigma increased: 15
+2025-02-20 23:13:21,347 - INFO - Sigma increased: 1
+2025-02-20 23:14:49,915 - INFO - Sigma increased: 1
+2025-02-20 23:15:22,803 - INFO - Sigma increased: 2.92613154531997
+2025-02-20 23:15:45,318 - INFO - Sigma increased: 15
+2025-02-20 23:16:17,478 - INFO - Sigma increased: 1
+2025-02-20 23:18:11,767 - INFO - Sigma increased: 1
+2025-02-20 23:18:37,198 - INFO - Sigma increased: 1
+2025-02-20 23:18:51,198 - INFO - Sigma increased: 1.770312439629126
+2025-02-20 23:20:18,124 - INFO - Sigma increased: 1
+2025-02-20 23:20:18,766 - INFO - Sigma increased: 15
+2025-02-20 23:22:34,945 - INFO - Sigma increased: 10.897105278078758
+2025-02-20 23:23:23,929 - INFO - Sigma increased: 1.8536528794619989
+2025-02-20 23:23:28,561 - INFO - Sigma increased: 2.767355334628936
+2025-02-20 23:24:21,200 - INFO - Sigma increased: 1
+2025-02-20 23:24:49,810 - INFO - Sigma increased: 15
+2025-02-20 23:25:13,389 - INFO - Sigma increased: 1
+2025-02-20 23:25:32,004 - INFO - Sigma increased: 2.7225929495450747
+2025-02-20 23:26:35,539 - INFO - Sigma increased: 1.5849057356163097
+2025-02-20 23:26:40,834 - INFO - Sigma increased: 1
+2025-02-20 23:28:38,264 - INFO - Sigma increased: 2.1854585137849183
+2025-02-20 23:29:23,783 - INFO - Sigma increased: 13.847299421710526
+2025-02-20 23:29:36,822 - INFO - Sigma increased: 1
+2025-02-20 23:30:49,333 - INFO - Sigma increased: 15
+2025-02-20 23:31:28,176 - INFO - Sigma increased: 15
+2025-02-20 23:32:45,691 - INFO - Sigma increased: 11.069177108664663
+2025-02-20 23:33:45,096 - INFO - Sigma increased: 1.2691825218795392
+2025-02-20 23:33:54,256 - INFO - Sigma increased: 2.8354038672427766
+2025-02-20 23:34:30,525 - INFO - Sigma increased: 1.9661765938482756
+2025-02-20 23:36:02,872 - INFO - Sigma increased: 15
+2025-02-20 23:37:00,804 - INFO - Sigma increased: 15
+2025-02-20 23:37:02,842 - INFO - Sigma increased: 15
+2025-02-20 23:39:05,338 - INFO - Sigma increased: 5.192810484540454
+2025-02-20 23:39:13,716 - INFO - Sigma increased: 1.2153366878779144
+2025-02-20 23:41:33,175 - INFO - Sigma increased: 15
+2025-02-20 23:41:55,988 - INFO - Sigma increased: 1
+2025-02-20 23:42:07,789 - INFO - Sigma increased: 15
+2025-02-20 23:42:56,235 - INFO - Sigma increased: 13.477826710665234
+2025-02-20 23:43:00,966 - INFO - Sigma increased: 3.3292038983919108
+2025-02-20 23:43:43,960 - INFO - Sigma increased: 1.4017052080723214
+2025-02-20 23:44:02,460 - INFO - Sigma increased: 5.791508674563905
+2025-02-20 23:44:19,657 - INFO - Execution finished for RK45, seed 0, error ABS in 11518.69 seconds.
+2025-02-20 23:44:19,665 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=3
+2025-02-20 23:46:06,270 - INFO - Sigma increased: 1
+2025-02-20 23:47:33,232 - INFO - Sigma increased: 15
+2025-02-20 23:47:52,658 - INFO - Sigma increased: 9.743066710229337
+2025-02-20 23:48:49,109 - INFO - Sigma increased: 6.985123670603701
+2025-02-20 23:49:58,290 - INFO - Sigma increased: 14.878711524939334
+2025-02-20 23:50:59,066 - INFO - Sigma increased: 1
+2025-02-20 23:52:13,482 - INFO - Sigma increased: 1
+2025-02-20 23:53:42,203 - INFO - Sigma increased: 15
+2025-02-20 23:53:43,328 - INFO - Sigma increased: 8.57462265596504
+2025-02-20 23:56:15,705 - INFO - Sigma increased: 1.6118100406287499
+2025-02-20 23:57:26,597 - INFO - Sigma increased: 1
+2025-02-20 23:57:36,473 - INFO - Sigma increased: 15
+2025-02-20 23:58:20,166 - INFO - Sigma increased: 15
+2025-02-20 23:58:41,581 - INFO - Sigma increased: 7.411045106733372
+2025-02-21 00:01:29,436 - INFO - Sigma increased: 1.6429031817466964
+2025-02-21 00:02:17,318 - INFO - Execution finished for RK45, seed 2, error ABS in 12596.36 seconds.
+2025-02-21 00:02:17,323 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=3
+2025-02-21 00:02:36,172 - INFO - Sigma increased: 2.778940803270599
+2025-02-21 00:04:16,034 - INFO - Sigma increased: 1.417427673611308
+2025-02-21 00:05:00,203 - INFO - Sigma increased: 13.809676543423295
+2025-02-21 00:07:02,785 - INFO - Sigma increased: 5.070755597493843
+2025-02-21 00:08:10,122 - INFO - Sigma increased: 1
+2025-02-21 00:08:55,009 - INFO - Sigma increased: 4.000762393378465
+2025-02-21 00:09:54,815 - INFO - Sigma increased: 1
+2025-02-21 00:12:42,821 - INFO - Sigma increased: 1.1657735270092016
+2025-02-21 00:12:58,333 - INFO - Sigma increased: 14.507837362370736
+2025-02-21 00:14:31,112 - INFO - Sigma increased: 1
+2025-02-21 00:14:47,009 - INFO - Sigma increased: 5.445225405010312
+2025-02-21 00:15:13,327 - INFO - Sigma increased: 1
+2025-02-21 00:17:29,829 - INFO - Sigma increased: 1.6037041529843337
+2025-02-21 00:19:14,683 - INFO - Sigma increased: 2.2069095683529576
+2025-02-21 00:19:52,412 - INFO - Sigma increased: 3.5600333631983885
+2025-02-21 00:21:17,566 - INFO - Sigma increased: 1
+2025-02-21 00:21:33,698 - INFO - Sigma increased: 1.7875396689651282
+2025-02-21 00:22:10,538 - INFO - Sigma increased: 4.6111818209785085
+2025-02-21 00:22:54,452 - INFO - Sigma increased: 11.593783680632823
+2025-02-21 00:23:04,988 - INFO - Sigma increased: 2.2840147678113656
+2025-02-21 00:24:56,326 - INFO - Sigma increased: 5.057712174229087
+2025-02-21 00:25:40,234 - INFO - Sigma increased: 4.647202869906676
+2025-02-21 00:26:25,395 - INFO - Sigma increased: 2.773922566400982
+2025-02-21 00:28:11,269 - INFO - Sigma increased: 5.268946128819643
+2025-02-21 00:28:16,277 - INFO - Sigma increased: 15
+2025-02-21 00:29:17,498 - INFO - Sigma increased: 1
+2025-02-21 00:29:58,231 - INFO - Sigma increased: 9.002966094112809
+2025-02-21 00:31:17,840 - INFO - Sigma increased: 3.7627615374140437
+2025-02-21 00:31:51,738 - INFO - Sigma increased: 1.370248153215254
+2025-02-21 00:32:33,197 - INFO - Sigma increased: 1
+2025-02-21 00:33:24,344 - INFO - Sigma increased: 7.568594173164195
+2025-02-21 00:33:39,194 - INFO - Sigma increased: 3.498870925034885
+2025-02-21 00:34:12,764 - INFO - Sigma increased: 3.1681691740094804
+2025-02-21 00:34:19,898 - INFO - Sigma increased: 11.87651553779636
+2025-02-21 00:35:53,279 - INFO - Sigma increased: 1
+2025-02-21 00:36:24,547 - INFO - Sigma increased: 3.676640587311939
+2025-02-21 00:36:26,986 - INFO - Sigma increased: 5.6287491695249345
+2025-02-21 00:36:34,174 - INFO - Sigma increased: 1.6083789531083246
+2025-02-21 00:37:02,860 - INFO - Sigma increased: 15
+2025-02-21 00:38:21,481 - INFO - Sigma increased: 11.477177171533882
+2025-02-21 00:39:06,968 - INFO - Sigma increased: 1.4008417788342378
+2025-02-21 00:41:26,993 - INFO - Sigma increased: 12.942288585360844
+2025-02-21 00:42:32,005 - INFO - Sigma increased: 6.571759955848112
+2025-02-21 00:43:50,523 - INFO - Sigma increased: 11.042227631559165
+2025-02-21 00:43:54,599 - INFO - Sigma increased: 3.3727822449513676
+2025-02-21 00:44:07,088 - INFO - Sigma increased: 10.296736764755096
+2025-02-21 00:47:08,082 - INFO - Sigma increased: 1.2725110926844838
+2025-02-21 00:47:57,853 - INFO - Sigma increased: 11.630127870534164
+2025-02-21 00:50:32,515 - INFO - Sigma increased: 1.128101961762022
+2025-02-21 00:51:09,282 - INFO - Sigma increased: 3.444797510259284
+2025-02-21 00:52:18,830 - INFO - Sigma increased: 1
+2025-02-21 00:53:59,478 - INFO - Sigma increased: 15
+2025-02-21 00:54:45,900 - INFO - Sigma increased: 10.729061969024558
+2025-02-21 00:54:47,947 - INFO - Sigma increased: 15
+2025-02-21 00:55:13,781 - INFO - Sigma increased: 1.8372186028676927
+2025-02-21 00:55:23,396 - INFO - Sigma increased: 1.63072727367326
+2025-02-21 00:58:20,595 - INFO - Sigma increased: 4.7688715847216265
+2025-02-21 00:58:36,179 - INFO - Sigma increased: 1.473378436463336
+2025-02-21 00:58:43,272 - INFO - Sigma increased: 3.1752196577454592
+2025-02-21 00:59:09,927 - INFO - Sigma increased: 15
+2025-02-21 01:01:32,445 - INFO - Sigma increased: 1
+2025-02-21 01:01:45,982 - INFO - Sigma increased: 11.33213525919124
+2025-02-21 01:02:29,629 - INFO - Sigma increased: 1
+2025-02-21 01:03:08,256 - INFO - Sigma increased: 1.4790349148918498
+2025-02-21 01:03:34,612 - INFO - Sigma increased: 15
+2025-02-21 01:03:50,597 - INFO - Sigma increased: 7.172397806889351
+2025-02-21 01:05:21,781 - INFO - Sigma increased: 1.392757139543592
+2025-02-21 01:06:27,691 - INFO - Sigma increased: 15
+2025-02-21 01:06:53,343 - INFO - Sigma increased: 11.119107523537686
+2025-02-21 01:09:19,930 - INFO - Sigma increased: 15
+2025-02-21 01:10:27,766 - INFO - Sigma increased: 11.722342366303437
+2025-02-21 01:11:04,758 - INFO - Sigma increased: 1
+2025-02-21 01:11:34,054 - INFO - Sigma increased: 1
+2025-02-21 01:12:12,315 - INFO - Sigma increased: 1.0049938981470685
+2025-02-21 01:12:53,750 - INFO - Sigma increased: 6.472109442088146
+2025-02-21 01:13:00,833 - INFO - Sigma increased: 1
+2025-02-21 01:13:23,484 - INFO - Sigma increased: 1.6550201817160637
+2025-02-21 01:13:49,030 - INFO - Sigma increased: 15
+2025-02-21 01:15:04,146 - INFO - Sigma increased: 14.93678070667389
+2025-02-21 01:17:09,366 - INFO - Sigma increased: 15
+2025-02-21 01:19:17,963 - INFO - Sigma increased: 14.795486021095748
+2025-02-21 01:19:35,601 - INFO - Sigma increased: 12.289142002062292
+2025-02-21 01:20:01,091 - INFO - Execution finished for RK45, seed 1, error ABS in 17260.12 seconds.
+2025-02-21 01:20:01,097 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=3
+2025-02-21 01:20:03,586 - INFO - Sigma increased: 1
+2025-02-21 01:21:17,770 - INFO - Sigma increased: 1.2553003353780707
+2025-02-21 01:22:26,132 - INFO - Sigma increased: 15
+2025-02-21 01:22:54,741 - INFO - Sigma increased: 15
+2025-02-21 01:23:12,630 - INFO - Sigma increased: 2.5461839801675468
+2025-02-21 01:23:23,456 - INFO - Sigma increased: 2.073489521936083
+2025-02-21 01:23:39,331 - INFO - Sigma increased: 1.146127405958321
+2025-02-21 01:25:18,726 - INFO - Execution finished for RK45, seed 1, error SQUARED in 17577.70 seconds.
+2025-02-21 01:25:18,732 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=4
+2025-02-21 01:25:29,476 - INFO - Sigma increased: 15
+2025-02-21 01:26:07,237 - INFO - Execution finished for RK45, seed 2, error SQUARED in 17626.03 seconds.
+2025-02-21 01:26:07,240 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=4
+2025-02-21 01:26:48,215 - INFO - Sigma increased: 15
+2025-02-21 01:28:31,391 - INFO - Sigma increased: 15
+2025-02-21 01:28:52,441 - INFO - Sigma increased: 1
+2025-02-21 01:28:59,333 - INFO - Execution finished for RK45, seed 0, error MSE in 17798.01 seconds.
+2025-02-21 01:28:59,343 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=4
+2025-02-21 01:29:16,211 - INFO - Sigma increased: 15
+2025-02-21 01:29:27,946 - INFO - Sigma increased: 4.001956489937733
+2025-02-21 01:29:34,454 - INFO - Sigma increased: 1
+2025-02-21 01:30:36,271 - INFO - Sigma increased: 2.215715302336006
+2025-02-21 01:31:35,904 - INFO - Sigma increased: 15
+2025-02-21 01:32:20,757 - WARNING - Force-stopping RK45 for seed 0, error MABS due to timeout.
+2025-02-21 01:32:20,767 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=4
+2025-02-21 01:32:20,773 - WARNING - Force-stopping RK45 for seed 1, error MABS due to timeout.
+2025-02-21 01:32:20,775 - WARNING - Force-stopping RK45 for seed 1, error MSE due to timeout.
+2025-02-21 01:32:20,775 - WARNING - Force-stopping RK45 for seed 2, error MSE due to timeout.
+2025-02-21 01:32:20,775 - WARNING - Force-stopping RK45 for seed 2, error MABS due to timeout.
+2025-02-21 01:32:20,777 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=5
+2025-02-21 01:32:20,779 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=5
+2025-02-21 01:32:20,781 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=5
+2025-02-21 01:32:20,787 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=5
+2025-02-21 01:32:22,794 - WARNING - Timeout reached for RK45 on seed 1, error MABS
+2025-02-21 01:32:23,288 - INFO - Execution finished for RK45, seed 1, error MABS in 18002.03 seconds.
+2025-02-21 01:32:25,068 - WARNING - Timeout reached for RK45 on seed 0, error MABS
+2025-02-21 01:32:25,325 - WARNING - Timeout reached for RK45 on seed 2, error MSE
+2025-02-21 01:32:25,883 - INFO - Execution finished for RK45, seed 0, error MABS in 18004.32 seconds.
+2025-02-21 01:32:26,316 - INFO - Execution finished for RK45, seed 2, error MSE in 18004.55 seconds.
+2025-02-21 01:32:26,985 - WARNING - Timeout reached for RK45 on seed 1, error MSE
+2025-02-21 01:32:27,654 - INFO - Execution finished for RK45, seed 1, error MSE in 18006.22 seconds.
+2025-02-21 01:32:30,329 - WARNING - Timeout reached for RK45 on seed 2, error MABS
+2025-02-21 01:32:31,023 - INFO - Execution finished for RK45, seed 2, error MABS in 18009.54 seconds.
+2025-02-21 01:33:07,393 - INFO - Sigma increased: 15
+2025-02-21 01:33:26,876 - INFO - Sigma increased: 3.425600829848609
+2025-02-21 01:34:31,267 - INFO - Sigma increased: 1
+2025-02-21 01:37:00,949 - INFO - Sigma increased: 5.890273241174269
+2025-02-21 01:37:03,676 - INFO - Sigma increased: 15
+2025-02-21 01:37:54,403 - INFO - Sigma increased: 1.0892254426748558
+2025-02-21 01:38:47,521 - INFO - Sigma increased: 1
+2025-02-21 01:39:19,854 - INFO - Sigma increased: 3.6557111529300967
+2025-02-21 01:39:26,256 - INFO - Sigma increased: 1
+2025-02-21 01:40:42,015 - INFO - Sigma increased: 15
+2025-02-21 01:41:03,388 - INFO - Sigma increased: 5.835596284656756
+2025-02-21 01:41:11,715 - INFO - Sigma increased: 3.427219599909676
+2025-02-21 01:43:08,616 - INFO - Sigma increased: 1
+2025-02-21 01:43:53,360 - INFO - Sigma increased: 6.122661677616517
+2025-02-21 01:44:04,046 - INFO - Sigma increased: 15
+2025-02-21 01:44:39,765 - INFO - Sigma increased: 1
+2025-02-21 01:44:55,113 - INFO - Sigma increased: 1
+2025-02-21 01:46:20,568 - INFO - Sigma increased: 3.6222406788598507
+2025-02-21 01:46:50,556 - INFO - Sigma increased: 1.4560347436535848
+2025-02-21 01:47:23,763 - INFO - Sigma increased: 15
+2025-02-21 01:47:48,448 - INFO - Sigma increased: 1
+2025-02-21 01:48:06,613 - INFO - Sigma increased: 8.415542108453497
+2025-02-21 01:48:37,761 - INFO - Sigma increased: 3.5135548674581765
+2025-02-21 01:49:12,962 - INFO - Sigma increased: 3.949275574261995
+2025-02-21 01:50:46,788 - INFO - Sigma increased: 1
+2025-02-21 01:50:46,905 - INFO - Sigma increased: 5.32395350548759
+2025-02-21 01:50:47,581 - INFO - Sigma increased: 1.3634115024194349
+2025-02-21 01:50:51,690 - INFO - Sigma increased: 15
+2025-02-21 01:50:56,725 - INFO - Sigma increased: 1
+2025-02-21 01:51:25,281 - INFO - Sigma increased: 5.049163968895679
+2025-02-21 01:51:46,335 - INFO - Sigma increased: 7.648144805459545
+2025-02-21 01:53:04,665 - INFO - Sigma increased: 1
+2025-02-21 01:53:19,677 - INFO - Sigma increased: 4.761177285347403
+2025-02-21 01:53:37,807 - INFO - Sigma increased: 1
+2025-02-21 01:53:46,134 - INFO - Sigma increased: 1
+2025-02-21 01:53:52,321 - INFO - Sigma increased: 1
+2025-02-21 01:54:05,612 - INFO - Sigma increased: 4.536710039135668
+2025-02-21 01:54:10,551 - INFO - Sigma increased: 3.5654079546528497
+2025-02-21 01:55:00,991 - INFO - Sigma increased: 15
+2025-02-21 01:55:08,481 - INFO - Sigma increased: 7.561461958931128
+2025-02-21 01:55:11,861 - INFO - Sigma increased: 3.1507944342343936
+2025-02-21 01:55:37,511 - INFO - Sigma increased: 2.449209524117473
+2025-02-21 01:56:44,206 - INFO - Sigma increased: 3.9073119093979147
+2025-02-21 01:56:48,461 - INFO - Sigma increased: 4.588597578121084
+2025-02-21 01:57:42,592 - INFO - Sigma increased: 8.226416596059906
+2025-02-21 01:58:04,344 - INFO - Sigma increased: 4.059943963251554
+2025-02-21 01:58:15,583 - INFO - Sigma increased: 1
+2025-02-21 01:58:24,306 - INFO - Sigma increased: 4.418130072099683
+2025-02-21 01:58:24,339 - INFO - Sigma increased: 3.2386972310984503
+2025-02-21 01:58:37,928 - INFO - Sigma increased: 1
+2025-02-21 01:58:55,954 - INFO - Sigma increased: 4.121236013040561
+2025-02-21 01:59:26,112 - INFO - Sigma increased: 15
+2025-02-21 01:59:32,297 - INFO - Sigma increased: 4.150683800269187
+2025-02-21 02:00:33,194 - INFO - Sigma increased: 1
+2025-02-21 02:00:59,773 - INFO - Sigma increased: 9.093386440763698
+2025-02-21 02:02:00,123 - INFO - Sigma increased: 6.579085191242255
+2025-02-21 02:02:40,890 - INFO - Sigma increased: 5.015898359304252
+2025-02-21 02:03:00,414 - INFO - Sigma increased: 1
+2025-02-21 02:03:12,410 - INFO - Sigma increased: 6.847665672068346
+2025-02-21 02:03:15,371 - INFO - Sigma increased: 1
+2025-02-21 02:03:32,271 - INFO - Sigma increased: 1.6153135112084418
+2025-02-21 02:03:51,169 - INFO - Sigma increased: 15
+2025-02-21 02:05:28,008 - INFO - Sigma increased: 11.65895019292434
+2025-02-21 02:05:39,297 - INFO - Sigma increased: 1.17313492280075
+2025-02-21 02:05:46,256 - INFO - Sigma increased: 6.477897202826595
+2025-02-21 02:06:11,664 - INFO - Sigma increased: 4.619675944694434
+2025-02-21 02:06:11,970 - INFO - Sigma increased: 7.332564878712415
+2025-02-21 02:06:35,615 - INFO - Sigma increased: 4.855845100916765
+2025-02-21 02:07:21,396 - INFO - Sigma increased: 2.2748353244543824
+2025-02-21 02:07:45,297 - INFO - Sigma increased: 5.53743131228786
+2025-02-21 02:07:59,041 - INFO - Sigma increased: 1
+2025-02-21 02:08:02,532 - INFO - Sigma increased: 1.6541223367545186
+2025-02-21 02:08:24,028 - INFO - Sigma increased: 7.966192626083597
+2025-02-21 02:10:13,732 - INFO - Sigma increased: 9.490202365406752
+2025-02-21 02:10:44,041 - INFO - Sigma increased: 3.549525170328245
+2025-02-21 02:11:12,004 - INFO - Sigma increased: 10.856683493996393
+2025-02-21 02:11:48,193 - INFO - Sigma increased: 1.8163045333375685
+2025-02-21 02:12:52,662 - INFO - Sigma increased: 5.809375943191732
+2025-02-21 02:14:12,454 - INFO - Sigma increased: 1
+2025-02-21 02:14:16,460 - INFO - Sigma increased: 1
+2025-02-21 02:14:21,376 - INFO - Sigma increased: 3.159699601491513
+2025-02-21 02:14:26,913 - INFO - Sigma increased: 9.147393670585583
+2025-02-21 02:15:03,825 - INFO - Sigma increased: 7.288592134429074
+2025-02-21 02:15:28,093 - INFO - Sigma increased: 7.686531620111521
+2025-02-21 02:17:41,019 - INFO - Sigma increased: 8.839613755215138
+2025-02-21 02:17:58,015 - INFO - Sigma increased: 2.6338153500651833
+2025-02-21 02:19:01,312 - INFO - Sigma increased: 4.026633659525401
+2025-02-21 02:19:56,691 - INFO - Sigma increased: 6.027426311054665
+2025-02-21 02:20:34,116 - INFO - Sigma increased: 1
+2025-02-21 02:20:43,019 - INFO - Sigma increased: 1.2103268247156251
+2025-02-21 02:20:43,845 - INFO - Sigma increased: 11.496906253646094
+2025-02-21 02:22:06,304 - INFO - Sigma increased: 1
+2025-02-21 02:22:29,361 - INFO - Sigma increased: 2.426683861282913
+2025-02-21 02:22:53,983 - INFO - Sigma increased: 7.993453815773988
+2025-02-21 02:23:20,009 - INFO - Sigma increased: 7.006226301205834
+2025-02-21 02:24:15,068 - INFO - Sigma increased: 1.6444307152973716
+2025-02-21 02:25:00,660 - INFO - Sigma increased: 10.89290319333864
+2025-02-21 02:25:22,544 - INFO - Sigma increased: 1
+2025-02-21 02:25:31,618 - INFO - Sigma increased: 2.2302211594583974
+2025-02-21 02:25:38,090 - INFO - Sigma increased: 5.459151181836241
+2025-02-21 02:25:47,622 - INFO - Sigma increased: 2.680147579876171
+2025-02-21 02:27:27,748 - INFO - Sigma increased: 7.860559520220885
+2025-02-21 02:27:36,647 - INFO - Sigma increased: 2.439730150635442
+2025-02-21 02:28:12,967 - INFO - Sigma increased: 6.876005010215744
+2025-02-21 02:28:24,280 - INFO - Sigma increased: 2.003882285523131
+2025-02-21 02:28:57,700 - INFO - Sigma increased: 1
+2025-02-21 02:29:00,748 - INFO - Sigma increased: 3.956924451001358
+2025-02-21 02:29:19,257 - INFO - Sigma increased: 10.256799855762559
+2025-02-21 02:29:19,974 - INFO - Sigma increased: 1
+2025-02-21 02:29:31,564 - INFO - Sigma increased: 5.071396121927569
+2025-02-21 02:29:52,694 - INFO - Sigma increased: 1
+2025-02-21 02:30:49,768 - INFO - Sigma increased: 4.24429644312862
+2025-02-21 02:31:01,623 - INFO - Sigma increased: 1.947020752157217
+2025-02-21 02:31:11,073 - INFO - Sigma increased: 10.316320124965387
+2025-02-21 02:31:44,578 - INFO - Sigma increased: 11.347796170692757
+2025-02-21 02:32:01,702 - INFO - Sigma increased: 2.863963126389248
+2025-02-21 02:33:01,247 - INFO - Sigma increased: 1
+2025-02-21 02:33:31,740 - INFO - Sigma increased: 3.472856855115265
+2025-02-21 02:33:38,511 - INFO - Sigma increased: 15
+2025-02-21 02:34:05,512 - INFO - Sigma increased: 8.74111623047625
+2025-02-21 02:34:20,909 - INFO - Sigma increased: 1
+2025-02-21 02:34:38,010 - INFO - Sigma increased: 9.02371505512696
+2025-02-21 02:34:56,393 - INFO - Sigma increased: 3.3387491297717453
+2025-02-21 02:35:28,880 - INFO - Sigma increased: 1.2305728540360492
+2025-02-21 02:36:04,112 - INFO - Sigma increased: 8.103879702272291
+2025-02-21 02:36:11,684 - INFO - Sigma increased: 15
+2025-02-21 02:36:15,375 - INFO - Sigma increased: 2.6887165101656167
+2025-02-21 02:36:29,698 - INFO - Sigma increased: 1.7823906968950767
+2025-02-21 02:36:44,445 - INFO - Sigma increased: 14.05429255094769
+2025-02-21 02:37:42,490 - INFO - Sigma increased: 5.731672805601215
+2025-02-21 02:38:08,520 - INFO - Sigma increased: 15
+2025-02-21 02:39:00,890 - INFO - Sigma increased: 2.296795742419864
+2025-02-21 02:39:14,197 - INFO - Sigma increased: 6.974269494613393
+2025-02-21 02:39:14,272 - INFO - Sigma increased: 1
+2025-02-21 02:39:27,069 - INFO - Sigma increased: 6.251363422261729
+2025-02-21 02:39:27,517 - INFO - Sigma increased: 13.377634520614883
+2025-02-21 02:39:40,505 - INFO - Sigma increased: 1
+2025-02-21 02:40:52,696 - INFO - Sigma increased: 13.197041859218697
+2025-02-21 02:41:10,753 - INFO - Sigma increased: 7.11415987344162
+2025-02-21 02:41:47,534 - INFO - Sigma increased: 3.44076511007158
+2025-02-21 02:42:01,753 - INFO - Sigma increased: 11.34938158853114
+2025-02-21 02:42:13,465 - INFO - Sigma increased: 15
+2025-02-21 02:42:34,997 - INFO - Sigma increased: 7.733880730624058
+2025-02-21 02:43:22,737 - INFO - Sigma increased: 13.761338983398892
+2025-02-21 02:44:18,150 - INFO - Sigma increased: 15
+2025-02-21 02:44:46,343 - INFO - Sigma increased: 1
+2025-02-21 02:45:35,901 - INFO - Sigma increased: 9.105557658491675
+2025-02-21 02:45:43,393 - INFO - Sigma increased: 10.957680608245731
+2025-02-21 02:45:49,402 - INFO - Sigma increased: 13.437241510618836
+2025-02-21 02:45:57,455 - INFO - Sigma increased: 6.57516450058192
+2025-02-21 02:46:50,940 - INFO - Sigma increased: 15
+2025-02-21 02:47:21,471 - INFO - Sigma increased: 15
+2025-02-21 02:48:16,329 - INFO - Sigma increased: 15
+2025-02-21 02:48:28,174 - INFO - Sigma increased: 14.857593602141726
+2025-02-21 02:48:45,963 - INFO - Execution finished for RK45, seed 3, error SQUARED in 11066.16 seconds.
+2025-02-21 02:48:45,965 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=6
+2025-02-21 02:48:48,823 - INFO - Sigma increased: 15
+2025-02-21 02:49:53,271 - INFO - Sigma increased: 14.402870542663218
+2025-02-21 02:50:30,502 - INFO - Sigma increased: 1.8463819645982813
+2025-02-21 02:50:42,420 - INFO - Sigma increased: 15
+2025-02-21 02:52:53,362 - INFO - Sigma increased: 15
+2025-02-21 02:52:58,458 - INFO - Sigma increased: 12.111023492648886
+2025-02-21 02:52:59,104 - INFO - Sigma increased: 15
+2025-02-21 02:54:43,861 - INFO - Sigma increased: 15
+2025-02-21 02:55:20,512 - INFO - Sigma increased: 12.869233478769544
+2025-02-21 02:55:45,632 - INFO - Sigma increased: 15
+2025-02-21 02:56:38,631 - INFO - Sigma increased: 2.713349774059654
+2025-02-21 02:56:42,228 - INFO - Sigma increased: 14.970816081655414
+2025-02-21 02:56:51,019 - INFO - Sigma increased: 13.536722137075213
+2025-02-21 02:57:53,845 - INFO - Sigma increased: 15
+2025-02-21 02:59:27,126 - INFO - Sigma increased: 15
+2025-02-21 02:59:46,010 - INFO - Sigma increased: 14.696859426066718
+2025-02-21 03:00:58,914 - INFO - Sigma increased: 1
+2025-02-21 03:01:40,684 - INFO - Sigma increased: 1
+2025-02-21 03:02:08,442 - INFO - Sigma increased: 1
+2025-02-21 03:02:10,433 - INFO - Sigma increased: 5.263700670516438
+2025-02-21 03:02:36,909 - INFO - Sigma increased: 15
+2025-02-21 03:02:45,745 - INFO - Sigma increased: 15
+2025-02-21 03:03:35,407 - INFO - Sigma increased: 1
+2025-02-21 03:04:46,759 - INFO - Sigma increased: 3.1979581434555233
+2025-02-21 03:04:55,446 - INFO - Sigma increased: 15
+2025-02-21 03:05:00,863 - INFO - Sigma increased: 15
+2025-02-21 03:05:01,794 - INFO - Sigma increased: 1
+2025-02-21 03:05:26,361 - INFO - Sigma increased: 2.511014400956996
+2025-02-21 03:05:26,439 - INFO - Sigma increased: 9.908669837921158
+2025-02-21 03:05:48,502 - INFO - Sigma increased: 15
+2025-02-21 03:06:56,839 - INFO - Sigma increased: 1.4295510690326094
+2025-02-21 03:07:20,726 - INFO - Sigma increased: 11.45623283100381
+2025-02-21 03:07:46,702 - INFO - Sigma increased: 1
+2025-02-21 03:08:32,855 - INFO - Sigma increased: 9.288501331757576
+2025-02-21 03:09:11,723 - INFO - Sigma increased: 4.702556526883633
+2025-02-21 03:09:19,263 - INFO - Sigma increased: 1.0561926423056014
+2025-02-21 03:09:24,013 - INFO - Sigma increased: 3.490946069048824
+2025-02-21 03:09:48,828 - INFO - Sigma increased: 3.689118878148106
+2025-02-21 03:09:49,920 - INFO - Sigma increased: 15
+2025-02-21 03:10:36,273 - INFO - Sigma increased: 15
+2025-02-21 03:11:15,676 - INFO - Execution finished for RK45, seed 3, error MSE in 11338.26 seconds.
+2025-02-21 03:11:15,680 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=6
+2025-02-21 03:11:20,129 - INFO - Sigma increased: 1
+2025-02-21 03:12:05,255 - INFO - Sigma increased: 4.04371025083742
+2025-02-21 03:12:15,979 - INFO - Sigma increased: 11.068230380139727
+2025-02-21 03:12:38,734 - INFO - Sigma increased: 13.642508125531936
+2025-02-21 03:13:11,700 - INFO - Sigma increased: 1.4311116752922195
+2025-02-21 03:13:47,961 - INFO - Sigma increased: 15
+2025-02-21 03:14:21,100 - INFO - Sigma increased: 7.073685029145489
+2025-02-21 03:14:23,568 - INFO - Sigma increased: 4.660090810142859
+2025-02-21 03:14:58,828 - INFO - Sigma increased: 15
+2025-02-21 03:15:33,970 - INFO - Sigma increased: 1
+2025-02-21 03:15:49,047 - INFO - Sigma increased: 2.083428323510961
+2025-02-21 03:16:08,604 - INFO - Sigma increased: 15
+2025-02-21 03:16:23,071 - INFO - Sigma increased: 6.875023762235858
+2025-02-21 03:16:57,507 - INFO - Sigma increased: 13.661132161025513
+2025-02-21 03:17:43,216 - INFO - Sigma increased: 3.7023405123111726
+2025-02-21 03:18:04,393 - INFO - Sigma increased: 7.590146534193737
+2025-02-21 03:18:14,907 - INFO - Sigma increased: 1.1683074373238729
+2025-02-21 03:18:52,357 - INFO - Sigma increased: 1
+2025-02-21 03:19:06,600 - INFO - Sigma increased: 7.793338555225294
+2025-02-21 03:19:19,845 - INFO - Sigma increased: 15
+2025-02-21 03:19:39,670 - INFO - Sigma increased: 12.124087558320042
+2025-02-21 03:20:31,131 - INFO - Sigma increased: 15
+2025-02-21 03:20:37,530 - INFO - Sigma increased: 15
+2025-02-21 03:21:55,244 - INFO - Sigma increased: 9.08737322717776
+2025-02-21 03:21:57,034 - INFO - Sigma increased: 8.433695462108881
+2025-02-21 03:22:19,204 - INFO - Sigma increased: 15
+2025-02-21 03:22:52,500 - INFO - Sigma increased: 1
+2025-02-21 03:23:49,675 - INFO - Sigma increased: 1
+2025-02-21 03:24:04,052 - INFO - Sigma increased: 15
+2025-02-21 03:24:38,638 - INFO - Sigma increased: 12.170987600978568
+2025-02-21 03:24:49,132 - INFO - Sigma increased: 15
+2025-02-21 03:24:50,169 - INFO - Sigma increased: 6.845332667508778
+2025-02-21 03:24:53,782 - INFO - Sigma increased: 2.324629630351377
+2025-02-21 03:25:55,663 - INFO - Sigma increased: 1.8798615516223354
+2025-02-21 03:26:30,521 - INFO - Sigma increased: 15
+2025-02-21 03:26:35,890 - INFO - Sigma increased: 15
+2025-02-21 03:26:55,813 - INFO - Sigma increased: 15
+2025-02-21 03:27:06,288 - INFO - Sigma increased: 15
+2025-02-21 03:27:16,643 - INFO - Sigma increased: 6.765337760762838
+2025-02-21 03:27:47,383 - INFO - Sigma increased: 1
+2025-02-21 03:27:56,660 - INFO - Sigma increased: 3.565715170996725
+2025-02-21 03:28:48,223 - INFO - Sigma increased: 1.1232366498842299
+2025-02-21 03:29:14,991 - INFO - Sigma increased: 15
+2025-02-21 03:29:34,489 - INFO - Sigma increased: 15
+2025-02-21 03:29:44,637 - INFO - Sigma increased: 7.149174418078488
+2025-02-21 03:31:30,553 - INFO - Sigma increased: 15
+2025-02-21 03:31:35,444 - INFO - Sigma increased: 15
+2025-02-21 03:31:36,689 - INFO - Sigma increased: 1.4125730015385116
+2025-02-21 03:32:13,020 - INFO - Sigma increased: 12.07537681801078
+2025-02-21 03:32:24,342 - INFO - Sigma increased: 15
+2025-02-21 03:32:50,241 - INFO - Sigma increased: 15
+2025-02-21 03:33:30,366 - INFO - Sigma increased: 1.7737271957193244
+2025-02-21 03:33:31,027 - INFO - Sigma increased: 15
+2025-02-21 03:33:46,283 - INFO - Sigma increased: 1.324598045980322
+2025-02-21 03:34:38,761 - INFO - Sigma increased: 15
+2025-02-21 03:35:31,161 - INFO - Sigma increased: 15
+2025-02-21 03:35:56,664 - INFO - Sigma increased: 9.360492648023882
+2025-02-21 03:37:33,222 - INFO - Sigma increased: 15
+2025-02-21 03:37:48,992 - INFO - Sigma increased: 15
+2025-02-21 03:37:51,392 - INFO - Sigma increased: 11.84031049215646
+2025-02-21 03:38:13,633 - INFO - Sigma increased: 13.176151517749364
+2025-02-21 03:38:20,245 - INFO - Sigma increased: 1
+2025-02-21 03:38:42,208 - INFO - Sigma increased: 1.1135898521156369
+2025-02-21 03:39:11,323 - INFO - Sigma increased: 1.2122403265992339
+2025-02-21 03:39:46,206 - INFO - Sigma increased: 1
+2025-02-21 03:40:41,242 - INFO - Sigma increased: 15
+2025-02-21 03:41:02,167 - INFO - Sigma increased: 15
+2025-02-21 03:41:37,753 - INFO - Sigma increased: 13.30233109024781
+2025-02-21 03:41:46,558 - INFO - Sigma increased: 15
+2025-02-21 03:42:00,018 - INFO - Sigma increased: 3.3353551419899348
+2025-02-21 03:43:43,470 - INFO - Sigma increased: 1.0472445322114847
+2025-02-21 03:43:59,592 - INFO - Sigma increased: 15
+2025-02-21 03:44:06,221 - INFO - Sigma increased: 4.420750611910467
+2025-02-21 03:44:15,812 - INFO - Sigma increased: 11.611862221453912
+2025-02-21 03:44:56,026 - INFO - Sigma increased: 11.829351736526803
+2025-02-21 03:45:31,987 - INFO - Sigma increased: 15
+2025-02-21 03:46:14,329 - INFO - Sigma increased: 9.1588267775543
+2025-02-21 03:46:36,768 - INFO - Sigma increased: 15
+2025-02-21 03:46:38,978 - INFO - Sigma increased: 1
+2025-02-21 03:47:01,659 - INFO - Sigma increased: 15
+2025-02-21 03:47:15,937 - INFO - Sigma increased: 1
+2025-02-21 03:48:23,010 - INFO - Sigma increased: 14.261368591841126
+2025-02-21 03:49:00,554 - INFO - Sigma increased: 15
+2025-02-21 03:49:34,990 - INFO - Sigma increased: 15
+2025-02-21 03:49:46,090 - INFO - Sigma increased: 1
+2025-02-21 03:49:59,737 - INFO - Sigma increased: 15
+2025-02-21 03:50:32,391 - INFO - Sigma increased: 11.714145753775929
+2025-02-21 03:50:43,972 - INFO - Sigma increased: 15
+2025-02-21 03:51:08,184 - INFO - Sigma increased: 15
+2025-02-21 03:51:32,393 - INFO - Sigma increased: 15
+2025-02-21 03:51:36,949 - INFO - Sigma increased: 1
+2025-02-21 03:51:49,158 - INFO - Sigma increased: 11.85826140760084
+2025-02-21 03:52:43,122 - INFO - Sigma increased: 15
+2025-02-21 03:53:14,289 - INFO - Sigma increased: 15
+2025-02-21 03:53:33,974 - INFO - Sigma increased: 15
+2025-02-21 03:55:46,389 - INFO - Sigma increased: 15
+2025-02-21 03:56:08,891 - INFO - Sigma increased: 15
+2025-02-21 03:56:11,688 - INFO - Sigma increased: 15
+2025-02-21 03:56:44,217 - INFO - Sigma increased: 4.820602121597683
+2025-02-21 03:56:53,481 - INFO - Sigma increased: 10.462484216621782
+2025-02-21 03:57:56,164 - INFO - Sigma increased: 15
+2025-02-21 03:57:58,971 - INFO - Sigma increased: 1
+2025-02-21 03:58:12,168 - INFO - Sigma increased: 15
+2025-02-21 03:58:26,410 - INFO - Sigma increased: 13.26404181664008
+2025-02-21 03:58:48,844 - INFO - Sigma increased: 15
+2025-02-21 03:59:39,503 - INFO - Sigma increased: 15
+2025-02-21 04:00:56,396 - INFO - Sigma increased: 15
+2025-02-21 04:01:15,573 - INFO - Sigma increased: 5.149572163747261
+2025-02-21 04:01:22,064 - INFO - Sigma increased: 15
+2025-02-21 04:02:26,884 - INFO - Sigma increased: 1
+2025-02-21 04:02:43,928 - INFO - Sigma increased: 6.768274911710876
+2025-02-21 04:03:12,048 - INFO - Sigma increased: 1
+2025-02-21 04:03:25,822 - INFO - Execution finished for RK45, seed 5, error SQUARED in 9064.94 seconds.
+2025-02-21 04:03:25,830 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=6
+2025-02-21 04:03:38,404 - INFO - Sigma increased: 15
+2025-02-21 04:04:10,746 - INFO - Sigma increased: 15
+2025-02-21 04:04:14,503 - INFO - Sigma increased: 4.622790675248073
+2025-02-21 04:04:30,124 - INFO - Sigma increased: 4.249534954609137
+2025-02-21 04:05:54,146 - INFO - Sigma increased: 15
+2025-02-21 04:06:21,394 - INFO - Sigma increased: 15
+2025-02-21 04:07:24,459 - WARNING - Force-stopping RK45 for seed 3, error ABS due to timeout.
+2025-02-21 04:07:24,462 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=6
+2025-02-21 04:07:27,622 - WARNING - Timeout reached for RK45 on seed 3, error ABS
+2025-02-21 04:07:28,442 - INFO - Execution finished for RK45, seed 3, error ABS in 18003.16 seconds.
+2025-02-21 04:08:10,490 - INFO - Sigma increased: 15
+2025-02-21 04:08:13,782 - INFO - Sigma increased: 4.821362982974601
+2025-02-21 04:08:38,153 - INFO - Sigma increased: 1.016528502604984
+2025-02-21 04:08:38,797 - INFO - Sigma increased: 6.655199778321233
+2025-02-21 04:08:39,516 - INFO - Sigma increased: 15
+2025-02-21 04:09:29,321 - INFO - Sigma increased: 1.247830004693012
+2025-02-21 04:12:01,000 - INFO - Sigma increased: 5.6357795196384695
+2025-02-21 04:12:55,971 - INFO - Sigma increased: 15
+2025-02-21 04:13:28,771 - INFO - Sigma increased: 2.3534983759147408
+2025-02-21 04:13:35,881 - INFO - Sigma increased: 4.634862546150754
+2025-02-21 04:14:50,521 - INFO - Sigma increased: 12.282406928975394
+2025-02-21 04:15:09,925 - INFO - Sigma increased: 7.908417158931661
+2025-02-21 04:15:11,915 - INFO - Sigma increased: 1.8343223956083414
+2025-02-21 04:15:27,346 - INFO - Sigma increased: 4.364399403062829
+2025-02-21 04:15:31,907 - INFO - Sigma increased: 1.649196806917291
+2025-02-21 04:15:59,959 - INFO - Sigma increased: 2.4266815901081626
+2025-02-21 04:17:04,138 - INFO - Sigma increased: 12.438712929357932
+2025-02-21 04:18:43,340 - INFO - Sigma increased: 2.1818725175957088
+2025-02-21 04:19:32,126 - INFO - Sigma increased: 1.0905663534156607
+2025-02-21 04:20:45,625 - INFO - Sigma increased: 3.793058994564274
+2025-02-21 04:21:50,439 - INFO - Sigma increased: 3.1015376688972998
+2025-02-21 04:21:58,606 - INFO - Sigma increased: 9.3114516984831
+2025-02-21 04:24:23,654 - INFO - Sigma increased: 1.3356570105494594
+2025-02-21 04:25:06,434 - INFO - Sigma increased: 1.1755028175887874
+2025-02-21 04:26:30,223 - INFO - Sigma increased: 1.4747165054556286
+2025-02-21 04:26:37,485 - INFO - Sigma increased: 1
+2025-02-21 04:27:23,808 - INFO - Sigma increased: 15
+2025-02-21 04:27:50,043 - INFO - Execution finished for RK45, seed 4, error SQUARED in 10902.70 seconds.
+2025-02-21 04:27:50,049 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=7
+2025-02-21 04:27:50,464 - INFO - Sigma increased: 2.817721234823651
+2025-02-21 04:28:20,370 - INFO - Sigma increased: 4.374421483249856
+2025-02-21 04:28:26,884 - INFO - Sigma increased: 1
+2025-02-21 04:29:42,455 - INFO - Sigma increased: 15
+2025-02-21 04:30:35,528 - INFO - Sigma increased: 2.9446005713028183
+2025-02-21 04:31:28,664 - INFO - Sigma increased: 1.29663055916467
+2025-02-21 04:31:38,757 - INFO - Sigma increased: 1
+2025-02-21 04:32:26,206 - INFO - Sigma increased: 1
+2025-02-21 04:33:23,618 - INFO - Sigma increased: 8.349779466618436
+2025-02-21 04:34:51,804 - INFO - Sigma increased: 2.7368334385691244
+2025-02-21 04:35:43,954 - INFO - Sigma increased: 1
+2025-02-21 04:35:49,930 - INFO - Sigma increased: 15
+2025-02-21 04:36:35,473 - INFO - Sigma increased: 12.31085844166946
+2025-02-21 04:37:22,594 - INFO - Sigma increased: 10.080476556179821
+2025-02-21 04:37:50,000 - INFO - Sigma increased: 1.2908270271015678
+2025-02-21 04:38:55,982 - INFO - Sigma increased: 1
+2025-02-21 04:40:32,770 - INFO - Sigma increased: 1
+2025-02-21 04:41:08,861 - INFO - Sigma increased: 1.2595323780785028
+2025-02-21 04:41:32,771 - INFO - Sigma increased: 3.177206328755955
+2025-02-21 04:43:12,596 - INFO - Sigma increased: 1.7043385512695128
+2025-02-21 04:43:33,129 - INFO - Sigma increased: 15
+2025-02-21 04:44:13,159 - INFO - Sigma increased: 1.3491551877968666
+2025-02-21 04:44:39,546 - INFO - Sigma increased: 15
+2025-02-21 04:47:11,757 - INFO - Sigma increased: 1.3164997154955955
+2025-02-21 04:48:15,626 - INFO - Sigma increased: 1
+2025-02-21 04:48:22,279 - INFO - Sigma increased: 2.4095744549113904
+2025-02-21 04:48:24,582 - INFO - Sigma increased: 1.9953167861092709
+2025-02-21 04:48:57,537 - INFO - Sigma increased: 2.460556943344798
+2025-02-21 04:50:33,223 - INFO - Sigma increased: 1
+2025-02-21 04:51:11,926 - INFO - Sigma increased: 15
+2025-02-21 04:52:11,712 - INFO - Sigma increased: 3.774205214007915
+2025-02-21 04:52:21,171 - INFO - Sigma increased: 1.5859670188681885
+2025-02-21 04:53:05,518 - INFO - Sigma increased: 15
+2025-02-21 04:54:12,923 - INFO - Sigma increased: 2.4892337057800216
+2025-02-21 04:54:37,636 - INFO - Sigma increased: 1.0452975460894744
+2025-02-21 04:55:21,829 - INFO - Sigma increased: 4.66748082282699
+2025-02-21 04:55:41,710 - INFO - Sigma increased: 1
+2025-02-21 04:56:12,008 - INFO - Sigma increased: 1.9345835598084102
+2025-02-21 04:56:45,824 - INFO - Sigma increased: 1
+2025-02-21 04:57:03,930 - INFO - Sigma increased: 2.2765569247906705
+2025-02-21 04:59:14,883 - INFO - Sigma increased: 4.526335270459168
+2025-02-21 04:59:39,776 - INFO - Sigma increased: 4.780791676006226
+2025-02-21 04:59:47,567 - INFO - Sigma increased: 2.766305087961154
+2025-02-21 04:59:53,879 - INFO - Sigma increased: 6.648314682730789
+2025-02-21 05:01:16,911 - INFO - Sigma increased: 1
+2025-02-21 05:01:30,096 - INFO - Sigma increased: 15
+2025-02-21 05:01:49,112 - INFO - Sigma increased: 4.9462749633163465
+2025-02-21 05:02:44,030 - INFO - Sigma increased: 1.4840514393088462
+2025-02-21 05:02:46,266 - INFO - Sigma increased: 5.601118787538941
+2025-02-21 05:03:23,148 - INFO - Sigma increased: 1.168119961589475
+2025-02-21 05:03:40,289 - INFO - Sigma increased: 1.5927782566841617
+2025-02-21 05:04:12,912 - INFO - Sigma increased: 7.069613638157443
+2025-02-21 05:05:13,842 - INFO - Sigma increased: 1
+2025-02-21 05:05:45,320 - INFO - Sigma increased: 2.8708950382827574
+2025-02-21 05:05:56,851 - INFO - Sigma increased: 7.2309947069774445
+2025-02-21 05:08:29,810 - INFO - Sigma increased: 10.59205669757489
+2025-02-21 05:08:29,928 - INFO - Sigma increased: 6.294651851985652
+2025-02-21 05:08:51,399 - INFO - Sigma increased: 2.002176195167877
+2025-02-21 05:09:02,838 - INFO - Sigma increased: 8.713273337202347
+2025-02-21 05:09:33,263 - INFO - Sigma increased: 1.193037023069743
+2025-02-21 05:10:29,146 - INFO - Sigma increased: 10.766586043432042
+2025-02-21 05:11:14,277 - INFO - Sigma increased: 15
+2025-02-21 05:11:29,172 - INFO - Sigma increased: 1.557730194134645
+2025-02-21 05:11:30,892 - INFO - Sigma increased: 4.2860698465181635
+2025-02-21 05:11:31,053 - INFO - Sigma increased: 2.6136413940206857
+2025-02-21 05:13:24,858 - INFO - Sigma increased: 6.77941899700397
+2025-02-21 05:13:26,709 - INFO - Sigma increased: 5.41603173197903
+2025-02-21 05:14:07,336 - INFO - Sigma increased: 10.104660384136409
+2025-02-21 05:15:08,458 - INFO - Sigma increased: 1.8272761024478743
+2025-02-21 05:15:26,247 - INFO - Sigma increased: 7.64540828070536
+2025-02-21 05:17:10,278 - INFO - Sigma increased: 10.783184580782152
+2025-02-21 05:17:36,340 - INFO - Sigma increased: 13.544676749207733
+2025-02-21 05:17:52,650 - INFO - Sigma increased: 9.551922041085687
+2025-02-21 05:18:47,776 - INFO - Sigma increased: 2.4511299601143848
+2025-02-21 05:19:50,937 - INFO - Sigma increased: 2.6610321400263794
+2025-02-21 05:21:18,152 - INFO - Sigma increased: 7.785718092333326
+2025-02-21 05:21:49,363 - INFO - Sigma increased: 1.1164460472878455
+2025-02-21 05:22:00,855 - INFO - Sigma increased: 15
+2025-02-21 05:23:03,208 - INFO - Sigma increased: 1
+2025-02-21 05:23:46,276 - INFO - Sigma increased: 1
+2025-02-21 05:23:52,043 - INFO - Sigma increased: 5.604585894572915
+2025-02-21 05:25:06,200 - INFO - Sigma increased: 9.349388284655944
+2025-02-21 05:25:54,495 - INFO - Sigma increased: 10.214379871847525
+2025-02-21 05:27:00,414 - INFO - Sigma increased: 2.556581654961969
+2025-02-21 05:27:07,813 - INFO - Sigma increased: 6.079027855440314
+2025-02-21 05:28:33,506 - INFO - Sigma increased: 9.887251800825986
+2025-02-21 05:28:35,936 - INFO - Sigma increased: 1
+2025-02-21 05:29:46,826 - INFO - Sigma increased: 15
+2025-02-21 05:29:55,292 - INFO - Sigma increased: 4.773257566522244
+2025-02-21 05:31:00,264 - INFO - Sigma increased: 1.2994817263687133
+2025-02-21 05:31:23,620 - INFO - Sigma increased: 9.547432435342499
+2025-02-21 05:31:25,365 - INFO - Sigma increased: 1.4073251223443195
+2025-02-21 05:31:54,238 - INFO - Sigma increased: 9.849419487477745
+2025-02-21 05:33:17,148 - INFO - Sigma increased: 2.0823293857739906
+2025-02-21 05:33:50,969 - INFO - Sigma increased: 2.398023405250708
+2025-02-21 05:34:11,861 - INFO - Sigma increased: 12.595144912683535
+2025-02-21 05:34:22,324 - INFO - Sigma increased: 15
+2025-02-21 05:35:21,676 - INFO - Sigma increased: 1.2738713652397289
+2025-02-21 05:35:33,906 - INFO - Sigma increased: 2.2688045592722292
+2025-02-21 05:36:30,392 - INFO - Sigma increased: 15
+2025-02-21 05:36:57,164 - INFO - Sigma increased: 14.367535579912156
+2025-02-21 05:37:46,156 - INFO - Execution finished for RK45, seed 6, error SQUARED in 8790.37 seconds.
+2025-02-21 05:37:46,164 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=7
+2025-02-21 05:39:59,455 - INFO - Sigma increased: 3.625678180232241
+2025-02-21 05:40:31,357 - INFO - Sigma increased: 4.244583262435222
+2025-02-21 05:40:34,663 - INFO - Sigma increased: 3.363716705177355
+2025-02-21 05:42:06,225 - INFO - Sigma increased: 1
+2025-02-21 05:42:21,274 - INFO - Sigma increased: 7.522634845303625
+2025-02-21 05:43:04,799 - INFO - Sigma increased: 12.115892488903002
+2025-02-21 05:44:34,273 - INFO - Sigma increased: 14.500770538313434
+2025-02-21 05:47:18,326 - INFO - Sigma increased: 10.327229085060793
+2025-02-21 05:47:44,648 - INFO - Sigma increased: 15
+2025-02-21 05:48:40,824 - INFO - Sigma increased: 2.048244301189283
+2025-02-21 05:49:02,025 - INFO - Sigma increased: 1.3385537900739917
+2025-02-21 05:49:07,502 - INFO - Sigma increased: 15
+2025-02-21 05:49:21,625 - INFO - Sigma increased: 15
+2025-02-21 05:49:50,197 - INFO - Sigma increased: 13.320179740323873
+2025-02-21 05:51:40,604 - INFO - Sigma increased: 15
+2025-02-21 05:54:07,398 - INFO - Sigma increased: 1
+2025-02-21 05:55:16,437 - INFO - Sigma increased: 4.48020907557652
+2025-02-21 05:56:18,303 - INFO - Sigma increased: 1.044416346367113
+2025-02-21 05:56:59,824 - INFO - Sigma increased: 1.63674193424858
+2025-02-21 05:57:37,003 - INFO - Sigma increased: 15
+2025-02-21 05:58:44,108 - INFO - Sigma increased: 2.1867951945443624
+2025-02-21 05:59:48,271 - INFO - Sigma increased: 12.533771236081229
+2025-02-21 06:01:16,736 - INFO - Sigma increased: 1.3699060439921018
+2025-02-21 06:01:53,757 - INFO - Sigma increased: 11.913553442221922
+2025-02-21 06:03:14,795 - INFO - Sigma increased: 15
+2025-02-21 06:03:41,006 - INFO - Sigma increased: 1
+2025-02-21 06:03:46,846 - INFO - Execution finished for RK45, seed 5, error ABS in 16285.89 seconds.
+2025-02-21 06:03:46,850 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=7
+2025-02-21 06:03:48,954 - INFO - Sigma increased: 2.311796349118477
+2025-02-21 06:05:25,270 - INFO - Sigma increased: 4.92320597041441
+2025-02-21 06:07:06,554 - INFO - Sigma increased: 1
+2025-02-21 06:07:17,087 - INFO - Sigma increased: 1
+2025-02-21 06:08:15,097 - INFO - Sigma increased: 1
+2025-02-21 06:08:22,552 - INFO - Sigma increased: 12.312394830703887
+2025-02-21 06:08:58,751 - INFO - Sigma increased: 1
+2025-02-21 06:09:04,190 - INFO - Sigma increased: 3.5287111195579057
+2025-02-21 06:10:53,314 - INFO - Sigma increased: 1.9057496512738727
+2025-02-21 06:11:02,762 - INFO - Sigma increased: 1
+2025-02-21 06:11:25,816 - INFO - Sigma increased: 1
+2025-02-21 06:13:05,645 - INFO - Sigma increased: 9.886750256609224
+2025-02-21 06:13:31,590 - INFO - Sigma increased: 3.2082856663001227
+2025-02-21 06:13:55,966 - INFO - Sigma increased: 10.643544252918053
+2025-02-21 06:13:57,802 - INFO - Sigma increased: 1.6262457196492925
+2025-02-21 06:14:00,068 - INFO - Sigma increased: 15
+2025-02-21 06:15:33,038 - INFO - Sigma increased: 2.6157988917191015
+2025-02-21 06:16:00,941 - INFO - Sigma increased: 14.214352471709901
+2025-02-21 06:16:07,054 - INFO - Execution finished for RK45, seed 4, error MABS in 17025.92 seconds.
+2025-02-21 06:16:07,057 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=7
+2025-02-21 06:16:12,562 - INFO - Sigma increased: 5.671964871444551
+2025-02-21 06:18:02,489 - INFO - Sigma increased: 5.514052313957238
+2025-02-21 06:18:58,138 - INFO - Sigma increased: 6.2659129208474855
+2025-02-21 06:19:00,708 - INFO - Sigma increased: 1.6260730802398002
+2025-02-21 06:20:01,112 - WARNING - Force-stopping RK45 for seed 3, error MABS due to timeout.
+2025-02-21 06:20:01,119 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=8
+2025-02-21 06:20:02,290 - WARNING - Timeout reached for RK45 on seed 3, error MABS
+2025-02-21 06:20:02,730 - INFO - Execution finished for RK45, seed 3, error MABS in 18001.18 seconds.
+2025-02-21 06:21:44,757 - INFO - Sigma increased: 6.288969643323932
+2025-02-21 06:23:50,768 - INFO - Sigma increased: 15
+2025-02-21 06:24:11,753 - INFO - Sigma increased: 2.3527514813821386
+2025-02-21 06:24:31,568 - INFO - Sigma increased: 3.8932544189788287
+2025-02-21 06:24:49,661 - INFO - Sigma increased: 3.6266900944544167
+2025-02-21 06:25:18,740 - WARNING - Force-stopping RK45 for seed 4, error ABS due to timeout.
+2025-02-21 06:25:18,744 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=8
+2025-02-21 06:25:19,947 - WARNING - Timeout reached for RK45 on seed 4, error ABS
+2025-02-21 06:25:20,640 - INFO - Execution finished for RK45, seed 4, error ABS in 18001.20 seconds.
+2025-02-21 06:25:37,949 - INFO - Sigma increased: 1
+2025-02-21 06:25:51,663 - INFO - Sigma increased: 1
+2025-02-21 06:26:07,784 - INFO - Sigma increased: 7.967842299448224
+2025-02-21 06:26:56,907 - INFO - Sigma increased: 1.0205829721363233
+2025-02-21 06:27:04,183 - INFO - Sigma increased: 3.0423867004122296
+2025-02-21 06:27:22,803 - INFO - Sigma increased: 5.6216850418258755
+2025-02-21 06:27:27,198 - INFO - Sigma increased: 1
+2025-02-21 06:28:46,281 - INFO - Sigma increased: 3.1466984075892612
+2025-02-21 06:28:59,354 - WARNING - Force-stopping RK45 for seed 4, error MSE due to timeout.
+2025-02-21 06:28:59,364 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=8
+2025-02-21 06:28:59,597 - WARNING - Timeout reached for RK45 on seed 4, error MSE
+2025-02-21 06:29:00,395 - INFO - Execution finished for RK45, seed 4, error MSE in 18000.25 seconds.
+2025-02-21 06:29:03,180 - INFO - Sigma increased: 2.825122292439656
+2025-02-21 06:29:11,050 - INFO - Sigma increased: 15
+2025-02-21 06:29:29,081 - INFO - Sigma increased: 2.2729854764085546
+2025-02-21 06:29:51,163 - INFO - Sigma increased: 1.988071855771472
+2025-02-21 06:30:17,607 - INFO - Sigma increased: 3.715992085197015
+2025-02-21 06:31:10,811 - INFO - Sigma increased: 4.744715343719983
+2025-02-21 06:31:58,252 - INFO - Sigma increased: 2.3492413826171274
+2025-02-21 06:32:20,791 - WARNING - Force-stopping RK45 for seed 5, error MABS due to timeout.
+2025-02-21 06:32:20,791 - WARNING - Force-stopping RK45 for seed 5, error MSE due to timeout.
+2025-02-21 06:32:20,795 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=8
+2025-02-21 06:32:20,799 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=9
+2025-02-21 06:32:26,518 - WARNING - Timeout reached for RK45 on seed 5, error MABS
+2025-02-21 06:32:26,742 - WARNING - Timeout reached for RK45 on seed 5, error MSE
+2025-02-21 06:32:26,934 - INFO - Execution finished for RK45, seed 5, error MABS in 18005.71 seconds.
+2025-02-21 06:32:27,272 - INFO - Execution finished for RK45, seed 5, error MSE in 18005.95 seconds.
+2025-02-21 06:33:26,549 - INFO - Sigma increased: 5.820599767241667
+2025-02-21 06:34:29,611 - INFO - Sigma increased: 1.4200499749417563
+2025-02-21 06:34:56,899 - INFO - Sigma increased: 4.617329877841245
+2025-02-21 06:34:58,442 - INFO - Sigma increased: 15
+2025-02-21 06:35:19,201 - INFO - Sigma increased: 2.336587473882624
+2025-02-21 06:35:45,783 - INFO - Sigma increased: 2.36608541477523
+2025-02-21 06:35:53,934 - INFO - Sigma increased: 8.930205176119546
+2025-02-21 06:37:01,669 - INFO - Sigma increased: 1.304922665187438
+2025-02-21 06:37:42,662 - INFO - Sigma increased: 10.529959499066662
+2025-02-21 06:39:14,292 - INFO - Sigma increased: 4.2099260034216455
+2025-02-21 06:39:28,318 - INFO - Sigma increased: 1
+2025-02-21 06:41:54,037 - INFO - Sigma increased: 1.531662955813432
+2025-02-21 06:42:25,506 - INFO - Sigma increased: 10.168283468186976
+2025-02-21 06:42:54,324 - INFO - Sigma increased: 5.0107041821617955
+2025-02-21 06:43:31,844 - INFO - Sigma increased: 10.458867003768368
+2025-02-21 06:44:26,075 - INFO - Sigma increased: 1.243713140728138
+2025-02-21 06:45:21,933 - INFO - Sigma increased: 1
+2025-02-21 06:45:44,089 - INFO - Sigma increased: 7.667528105815066
+2025-02-21 06:46:28,984 - INFO - Sigma increased: 5.13424458655912
+2025-02-21 06:46:55,968 - INFO - Sigma increased: 1
+2025-02-21 06:48:17,937 - INFO - Sigma increased: 9.441610801515067
+2025-02-21 06:49:31,688 - INFO - Sigma increased: 1
+2025-02-21 06:49:39,220 - INFO - Sigma increased: 4.941943159630062
+2025-02-21 06:50:01,045 - INFO - Sigma increased: 1
+2025-02-21 06:50:14,131 - INFO - Sigma increased: 13.124005388072638
+2025-02-21 06:50:59,050 - INFO - Sigma increased: 7.486972131979393
+2025-02-21 06:51:25,368 - INFO - Execution finished for RK45, seed 6, error ABS in 14559.15 seconds.
+2025-02-21 06:51:25,373 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=9
+2025-02-21 06:51:31,989 - INFO - Sigma increased: 10.3593003857151
+2025-02-21 06:51:51,112 - INFO - Sigma increased: 7.532014915799134
+2025-02-21 06:52:11,226 - INFO - Sigma increased: 1
+2025-02-21 06:52:50,471 - INFO - Sigma increased: 6.039441650862154
+2025-02-21 06:54:42,647 - INFO - Sigma increased: 15
+2025-02-21 06:54:57,364 - INFO - Sigma increased: 1
+2025-02-21 06:55:16,077 - INFO - Sigma increased: 5.806467092290042
+2025-02-21 06:56:21,490 - INFO - Sigma increased: 8.705020521581574
+2025-02-21 06:56:42,438 - INFO - Sigma increased: 9.075728815359492
+2025-02-21 06:57:47,451 - INFO - Sigma increased: 5.278288348087765
+2025-02-21 06:57:47,933 - INFO - Sigma increased: 1
+2025-02-21 06:58:13,866 - INFO - Sigma increased: 8.465699417645261
+2025-02-21 06:59:37,730 - INFO - Sigma increased: 15
+2025-02-21 07:00:32,302 - INFO - Sigma increased: 1.5784810333378867
+2025-02-21 07:01:09,866 - INFO - Sigma increased: 9.345597779145844
+2025-02-21 07:01:09,968 - INFO - Sigma increased: 12.105152136775176
+2025-02-21 07:01:13,879 - INFO - Sigma increased: 5.403497923994034
+2025-02-21 07:02:42,798 - INFO - Sigma increased: 7.639743669493719
+2025-02-21 07:03:18,770 - INFO - Sigma increased: 1.3309461077194442
+2025-02-21 07:03:32,058 - INFO - Sigma increased: 6.363366012668966
+2025-02-21 07:05:01,784 - INFO - Sigma increased: 9.62570846783829
+2025-02-21 07:05:05,960 - INFO - Sigma increased: 15
+2025-02-21 07:05:12,725 - INFO - Sigma increased: 8.379435027263712
+2025-02-21 07:05:18,267 - INFO - Sigma increased: 1
+2025-02-21 07:05:19,943 - INFO - Sigma increased: 10.385949046159734
+2025-02-21 07:06:07,150 - INFO - Sigma increased: 1.7955130384969187
+2025-02-21 07:07:07,337 - INFO - Execution finished for RK45, seed 6, error MSE in 11021.38 seconds.
+2025-02-21 07:07:07,340 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=9
+2025-02-21 07:07:53,497 - INFO - Sigma increased: 13.45686845574891
+2025-02-21 07:07:58,569 - INFO - Sigma increased: 5.22155774467678
+2025-02-21 07:08:11,942 - INFO - Sigma increased: 11.125851043926254
+2025-02-21 07:08:45,687 - INFO - Sigma increased: 11.618829494902137
+2025-02-21 07:12:16,077 - INFO - Sigma increased: 10.51835024125938
+2025-02-21 07:12:52,830 - INFO - Sigma increased: 15
+2025-02-21 07:13:05,045 - INFO - Sigma increased: 11.44218866971909
+2025-02-21 07:15:29,631 - INFO - Sigma increased: 6.5414121510113175
+2025-02-21 07:17:36,037 - INFO - Sigma increased: 8.186811386487435
+2025-02-21 07:17:39,184 - INFO - Sigma increased: 1
+2025-02-21 07:18:19,542 - INFO - Sigma increased: 9.205777930971607
+2025-02-21 07:20:05,162 - INFO - Sigma increased: 10.471686125873415
+2025-02-21 07:22:34,692 - INFO - Sigma increased: 10.52948863770167
+2025-02-21 07:24:36,038 - INFO - Sigma increased: 1
+2025-02-21 07:24:53,717 - INFO - Sigma increased: 1
+2025-02-21 07:26:26,355 - INFO - Sigma increased: 1.2857167253789916
+2025-02-21 07:26:47,710 - INFO - Sigma increased: 9.834277513988782
+2025-02-21 07:27:30,585 - INFO - Sigma increased: 15
+2025-02-21 07:28:35,728 - INFO - Sigma increased: 1
+2025-02-21 07:29:18,964 - INFO - Sigma increased: 4.868820049391928
+2025-02-21 07:29:21,809 - INFO - Sigma increased: 1
+2025-02-21 07:30:08,719 - INFO - Sigma increased: 1
+2025-02-21 07:30:13,536 - INFO - Sigma increased: 10.123979436857027
+2025-02-21 07:30:47,626 - INFO - Sigma increased: 7.015926158079465
+2025-02-21 07:32:21,109 - INFO - Sigma increased: 10.80054028884936
+2025-02-21 07:34:27,540 - INFO - Sigma increased: 15
+2025-02-21 07:35:18,155 - INFO - Sigma increased: 2.2060963800733533
+2025-02-21 07:36:18,972 - INFO - Sigma increased: 15
+2025-02-21 07:36:20,551 - INFO - Sigma increased: 11.353952399503179
+2025-02-21 07:36:45,541 - INFO - Sigma increased: 15
+2025-02-21 07:37:33,630 - INFO - Sigma increased: 4.591961087059259
+2025-02-21 07:38:14,956 - INFO - Sigma increased: 3.118682785600353
+2025-02-21 07:39:09,401 - INFO - Sigma increased: 15
+2025-02-21 07:40:58,995 - INFO - Sigma increased: 15
+2025-02-21 07:41:14,210 - INFO - Sigma increased: 1
+2025-02-21 07:41:29,542 - INFO - Sigma increased: 15
+2025-02-21 07:41:57,093 - INFO - Sigma increased: 14.98496602700758
+2025-02-21 07:42:00,775 - INFO - Sigma increased: 1
+2025-02-21 07:43:39,488 - INFO - Sigma increased: 15
+2025-02-21 07:43:52,586 - INFO - Sigma increased: 7.495562378838726
+2025-02-21 07:44:33,190 - INFO - Sigma increased: 15
+2025-02-21 07:45:10,664 - INFO - Sigma increased: 7.013618090291191
+2025-02-21 07:45:47,003 - INFO - Sigma increased: 7.855416535286173
+2025-02-21 07:46:55,717 - INFO - Sigma increased: 15
+2025-02-21 07:48:08,526 - INFO - Sigma increased: 15
+2025-02-21 07:49:40,271 - INFO - Sigma increased: 6.186819119971277
+2025-02-21 07:50:56,840 - INFO - Sigma increased: 15
+2025-02-21 07:52:15,188 - INFO - Sigma increased: 7.693704887462134
+2025-02-21 07:52:31,741 - INFO - Sigma increased: 14.714482785288306
+2025-02-21 07:53:09,048 - INFO - Sigma increased: 10.654957840634369
+2025-02-21 07:53:40,697 - INFO - Sigma increased: 1
+2025-02-21 07:54:16,187 - INFO - Sigma increased: 15
+2025-02-21 07:54:49,007 - INFO - Sigma increased: 5.0339660058586855
+2025-02-21 07:56:15,102 - INFO - Sigma increased: 7.961291959086655
+2025-02-21 07:56:53,704 - INFO - Sigma increased: 7.854457480407955
+2025-02-21 07:57:06,889 - INFO - Sigma increased: 15
+2025-02-21 07:57:08,858 - INFO - Sigma increased: 15
+2025-02-21 07:58:42,768 - INFO - Sigma increased: 2.1165932599751307
+2025-02-21 07:58:47,541 - INFO - Sigma increased: 8.695140660760874
+2025-02-21 07:58:55,447 - INFO - Sigma increased: 1
+2025-02-21 07:59:23,085 - INFO - Sigma increased: 9.859953700886896
+2025-02-21 08:00:17,027 - INFO - Sigma increased: 7.595770220229285
+2025-02-21 08:00:17,299 - INFO - Sigma increased: 15
+2025-02-21 08:01:26,402 - INFO - Sigma increased: 8.988704361925521
+2025-02-21 08:01:32,165 - INFO - Sigma increased: 14.747105484034384
+2025-02-21 08:01:37,588 - INFO - Sigma increased: 7.8230178274535875
+2025-02-21 08:02:49,558 - INFO - Sigma increased: 7.836182313736164
+2025-02-21 08:04:56,956 - INFO - Sigma increased: 15
+2025-02-21 08:05:31,896 - INFO - Sigma increased: 8.79973679602637
+2025-02-21 08:06:04,544 - INFO - Sigma increased: 9.250128698881383
+2025-02-21 08:07:24,785 - INFO - Sigma increased: 8.405866255434118
+2025-02-21 08:08:31,138 - INFO - Sigma increased: 4.888267229265264
+2025-02-21 08:08:58,670 - INFO - Sigma increased: 4.81274935006426
+2025-02-21 08:09:12,627 - INFO - Sigma increased: 15
+2025-02-21 08:10:28,843 - INFO - Sigma increased: 1
+2025-02-21 08:10:48,633 - INFO - Sigma increased: 8.383422665786831
+2025-02-21 08:11:24,180 - INFO - Sigma increased: 8.175091735663177
+2025-02-21 08:11:38,985 - INFO - Sigma increased: 15
+2025-02-21 08:12:50,596 - INFO - Sigma increased: 15
+2025-02-21 08:13:01,547 - INFO - Sigma increased: 10.48163568791477
+2025-02-21 08:14:38,399 - INFO - Sigma increased: 8.606355302752352
+2025-02-21 08:14:58,109 - INFO - Sigma increased: 6.185007679406965
+2025-02-21 08:14:59,364 - INFO - Sigma increased: 15
+2025-02-21 08:15:20,289 - INFO - Sigma increased: 6.724258058239256
+2025-02-21 08:15:54,668 - INFO - Sigma increased: 2.908033224897584
+2025-02-21 08:16:39,663 - INFO - Sigma increased: 15
+2025-02-21 08:18:27,216 - INFO - Sigma increased: 15
+2025-02-21 08:19:06,643 - INFO - Sigma increased: 8.750432010842724
+2025-02-21 08:19:34,328 - INFO - Sigma increased: 8.268713956214423
+2025-02-21 08:20:41,188 - INFO - Sigma increased: 7.4526126630428555
+2025-02-21 08:20:53,359 - INFO - Sigma increased: 8.539488955826386
+2025-02-21 08:22:08,594 - INFO - Sigma increased: 9.917478487111314
+2025-02-21 08:22:29,874 - INFO - Sigma increased: 15
+2025-02-21 08:22:43,661 - INFO - Sigma increased: 15
+2025-02-21 08:22:47,200 - INFO - Sigma increased: 8.571875289537846
+2025-02-21 08:24:57,360 - INFO - Sigma increased: 7.466439597928767
+2025-02-21 08:25:21,598 - INFO - Sigma increased: 10.065838229120263
+2025-02-21 08:26:17,964 - INFO - Sigma increased: 12.272765927144063
+2025-02-21 08:27:22,728 - INFO - Sigma increased: 6.348204641842557
+2025-02-21 08:27:33,972 - INFO - Sigma increased: 1
+2025-02-21 08:27:36,152 - INFO - Sigma increased: 7.729791901202959
+2025-02-21 08:28:01,927 - INFO - Sigma increased: 15
+2025-02-21 08:28:44,636 - INFO - Sigma increased: 11.341331057576472
+2025-02-21 08:29:25,023 - INFO - Sigma increased: 1
+2025-02-21 08:30:11,628 - INFO - Sigma increased: 8.936376598957764
+2025-02-21 08:30:20,418 - INFO - Sigma increased: 11.624228172708522
+2025-02-21 08:31:27,779 - INFO - Sigma increased: 13.544521273066492
+2025-02-21 08:32:17,544 - INFO - Sigma increased: 12.467997547289533
+2025-02-21 08:32:19,024 - INFO - Sigma increased: 11.110278631607564
+2025-02-21 08:33:43,426 - INFO - Sigma increased: 1.2371120511999718
+2025-02-21 08:34:08,223 - INFO - Sigma increased: 15
+2025-02-21 08:34:30,639 - INFO - Sigma increased: 7.859153077837026
+2025-02-21 08:34:44,800 - INFO - Sigma increased: 15
+2025-02-21 08:35:22,319 - INFO - Sigma increased: 8.27260109352957
+2025-02-21 08:37:26,269 - INFO - Sigma increased: 15
+2025-02-21 08:38:27,245 - INFO - Sigma increased: 5.5139842878137015
+2025-02-21 08:39:53,208 - INFO - Sigma increased: 1.4138376145430451
+2025-02-21 08:39:57,675 - INFO - Sigma increased: 12.286323677890332
+2025-02-21 08:40:41,545 - INFO - Sigma increased: 10.60344669261803
+2025-02-21 08:41:25,694 - INFO - Sigma increased: 4.3380569974686285
+2025-02-21 08:42:02,490 - INFO - Sigma increased: 5.461327249395243
+2025-02-21 08:42:31,656 - INFO - Sigma increased: 13.326824433029774
+2025-02-21 08:43:18,016 - INFO - Sigma increased: 7.424048200441748
+2025-02-21 08:44:17,041 - INFO - Sigma increased: 11.161045945220181
+2025-02-21 08:45:28,072 - INFO - Sigma increased: 6.725459858964009
+2025-02-21 08:45:49,364 - INFO - Sigma increased: 15
+2025-02-21 08:46:03,282 - INFO - Sigma increased: 14.7733435222563
+2025-02-21 08:46:18,808 - INFO - Sigma increased: 1
+2025-02-21 08:47:17,015 - INFO - Sigma increased: 1
+2025-02-21 08:47:33,684 - INFO - Sigma increased: 15
+2025-02-21 08:48:13,370 - INFO - Sigma increased: 9.21804367200891
+2025-02-21 08:48:54,134 - INFO - Sigma increased: 15
+2025-02-21 08:49:12,686 - INFO - Sigma increased: 15
+2025-02-21 08:50:36,675 - INFO - Sigma increased: 1
+2025-02-21 08:50:50,225 - INFO - Sigma increased: 15
+2025-02-21 08:50:59,300 - INFO - Sigma increased: 9.693437544649187
+2025-02-21 08:52:10,906 - INFO - Sigma increased: 15
+2025-02-21 08:54:14,664 - INFO - Sigma increased: 15
+2025-02-21 08:55:15,244 - INFO - Sigma increased: 14.636071178096868
+2025-02-21 08:56:42,228 - INFO - Sigma increased: 15
+2025-02-21 08:58:14,970 - INFO - Sigma increased: 1
+2025-02-21 08:59:49,154 - INFO - Sigma increased: 15
+2025-02-21 09:00:21,869 - INFO - Sigma increased: 1
+2025-02-21 09:00:42,043 - INFO - Sigma increased: 14.0523362291607
+2025-02-21 09:02:23,089 - INFO - Sigma increased: 15
+2025-02-21 09:02:54,717 - INFO - Sigma increased: 4.089993508089504
+2025-02-21 09:04:58,399 - INFO - Sigma increased: 15
+2025-02-21 09:05:07,653 - INFO - Sigma increased: 15
+2025-02-21 09:07:18,125 - INFO - Sigma increased: 14.65999499667516
+2025-02-21 09:07:24,466 - WARNING - Force-stopping RK45 for seed 6, error MABS due to timeout.
+2025-02-21 09:07:24,474 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=9
+2025-02-21 09:07:28,248 - INFO - Sigma increased: 15
+2025-02-21 09:07:32,637 - WARNING - Timeout reached for RK45 on seed 6, error MABS
+2025-02-21 09:07:33,612 - INFO - Execution finished for RK45, seed 6, error MABS in 18008.17 seconds.
+2025-02-21 09:08:12,341 - INFO - Sigma increased: 15
+2025-02-21 09:08:37,377 - INFO - Sigma increased: 15
+2025-02-21 09:08:39,994 - INFO - Sigma increased: 3.4487178916303636
+2025-02-21 09:09:51,807 - INFO - Sigma increased: 1
+2025-02-21 09:09:54,499 - INFO - Sigma increased: 15
+2025-02-21 09:12:32,142 - INFO - Sigma increased: 15
+2025-02-21 09:13:33,418 - INFO - Sigma increased: 15
+2025-02-21 09:13:43,313 - INFO - Sigma increased: 15
+2025-02-21 09:15:41,647 - INFO - Sigma increased: 15
+2025-02-21 09:15:56,163 - INFO - Sigma increased: 1
+2025-02-21 09:16:01,604 - INFO - Sigma increased: 1.0704029428748858
+2025-02-21 09:17:35,593 - INFO - Sigma increased: 3.1346722351713527
+2025-02-21 09:17:36,217 - INFO - Sigma increased: 1.873209264697068
+2025-02-21 09:18:24,727 - INFO - Sigma increased: 15
+2025-02-21 09:18:49,982 - INFO - Sigma increased: 15
+2025-02-21 09:19:36,634 - INFO - Sigma increased: 1.9864188910323537
+2025-02-21 09:19:41,645 - INFO - Sigma increased: 1
+2025-02-21 09:20:44,577 - INFO - Sigma increased: 10.161734639748431
+2025-02-21 09:21:18,976 - INFO - Sigma increased: 1.19939912895996
+2025-02-21 09:22:02,848 - INFO - Sigma increased: 15
+2025-02-21 09:23:14,828 - INFO - Sigma increased: 1.6943301035749194
+2025-02-21 09:23:25,795 - INFO - Sigma increased: 9.144489650202365
+2025-02-21 09:24:17,023 - INFO - Sigma increased: 15
+2025-02-21 09:24:21,046 - INFO - Sigma increased: 1.3966722467735626
+2025-02-21 09:24:54,987 - INFO - Sigma increased: 1.1299720744433277
+2025-02-21 09:25:20,355 - INFO - Sigma increased: 15
+2025-02-21 09:26:35,089 - INFO - Sigma increased: 1.1745071406009258
+2025-02-21 09:26:58,480 - INFO - Sigma increased: 1
+2025-02-21 09:27:50,060 - WARNING - Force-stopping RK45 for seed 7, error ABS due to timeout.
+2025-02-21 09:27:52,471 - WARNING - Timeout reached for RK45 on seed 7, error ABS
+2025-02-21 09:27:52,962 - INFO - Execution finished for RK45, seed 7, error ABS in 18002.42 seconds.
+2025-02-21 09:28:05,651 - INFO - Sigma increased: 10.510855804892667
+2025-02-21 09:28:41,782 - INFO - Sigma increased: 15
+2025-02-21 09:28:59,384 - INFO - Sigma increased: 1
+2025-02-21 09:29:15,666 - INFO - Sigma increased: 1.5808622536805748
+2025-02-21 09:29:41,784 - INFO - Sigma increased: 1
+2025-02-21 09:29:44,344 - INFO - Sigma increased: 15
+2025-02-21 09:29:58,235 - INFO - Sigma increased: 5.748581247229434
+2025-02-21 09:30:34,395 - INFO - Sigma increased: 1
+2025-02-21 09:31:38,758 - INFO - Sigma increased: 15
+2025-02-21 09:32:08,754 - INFO - Sigma increased: 1
+2025-02-21 09:32:20,185 - INFO - Sigma increased: 6.9392150528172625
+2025-02-21 09:33:25,442 - INFO - Sigma increased: 1.4265162750089924
+2025-02-21 09:33:45,620 - INFO - Sigma increased: 1.0886941164476966
+2025-02-21 09:34:15,703 - INFO - Execution finished for RK45, seed 7, error SQUARED in 14189.37 seconds.
+2025-02-21 09:34:18,879 - INFO - Sigma increased: 3.368719900672625
+2025-02-21 09:34:35,055 - INFO - Sigma increased: 15
+2025-02-21 09:34:48,848 - INFO - Sigma increased: 15
+2025-02-21 09:35:02,271 - INFO - Sigma increased: 6.589342784730348
+2025-02-21 09:35:20,025 - INFO - Sigma increased: 1.1748938938580569
+2025-02-21 09:36:21,389 - INFO - Sigma increased: 4.777685063336439
+2025-02-21 09:37:21,778 - INFO - Sigma increased: 15
+2025-02-21 09:37:39,302 - INFO - Sigma increased: 1
+2025-02-21 09:37:40,988 - INFO - Sigma increased: 5.344954364834605
+2025-02-21 09:37:41,242 - INFO - Sigma increased: 2.3023711594226843
+2025-02-21 09:38:11,644 - INFO - Sigma increased: 15
+2025-02-21 09:39:29,230 - INFO - Sigma increased: 8.686533942276371
+2025-02-21 09:39:33,924 - INFO - Sigma increased: 1
+2025-02-21 09:39:48,161 - INFO - Sigma increased: 15
+2025-02-21 09:40:51,506 - INFO - Sigma increased: 1
+2025-02-21 09:41:03,190 - INFO - Sigma increased: 6.011299779117842
+2025-02-21 09:41:09,154 - INFO - Sigma increased: 1
+2025-02-21 09:41:25,670 - INFO - Sigma increased: 9.74834941071675
+2025-02-21 09:42:09,663 - INFO - Sigma increased: 15
+2025-02-21 09:42:15,508 - INFO - Sigma increased: 15
+2025-02-21 09:43:25,166 - INFO - Sigma increased: 7.790524431743543
+2025-02-21 09:43:54,415 - INFO - Sigma increased: 4.300513278456727
+2025-02-21 09:45:01,208 - INFO - Sigma increased: 15
+2025-02-21 09:45:30,316 - INFO - Sigma increased: 7.83212795088811
+2025-02-21 09:46:14,823 - INFO - Sigma increased: 15
+2025-02-21 09:46:21,420 - INFO - Sigma increased: 15
+2025-02-21 09:47:10,830 - INFO - Sigma increased: 8.564666171091686
+2025-02-21 09:47:26,097 - INFO - Sigma increased: 1.9423650316907475
+2025-02-21 09:47:42,572 - INFO - Sigma increased: 8.414017855344648
+2025-02-21 09:48:02,502 - INFO - Sigma increased: 15
+2025-02-21 09:49:16,072 - INFO - Sigma increased: 15
+2025-02-21 09:49:51,235 - INFO - Sigma increased: 14.939493374383925
+2025-02-21 09:50:43,656 - INFO - Sigma increased: 4.61438123070276
+2025-02-21 09:51:00,113 - INFO - Sigma increased: 15
+2025-02-21 09:51:01,648 - INFO - Sigma increased: 2.14584914655301
+2025-02-21 09:51:04,297 - INFO - Sigma increased: 15
+2025-02-21 09:51:28,167 - INFO - Execution finished for RK45, seed 9, error MSE in 9860.74 seconds.
+2025-02-21 09:51:35,372 - INFO - Sigma increased: 13.500093766619464
+2025-02-21 09:51:56,928 - INFO - Sigma increased: 15
+2025-02-21 09:51:57,685 - INFO - Sigma increased: 15
+2025-02-21 09:53:44,920 - INFO - Sigma increased: 15
+2025-02-21 09:53:48,625 - INFO - Sigma increased: 15
+2025-02-21 09:54:40,898 - INFO - Sigma increased: 15
+2025-02-21 09:54:58,440 - INFO - Sigma increased: 15
+2025-02-21 09:55:02,432 - INFO - Sigma increased: 1
+2025-02-21 09:55:32,958 - INFO - Sigma increased: 15
+2025-02-21 09:55:44,329 - INFO - Sigma increased: 15
+2025-02-21 09:56:14,260 - INFO - Sigma increased: 12.532769055722735
+2025-02-21 09:56:52,899 - INFO - Sigma increased: 15
+2025-02-21 09:58:50,116 - INFO - Sigma increased: 15
+2025-02-21 09:59:08,810 - INFO - Sigma increased: 15
+2025-02-21 10:00:28,654 - INFO - Sigma increased: 1
+2025-02-21 10:01:57,865 - INFO - Sigma increased: 15
+2025-02-21 10:02:06,356 - INFO - Sigma increased: 15
+2025-02-21 10:04:56,151 - INFO - Sigma increased: 15
+2025-02-21 10:04:58,308 - INFO - Sigma increased: 1
+2025-02-21 10:05:41,225 - INFO - Sigma increased: 3.6584692916687405
+2025-02-21 10:07:41,377 - INFO - Sigma increased: 15
+2025-02-21 10:08:06,958 - INFO - Execution finished for RK45, seed 9, error ABS in 12945.96 seconds.
+2025-02-21 10:10:16,688 - INFO - Sigma increased: 15
+2025-02-21 10:10:29,711 - INFO - Sigma increased: 6.356091817921083
+2025-02-21 10:11:50,013 - INFO - Sigma increased: 1
+2025-02-21 10:12:45,327 - INFO - Sigma increased: 15
+2025-02-21 10:14:31,760 - INFO - Execution finished for RK45, seed 9, error SQUARED in 12185.96 seconds.
+2025-02-21 10:14:38,927 - INFO - Sigma increased: 6.2066955563167046
+2025-02-21 10:14:59,438 - INFO - Sigma increased: 6.408756642974735
+2025-02-21 10:16:19,039 - INFO - Sigma increased: 1
+2025-02-21 10:20:26,325 - INFO - Sigma increased: 1
+2025-02-21 10:23:39,855 - INFO - Sigma increased: 3.5577901893803343
+2025-02-21 10:24:59,380 - INFO - Sigma increased: 1.0136821070701856
+2025-02-21 10:27:28,816 - INFO - Sigma increased: 1
+2025-02-21 10:28:31,205 - INFO - Sigma increased: 2.4564803329725016
+2025-02-21 10:28:41,291 - INFO - Sigma increased: 3.1821982952545924
+2025-02-21 10:31:30,393 - INFO - Sigma increased: 1
+2025-02-21 10:32:53,135 - INFO - Sigma increased: 5.989499663473492
+2025-02-21 10:33:50,746 - INFO - Sigma increased: 2.8293759094061386
+2025-02-21 10:36:05,053 - INFO - Sigma increased: 3.8356708556033645
+2025-02-21 10:37:55,324 - INFO - Sigma increased: 7.389462998047867
+2025-02-21 10:39:12,614 - INFO - Sigma increased: 3.2706062105639027
+2025-02-21 10:42:42,420 - INFO - Sigma increased: 1
+2025-02-21 10:43:22,211 - INFO - Execution finished for RK45, seed 8, error MSE in 15262.67 seconds.
+2025-02-21 10:44:08,697 - INFO - Sigma increased: 2.7216308297884533
+2025-02-21 10:46:19,516 - INFO - Sigma increased: 1.8757013697233562
+2025-02-21 10:46:45,668 - INFO - Sigma increased: 2.4084338372110916
+2025-02-21 10:48:47,769 - INFO - Sigma increased: 4.568349905251545
+2025-02-21 10:50:41,479 - INFO - Execution finished for RK45, seed 8, error SQUARED in 15922.59 seconds.
+2025-02-21 10:53:13,987 - INFO - Sigma increased: 4.650834334020571
+2025-02-21 10:53:30,434 - INFO - Sigma increased: 4.601130176081968
+2025-02-21 10:56:05,897 - INFO - Sigma increased: 4.638777677158314
+2025-02-21 10:56:18,138 - INFO - Sigma increased: 1
+2025-02-21 10:59:38,184 - INFO - Sigma increased: 15
+2025-02-21 11:00:19,487 - INFO - Sigma increased: 3.6877530323876306
+2025-02-21 11:02:23,422 - INFO - Sigma increased: 1.5868712536126144
+2025-02-21 11:03:43,469 - INFO - Sigma increased: 15
+2025-02-21 11:04:06,832 - WARNING - Timeout reached for RK45 on seed 7, error MSE
+2025-02-21 11:04:07,146 - INFO - Execution finished for RK45, seed 7, error MSE in 18019.98 seconds.
+2025-02-21 11:04:54,007 - INFO - Sigma increased: 4.070071584290135
+2025-02-21 11:05:51,306 - INFO - Sigma increased: 1.5332341944274153
+2025-02-21 11:08:10,728 - INFO - Sigma increased: 2.404296372971521
+2025-02-21 11:08:31,842 - INFO - Sigma increased: 2.071430221637684
+2025-02-21 11:11:47,329 - INFO - Sigma increased: 15
+2025-02-21 11:13:32,037 - INFO - Sigma increased: 1
+2025-02-21 11:13:51,770 - INFO - Execution finished for RK45, seed 7, error MABS in 17864.56 seconds.
+2025-02-21 11:16:05,953 - INFO - Sigma increased: 1.119820937449543
+2025-02-21 11:18:23,475 - INFO - Sigma increased: 1.1235056394355027
+2025-02-21 11:20:01,124 - WARNING - Force-stopping RK45 for seed 8, error ABS due to timeout.
+2025-02-21 11:20:02,796 - WARNING - Timeout reached for RK45 on seed 8, error ABS
+2025-02-21 11:20:03,015 - INFO - Execution finished for RK45, seed 8, error ABS in 18001.67 seconds.
+2025-02-21 11:20:18,375 - INFO - Sigma increased: 1.5861089029937419
+2025-02-21 11:21:00,779 - INFO - Sigma increased: 1
+2025-02-21 11:21:26,857 - INFO - Sigma increased: 2.1185226752554147
+2025-02-21 11:24:25,525 - INFO - Sigma increased: 1.2142287105791856
+2025-02-21 11:24:26,494 - INFO - Sigma increased: 4.622466815067361
+2025-02-21 11:25:37,213 - INFO - Sigma increased: 6.002174581881141
+2025-02-21 11:25:59,837 - INFO - Execution finished for RK45, seed 8, error MABS in 17618.99 seconds.
+2025-02-21 11:26:17,242 - INFO - Sigma increased: 10.65126302143507
+2025-02-21 11:26:57,729 - INFO - Sigma increased: 10.640139845495664
+2025-02-21 11:27:25,944 - INFO - Sigma increased: 4.907039629919248
+2025-02-21 11:27:55,224 - INFO - Sigma increased: 3.440317518376978
+2025-02-21 11:28:32,695 - INFO - Sigma increased: 3.5494361682599025
+2025-02-21 11:29:02,004 - INFO - Sigma increased: 5.802693802331428
+2025-02-21 11:29:31,552 - INFO - Sigma increased: 11.475141250791168
+2025-02-21 11:30:00,991 - INFO - Sigma increased: 15
+2025-02-21 11:30:39,159 - INFO - Execution finished for RK45, seed 9, error MABS in 8594.65 seconds.
+2025-02-22 11:45:47,856 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=0
+2025-02-22 11:45:47,861 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=0
+2025-02-22 11:45:47,861 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=0
+2025-02-22 11:45:47,890 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=0
+2025-02-22 11:45:47,893 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=1
+2025-02-22 11:45:47,908 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=1
+2025-02-22 11:45:47,914 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=1
+2025-02-22 11:45:47,915 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=1
+2025-02-22 11:45:47,925 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=2
+2025-02-22 11:45:47,927 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=2
+2025-02-22 11:45:47,942 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=2
+2025-02-22 11:45:47,951 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=2
+2025-02-22 11:51:05,534 - INFO - Sigma increased: 1.429060601298339
+2025-02-22 11:51:47,167 - INFO - Sigma increased: 4.546114048768165
+2025-02-22 11:59:08,396 - INFO - Sigma increased: 1
+2025-02-22 12:00:35,444 - INFO - Sigma increased: 1
+2025-02-22 12:01:47,431 - INFO - Sigma increased: 2.114578707932328
+2025-02-22 12:04:22,057 - INFO - Sigma increased: 2.2574309525921894
+2025-02-22 12:05:38,156 - INFO - Sigma increased: 1
+2025-02-22 12:07:31,612 - INFO - Sigma increased: 1
+2025-02-22 12:07:44,766 - INFO - Sigma increased: 5.159048547406217
+2025-02-22 12:10:42,535 - INFO - Sigma increased: 1
+2025-02-22 12:10:48,235 - INFO - Sigma increased: 2.901895956433462
+2025-02-22 12:11:56,198 - INFO - Sigma increased: 1
+2025-02-22 12:13:43,030 - INFO - Sigma increased: 10.506679504723435
+2025-02-22 12:14:41,548 - INFO - Sigma increased: 4.670504159752046
+2025-02-22 12:15:30,914 - INFO - Sigma increased: 4.047017745426723
+2025-02-22 12:16:27,609 - INFO - Sigma increased: 1
+2025-02-22 12:18:20,693 - INFO - Sigma increased: 4.668657079358169
+2025-02-22 12:18:45,547 - INFO - Sigma increased: 2.7448636713142482
+2025-02-22 12:18:53,731 - INFO - Sigma increased: 9.776862913089149
+2025-02-22 12:21:09,055 - INFO - Sigma increased: 5.707922406312647
+2025-02-22 12:21:19,501 - INFO - Sigma increased: 5.653964281576403
+2025-02-22 12:21:43,488 - INFO - Sigma increased: 15
+2025-02-22 12:21:53,162 - INFO - Sigma increased: 1
+2025-02-22 12:23:53,251 - INFO - Sigma increased: 7.15883564879819
+2025-02-22 12:25:22,781 - INFO - Sigma increased: 5.170663909712316
+2025-02-22 12:25:23,651 - INFO - Sigma increased: 14.542521217633714
+2025-02-22 12:26:32,541 - INFO - Sigma increased: 2.24931125673674
+2025-02-22 12:27:06,080 - INFO - Sigma increased: 7.146153830240031
+2025-02-22 12:27:17,671 - INFO - Sigma increased: 1
+2025-02-22 12:28:33,178 - INFO - Sigma increased: 5.013576151880742
+2025-02-22 12:29:08,480 - INFO - Sigma increased: 5.791813360619894
+2025-02-22 12:30:39,549 - INFO - Sigma increased: 7.898225555099396
+2025-02-22 12:31:06,367 - INFO - Sigma increased: 3.888923317459856
+2025-02-22 12:31:38,344 - INFO - Sigma increased: 4.533133588574248
+2025-02-22 12:32:31,913 - INFO - Sigma increased: 1.8600265643688363
+2025-02-22 12:32:42,452 - INFO - Sigma increased: 5.664582200923141
+2025-02-22 12:33:23,982 - INFO - Sigma increased: 6.296407841447365
+2025-02-22 12:34:19,187 - INFO - Sigma increased: 8.434980844028685
+2025-02-22 12:34:21,941 - INFO - Sigma increased: 15
+2025-02-22 12:35:37,073 - INFO - Sigma increased: 9.603425679771151
+2025-02-22 12:35:40,750 - INFO - Sigma increased: 1
+2025-02-22 12:36:10,055 - INFO - Sigma increased: 10.516998103750092
+2025-02-22 12:36:55,536 - INFO - Sigma increased: 9.313378241558762
+2025-02-22 12:37:35,949 - INFO - Sigma increased: 7.398188290646198
+2025-02-22 12:37:48,484 - INFO - Sigma increased: 1
+2025-02-22 12:38:11,219 - INFO - Sigma increased: 1.3670152150210595
+2025-02-22 12:39:10,778 - INFO - Sigma increased: 3.2781325144712934
+2025-02-22 12:39:16,395 - INFO - Sigma increased: 9.964313042961884
+2025-02-22 12:39:29,519 - INFO - Sigma increased: 2.632558542572739
+2025-02-22 12:40:45,152 - INFO - Sigma increased: 5.812226131324586
+2025-02-22 12:40:50,101 - INFO - Sigma increased: 15
+2025-02-22 12:42:31,571 - INFO - Sigma increased: 4.69009264340815
+2025-02-22 12:43:06,878 - INFO - Sigma increased: 6.329422621431967
+2025-02-22 12:43:40,989 - INFO - Sigma increased: 1
+2025-02-22 12:44:26,645 - INFO - Sigma increased: 7.981752062809644
+2025-02-22 12:45:20,791 - INFO - Sigma increased: 5.2674263118734395
+2025-02-22 12:45:55,325 - INFO - Sigma increased: 5.810033256199203
+2025-02-22 12:45:59,866 - INFO - Sigma increased: 15
+2025-02-22 12:46:41,895 - INFO - Sigma increased: 2.9994472302812647
+2025-02-22 12:46:46,112 - INFO - Sigma increased: 4.369707631449874
+2025-02-22 12:48:50,155 - INFO - Sigma increased: 8.606254772838964
+2025-02-22 12:49:27,998 - INFO - Sigma increased: 4.766769768542119
+2025-02-22 12:49:56,361 - INFO - Sigma increased: 5.809869567600499
+2025-02-22 12:50:53,320 - INFO - Sigma increased: 15
+2025-02-22 12:51:45,088 - INFO - Sigma increased: 4.973996717766794
+2025-02-22 12:51:55,161 - INFO - Sigma increased: 5.008917436622131
+2025-02-22 12:52:10,770 - INFO - Sigma increased: 10.626075349350316
+2025-02-22 12:53:07,347 - INFO - Sigma increased: 8.366888615400491
+2025-02-22 12:53:56,693 - INFO - Sigma increased: 6.339737682886755
+2025-02-22 12:55:34,072 - INFO - Sigma increased: 1
+2025-02-22 12:56:32,594 - INFO - Sigma increased: 6.731041419223161
+2025-02-22 12:56:39,822 - INFO - Sigma increased: 6.16935793328506
+2025-02-22 12:56:42,113 - INFO - Sigma increased: 6.174996543266369
+2025-02-22 12:57:18,824 - INFO - Sigma increased: 4.936815006866281
+2025-02-22 12:57:54,279 - INFO - Sigma increased: 9.236584724204825
+2025-02-22 12:59:30,639 - INFO - Sigma increased: 12.243800400367634
+2025-02-22 13:00:22,001 - INFO - Sigma increased: 5.564262908234187
+2025-02-22 13:00:58,264 - INFO - Sigma increased: 5.617962641896412
+2025-02-22 13:01:10,553 - INFO - Sigma increased: 1
+2025-02-22 13:01:12,845 - INFO - Sigma increased: 13.696240925849121
+2025-02-22 13:01:25,109 - INFO - Sigma increased: 2.4257949146739026
+2025-02-22 13:02:05,668 - INFO - Sigma increased: 1
+2025-02-22 13:03:07,660 - INFO - Sigma increased: 9.329375317887088
+2025-02-22 13:03:11,125 - INFO - Sigma increased: 6.431630887082031
+2025-02-22 13:03:59,647 - INFO - Sigma increased: 11.433690178561323
+2025-02-22 13:04:09,708 - INFO - Sigma increased: 6.450973621518403
+2025-02-22 13:05:07,387 - INFO - Sigma increased: 11.83215734148657
+2025-02-22 13:05:09,261 - INFO - Sigma increased: 13.629580151869591
+2025-02-22 13:06:36,554 - INFO - Sigma increased: 13.01564276075845
+2025-02-22 13:06:50,005 - INFO - Sigma increased: 2.2201649328802096
+2025-02-22 13:06:58,463 - INFO - Sigma increased: 4.664777279822506
+2025-02-22 13:07:23,363 - INFO - Sigma increased: 5.554012907748661
+2025-02-22 13:08:06,158 - INFO - Sigma increased: 7.923940482734953
+2025-02-22 13:08:20,248 - INFO - Sigma increased: 9.562587062132756
+2025-02-22 13:08:38,619 - INFO - Sigma increased: 8.949769353296396
+2025-02-22 13:09:24,033 - INFO - Sigma increased: 5.2122056242694175
+2025-02-22 13:09:56,852 - INFO - Sigma increased: 11.459101405836268
+2025-02-22 13:10:34,966 - INFO - Sigma increased: 15
+2025-02-22 13:11:07,927 - INFO - Sigma increased: 15
+2025-02-22 13:11:23,738 - INFO - Sigma increased: 6.4534906863983235
+2025-02-22 13:11:31,668 - INFO - Sigma increased: 1
+2025-02-22 13:11:46,828 - INFO - Sigma increased: 7.774934543312609
+2025-02-22 13:13:45,912 - INFO - Sigma increased: 6.483161783413857
+2025-02-22 13:14:18,428 - INFO - Sigma increased: 8.543089071723058
+2025-02-22 13:14:21,331 - INFO - Sigma increased: 12.453545106847807
+2025-02-22 13:14:21,691 - INFO - Sigma increased: 15
+2025-02-22 13:15:53,133 - INFO - Sigma increased: 7.308250539280918
+2025-02-22 13:16:34,188 - INFO - Sigma increased: 13.33619573756883
+2025-02-22 13:17:36,431 - INFO - Sigma increased: 5.50208828563826
+2025-02-22 13:17:42,183 - INFO - Sigma increased: 10.408346238139593
+2025-02-22 13:18:41,337 - INFO - Sigma increased: 8.819616850271657
+2025-02-22 13:18:48,163 - INFO - Sigma increased: 2.827394650672784
+2025-02-22 13:18:58,615 - INFO - Sigma increased: 9.18457758983423
+2025-02-22 13:19:06,378 - INFO - Sigma increased: 6.854044363947326
+2025-02-22 13:20:15,091 - INFO - Sigma increased: 15
+2025-02-22 13:20:24,139 - INFO - Sigma increased: 9.597158907654164
+2025-02-22 13:21:10,657 - INFO - Sigma increased: 13.657794885041003
+2025-02-22 13:23:19,514 - INFO - Sigma increased: 8.567634882017245
+2025-02-22 13:24:03,147 - INFO - Sigma increased: 7.812865006829668
+2025-02-22 13:25:16,862 - INFO - Sigma increased: 15
+2025-02-22 13:25:49,340 - INFO - Sigma increased: 7.295151730619108
+2025-02-22 13:26:28,715 - INFO - Sigma increased: 9.66372292542704
+2025-02-22 13:26:49,747 - INFO - Sigma increased: 8.239716721517679
+2025-02-22 13:29:03,777 - INFO - Sigma increased: 7.762328733469429
+2025-02-22 13:30:23,692 - INFO - Sigma increased: 5.838440552087328
+2025-02-22 13:32:02,558 - INFO - Sigma increased: 9.326759121123686
+2025-02-22 13:32:29,316 - INFO - Sigma increased: 15
+2025-02-22 13:33:13,972 - INFO - Sigma increased: 12.1772238713688
+2025-02-22 13:33:58,211 - INFO - Sigma increased: 7.915729465811824
+2025-02-22 13:34:04,955 - INFO - Sigma increased: 13.386555946844299
+2025-02-22 13:34:54,685 - INFO - Sigma increased: 5.537916448427131
+2025-02-22 13:37:22,146 - INFO - Sigma increased: 14.161285286107674
+2025-02-22 13:38:03,214 - INFO - Sigma increased: 13.632698850526541
+2025-02-22 13:38:18,097 - INFO - Sigma increased: 4.33234571340461
+2025-02-22 13:38:53,486 - INFO - Sigma increased: 8.756261652825907
+2025-02-22 13:39:19,162 - INFO - Sigma increased: 9.615293035965811
+2025-02-22 13:41:02,178 - INFO - Sigma increased: 15
+2025-02-22 13:42:13,495 - INFO - Sigma increased: 8.392438190398778
+2025-02-22 13:42:35,987 - INFO - Sigma increased: 15
+2025-02-22 13:43:00,397 - INFO - Sigma increased: 13.187353921252953
+2025-02-22 13:44:38,981 - INFO - Sigma increased: 15
+2025-02-22 13:49:21,467 - INFO - Sigma increased: 15
+2025-02-22 13:49:30,770 - INFO - Sigma increased: 15
+2025-02-22 13:52:36,583 - INFO - Sigma increased: 8.689506424423728
+2025-02-22 13:54:02,228 - INFO - Sigma increased: 1
+2025-02-22 13:54:54,218 - INFO - Sigma increased: 8.015847427781017
+2025-02-22 13:55:07,328 - INFO - Sigma increased: 14.386784050171755
+2025-02-22 13:56:43,871 - INFO - Sigma increased: 15
+2025-02-22 13:57:11,487 - INFO - Sigma increased: 15
+2025-02-22 13:58:54,617 - INFO - Sigma increased: 6.812471403522061
+2025-02-22 13:59:08,475 - INFO - Sigma increased: 1
+2025-02-22 14:01:24,487 - INFO - Sigma increased: 1
+2025-02-22 14:02:28,476 - INFO - Sigma increased: 10.297788758007355
+2025-02-22 14:04:24,284 - INFO - Sigma increased: 9.031521186460346
+2025-02-22 14:07:50,384 - INFO - Sigma increased: 15
+2025-02-22 14:08:13,933 - INFO - Sigma increased: 1
+2025-02-22 14:09:51,902 - INFO - Sigma increased: 10.56469516058662
+2025-02-22 14:09:52,396 - INFO - Sigma increased: 8.218327884252954
+2025-02-22 14:10:32,355 - INFO - Sigma increased: 10.58767065247648
+2025-02-22 14:12:10,008 - INFO - Sigma increased: 1
+2025-02-22 14:14:25,113 - INFO - Sigma increased: 8.627635010119999
+2025-02-22 14:14:33,466 - INFO - Sigma increased: 6.606625640155887
+2025-02-22 14:14:58,361 - INFO - Sigma increased: 15
+2025-02-22 14:15:26,691 - INFO - Sigma increased: 15
+2025-02-22 14:16:48,731 - INFO - Sigma increased: 8.811518779750001
+2025-02-22 14:20:41,184 - INFO - Sigma increased: 1.6261219718022666
+2025-02-22 14:21:35,266 - INFO - Sigma increased: 11.76603758794421
+2025-02-22 14:22:24,217 - INFO - Sigma increased: 8.33572479052543
+2025-02-22 14:23:45,315 - INFO - Sigma increased: 9.041934515924074
+2025-02-22 14:25:23,201 - INFO - Sigma increased: 15
+2025-02-22 14:26:31,362 - INFO - Sigma increased: 2.4597113728611135
+2025-02-22 14:28:13,753 - INFO - Sigma increased: 8.93117580189788
+2025-02-22 14:28:20,235 - INFO - Sigma increased: 15
+2025-02-22 14:30:59,362 - INFO - Sigma increased: 2.8844068568879266
+2025-02-22 14:31:43,815 - INFO - Sigma increased: 15
+2025-02-22 14:33:31,583 - INFO - Sigma increased: 1
+2025-02-22 14:33:51,947 - INFO - Sigma increased: 15
+2025-02-22 14:35:13,690 - INFO - Sigma increased: 1
+2025-02-22 14:36:34,882 - INFO - Sigma increased: 14.341897466439367
+2025-02-22 14:40:00,195 - INFO - Sigma increased: 15
+2025-02-22 14:44:13,964 - INFO - Sigma increased: 1
+2025-02-22 14:44:15,661 - INFO - Sigma increased: 12.455868884355148
+2025-02-22 14:44:16,380 - INFO - Sigma increased: 1
+2025-02-22 14:45:59,797 - INFO - Sigma increased: 1
+2025-02-22 14:48:00,572 - INFO - Sigma increased: 1
+2025-02-22 14:48:40,387 - INFO - Sigma increased: 1
+2025-02-22 14:49:56,209 - INFO - Sigma increased: 1.5701919675192277
+2025-02-22 14:51:10,772 - INFO - Sigma increased: 15
+2025-02-22 14:51:28,222 - INFO - Sigma increased: 1.081191251961855
+2025-02-22 14:52:16,389 - INFO - Sigma increased: 4.525925444122317
+2025-02-22 14:53:17,077 - INFO - Sigma increased: 1
+2025-02-22 14:53:42,521 - INFO - Sigma increased: 1.9944130048835407
+2025-02-22 14:56:17,263 - INFO - Sigma increased: 9.504905638045983
+2025-02-22 15:01:40,572 - INFO - Sigma increased: 7.671107422747845
+2025-02-22 15:01:46,134 - INFO - Sigma increased: 15
+2025-02-22 15:06:25,746 - INFO - Sigma increased: 1
+2025-02-22 15:06:39,047 - INFO - Sigma increased: 1
+2025-02-22 15:07:57,774 - INFO - Sigma increased: 8.958990937324916
+2025-02-22 15:12:34,246 - INFO - Sigma increased: 15
+2025-02-22 15:13:04,432 - INFO - Sigma increased: 1
+2025-02-22 15:18:33,391 - INFO - Sigma increased: 3.066240451094307
+2025-02-22 15:19:20,882 - INFO - Sigma increased: 7.873259239484295
+2025-02-22 15:20:55,849 - INFO - Sigma increased: 1
+2025-02-22 15:21:29,269 - INFO - Sigma increased: 1
+2025-02-22 15:22:06,243 - INFO - Sigma increased: 8.170501051762752
+2025-02-22 15:27:07,068 - INFO - Sigma increased: 1
+2025-02-22 15:27:27,680 - INFO - Sigma increased: 1.1245330002179703
+2025-02-22 15:27:51,804 - INFO - Sigma increased: 1
+2025-02-22 15:33:01,747 - INFO - Sigma increased: 15
+2025-02-22 15:34:22,114 - INFO - Sigma increased: 3.1872467920893923
+2025-02-22 15:34:29,384 - INFO - Sigma increased: 1
+2025-02-22 15:37:26,185 - INFO - Sigma increased: 1
+2025-02-22 15:37:35,471 - INFO - Sigma increased: 1
+2025-02-22 15:38:17,146 - INFO - Sigma increased: 3.6172075781998037
+2025-02-22 15:41:38,849 - INFO - Sigma increased: 3.0684445105529337
+2025-02-22 15:42:20,174 - INFO - Sigma increased: 15
+2025-02-22 15:47:44,827 - INFO - Sigma increased: 1
+2025-02-22 15:50:48,621 - INFO - Sigma increased: 15
+2025-02-22 15:51:50,742 - INFO - Sigma increased: 1.5689583628398958
+2025-02-22 15:55:14,916 - INFO - Sigma increased: 1
+2025-02-22 15:57:55,877 - INFO - Sigma increased: 2.0667220183555712
+2025-02-22 15:59:08,556 - INFO - Sigma increased: 1
+2025-02-22 16:00:04,890 - INFO - Sigma increased: 1
+2025-02-22 16:00:24,879 - INFO - Sigma increased: 15
+2025-02-22 16:06:30,467 - INFO - Sigma increased: 1.6598329034469654
+2025-02-22 16:08:13,163 - INFO - Sigma increased: 2.6692303436899305
+2025-02-22 16:08:26,969 - INFO - Sigma increased: 1
+2025-02-22 16:08:35,591 - INFO - Sigma increased: 15
+2025-02-22 16:10:02,463 - INFO - Sigma increased: 1
+2025-02-22 16:10:56,384 - INFO - Sigma increased: 2.7811649211221128
+2025-02-22 16:13:45,744 - INFO - Sigma increased: 1
+2025-02-22 16:14:03,978 - INFO - Sigma increased: 4.2102528474489755
+2025-02-22 16:16:12,414 - INFO - Sigma increased: 4.849119107326633
+2025-02-22 16:17:34,757 - INFO - Sigma increased: 15
+2025-02-22 16:20:36,235 - INFO - Sigma increased: 1
+2025-02-22 16:20:52,668 - INFO - Sigma increased: 3.1114949225726356
+2025-02-22 16:22:27,897 - INFO - Sigma increased: 1.362433038741698
+2025-02-22 16:22:36,324 - INFO - Sigma increased: 11.604637000639775
+2025-02-22 16:24:12,284 - INFO - Sigma increased: 4.039657257325533
+2025-02-22 16:24:41,355 - INFO - Sigma increased: 1
+2025-02-22 16:27:43,798 - INFO - Sigma increased: 10.897440882411342
+2025-02-22 16:30:20,445 - INFO - Sigma increased: 1
+2025-02-22 16:31:33,615 - INFO - Sigma increased: 1
+2025-02-22 16:32:23,027 - INFO - Sigma increased: 3.8660742948156948
+2025-02-22 16:33:35,428 - INFO - Sigma increased: 15
+2025-02-22 16:34:46,238 - INFO - Sigma increased: 1.117179145311746
+2025-02-22 16:39:43,777 - INFO - Sigma increased: 9.869539001496587
+2025-02-22 16:40:12,149 - INFO - Sigma increased: 3.344432253676422
+2025-02-22 16:40:59,849 - INFO - Sigma increased: 1.260876934557963
+2025-02-22 16:41:14,865 - INFO - Sigma increased: 1
+2025-02-22 16:45:47,877 - WARNING - Force-stopping RK45 for seed 0, error MSE due to timeout.
+2025-02-22 16:45:47,878 - WARNING - Force-stopping RK45 for seed 0, error ABS due to timeout.
+2025-02-22 16:45:47,878 - WARNING - Force-stopping RK45 for seed 0, error SQUARED due to timeout.
+2025-02-22 16:45:47,936 - WARNING - Force-stopping RK45 for seed 1, error MSE due to timeout.
+2025-02-22 16:45:47,937 - WARNING - Force-stopping RK45 for seed 2, error SQUARED due to timeout.
+2025-02-22 16:45:47,940 - WARNING - Force-stopping RK45 for seed 1, error SQUARED due to timeout.
+2025-02-22 16:45:47,945 - WARNING - Force-stopping RK45 for seed 2, error ABS due to timeout.
+2025-02-22 16:45:47,945 - WARNING - Force-stopping RK45 for seed 1, error MABS due to timeout.
+2025-02-22 16:45:47,945 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=3
+2025-02-22 16:45:47,946 - WARNING - Force-stopping RK45 for seed 1, error ABS due to timeout.
+2025-02-22 16:45:47,946 - WARNING - Force-stopping RK45 for seed 0, error MABS due to timeout.
+2025-02-22 16:45:47,946 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=3
+2025-02-22 16:45:47,960 - WARNING - Force-stopping RK45 for seed 2, error MABS due to timeout.
+2025-02-22 16:45:47,961 - WARNING - Force-stopping RK45 for seed 2, error MSE due to timeout.
+2025-02-22 16:45:47,974 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=3
+2025-02-22 16:45:47,991 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=4
+2025-02-22 16:45:47,991 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=3
+2025-02-22 16:45:48,008 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=4
+2025-02-22 16:45:48,008 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=4
+2025-02-22 16:45:48,011 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=4
+2025-02-22 16:45:48,022 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=5
+2025-02-22 16:45:48,039 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=5
+2025-02-22 16:45:48,053 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=5
+2025-02-22 16:45:48,053 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=5
+2025-02-22 16:45:49,869 - WARNING - Timeout reached for RK45 on seed 2, error MSE
+2025-02-22 16:45:51,077 - INFO - Execution finished for RK45, seed 2, error MSE in 18001.89 seconds.
+2025-02-22 16:45:51,427 - WARNING - Timeout reached for RK45 on seed 2, error SQUARED
+2025-02-22 16:45:51,946 - WARNING - Timeout reached for RK45 on seed 0, error MSE
+2025-02-22 16:45:51,946 - WARNING - Timeout reached for RK45 on seed 0, error ABS
+2025-02-22 16:45:52,144 - WARNING - Timeout reached for RK45 on seed 1, error ABS
+2025-02-22 16:45:52,188 - INFO - Execution finished for RK45, seed 2, error SQUARED in 18003.45 seconds.
+2025-02-22 16:45:52,644 - WARNING - Timeout reached for RK45 on seed 0, error SQUARED
+2025-02-22 16:45:52,772 - INFO - Execution finished for RK45, seed 0, error ABS in 18004.03 seconds.
+2025-02-22 16:45:53,462 - INFO - Execution finished for RK45, seed 1, error ABS in 18004.19 seconds.
+2025-02-22 16:45:53,492 - INFO - Execution finished for RK45, seed 0, error SQUARED in 18004.75 seconds.
+2025-02-22 16:45:53,611 - INFO - Execution finished for RK45, seed 0, error MSE in 18004.02 seconds.
+2025-02-22 16:45:54,530 - WARNING - Timeout reached for RK45 on seed 2, error MABS
+2025-02-22 16:45:54,781 - WARNING - Timeout reached for RK45 on seed 1, error SQUARED
+2025-02-22 16:45:55,254 - INFO - Execution finished for RK45, seed 2, error MABS in 18006.53 seconds.
+2025-02-22 16:45:55,711 - INFO - Execution finished for RK45, seed 1, error SQUARED in 18006.81 seconds.
+2025-02-22 16:45:57,004 - WARNING - Timeout reached for RK45 on seed 1, error MSE
+2025-02-22 16:45:57,046 - WARNING - Timeout reached for RK45 on seed 0, error MABS
+2025-02-22 16:45:57,688 - INFO - Execution finished for RK45, seed 0, error MABS in 18009.11 seconds.
+2025-02-22 16:45:57,830 - INFO - Execution finished for RK45, seed 1, error MSE in 18009.05 seconds.
+2025-02-22 16:45:58,296 - WARNING - Timeout reached for RK45 on seed 2, error ABS
+2025-02-22 16:45:59,084 - INFO - Execution finished for RK45, seed 2, error ABS in 18010.31 seconds.
+2025-02-22 16:46:01,066 - WARNING - Timeout reached for RK45 on seed 1, error MABS
+2025-02-22 16:46:02,039 - INFO - Execution finished for RK45, seed 1, error MABS in 18013.11 seconds.
+2025-02-22 16:50:30,062 - INFO - Sigma increased: 4.062469879366432
+2025-02-22 16:50:43,076 - INFO - Sigma increased: 6.578515105600182
+2025-02-22 16:54:24,334 - INFO - Sigma increased: 5.370987878079213
+2025-02-22 16:54:50,852 - INFO - Sigma increased: 1.7572274226351454
+2025-02-22 16:56:00,110 - INFO - Sigma increased: 1
+2025-02-22 16:56:43,273 - INFO - Sigma increased: 1.7047840172675128
+2025-02-22 16:58:24,815 - INFO - Sigma increased: 1.5152317808666718
+2025-02-22 16:59:02,359 - INFO - Sigma increased: 2.503045262491503
+2025-02-22 16:59:29,051 - INFO - Sigma increased: 1.6151275776536778
+2025-02-22 17:00:36,974 - INFO - Sigma increased: 1
+2025-02-22 17:01:05,768 - INFO - Sigma increased: 3.2889987804454055
+2025-02-22 17:01:57,394 - INFO - Sigma increased: 4.365929816899004
+2025-02-22 17:03:22,175 - INFO - Sigma increased: 2.6384445413865807
+2025-02-22 17:03:24,491 - INFO - Sigma increased: 1.3036691431082854
+2025-02-22 17:03:36,984 - INFO - Sigma increased: 1
+2025-02-22 17:04:11,662 - INFO - Sigma increased: 1
+2025-02-22 17:04:57,077 - INFO - Sigma increased: 1
+2025-02-22 17:05:15,085 - INFO - Sigma increased: 5.8591750101821924
+2025-02-22 17:06:37,005 - INFO - Sigma increased: 4.900176725958778
+2025-02-22 17:07:47,202 - INFO - Sigma increased: 8.435639646589939
+2025-02-22 17:07:54,926 - INFO - Sigma increased: 4.436943976373678
+2025-02-22 17:08:33,474 - INFO - Sigma increased: 1
+2025-02-22 17:11:47,680 - INFO - Sigma increased: 4.971117999630944
+2025-02-22 17:12:13,086 - INFO - Sigma increased: 5.879119649259504
+2025-02-22 17:13:51,993 - INFO - Sigma increased: 8.114798802252281
+2025-02-22 17:15:00,872 - INFO - Sigma increased: 5.714955310736432
+2025-02-22 17:15:53,763 - INFO - Sigma increased: 4.985900648198504
+2025-02-22 17:16:52,885 - INFO - Sigma increased: 1
+2025-02-22 17:18:32,095 - INFO - Sigma increased: 5.613462614837479
+2025-02-22 17:20:07,157 - INFO - Sigma increased: 13.118001603727656
+2025-02-22 17:21:32,563 - INFO - Sigma increased: 2.3002617374662204
