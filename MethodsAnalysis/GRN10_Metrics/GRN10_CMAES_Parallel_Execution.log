@@ -1,0 +1,360 @@
+2025-03-19 12:16:43,315 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=0
+2025-03-19 12:16:43,315 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=0
+2025-03-19 12:16:43,322 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=0
+2025-03-19 12:16:43,325 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=0
+2025-03-19 12:16:43,327 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=1
+2025-03-19 12:16:43,327 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=1
+2025-03-19 12:16:43,330 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=1
+2025-03-19 12:16:43,332 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=1
+2025-03-19 12:16:43,334 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=2
+2025-03-19 12:16:43,335 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=2
+2025-03-19 12:16:43,336 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=2
+2025-03-19 12:16:43,344 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=2
+2025-03-19 12:19:03,805 - INFO - Execution finished for RK45, seed 1, error ABS in 138.59 seconds.
+2025-03-19 12:19:03,821 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=3
+2025-03-19 12:19:06,084 - INFO - Execution finished for RK45, seed 0, error ABS in 140.38 seconds.
+2025-03-19 12:19:06,094 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=3
+2025-03-19 12:19:07,788 - INFO - Execution finished for RK45, seed 0, error MSE in 142.08 seconds.
+2025-03-19 12:19:07,794 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=3
+2025-03-19 12:19:10,256 - INFO - Execution finished for RK45, seed 2, error ABS in 144.00 seconds.
+2025-03-19 12:19:10,283 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=3
+2025-03-19 12:19:11,311 - INFO - Execution finished for RK45, seed 1, error MSE in 144.85 seconds.
+2025-03-19 12:19:11,314 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=4
+2025-03-19 12:19:12,764 - INFO - Execution finished for RK45, seed 1, error SQUARED in 147.25 seconds.
+2025-03-19 12:19:12,768 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=4
+2025-03-19 12:19:14,069 - INFO - Execution finished for RK45, seed 2, error MSE in 148.63 seconds.
+2025-03-19 12:19:14,080 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=4
+2025-03-19 12:19:17,337 - INFO - Execution finished for RK45, seed 0, error SQUARED in 151.89 seconds.
+2025-03-19 12:19:17,347 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=4
+2025-03-19 12:19:18,045 - INFO - Execution finished for RK45, seed 2, error SQUARED in 152.69 seconds.
+2025-03-19 12:19:18,048 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=5
+2025-03-19 12:19:18,914 - INFO - Execution finished for RK45, seed 1, error MABS in 153.76 seconds.
+2025-03-19 12:19:18,925 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=5
+2025-03-19 12:19:21,750 - INFO - Execution finished for RK45, seed 2, error MABS in 156.21 seconds.
+2025-03-19 12:19:21,761 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=5
+2025-03-19 12:19:26,169 - INFO - Execution finished for RK45, seed 0, error MABS in 160.75 seconds.
+2025-03-19 12:19:26,174 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=5
+2025-03-19 12:21:25,765 - INFO - Execution finished for RK45, seed 3, error SQUARED in 139.03 seconds.
+2025-03-19 12:21:25,769 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=6
+2025-03-19 12:21:30,751 - INFO - Execution finished for RK45, seed 4, error ABS in 137.71 seconds.
+2025-03-19 12:21:30,756 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=6
+2025-03-19 12:21:33,023 - INFO - Execution finished for RK45, seed 3, error ABS in 148.66 seconds.
+2025-03-19 12:21:33,028 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=6
+2025-03-19 12:21:35,747 - INFO - Execution finished for RK45, seed 3, error MABS in 144.78 seconds.
+2025-03-19 12:21:35,751 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=6
+2025-03-19 12:21:36,190 - INFO - Execution finished for RK45, seed 3, error MSE in 147.83 seconds.
+2025-03-19 12:21:36,197 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=7
+2025-03-19 12:21:36,921 - INFO - Execution finished for RK45, seed 4, error SQUARED in 141.99 seconds.
+2025-03-19 12:21:36,930 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=7
+2025-03-19 12:21:38,316 - INFO - Execution finished for RK45, seed 5, error SQUARED in 137.64 seconds.
+2025-03-19 12:21:38,322 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=7
+2025-03-19 12:21:39,647 - INFO - Execution finished for RK45, seed 5, error ABS in 139.86 seconds.
+2025-03-19 12:21:39,657 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=7
+2025-03-19 12:21:39,942 - INFO - Execution finished for RK45, seed 4, error MSE in 143.75 seconds.
+2025-03-19 12:21:39,950 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=8
+2025-03-19 12:21:47,154 - INFO - Execution finished for RK45, seed 5, error MSE in 143.52 seconds.
+2025-03-19 12:21:47,160 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=8
+2025-03-19 12:21:54,517 - INFO - Execution finished for RK45, seed 4, error MABS in 155.19 seconds.
+2025-03-19 12:21:54,519 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=8
+2025-03-19 12:21:58,827 - INFO - Execution finished for RK45, seed 5, error MABS in 150.78 seconds.
+2025-03-19 12:21:58,838 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=8
+2025-03-19 12:23:52,823 - INFO - Execution finished for RK45, seed 6, error ABS in 145.17 seconds.
+2025-03-19 12:23:52,836 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=9
+2025-03-19 12:23:53,251 - INFO - Execution finished for RK45, seed 6, error MSE in 138.39 seconds.
+2025-03-19 12:23:53,258 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=9
+2025-03-19 12:23:58,209 - INFO - Execution finished for RK45, seed 6, error SQUARED in 145.55 seconds.
+2025-03-19 12:23:58,215 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=9
+2025-03-19 12:23:59,288 - INFO - Execution finished for RK45, seed 7, error ABS in 141.19 seconds.
+2025-03-19 12:23:59,295 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=9
+2025-03-19 12:24:03,209 - INFO - Execution finished for RK45, seed 7, error MSE in 143.00 seconds.
+2025-03-19 12:24:05,858 - INFO - Execution finished for RK45, seed 7, error SQUARED in 147.08 seconds.
+2025-03-19 12:24:07,430 - INFO - Execution finished for RK45, seed 8, error ABS in 145.86 seconds.
+2025-03-19 12:24:07,531 - INFO - Execution finished for RK45, seed 7, error MABS in 146.17 seconds.
+2025-03-19 12:24:07,708 - INFO - Execution finished for RK45, seed 8, error SQUARED in 139.00 seconds.
+2025-03-19 12:24:08,455 - INFO - Execution finished for RK45, seed 6, error MABS in 151.33 seconds.
+2025-03-19 12:24:12,423 - INFO - Execution finished for RK45, seed 8, error MSE in 136.96 seconds.
+2025-03-19 12:24:21,403 - INFO - Execution finished for RK45, seed 8, error MABS in 141.72 seconds.
+2025-03-19 12:24:54,394 - INFO - Execution finished for RK45, seed 9, error MSE in 55.58 seconds.
+2025-03-19 12:24:55,441 - INFO - Execution finished for RK45, seed 9, error ABS in 62.08 seconds.
+2025-03-19 12:24:55,715 - INFO - Execution finished for RK45, seed 9, error SQUARED in 62.01 seconds.
+2025-03-19 12:24:56,003 - INFO - Execution finished for RK45, seed 9, error MABS in 56.57 seconds.
+2025-03-19 18:14:59,874 - INFO - Skipping: seed=0, error=ABS, method=RK45
+2025-03-19 18:14:59,876 - INFO - Skipping: seed=0, error=SQUARED, method=RK45
+2025-03-19 18:14:59,877 - INFO - Skipping: seed=0, error=MSE, method=RK45
+2025-03-19 18:14:59,878 - INFO - Skipping: seed=0, error=MABS, method=RK45
+2025-03-19 18:14:59,879 - INFO - Skipping: seed=1, error=SQUARED, method=RK45
+2025-03-19 18:14:59,880 - INFO - Skipping: seed=1, error=MSE, method=RK45
+2025-03-19 18:14:59,881 - INFO - Skipping: seed=1, error=MABS, method=RK45
+2025-03-19 18:14:59,884 - INFO - Skipping: seed=1, error=ABS, method=RK45
+2025-03-19 18:14:59,885 - INFO - Skipping: seed=2, error=ABS, method=RK45
+2025-03-19 18:14:59,885 - INFO - Skipping: seed=2, error=SQUARED, method=RK45
+2025-03-19 18:14:59,885 - INFO - Skipping: seed=3, error=ABS, method=RK45
+2025-03-19 18:14:59,885 - INFO - Skipping: seed=2, error=MABS, method=RK45
+2025-03-19 18:14:59,885 - INFO - Skipping: seed=2, error=MSE, method=RK45
+2025-03-19 18:14:59,885 - INFO - Skipping: seed=3, error=SQUARED, method=RK45
+2025-03-19 18:14:59,885 - INFO - Skipping: seed=3, error=MSE, method=RK45
+2025-03-19 18:14:59,885 - INFO - Skipping: seed=4, error=ABS, method=RK45
+2025-03-19 18:14:59,885 - INFO - Skipping: seed=4, error=SQUARED, method=RK45
+2025-03-19 18:14:59,893 - INFO - Skipping: seed=3, error=MABS, method=RK45
+2025-03-19 18:14:59,894 - INFO - Skipping: seed=4, error=MSE, method=RK45
+2025-03-19 18:14:59,894 - INFO - Skipping: seed=4, error=MABS, method=RK45
+2025-03-19 18:14:59,894 - INFO - Skipping: seed=5, error=ABS, method=RK45
+2025-03-19 18:14:59,896 - INFO - Skipping: seed=5, error=SQUARED, method=RK45
+2025-03-19 18:14:59,897 - INFO - Skipping: seed=5, error=MSE, method=RK45
+2025-03-19 18:14:59,899 - INFO - Skipping: seed=5, error=MABS, method=RK45
+2025-03-19 18:14:59,900 - INFO - Skipping: seed=6, error=ABS, method=RK45
+2025-03-19 18:14:59,902 - INFO - Skipping: seed=6, error=MSE, method=RK45
+2025-03-19 18:14:59,903 - INFO - Skipping: seed=6, error=MABS, method=RK45
+2025-03-19 18:14:59,904 - INFO - Skipping: seed=6, error=SQUARED, method=RK45
+2025-03-19 18:14:59,905 - INFO - Skipping: seed=7, error=ABS, method=RK45
+2025-03-19 18:14:59,905 - INFO - Skipping: seed=7, error=SQUARED, method=RK45
+2025-03-19 18:14:59,906 - INFO - Skipping: seed=7, error=MSE, method=RK45
+2025-03-19 18:14:59,907 - INFO - Skipping: seed=7, error=MABS, method=RK45
+2025-03-19 18:14:59,908 - INFO - Skipping: seed=8, error=SQUARED, method=RK45
+2025-03-19 18:14:59,908 - INFO - Skipping: seed=8, error=ABS, method=RK45
+2025-03-19 18:14:59,909 - INFO - Skipping: seed=8, error=MSE, method=RK45
+2025-03-19 18:14:59,910 - INFO - Skipping: seed=8, error=MABS, method=RK45
+2025-03-19 18:14:59,911 - INFO - Skipping: seed=9, error=SQUARED, method=RK45
+2025-03-19 18:14:59,911 - INFO - Skipping: seed=9, error=ABS, method=RK45
+2025-03-19 18:14:59,912 - INFO - Skipping: seed=9, error=MSE, method=RK45
+2025-03-19 18:14:59,913 - INFO - Skipping: seed=9, error=MABS, method=RK45
+2025-03-19 18:16:25,226 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=0
+2025-03-19 18:16:25,226 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=0
+2025-03-19 18:16:25,226 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=0
+2025-03-19 18:16:25,234 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=0
+2025-03-19 18:16:25,235 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=1
+2025-03-19 18:16:25,235 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=1
+2025-03-19 18:16:25,239 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=1
+2025-03-19 18:16:25,239 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=1
+2025-03-19 18:16:25,244 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=2
+2025-03-19 18:16:25,244 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=2
+2025-03-19 18:16:25,244 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=2
+2025-03-19 18:16:25,244 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=2
+2025-03-19 18:18:51,812 - INFO - Execution finished for RK45, seed 0, error ABS in 144.69 seconds.
+2025-03-19 18:18:51,830 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=3
+2025-03-19 18:18:52,943 - INFO - Execution finished for RK45, seed 1, error ABS in 145.71 seconds.
+2025-03-19 18:18:52,954 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=3
+2025-03-19 18:18:53,431 - INFO - Execution finished for RK45, seed 2, error ABS in 146.16 seconds.
+2025-03-19 18:18:53,440 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=3
+2025-03-19 18:18:55,899 - INFO - Execution finished for RK45, seed 2, error MSE in 149.09 seconds.
+2025-03-19 18:18:55,910 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=3
+2025-03-19 18:18:58,496 - INFO - Execution finished for RK45, seed 0, error MSE in 151.28 seconds.
+2025-03-19 18:18:58,500 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=4
+2025-03-19 18:18:59,462 - INFO - Execution finished for RK45, seed 1, error MABS in 152.04 seconds.
+2025-03-19 18:18:59,470 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=4
+2025-03-19 18:19:00,241 - INFO - Execution finished for RK45, seed 0, error SQUARED in 152.91 seconds.
+2025-03-19 18:19:00,244 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=4
+2025-03-19 18:19:01,263 - INFO - Execution finished for RK45, seed 2, error MABS in 153.70 seconds.
+2025-03-19 18:19:01,277 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=4
+2025-03-19 18:19:02,766 - INFO - Execution finished for RK45, seed 0, error MABS in 154.70 seconds.
+2025-03-19 18:19:02,779 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=5
+2025-03-19 18:19:03,488 - INFO - Execution finished for RK45, seed 1, error MSE in 155.58 seconds.
+2025-03-19 18:19:03,501 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=5
+2025-03-19 18:19:04,381 - INFO - Execution finished for RK45, seed 1, error SQUARED in 156.29 seconds.
+2025-03-19 18:19:04,395 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=5
+2025-03-19 18:19:10,082 - INFO - Execution finished for RK45, seed 2, error SQUARED in 162.57 seconds.
+2025-03-19 18:19:10,098 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=5
+2025-03-19 18:21:12,805 - INFO - Execution finished for RK45, seed 3, error MSE in 138.86 seconds.
+2025-03-19 18:21:12,812 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=6
+2025-03-19 18:21:16,654 - INFO - Execution finished for RK45, seed 3, error SQUARED in 143.20 seconds.
+2025-03-19 18:21:16,664 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=6
+2025-03-19 18:21:19,632 - INFO - Execution finished for RK45, seed 3, error ABS in 147.15 seconds.
+2025-03-19 18:21:19,636 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=6
+2025-03-19 18:21:21,281 - INFO - Execution finished for RK45, seed 3, error MABS in 144.83 seconds.
+2025-03-19 18:21:21,288 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=6
+2025-03-19 18:21:25,476 - INFO - Execution finished for RK45, seed 5, error ABS in 140.94 seconds.
+2025-03-19 18:21:25,479 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=7
+2025-03-19 18:21:26,684 - INFO - Execution finished for RK45, seed 4, error MABS in 143.51 seconds.
+2025-03-19 18:21:26,697 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=7
+2025-03-19 18:21:31,282 - INFO - Execution finished for RK45, seed 4, error SQUARED in 149.78 seconds.
+2025-03-19 18:21:31,291 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=7
+2025-03-19 18:21:31,448 - INFO - Execution finished for RK45, seed 5, error SQUARED in 146.00 seconds.
+2025-03-19 18:21:31,452 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=7
+2025-03-19 18:21:32,118 - INFO - Execution finished for RK45, seed 5, error MABS in 140.27 seconds.
+2025-03-19 18:21:32,128 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=8
+2025-03-19 18:21:34,381 - INFO - Execution finished for RK45, seed 5, error MSE in 148.01 seconds.
+2025-03-19 18:21:34,396 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=8
+2025-03-19 18:21:36,907 - INFO - Execution finished for RK45, seed 4, error ABS in 156.40 seconds.
+2025-03-19 18:21:36,913 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=8
+2025-03-19 18:21:37,015 - INFO - Execution finished for RK45, seed 4, error MSE in 154.72 seconds.
+2025-03-19 18:21:37,020 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=8
+2025-03-19 18:23:33,456 - INFO - Execution finished for RK45, seed 6, error ABS in 138.87 seconds.
+2025-03-19 18:23:33,462 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=9
+2025-03-19 18:23:40,336 - INFO - Execution finished for RK45, seed 6, error MSE in 138.82 seconds.
+2025-03-19 18:23:40,340 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=9
+2025-03-19 18:23:47,376 - INFO - Execution finished for RK45, seed 6, error MABS in 144.08 seconds.
+2025-03-19 18:23:47,387 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=9
+2025-03-19 18:23:51,414 - INFO - Execution finished for RK45, seed 6, error SQUARED in 152.62 seconds.
+2025-03-19 18:23:51,420 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=9
+2025-03-19 18:23:52,938 - INFO - Execution finished for RK45, seed 7, error SQUARED in 144.27 seconds.
+2025-03-19 18:23:52,978 - INFO - Execution finished for RK45, seed 7, error ABS in 145.30 seconds.
+2025-03-19 18:23:52,989 - INFO - Execution finished for RK45, seed 7, error MSE in 139.62 seconds.
+2025-03-19 18:23:55,971 - INFO - Execution finished for RK45, seed 8, error MSE in 137.38 seconds.
+2025-03-19 18:23:58,587 - INFO - Execution finished for RK45, seed 7, error MABS in 145.89 seconds.
+2025-03-19 18:23:59,600 - INFO - Execution finished for RK45, seed 8, error ABS in 146.21 seconds.
+2025-03-19 18:24:00,723 - INFO - Execution finished for RK45, seed 8, error MABS in 142.65 seconds.
+2025-03-19 18:24:00,784 - INFO - Execution finished for RK45, seed 8, error SQUARED in 145.37 seconds.
+2025-03-19 18:24:38,069 - INFO - Execution finished for RK45, seed 9, error SQUARED in 57.13 seconds.
+2025-03-19 18:24:40,073 - INFO - Execution finished for RK45, seed 9, error MSE in 52.30 seconds.
+2025-03-19 18:24:41,540 - INFO - Execution finished for RK45, seed 9, error ABS in 67.76 seconds.
+2025-03-19 18:24:42,749 - INFO - Execution finished for RK45, seed 9, error MABS in 51.17 seconds.
+2025-03-19 18:47:11,795 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=0
+2025-03-19 18:47:11,800 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=0
+2025-03-19 18:47:11,800 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=0
+2025-03-19 18:47:11,806 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=0
+2025-03-19 18:47:11,815 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=1
+2025-03-19 18:47:11,817 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=1
+2025-03-19 18:47:11,823 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=1
+2025-03-19 18:47:11,833 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=2
+2025-03-19 18:47:11,835 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=1
+2025-03-19 18:47:11,840 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=2
+2025-03-19 18:47:11,849 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=2
+2025-03-19 18:47:11,853 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=2
+2025-03-19 18:49:35,719 - INFO - Execution finished for RK45, seed 2, error MSE in 141.97 seconds.
+2025-03-19 18:49:35,724 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=3
+2025-03-19 18:49:39,197 - INFO - Execution finished for RK45, seed 0, error MSE in 145.29 seconds.
+2025-03-19 18:49:39,207 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=3
+2025-03-19 18:49:40,061 - INFO - Execution finished for RK45, seed 2, error SQUARED in 146.15 seconds.
+2025-03-19 18:49:40,067 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=3
+2025-03-19 18:49:40,159 - INFO - Execution finished for RK45, seed 1, error MABS in 146.28 seconds.
+2025-03-19 18:49:40,166 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=3
+2025-03-19 18:49:41,151 - INFO - Execution finished for RK45, seed 1, error MSE in 147.28 seconds.
+2025-03-19 18:49:41,156 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=4
+2025-03-19 18:49:43,036 - INFO - Execution finished for RK45, seed 1, error ABS in 149.10 seconds.
+2025-03-19 18:49:43,050 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=4
+2025-03-19 18:49:43,916 - INFO - Execution finished for RK45, seed 1, error SQUARED in 150.06 seconds.
+2025-03-19 18:49:43,924 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=4
+2025-03-19 18:49:45,662 - INFO - Execution finished for RK45, seed 0, error MABS in 151.76 seconds.
+2025-03-19 18:49:45,666 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=4
+2025-03-19 18:49:45,884 - INFO - Execution finished for RK45, seed 0, error SQUARED in 152.08 seconds.
+2025-03-19 18:49:45,900 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=5
+2025-03-19 18:49:46,302 - INFO - Execution finished for RK45, seed 0, error ABS in 152.46 seconds.
+2025-03-19 18:49:46,309 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=5
+2025-03-19 18:49:46,598 - INFO - Execution finished for RK45, seed 2, error ABS in 152.55 seconds.
+2025-03-19 18:49:46,602 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=5
+2025-03-19 18:49:48,135 - INFO - Execution finished for RK45, seed 2, error MABS in 154.12 seconds.
+2025-03-19 18:49:48,138 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=5
+2025-03-19 18:51:52,933 - INFO - Execution finished for RK45, seed 3, error MABS in 132.27 seconds.
+2025-03-19 18:51:52,939 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=6
+2025-03-19 18:51:56,282 - INFO - Execution finished for RK45, seed 3, error ABS in 140.01 seconds.
+2025-03-19 18:51:56,289 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=6
+2025-03-19 18:51:57,136 - INFO - Execution finished for RK45, seed 4, error ABS in 134.10 seconds.
+2025-03-19 18:51:57,160 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=6
+2025-03-19 18:52:04,159 - INFO - Execution finished for RK45, seed 3, error SQUARED in 144.39 seconds.
+2025-03-19 18:52:04,169 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=6
+2025-03-19 18:52:06,108 - INFO - Execution finished for RK45, seed 5, error ABS in 138.36 seconds.
+2025-03-19 18:52:06,111 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=7
+2025-03-19 18:52:09,711 - INFO - Execution finished for RK45, seed 4, error SQUARED in 144.70 seconds.
+2025-03-19 18:52:09,717 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=7
+2025-03-19 18:52:09,989 - INFO - Execution finished for RK45, seed 4, error MABS in 142.31 seconds.
+2025-03-19 18:52:09,996 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=7
+2025-03-19 18:52:10,843 - INFO - Execution finished for RK45, seed 5, error MABS in 140.99 seconds.
+2025-03-19 18:52:10,848 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=7
+2025-03-19 18:52:13,312 - INFO - Execution finished for RK45, seed 5, error SQUARED in 145.24 seconds.
+2025-03-19 18:52:13,319 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=8
+2025-03-19 18:52:14,387 - INFO - Execution finished for RK45, seed 3, error MSE in 153.79 seconds.
+2025-03-19 18:52:14,397 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=8
+2025-03-19 18:52:22,342 - INFO - Execution finished for RK45, seed 4, error MSE in 156.56 seconds.
+2025-03-19 18:52:22,348 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=8
+2025-03-19 18:52:30,906 - INFO - Execution finished for RK45, seed 5, error MSE in 162.24 seconds.
+2025-03-19 18:52:30,910 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=8
+2025-03-19 18:54:15,492 - INFO - Execution finished for RK45, seed 6, error MSE in 136.50 seconds.
+2025-03-19 18:54:15,499 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=9
+2025-03-19 18:54:19,700 - INFO - Execution finished for RK45, seed 6, error ABS in 144.67 seconds.
+2025-03-19 18:54:19,713 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=9
+2025-03-19 18:54:21,845 - INFO - Execution finished for RK45, seed 6, error SQUARED in 143.42 seconds.
+2025-03-19 18:54:21,849 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=9
+2025-03-19 18:54:31,451 - INFO - Execution finished for RK45, seed 7, error MSE in 139.50 seconds.
+2025-03-19 18:54:31,459 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=9
+2025-03-19 18:54:32,839 - INFO - Execution finished for RK45, seed 7, error MABS in 140.08 seconds.
+2025-03-19 18:54:32,976 - INFO - Execution finished for RK45, seed 7, error SQUARED in 141.26 seconds.
+2025-03-19 18:54:34,291 - INFO - Execution finished for RK45, seed 6, error MABS in 148.45 seconds.
+2025-03-19 18:54:34,339 - INFO - Execution finished for RK45, seed 8, error SQUARED in 138.18 seconds.
+2025-03-19 18:54:40,004 - INFO - Execution finished for RK45, seed 8, error MSE in 136.36 seconds.
+2025-03-19 18:54:40,781 - INFO - Execution finished for RK45, seed 7, error ABS in 153.42 seconds.
+2025-03-19 18:54:44,963 - INFO - Execution finished for RK45, seed 8, error ABS in 150.57 seconds.
+2025-03-19 18:54:47,891 - INFO - Execution finished for RK45, seed 8, error MABS in 136.14 seconds.
+2025-03-19 18:55:20,619 - INFO - Execution finished for RK45, seed 9, error SQUARED in 60.29 seconds.
+2025-03-19 18:55:21,912 - INFO - Execution finished for RK45, seed 9, error MSE in 59.68 seconds.
+2025-03-19 18:55:23,137 - INFO - Execution finished for RK45, seed 9, error ABS in 67.40 seconds.
+2025-03-19 18:55:24,296 - INFO - Execution finished for RK45, seed 9, error MABS in 52.70 seconds.
+2025-03-19 19:22:32,509 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=0
+2025-03-19 19:22:32,523 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=0
+2025-03-19 19:22:32,528 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=0
+2025-03-19 19:22:32,528 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=0
+2025-03-19 19:22:32,531 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=1
+2025-03-19 19:22:32,555 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=1
+2025-03-19 19:22:32,555 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=1
+2025-03-19 19:22:32,565 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=1
+2025-03-19 19:22:32,574 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=2
+2025-03-19 19:22:32,599 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=2
+2025-03-19 19:22:32,609 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=2
+2025-03-19 19:22:32,621 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=2
+2025-03-19 19:24:56,672 - INFO - Execution finished for RK45, seed 2, error MABS in 141.98 seconds.
+2025-03-19 19:24:56,688 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=3
+2025-03-19 19:24:57,728 - INFO - Execution finished for RK45, seed 1, error MABS in 143.07 seconds.
+2025-03-19 19:24:57,732 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=3
+2025-03-19 19:24:57,989 - INFO - Execution finished for RK45, seed 0, error SQUARED in 143.48 seconds.
+2025-03-19 19:24:57,993 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=3
+2025-03-19 19:24:58,604 - INFO - Execution finished for RK45, seed 0, error MSE in 144.06 seconds.
+2025-03-19 19:24:58,607 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=3
+2025-03-19 19:24:58,945 - INFO - Execution finished for RK45, seed 0, error MABS in 144.22 seconds.
+2025-03-19 19:24:58,952 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=4
+2025-03-19 19:25:00,788 - INFO - Execution finished for RK45, seed 2, error ABS in 146.47 seconds.
+2025-03-19 19:25:00,793 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=4
+2025-03-19 19:25:01,248 - INFO - Execution finished for RK45, seed 2, error SQUARED in 146.67 seconds.
+2025-03-19 19:25:01,252 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=4
+2025-03-19 19:25:01,596 - INFO - Execution finished for RK45, seed 2, error MSE in 146.99 seconds.
+2025-03-19 19:25:01,609 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=4
+2025-03-19 19:25:02,428 - INFO - Execution finished for RK45, seed 1, error SQUARED in 147.69 seconds.
+2025-03-19 19:25:02,432 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=5
+2025-03-19 19:25:02,756 - INFO - Execution finished for RK45, seed 0, error ABS in 148.31 seconds.
+2025-03-19 19:25:02,763 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=5
+2025-03-19 19:25:04,486 - INFO - Execution finished for RK45, seed 1, error ABS in 149.79 seconds.
+2025-03-19 19:25:04,493 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=5
+2025-03-19 19:25:11,875 - INFO - Execution finished for RK45, seed 1, error MSE in 157.22 seconds.
+2025-03-19 19:25:11,884 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=5
+2025-03-19 19:27:15,769 - INFO - Execution finished for RK45, seed 4, error ABS in 134.86 seconds.
+2025-03-19 19:27:15,776 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=6
+2025-03-19 19:27:15,984 - INFO - Execution finished for RK45, seed 3, error SQUARED in 137.63 seconds.
+2025-03-19 19:27:15,989 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=6
+2025-03-19 19:27:18,159 - INFO - Execution finished for RK45, seed 3, error ABS in 140.93 seconds.
+2025-03-19 19:27:18,165 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=6
+2025-03-19 19:27:19,652 - INFO - Execution finished for RK45, seed 3, error MSE in 141.07 seconds.
+2025-03-19 19:27:19,656 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=6
+2025-03-19 19:27:20,416 - INFO - Execution finished for RK45, seed 3, error MABS in 141.27 seconds.
+2025-03-19 19:27:20,422 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=7
+2025-03-19 19:27:25,524 - INFO - Execution finished for RK45, seed 5, error SQUARED in 141.10 seconds.
+2025-03-19 19:27:25,531 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=7
+2025-03-19 19:27:25,764 - INFO - Execution finished for RK45, seed 5, error ABS in 141.40 seconds.
+2025-03-19 19:27:25,768 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=7
+2025-03-19 19:27:28,548 - INFO - Execution finished for RK45, seed 4, error MABS in 144.93 seconds.
+2025-03-19 19:27:28,564 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=7
+2025-03-19 19:27:28,695 - INFO - Execution finished for RK45, seed 5, error MSE in 142.34 seconds.
+2025-03-19 19:27:28,700 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=8
+2025-03-19 19:27:28,824 - INFO - Execution finished for RK45, seed 4, error SQUARED in 146.20 seconds.
+2025-03-19 19:27:28,836 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=8
+2025-03-19 19:27:30,139 - INFO - Execution finished for RK45, seed 4, error MSE in 146.90 seconds.
+2025-03-19 19:27:30,145 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=8
+2025-03-19 19:27:42,296 - INFO - Execution finished for RK45, seed 5, error MABS in 148.38 seconds.
+2025-03-19 19:27:42,304 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=8
+2025-03-19 19:29:33,711 - INFO - Execution finished for RK45, seed 6, error ABS in 136.04 seconds.
+2025-03-19 19:29:33,718 - INFO - Starting execution for: Solver=RK45, Error=ABS, Seed=9
+2025-03-19 19:29:35,091 - INFO - Execution finished for RK45, seed 6, error SQUARED in 137.20 seconds.
+2025-03-19 19:29:35,095 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=9
+2025-03-19 19:29:42,338 - INFO - Execution finished for RK45, seed 7, error ABS in 139.86 seconds.
+2025-03-19 19:29:42,344 - INFO - Starting execution for: Solver=RK45, Error=MSE, Seed=9
+2025-03-19 19:29:46,743 - INFO - Execution finished for RK45, seed 8, error ABS in 136.14 seconds.
+2025-03-19 19:29:46,749 - INFO - Starting execution for: Solver=RK45, Error=MABS, Seed=9
+2025-03-19 19:29:47,321 - INFO - Execution finished for RK45, seed 6, error MSE in 147.32 seconds.
+2025-03-19 19:29:47,704 - INFO - Execution finished for RK45, seed 7, error SQUARED in 140.26 seconds.
+2025-03-19 19:29:47,973 - INFO - Execution finished for RK45, seed 6, error MABS in 146.31 seconds.
+2025-03-19 19:29:50,110 - INFO - Execution finished for RK45, seed 7, error MABS in 140.19 seconds.
+2025-03-19 19:29:50,639 - INFO - Execution finished for RK45, seed 8, error SQUARED in 140.42 seconds.
+2025-03-19 19:29:53,284 - INFO - Execution finished for RK45, seed 7, error MSE in 146.34 seconds.
+2025-03-19 19:29:54,411 - INFO - Execution finished for RK45, seed 8, error MSE in 143.16 seconds.
+2025-03-19 19:29:58,406 - INFO - Execution finished for RK45, seed 8, error MABS in 135.22 seconds.
+2025-03-19 19:30:34,433 - INFO - Execution finished for RK45, seed 9, error ABS in 60.03 seconds.
+2025-03-19 19:30:37,648 - INFO - Execution finished for RK45, seed 9, error SQUARED in 62.07 seconds.
+2025-03-19 19:30:37,977 - INFO - Execution finished for RK45, seed 9, error MSE in 55.43 seconds.
+2025-03-19 19:30:38,454 - INFO - Execution finished for RK45, seed 9, error MABS in 51.56 seconds.
