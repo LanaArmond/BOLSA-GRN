@@ -1,0 +1,276 @@
+2025-03-19 20:50:28,426 - INFO - Starting DE execution: Solver=RK45, Error=ABS, Seed=0
+2025-03-19 20:50:28,429 - INFO - Starting DE execution: Solver=DOP853, Error=ABS, Seed=0
+2025-03-19 20:50:28,431 - INFO - Starting DE execution: Solver=LSODA, Error=ABS, Seed=0
+2025-03-19 20:50:28,432 - INFO - Starting DE execution: Solver=RK45, Error=SQUARED, Seed=0
+2025-03-19 20:59:45,880 - INFO - Execution finished for LSODA, seed 0, error ABS in 557.43 seconds.
+2025-03-19 20:59:45,880 - INFO - Starting DE execution: Solver=DOP853, Error=SQUARED, Seed=0
+2025-03-19 21:26:44,926 - INFO - Execution finished for DOP853, seed 0, error SQUARED in 1618.94 seconds.
+2025-03-19 21:26:44,926 - INFO - Starting DE execution: Solver=LSODA, Error=SQUARED, Seed=0
+2025-03-19 21:34:39,781 - INFO - Execution finished for LSODA, seed 0, error SQUARED in 474.82 seconds.
+2025-03-19 21:34:39,781 - INFO - Starting DE execution: Solver=RK45, Error=MSE, Seed=0
+2025-03-19 21:35:39,076 - INFO - Execution finished for DOP853, seed 0, error ABS in 2710.60 seconds.
+2025-03-19 21:35:39,076 - INFO - Starting DE execution: Solver=DOP853, Error=MSE, Seed=0
+2025-03-19 21:41:38,799 - INFO - Execution finished for RK45, seed 0, error SQUARED in 3070.32 seconds.
+2025-03-19 21:41:38,799 - INFO - Starting DE execution: Solver=LSODA, Error=MSE, Seed=0
+2025-03-19 21:47:43,231 - INFO - Execution finished for RK45, seed 0, error ABS in 3434.73 seconds.
+2025-03-19 21:47:43,231 - INFO - Starting DE execution: Solver=RK45, Error=MABS, Seed=0
+2025-03-19 22:01:46,705 - INFO - Execution finished for LSODA, seed 0, error MSE in 1207.89 seconds.
+2025-03-19 22:01:46,705 - INFO - Starting DE execution: Solver=DOP853, Error=MABS, Seed=0
+2025-03-19 22:29:34,188 - INFO - Execution finished for RK45, seed 0, error MSE in 3294.34 seconds.
+2025-03-19 22:29:34,188 - INFO - Starting DE execution: Solver=LSODA, Error=MABS, Seed=0
+2025-03-19 22:35:27,061 - INFO - Execution finished for DOP853, seed 0, error MSE in 3587.91 seconds.
+2025-03-19 22:35:27,061 - INFO - Starting DE execution: Solver=RK45, Error=ABS, Seed=1
+2025-03-19 22:38:39,461 - INFO - Execution finished for LSODA, seed 0, error MABS in 545.26 seconds.
+2025-03-19 22:38:39,461 - INFO - Starting DE execution: Solver=DOP853, Error=ABS, Seed=1
+2025-03-19 22:43:15,844 - INFO - Execution finished for RK45, seed 0, error MABS in 3332.57 seconds.
+2025-03-19 22:43:15,844 - INFO - Starting DE execution: Solver=LSODA, Error=ABS, Seed=1
+2025-03-19 22:51:32,919 - INFO - Execution finished for LSODA, seed 1, error ABS in 497.08 seconds.
+2025-03-19 22:51:32,935 - INFO - Starting DE execution: Solver=RK45, Error=SQUARED, Seed=1
+2025-03-19 23:02:07,574 - INFO - Execution finished for DOP853, seed 0, error MABS in 3620.81 seconds.
+2025-03-19 23:02:07,574 - INFO - Starting DE execution: Solver=DOP853, Error=SQUARED, Seed=1
+2025-03-19 23:27:24,981 - INFO - Execution finished for DOP853, seed 1, error ABS in 2925.47 seconds.
+2025-03-19 23:27:24,981 - INFO - Starting DE execution: Solver=LSODA, Error=SQUARED, Seed=1
+2025-03-19 23:32:29,831 - INFO - Execution finished for RK45, seed 1, error ABS in 3422.71 seconds.
+2025-03-19 23:32:29,831 - INFO - Starting DE execution: Solver=RK45, Error=MSE, Seed=1
+2025-03-19 23:38:24,387 - INFO - Execution finished for LSODA, seed 1, error SQUARED in 659.40 seconds.
+2025-03-19 23:38:24,387 - INFO - Starting DE execution: Solver=DOP853, Error=MSE, Seed=1
+2025-03-19 23:38:32,330 - INFO - Execution finished for RK45, seed 1, error SQUARED in 2819.35 seconds.
+2025-03-19 23:38:32,330 - INFO - Starting DE execution: Solver=LSODA, Error=MSE, Seed=1
+2025-03-19 23:50:50,618 - INFO - Execution finished for LSODA, seed 1, error MSE in 738.29 seconds.
+2025-03-19 23:50:50,618 - INFO - Starting DE execution: Solver=RK45, Error=MABS, Seed=1
+2025-03-20 00:02:32,683 - INFO - Execution finished for DOP853, seed 1, error SQUARED in 3624.91 seconds.
+2025-03-20 00:02:32,687 - INFO - Starting DE execution: Solver=DOP853, Error=MABS, Seed=1
+2025-03-20 00:32:09,915 - INFO - Execution finished for RK45, seed 1, error MSE in 3580.04 seconds.
+2025-03-20 00:32:09,915 - INFO - Starting DE execution: Solver=LSODA, Error=MABS, Seed=1
+2025-03-20 00:38:46,438 - INFO - Execution finished for DOP853, seed 1, error MSE in 3622.00 seconds.
+2025-03-20 00:38:46,438 - INFO - Starting DE execution: Solver=RK45, Error=ABS, Seed=2
+2025-03-20 00:40:25,698 - INFO - Execution finished for LSODA, seed 1, error MABS in 495.77 seconds.
+2025-03-20 00:40:25,698 - INFO - Starting DE execution: Solver=DOP853, Error=ABS, Seed=2
+2025-03-20 00:42:42,347 - INFO - Execution finished for RK45, seed 1, error MABS in 3111.69 seconds.
+2025-03-20 00:42:42,362 - INFO - Starting DE execution: Solver=LSODA, Error=ABS, Seed=2
+2025-03-20 00:51:10,267 - INFO - Execution finished for LSODA, seed 2, error ABS in 507.90 seconds.
+2025-03-20 00:51:10,268 - INFO - Starting DE execution: Solver=RK45, Error=SQUARED, Seed=2
+2025-03-20 01:02:36,534 - INFO - Execution finished for DOP853, seed 1, error MABS in 3603.75 seconds.
+2025-03-20 01:02:36,534 - INFO - Starting DE execution: Solver=DOP853, Error=SQUARED, Seed=2
+2025-03-20 01:16:55,886 - INFO - Execution finished for DOP853, seed 2, error ABS in 2190.12 seconds.
+2025-03-20 01:16:55,886 - INFO - Starting DE execution: Solver=LSODA, Error=SQUARED, Seed=2
+2025-03-20 01:28:02,852 - INFO - Execution finished for LSODA, seed 2, error SQUARED in 666.95 seconds.
+2025-03-20 01:28:02,854 - INFO - Starting DE execution: Solver=RK45, Error=MSE, Seed=2
+2025-03-20 01:36:58,783 - INFO - Execution finished for RK45, seed 2, error ABS in 3492.31 seconds.
+2025-03-20 01:36:58,797 - INFO - Starting DE execution: Solver=DOP853, Error=MSE, Seed=2
+2025-03-20 01:51:14,381 - INFO - Execution finished for RK45, seed 2, error SQUARED in 3604.01 seconds.
+2025-03-20 01:51:14,381 - INFO - Starting DE execution: Solver=LSODA, Error=MSE, Seed=2
+2025-03-20 02:02:47,192 - INFO - Execution finished for DOP853, seed 2, error SQUARED in 3610.56 seconds.
+2025-03-20 02:02:47,192 - INFO - Starting DE execution: Solver=RK45, Error=MABS, Seed=2
+2025-03-20 02:05:03,075 - INFO - Execution finished for LSODA, seed 2, error MSE in 828.68 seconds.
+2025-03-20 02:05:03,076 - INFO - Starting DE execution: Solver=DOP853, Error=MABS, Seed=2
+2025-03-20 02:28:12,091 - INFO - Execution finished for RK45, seed 2, error MSE in 3609.14 seconds.
+2025-03-20 02:28:12,091 - INFO - Starting DE execution: Solver=LSODA, Error=MABS, Seed=2
+2025-03-20 02:36:47,407 - INFO - Execution finished for LSODA, seed 2, error MABS in 515.32 seconds.
+2025-03-20 02:36:47,427 - INFO - Starting DE execution: Solver=RK45, Error=ABS, Seed=3
+2025-03-20 02:37:17,780 - INFO - Execution finished for DOP853, seed 2, error MSE in 3618.89 seconds.
+2025-03-20 02:37:17,780 - INFO - Starting DE execution: Solver=DOP853, Error=ABS, Seed=3
+2025-03-20 02:41:51,757 - INFO - Execution finished for DOP853, seed 2, error MABS in 2208.63 seconds.
+2025-03-20 02:41:51,774 - INFO - Starting DE execution: Solver=LSODA, Error=ABS, Seed=3
+2025-03-20 02:51:59,608 - INFO - Execution finished for LSODA, seed 3, error ABS in 607.82 seconds.
+2025-03-20 02:51:59,610 - INFO - Starting DE execution: Solver=RK45, Error=SQUARED, Seed=3
+2025-03-20 03:02:59,865 - INFO - Execution finished for RK45, seed 2, error MABS in 3612.59 seconds.
+2025-03-20 03:02:59,865 - INFO - Starting DE execution: Solver=DOP853, Error=SQUARED, Seed=3
+2025-03-20 03:25:23,106 - INFO - Execution finished for RK45, seed 3, error ABS in 2915.65 seconds.
+2025-03-20 03:25:23,106 - INFO - Starting DE execution: Solver=LSODA, Error=SQUARED, Seed=3
+2025-03-20 03:29:45,693 - INFO - Execution finished for RK45, seed 3, error SQUARED in 2266.00 seconds.
+2025-03-20 03:29:45,693 - INFO - Starting DE execution: Solver=RK45, Error=MSE, Seed=3
+2025-03-20 03:33:45,009 - INFO - Execution finished for DOP853, seed 3, error ABS in 3387.09 seconds.
+2025-03-20 03:33:45,012 - INFO - Starting DE execution: Solver=DOP853, Error=MSE, Seed=3
+2025-03-20 03:35:37,652 - INFO - Execution finished for LSODA, seed 3, error SQUARED in 614.53 seconds.
+2025-03-20 03:35:37,667 - INFO - Starting DE execution: Solver=LSODA, Error=MSE, Seed=3
+2025-03-20 03:48:00,136 - INFO - Execution finished for LSODA, seed 3, error MSE in 742.45 seconds.
+2025-03-20 03:48:00,136 - INFO - Starting DE execution: Solver=RK45, Error=MABS, Seed=3
+2025-03-20 04:21:33,441 - INFO - Execution finished for RK45, seed 3, error MSE in 3107.70 seconds.
+2025-03-20 04:21:33,441 - INFO - Starting DE execution: Solver=DOP853, Error=MABS, Seed=3
+2025-03-20 04:33:27,666 - INFO - Execution finished for RK45, seed 3, error MABS in 2727.48 seconds.
+2025-03-20 04:33:27,666 - INFO - Starting DE execution: Solver=LSODA, Error=MABS, Seed=3
+2025-03-20 04:44:13,260 - INFO - Execution finished for LSODA, seed 3, error MABS in 645.59 seconds.
+2025-03-20 04:44:13,261 - INFO - Starting DE execution: Solver=RK45, Error=ABS, Seed=4
+2025-03-20 05:11:26,056 - INFO - Execution finished for DOP853, seed 3, error MABS in 2992.57 seconds.
+2025-03-20 05:11:26,056 - INFO - Starting DE execution: Solver=DOP853, Error=ABS, Seed=4
+2025-03-20 05:43:01,953 - INFO - Execution finished for RK45, seed 4, error ABS in 3528.60 seconds.
+2025-03-20 05:43:01,954 - INFO - Starting DE execution: Solver=LSODA, Error=ABS, Seed=4
+2025-03-20 05:57:37,731 - INFO - Execution finished for LSODA, seed 4, error ABS in 875.76 seconds.
+2025-03-20 05:57:37,731 - INFO - Starting DE execution: Solver=RK45, Error=SQUARED, Seed=4
+2025-03-20 06:11:43,774 - INFO - Execution finished for DOP853, seed 4, error ABS in 3617.67 seconds.
+2025-03-20 06:11:43,774 - INFO - Starting DE execution: Solver=DOP853, Error=SQUARED, Seed=4
+2025-03-20 06:49:01,904 - INFO - Execution finished for DOP853, seed 4, error SQUARED in 2237.95 seconds.
+2025-03-20 06:49:01,906 - INFO - Starting DE execution: Solver=LSODA, Error=SQUARED, Seed=4
+2025-03-20 06:57:50,301 - INFO - Execution finished for RK45, seed 4, error SQUARED in 3612.42 seconds.
+2025-03-20 06:57:50,303 - INFO - Starting DE execution: Solver=RK45, Error=MSE, Seed=4
+2025-03-20 06:59:52,664 - INFO - Execution finished for LSODA, seed 4, error SQUARED in 650.76 seconds.
+2025-03-20 06:59:52,664 - INFO - Starting DE execution: Solver=DOP853, Error=MSE, Seed=4
+2025-03-20 07:58:06,989 - INFO - Execution finished for RK45, seed 4, error MSE in 3616.59 seconds.
+2025-03-20 07:58:06,990 - INFO - Starting DE execution: Solver=LSODA, Error=MSE, Seed=4
+2025-03-20 08:00:10,900 - INFO - Execution finished for DOP853, seed 4, error MSE in 3618.15 seconds.
+2025-03-20 08:00:10,900 - INFO - Starting DE execution: Solver=RK45, Error=MABS, Seed=4
+2025-03-20 08:15:09,745 - INFO - Execution finished for LSODA, seed 4, error MSE in 1022.74 seconds.
+2025-03-20 08:15:09,745 - INFO - Starting DE execution: Solver=DOP853, Error=MABS, Seed=4
+2025-03-20 09:00:22,539 - INFO - Execution finished for RK45, seed 4, error MABS in 3611.57 seconds.
+2025-03-20 09:00:22,539 - INFO - Starting DE execution: Solver=LSODA, Error=MABS, Seed=4
+2025-03-20 09:15:18,487 - INFO - Execution finished for DOP853, seed 4, error MABS in 3608.64 seconds.
+2025-03-20 09:15:18,488 - INFO - Starting DE execution: Solver=RK45, Error=ABS, Seed=5
+2025-03-20 09:15:41,833 - INFO - Execution finished for LSODA, seed 4, error MABS in 919.28 seconds.
+2025-03-20 09:15:41,833 - INFO - Starting DE execution: Solver=DOP853, Error=ABS, Seed=5
+2025-03-20 09:55:49,078 - INFO - Execution finished for DOP853, seed 5, error ABS in 2407.21 seconds.
+2025-03-20 09:55:49,078 - INFO - Starting DE execution: Solver=LSODA, Error=ABS, Seed=5
+2025-03-20 09:56:07,611 - INFO - Execution finished for RK45, seed 5, error ABS in 2449.06 seconds.
+2025-03-20 09:56:07,611 - INFO - Starting DE execution: Solver=RK45, Error=SQUARED, Seed=5
+2025-03-20 10:04:17,034 - INFO - Execution finished for LSODA, seed 5, error ABS in 507.92 seconds.
+2025-03-20 10:04:17,034 - INFO - Starting DE execution: Solver=DOP853, Error=SQUARED, Seed=5
+2025-03-20 10:35:01,215 - INFO - Execution finished for RK45, seed 5, error SQUARED in 2333.51 seconds.
+2025-03-20 10:35:01,216 - INFO - Starting DE execution: Solver=LSODA, Error=SQUARED, Seed=5
+2025-03-20 10:43:07,746 - INFO - Execution finished for LSODA, seed 5, error SQUARED in 486.52 seconds.
+2025-03-20 10:43:07,747 - INFO - Starting DE execution: Solver=RK45, Error=MSE, Seed=5
+2025-03-20 11:04:35,235 - INFO - Execution finished for DOP853, seed 5, error SQUARED in 3618.11 seconds.
+2025-03-20 11:04:35,235 - INFO - Starting DE execution: Solver=DOP853, Error=MSE, Seed=5
+2025-03-20 11:25:06,370 - INFO - Execution finished for RK45, seed 5, error MSE in 2518.52 seconds.
+2025-03-20 11:25:06,370 - INFO - Starting DE execution: Solver=LSODA, Error=MSE, Seed=5
+2025-03-20 11:34:52,406 - INFO - Execution finished for LSODA, seed 5, error MSE in 586.02 seconds.
+2025-03-20 11:34:52,406 - INFO - Starting DE execution: Solver=RK45, Error=MABS, Seed=5
+2025-03-20 12:04:55,165 - INFO - Execution finished for DOP853, seed 5, error MSE in 3619.83 seconds.
+2025-03-20 12:04:55,165 - INFO - Starting DE execution: Solver=DOP853, Error=MABS, Seed=5
+2025-03-20 12:14:47,295 - INFO - Execution finished for RK45, seed 5, error MABS in 2394.84 seconds.
+2025-03-20 12:14:47,298 - INFO - Starting DE execution: Solver=LSODA, Error=MABS, Seed=5
+2025-03-20 12:23:03,462 - INFO - Execution finished for LSODA, seed 5, error MABS in 496.15 seconds.
+2025-03-20 12:23:03,462 - INFO - Starting DE execution: Solver=RK45, Error=ABS, Seed=6
+2025-03-20 12:50:39,314 - INFO - Execution finished for DOP853, seed 5, error MABS in 2744.12 seconds.
+2025-03-20 12:50:39,314 - INFO - Starting DE execution: Solver=DOP853, Error=ABS, Seed=6
+2025-03-20 13:06:48,223 - INFO - Execution finished for RK45, seed 6, error ABS in 2624.70 seconds.
+2025-03-20 13:06:48,226 - INFO - Starting DE execution: Solver=LSODA, Error=ABS, Seed=6
+2025-03-20 13:18:58,547 - INFO - Execution finished for LSODA, seed 6, error ABS in 730.32 seconds.
+2025-03-20 13:18:58,547 - INFO - Starting DE execution: Solver=RK45, Error=SQUARED, Seed=6
+2025-03-20 13:33:23,961 - INFO - Execution finished for DOP853, seed 6, error ABS in 2564.57 seconds.
+2025-03-20 13:33:23,964 - INFO - Starting DE execution: Solver=DOP853, Error=SQUARED, Seed=6
+2025-03-20 13:53:51,588 - INFO - Execution finished for RK45, seed 6, error SQUARED in 2092.98 seconds.
+2025-03-20 13:53:51,589 - INFO - Starting DE execution: Solver=LSODA, Error=SQUARED, Seed=6
+2025-03-20 14:05:39,988 - INFO - Execution finished for LSODA, seed 6, error SQUARED in 708.39 seconds.
+2025-03-20 14:05:39,993 - INFO - Starting DE execution: Solver=RK45, Error=MSE, Seed=6
+2025-03-20 14:33:46,307 - INFO - Execution finished for DOP853, seed 6, error SQUARED in 3622.26 seconds.
+2025-03-20 14:33:46,309 - INFO - Starting DE execution: Solver=DOP853, Error=MSE, Seed=6
+2025-03-20 14:42:48,632 - INFO - Execution finished for RK45, seed 6, error MSE in 2228.58 seconds.
+2025-03-20 14:42:48,633 - INFO - Starting DE execution: Solver=LSODA, Error=MSE, Seed=6
+2025-03-20 14:58:11,714 - INFO - Execution finished for LSODA, seed 6, error MSE in 923.07 seconds.
+2025-03-20 14:58:11,717 - INFO - Starting DE execution: Solver=RK45, Error=MABS, Seed=6
+2025-03-20 15:29:40,638 - INFO - Execution finished for DOP853, seed 6, error MSE in 3354.30 seconds.
+2025-03-20 15:29:40,639 - INFO - Starting DE execution: Solver=DOP853, Error=MABS, Seed=6
+2025-03-20 15:42:37,595 - INFO - Execution finished for RK45, seed 6, error MABS in 2665.82 seconds.
+2025-03-20 15:42:37,596 - INFO - Starting DE execution: Solver=LSODA, Error=MABS, Seed=6
+2025-03-20 15:52:48,798 - INFO - Execution finished for LSODA, seed 6, error MABS in 611.19 seconds.
+2025-03-20 15:52:48,800 - INFO - Starting DE execution: Solver=RK45, Error=ABS, Seed=7
+2025-03-20 16:07:20,676 - INFO - Execution finished for DOP853, seed 6, error MABS in 2260.00 seconds.
+2025-03-20 16:07:20,676 - INFO - Starting DE execution: Solver=DOP853, Error=ABS, Seed=7
+2025-03-20 16:42:04,096 - INFO - Execution finished for RK45, seed 7, error ABS in 2955.23 seconds.
+2025-03-20 16:42:04,096 - INFO - Starting DE execution: Solver=LSODA, Error=ABS, Seed=7
+2025-03-20 16:54:24,359 - INFO - Execution finished for LSODA, seed 7, error ABS in 740.25 seconds.
+2025-03-20 16:54:24,360 - INFO - Starting DE execution: Solver=RK45, Error=SQUARED, Seed=7
+2025-03-20 17:37:04,640 - INFO - Execution finished for RK45, seed 7, error SQUARED in 2560.21 seconds.
+2025-03-20 17:37:04,643 - INFO - Starting DE execution: Solver=DOP853, Error=SQUARED, Seed=7
+2025-03-20 18:17:49,315 - INFO - Execution finished for DOP853, seed 7, error SQUARED in 2444.61 seconds.
+2025-03-20 18:17:49,316 - INFO - Starting DE execution: Solver=LSODA, Error=SQUARED, Seed=7
+2025-03-20 18:25:12,427 - INFO - Execution finished for LSODA, seed 7, error SQUARED in 443.10 seconds.
+2025-03-20 18:25:12,428 - INFO - Starting DE execution: Solver=RK45, Error=MSE, Seed=7
+2025-03-26 23:20:39,041 - INFO - Starting DE execution: Solver=RK45, Error=ABS, Seed=0
+2025-03-26 23:20:39,041 - INFO - Starting DE execution: Solver=DOP853, Error=ABS, Seed=0
+2025-03-26 23:20:39,041 - INFO - Starting DE execution: Solver=LSODA, Error=ABS, Seed=0
+2025-03-26 23:20:39,041 - INFO - Starting DE execution: Solver=RK45, Error=SQUARED, Seed=0
+2025-03-26 23:46:57,362 - INFO - Execution finished for LSODA, seed 0, error ABS in 1578.30 seconds.
+2025-03-26 23:46:57,362 - INFO - Starting DE execution: Solver=DOP853, Error=SQUARED, Seed=0
+2025-03-27 00:20:42,903 - INFO - Execution finished for RK45, seed 0, error ABS in 3603.81 seconds.
+2025-03-27 00:20:42,903 - INFO - Starting DE execution: Solver=LSODA, Error=SQUARED, Seed=0
+2025-03-27 00:20:53,840 - INFO - Execution finished for RK45, seed 0, error SQUARED in 3614.77 seconds.
+2025-03-27 00:20:53,840 - INFO - Starting DE execution: Solver=RK45, Error=MSE, Seed=0
+2025-03-27 00:20:55,075 - INFO - Execution finished for DOP853, seed 0, error ABS in 3615.96 seconds.
+2025-03-27 00:20:55,075 - INFO - Starting DE execution: Solver=DOP853, Error=MSE, Seed=0
+2025-03-27 00:46:34,404 - INFO - Execution finished for LSODA, seed 0, error SQUARED in 1551.50 seconds.
+2025-03-27 00:46:34,404 - INFO - Starting DE execution: Solver=LSODA, Error=MSE, Seed=0
+2025-03-27 00:46:58,232 - INFO - Execution finished for DOP853, seed 0, error SQUARED in 3600.81 seconds.
+2025-03-27 00:46:58,232 - INFO - Starting DE execution: Solver=RK45, Error=MABS, Seed=0
+2025-03-27 01:21:14,982 - INFO - Execution finished for RK45, seed 0, error MSE in 3621.09 seconds.
+2025-03-27 01:21:14,982 - INFO - Starting DE execution: Solver=DOP853, Error=MABS, Seed=0
+2025-03-27 01:25:58,716 - INFO - Execution finished for LSODA, seed 0, error MSE in 2364.30 seconds.
+2025-03-27 01:25:58,716 - INFO - Starting DE execution: Solver=LSODA, Error=MABS, Seed=0
+2025-03-27 01:39:37,358 - INFO - Execution finished for DOP853, seed 0, error MSE in 4721.78 seconds.
+2025-03-27 01:39:37,373 - INFO - Starting DE execution: Solver=RK45, Error=ABS, Seed=1
+2025-03-27 01:47:00,264 - INFO - Execution finished for RK45, seed 0, error MABS in 3601.97 seconds.
+2025-03-27 01:47:00,264 - INFO - Starting DE execution: Solver=DOP853, Error=ABS, Seed=1
+2025-03-27 01:53:55,842 - INFO - Execution finished for LSODA, seed 0, error MABS in 1677.13 seconds.
+2025-03-27 01:53:55,858 - INFO - Starting DE execution: Solver=LSODA, Error=ABS, Seed=1
+2025-03-27 02:21:33,284 - INFO - Execution finished for DOP853, seed 0, error MABS in 3618.22 seconds.
+2025-03-27 02:21:33,284 - INFO - Starting DE execution: Solver=RK45, Error=SQUARED, Seed=1
+2025-03-27 02:22:34,675 - INFO - Execution finished for LSODA, seed 1, error ABS in 1718.82 seconds.
+2025-03-27 02:22:34,691 - INFO - Starting DE execution: Solver=DOP853, Error=SQUARED, Seed=1
+2025-03-27 02:40:00,433 - INFO - Execution finished for RK45, seed 1, error ABS in 3623.01 seconds.
+2025-03-27 02:40:00,433 - INFO - Starting DE execution: Solver=LSODA, Error=SQUARED, Seed=1
+2025-03-27 02:47:18,374 - INFO - Execution finished for DOP853, seed 1, error ABS in 3617.98 seconds.
+2025-03-27 02:47:18,390 - INFO - Starting DE execution: Solver=RK45, Error=MSE, Seed=1
+2025-03-27 03:14:49,975 - INFO - Execution finished for LSODA, seed 1, error SQUARED in 2089.53 seconds.
+2025-03-27 03:14:49,975 - INFO - Starting DE execution: Solver=DOP853, Error=MSE, Seed=1
+2025-03-27 03:21:39,712 - INFO - Execution finished for RK45, seed 1, error SQUARED in 3606.38 seconds.
+2025-03-27 03:21:39,712 - INFO - Starting DE execution: Solver=LSODA, Error=MSE, Seed=1
+2025-03-27 03:22:40,525 - INFO - Execution finished for DOP853, seed 1, error SQUARED in 3605.77 seconds.
+2025-03-27 03:22:40,525 - INFO - Starting DE execution: Solver=RK45, Error=MABS, Seed=1
+2025-03-27 03:47:30,937 - INFO - Execution finished for RK45, seed 1, error MSE in 3612.48 seconds.
+2025-03-27 03:47:30,937 - INFO - Starting DE execution: Solver=DOP853, Error=MABS, Seed=1
+2025-03-27 04:01:02,828 - INFO - Execution finished for LSODA, seed 1, error MSE in 2363.10 seconds.
+2025-03-27 04:01:02,828 - INFO - Starting DE execution: Solver=LSODA, Error=MABS, Seed=1
+2025-03-27 04:15:19,454 - INFO - Execution finished for DOP853, seed 1, error MSE in 3629.40 seconds.
+2025-03-27 04:15:19,469 - INFO - Starting DE execution: Solver=RK45, Error=ABS, Seed=2
+2025-03-27 04:22:52,169 - INFO - Execution finished for RK45, seed 1, error MABS in 3611.57 seconds.
+2025-03-27 04:22:52,169 - INFO - Starting DE execution: Solver=DOP853, Error=ABS, Seed=2
+2025-03-27 04:28:54,685 - INFO - Execution finished for LSODA, seed 1, error MABS in 1671.84 seconds.
+2025-03-27 04:28:54,685 - INFO - Starting DE execution: Solver=LSODA, Error=ABS, Seed=2
+2025-03-27 04:47:32,045 - INFO - Execution finished for DOP853, seed 1, error MABS in 3601.05 seconds.
+2025-03-27 04:47:32,045 - INFO - Starting DE execution: Solver=RK45, Error=SQUARED, Seed=2
+2025-03-27 05:02:22,562 - INFO - Execution finished for LSODA, seed 2, error ABS in 2007.88 seconds.
+2025-03-27 05:02:22,578 - INFO - Starting DE execution: Solver=DOP853, Error=SQUARED, Seed=2
+2025-03-27 05:15:38,422 - INFO - Execution finished for RK45, seed 2, error ABS in 3618.89 seconds.
+2025-03-27 05:15:38,422 - INFO - Starting DE execution: Solver=LSODA, Error=SQUARED, Seed=2
+2025-03-27 05:22:55,666 - INFO - Execution finished for DOP853, seed 2, error ABS in 3603.40 seconds.
+2025-03-27 05:22:55,682 - INFO - Starting DE execution: Solver=RK45, Error=MSE, Seed=2
+2025-03-27 05:47:35,144 - INFO - Execution finished for RK45, seed 2, error SQUARED in 3603.02 seconds.
+2025-03-27 05:47:35,144 - INFO - Starting DE execution: Solver=DOP853, Error=MSE, Seed=2
+2025-03-27 05:50:05,191 - INFO - Execution finished for LSODA, seed 2, error SQUARED in 2066.75 seconds.
+2025-03-27 05:50:05,191 - INFO - Starting DE execution: Solver=LSODA, Error=MSE, Seed=2
+2025-03-27 06:02:27,335 - INFO - Execution finished for DOP853, seed 2, error SQUARED in 3604.69 seconds.
+2025-03-27 06:02:27,335 - INFO - Starting DE execution: Solver=RK45, Error=MABS, Seed=2
+2025-03-27 06:23:14,258 - INFO - Execution finished for RK45, seed 2, error MSE in 3618.50 seconds.
+2025-03-27 06:23:14,258 - INFO - Starting DE execution: Solver=DOP853, Error=MABS, Seed=2
+2025-03-27 06:39:37,230 - INFO - Execution finished for LSODA, seed 2, error MSE in 2972.02 seconds.
+2025-03-27 06:39:37,230 - INFO - Starting DE execution: Solver=LSODA, Error=MABS, Seed=2
+2025-03-27 06:47:44,794 - INFO - Execution finished for DOP853, seed 2, error MSE in 3609.60 seconds.
+2025-03-27 06:47:44,810 - INFO - Starting DE execution: Solver=RK45, Error=ABS, Seed=3
+2025-03-27 07:02:45,377 - INFO - Execution finished for RK45, seed 2, error MABS in 3617.92 seconds.
+2025-03-27 07:02:45,377 - INFO - Starting DE execution: Solver=DOP853, Error=ABS, Seed=3
+2025-03-27 07:22:53,007 - INFO - Execution finished for LSODA, seed 2, error MABS in 2595.76 seconds.
+2025-03-27 07:22:53,007 - INFO - Starting DE execution: Solver=LSODA, Error=ABS, Seed=3
+2025-03-27 07:23:21,288 - INFO - Execution finished for DOP853, seed 2, error MABS in 3606.98 seconds.
+2025-03-27 07:23:21,288 - INFO - Starting DE execution: Solver=RK45, Error=SQUARED, Seed=3
+2025-03-27 07:47:54,028 - INFO - Execution finished for RK45, seed 3, error ABS in 3609.16 seconds.
+2025-03-27 07:47:54,028 - INFO - Starting DE execution: Solver=DOP853, Error=SQUARED, Seed=3
+2025-03-27 07:59:56,672 - INFO - Execution finished for LSODA, seed 3, error ABS in 2223.65 seconds.
+2025-03-27 07:59:56,672 - INFO - Starting DE execution: Solver=LSODA, Error=SQUARED, Seed=3
+2025-03-27 08:02:59,174 - INFO - Execution finished for DOP853, seed 3, error ABS in 3613.73 seconds.
+2025-03-27 08:02:59,174 - INFO - Starting DE execution: Solver=RK45, Error=MSE, Seed=3
+2025-03-27 08:23:42,256 - INFO - Execution finished for RK45, seed 3, error SQUARED in 3620.89 seconds.
+2025-03-27 08:23:42,256 - INFO - Starting DE execution: Solver=DOP853, Error=MSE, Seed=3
+2025-03-27 08:40:38,668 - INFO - Execution finished for LSODA, seed 3, error SQUARED in 2441.98 seconds.
+2025-03-27 08:40:38,668 - INFO - Starting DE execution: Solver=LSODA, Error=MSE, Seed=3
+2025-03-27 09:00:27,421 - INFO - Execution finished for DOP853, seed 3, error SQUARED in 4353.33 seconds.
+2025-03-27 09:00:27,421 - INFO - Starting DE execution: Solver=RK45, Error=MABS, Seed=3
+2025-03-27 09:03:22,360 - INFO - Execution finished for RK45, seed 3, error MSE in 3623.12 seconds.
+2025-03-27 09:03:22,360 - INFO - Starting DE execution: Solver=DOP853, Error=MABS, Seed=3
+2025-03-27 09:40:12,248 - INFO - Execution finished for DOP853, seed 3, error MSE in 4589.95 seconds.
+2025-03-27 09:40:12,248 - INFO - Starting DE execution: Solver=LSODA, Error=MABS, Seed=3
+2025-03-27 09:40:38,967 - ERROR - Critical error: Integrator `lsoda` can be used to solve only a single problem at a time. If you want to integrate multiple problems, consider using a different integrator (see `ode.set_integrator`)
+2025-03-27 09:40:38,967 - INFO - Starting DE execution: Solver=RK45, Error=ABS, Seed=4
+2025-03-27 10:00:29,661 - INFO - Execution finished for RK45, seed 3, error MABS in 3602.16 seconds.
+2025-03-27 10:00:29,661 - INFO - Starting DE execution: Solver=DOP853, Error=ABS, Seed=4
+2025-03-27 10:03:47,427 - INFO - Execution finished for DOP853, seed 3, error MABS in 3625.00 seconds.
+2025-03-27 10:03:47,427 - INFO - Starting DE execution: Solver=LSODA, Error=ABS, Seed=4
