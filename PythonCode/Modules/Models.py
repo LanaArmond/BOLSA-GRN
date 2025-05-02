@@ -14,13 +14,14 @@ from Modules.Solvers import Solvers
 from Modules.Equations import Equation
 
 class Model:
-    def __init__(self, coeffs, bounds, system, labels, datapath):
+    def __init__(self, coeffs, bounds, system, labels, datapath, name):
         self.coeffs = coeffs
         self.bounds = bounds
         self.system = system
         self.IND_SIZE = self.count_coeffs()
         self.labels = labels
         self.datapath = datapath
+        self.name = name
         self.resolve_data()
         
         
@@ -46,7 +47,6 @@ class Model:
                 count += 1
         return count
     
-    
     def summarize_coeffs(self, coeffs, indent=2, level=0):
         lines = []
         prefix = ' ' * (indent * level)
@@ -69,17 +69,11 @@ class Model:
             f"Coefficient Structure:\n{coeff_summary}\n"
             f"Bounds: \n{self.bounds}\n"
         )
-
-  
-    
     
 class ModelWrapper:
     @staticmethod
     def GRN5():
-        
-        # Carrega os dados do sistema GRN5 e define as condições iniciais
         labels = ['A', 'B', 'C', 'D', 'E']
-        
         datapath = '../../Data/GRN5_DATA.txt'
         
         coeffs = {
@@ -113,7 +107,6 @@ class ModelWrapper:
             'n': (0.1, 30.0)
         }
 
-        
         # equação é argumento para aumentar eficiencia da função    
         def system(t, y, ind, equation):
             vals = [Solvers.norm_hardcoded(val, ind.model.max_data[label]) for val, label in zip(y, labels)]
@@ -125,6 +118,5 @@ class ModelWrapper:
 
             return [dA, dB, dC, dD, dE]
             
-        
-        return Model(coeffs=coeffs, bounds=bounds, system=system, labels=labels, datapath=datapath)
+        return Model(coeffs=coeffs, bounds=bounds, system=system, labels=labels, datapath=datapath, name='GRN5')
     

@@ -2,8 +2,15 @@ import pandas as pd
 import numpy as np
 
 class Helper:
-    def __init__(self):
-        pass
+    @staticmethod
+    def errors_dict():
+        return {
+            'ABS':Helper.abs_error,
+            'MSE': Helper.mse_error,
+            'MABS': Helper.mean_abs_error,
+            'SQUARED': Helper.squared_error
+        }
+    
     
     
     @staticmethod
@@ -21,7 +28,6 @@ class Helper:
         max_data = Helper.max_vals(df, labels)
         return df, max_data
     
-    
     @staticmethod
     def abs_error(original, pred):
         return sum(sum(abs(original-pred)))
@@ -31,9 +37,13 @@ class Helper:
         return sum(sum( (original-pred)**2 ))**(1/2)
     
     @staticmethod
-    def MSE_error(original, pred):
+    def mse_error(original, pred):
         return np.mean((original-pred)**2)
     
     @staticmethod
     def mean_abs_error(original, pred):
         return np.mean(abs(original-pred))
+    
+    @staticmethod
+    def calculate_error(original, pred, error):
+        return Helper.errors_dict()[error](original, pred)

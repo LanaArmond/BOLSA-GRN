@@ -57,18 +57,25 @@ class Individual:
         return ind_list
     
         
-    def calculate_fitness(self, solver='RK45'):
+    def calculate_fitness(self, solver='RK45', error='SQUARED'):
         try:
-            
             y = self.solve_ivp(solver=solver)
-            self.fitness = Helper.squared_error(self.model.original, y)
+            self.fitness = Helper.calculate_error(self.model.original, y, error)
             self.fitness = min(self.fitness, 1e6)
         except:
             # Trata exceções relacionadas ao solver
             print("Overflow")
             self.fitness = 1e6
+            
+    def calc_all_fitness(self, solver='RK45'):
+        y = self.solve_ivp(solver)
+        fitness_dict = {}
+        for error, error_func in Helper.errors_dict().items():
+              fitness_dict[error] = error_func(self.model.original, y,)
        
-    def initialize_ind(self):
+        return fitness_dict
+       
+    def initialize_ind(self, solver='RK45', error='SQUARED'):
         for key, label in self.coeffs.items():
             label['tau'] = Coefficient(self.model.bounds['tau'])
             for key, coeffs in label.items():
@@ -76,7 +83,7 @@ class Individual:
                     coeffs['n'] = Coefficient(self.model.bounds['n'])
                     coeffs['k'] = Coefficient(self.model.bounds['k'])
                     
-        self.calculate_fitness()
+        self.calculate_fitness(solver=solver, error=error)
     
      
     @property
@@ -119,9 +126,9 @@ class Individual:
             ind[:] = Individual.ind_to_list(list_ind)
     
     @staticmethod    
-    def cma_evaluate(list_ind, model):
+    def cma_evaluate(list_ind, model, solver='RK45', error='SQUARED'):
         ind = Individual.list_to_ind(list_ind, model)
-        ind.calculate_fitness()
+        ind.calculate_fitness(solver=solver, error=error)
         return ind.fitness,
     
     @staticmethod
@@ -137,6 +144,8 @@ class Individual:
                     coeffs['k'] = CMACoefficient(list_ind[i+1], model.bounds['k'])
                     i += 2
         return ind
+    
+    
     
         
     def __repr__(self):
