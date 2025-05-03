@@ -113,7 +113,6 @@ class CMAES:
             end_time = time.time()
             execution_time = end_time - start_time
            
-            
             if best_ind:
                 best_ind = Individual.list_to_ind(best_ind, model=self.model)
                 errors_result = best_ind.calc_all_fitness(solver=solver)  

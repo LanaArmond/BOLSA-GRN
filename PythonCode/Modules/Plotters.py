@@ -66,7 +66,7 @@ class Plotter:
 
     
     @staticmethod
-    def plot_ind(ind, solver='RK45', comparison=True, filepath=None, name=None, filetype='png'):
+    def plot_ind(ind, solver='RK45', comparison=False, filepath=None, name=None, filetype='png'):
         model = ind.model
         solvers = [solver]
         results = {}
