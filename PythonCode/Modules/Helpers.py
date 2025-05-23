@@ -2,15 +2,15 @@ import pandas as pd
 import numpy as np
 
 class Helper:
+    
     @staticmethod
     def errors_dict():
         return {
-            'ABS':Helper.abs_error,
+            'ABS': Helper.abs_error,
             'MSE': Helper.mse_error,
             'MABS': Helper.mean_abs_error,
             'SQUARED': Helper.squared_error
-        }
-    
+        }       
     
     
     @staticmethod

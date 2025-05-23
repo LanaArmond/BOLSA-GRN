@@ -1,8 +1,60 @@
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 class Plotter:
     def __init__():
         pass
+    
+    
+    @staticmethod
+    def plot_comparative_boxplots(data, filepath=None, filetype='png', name='boxplot_comparison'):
+        sns.set_theme(style="whitegrid")
+        metrics = ['ABS_Fitness', 'SQUARED_Fitness', 'MSE_Fitness', 'MABS_Fitness']
+
+        for metric in metrics:
+            plt.figure(figsize=(12, 6))
+            sns.boxplot(
+                data=data,
+                x='method',
+                y=metric,
+                hue='error_type',
+                showfliers=True
+            )
+            plt.title(f'Comparação de {metric.capitalize()} por Método e Tipo de Erro')
+            plt.xlabel('Método')
+            plt.ylabel(metric.capitalize())
+            plt.legend(title='Tipo de Erro')
+            plt.xticks(rotation=45)
+            plt.tight_layout()
+
+            if filepath:
+                plt.savefig(f"{filepath}/{name}_{metric}_comparacao.{filetype}")
+                plt.close()
+            else:
+                plt.show()
+
+        # Tempo de execução
+        plt.figure(figsize=(12, 6))
+        sns.boxplot(
+            data=data,
+            x='method',
+            y='execution_time',
+            hue='error_type',
+            showfliers=True,
+            palette='Set2'
+        )
+        plt.title('Comparação de Tempo de Execução por Método e Tipo de Erro')
+        plt.xlabel('Método')
+        plt.ylabel('Tempo de Execução')
+        plt.legend(title='Tipo de Erro')
+        plt.xticks(rotation=45)
+        plt.tight_layout()
+
+        if filepath:
+            plt.savefig(f"{filepath}/{name}_execution_time_comparacao.{filetype}")
+            plt.close()
+        else:
+            plt.show()
     
     # Plotando os resultados
     @staticmethod

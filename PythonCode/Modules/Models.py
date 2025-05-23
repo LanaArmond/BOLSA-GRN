@@ -57,6 +57,19 @@ class Model:
             if isinstance(value, dict):
                 lines.append(self.summarize_coeffs(value, indent, level + 1))
         return '\n'.join(lines)
+    
+        
+    def bounds_list(self):
+        bounds_list = []
+        for key, label in self.coeffs.items():
+            bounds_list.append(self.bounds['tau'])
+            for key, coeffs in label.items():
+                if key != 'tau':
+                    bounds_list.append(self.bounds['n'])
+                    bounds_list.append(self.bounds['k'])
+                    
+        return bounds_list
+    
 
     def __repr__(self):
         coeff_summary = self.summarize_coeffs(self.coeffs)

@@ -1,2 +1,0 @@
-2025-05-03 17:54:05,592 - INFO - Starting execution for: Solver=RK45, Error=SQUARED, Seed=None
-2025-05-03 17:54:09,486 - INFO - Execution finished for solver: RK45, seed: None, error: SQUARED in 3.86 seconds.

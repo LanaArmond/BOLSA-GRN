@@ -14,7 +14,7 @@ from Modules.Equations import Equation
 # Representa um coeficiente com valor e limites
 class Coefficient:
     def __init__(self, bounds):
-        self.val = random.uniform(*bounds)  # Inicializa com valor aleatório dentro dos limites
+        self.val = np.random.uniform(*bounds)  # Inicializa com valor aleatório dentro dos limites
         self.bounds = bounds
     
     def __repr__(self):
@@ -84,7 +84,7 @@ class Individual:
                     coeffs['k'] = Coefficient(self.model.bounds['k'])
                     
         self.calculate_fitness(solver=solver, error=error)
-    
+        
      
     @property
     def equation(self):
