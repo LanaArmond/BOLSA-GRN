@@ -84,6 +84,7 @@ class Model:
         )
     
 class ModelWrapper:
+    
     @staticmethod
     def GRN5():
         labels = ['A', 'B', 'C', 'D', 'E']
@@ -132,4 +133,204 @@ class ModelWrapper:
             return [dA, dB, dC, dD, dE]
             
         return Model(coeffs=coeffs, bounds=bounds, system=system, labels=labels, datapath=datapath, name='GRN5')
+    
+    
+    @staticmethod
+    def GRN10():
+        labels = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+        datapath = '../../Data/GRN10_DATA.txt'
+        
+        coeffs = {
+            'A': {
+                'J': {'n': None, 'k': None, '-': True},
+                'tau': None
+            },
+            'B': {
+                'E': {'n': None, 'k': None, '-': False},
+                'tau': None
+            },
+            'C': {
+                'A': {'n': None, 'k': None},
+                'B': {'n': None, 'k': None},
+                'F': {'n': None, 'k': None},
+                'tau': None
+            },
+            'D': {
+                'F': {'n': None, 'k': None, '-': False},
+                'tau': None
+            },
+            'E': {
+                'J': {'n': None, 'k': None, '-': True},
+                'tau': None
+            },
+            'F': {
+                'A': {'n': None, 'k': None, '-': False},
+                'tau': None
+            },
+            'G': {
+                'A': {'n': None, 'k': None},
+                'B': {'n': None, 'k': None},
+                'F': {'n': None, 'k': None},
+                'tau': None
+            },
+            'H': {
+                'F': {'n': None, 'k': None, '-': False},
+                'tau': None
+            },
+            'I': {
+                'G': {'n': None, 'k': None},
+                'H': {'n': None, 'k': None},
+                'tau': None
+            },
+            'J': {
+                'I': {'n': None, 'k': None, '-': False},
+                'tau': None
+            }
+        }
+        
+        bounds = {
+            'tau': (0.1, 5.0),
+            'k': (0.1, 2.0),
+            'n': (0.1, 30.0)
+        }
+
+        # equação é argumento para aumentar eficiencia da função    
+        def system(t, y, ind, equation):
+            vals = [Solvers.norm_hardcoded(val, ind.model.max_data[label]) for val, label in zip(y, labels)]
+            
+            dA = equation.full_eq(vals, 'A', 'J')
+            dB = equation.full_eq(vals, 'B', 'E')
+            dC = equation.complex_eqs(vals, 'C', [
+                        ['+B', '-F', '-A'], 
+                        ['-B', '+F', '-A'],
+                        ['-B', '-F', '+A'],
+                        ['+B', '-F', '+A'],
+                        ['-B', '+F', '+A'],
+                        ['+B', '+F', '+A'],
+            ])
+            dD = equation.full_eq(vals, 'D', 'F')
+            dE = equation.full_eq(vals, 'E', 'J')
+            dF = equation.full_eq(vals, 'F', 'A')
+            dG = equation.complex_eqs(vals, 'G', [
+                        ['+B', '-F', '-A'],
+                        ['-B', '+F', '-A'],
+                        ['-B', '-F', '+A'],
+                        ['+B', '-F', '+A'],
+                        ['-B', '+F', '+A'],
+                        ['+B', '+F', '+A'] 
+            ])
+            dH = equation.full_eq(vals, 'H', 'F')
+            dI = equation.complex_eqs(vals, 'I', [['+G', '+H']])
+            dJ = equation.full_eq(vals, 'J', 'I')
+
+            return [dA, dB, dC, dD, dE, dF, dG, dH, dI, dJ]
+            
+        return Model(coeffs=coeffs, bounds=bounds, system=system, labels=labels, datapath=datapath, name='GRN10')
+    
+    
+    @staticmethod
+    def ABCD():
+        labels = ['A', 'B', 'C', 'D']
+        datapath = '../../Data/ABCD_DATA.txt'
+        
+        coeffs = {
+            'A': {
+                'A': {'n': None, 'k': None},  # nAA & kAA
+                'B': {'n': None, 'k': None},  # nAB & kAB
+                'D': {'n': None, 'k': None},  # nAD & kAD
+                'tau': None                   # tauA
+            },
+            'B': {
+                'C': {'n': None, 'k': None}, # nBC & kBC
+                'D': {'n': None, 'k': None}, # nBD & kBD
+                'tau': None                  # tauB
+            },
+            'C': {
+                'A': {'n': None, 'k': None}, # nCA & kCA
+                'D': {'n': None, 'k': None}, # nCD & kCD
+                'tau': None,                 # tauC
+            },
+            'D': {
+                'A': {'n': None, 'k': None}, # nDA & kDA
+                'D': {'n': None, 'k': None}, # nDD & kDD
+                'tau': None,                 # tauD
+            }
+        }
+        
+        bounds = {
+            'tau': (0.1, 5.0),
+            'k': (0.1, 2.0),
+            'n': (0.1, 30.0)
+        }
+
+        # equação é argumento para aumentar eficiencia da função    
+        def system(t, y, ind, equation):
+            vals = [Solvers.norm_hardcoded(val, ind.model.max_data[label]) for val, label in zip(y, labels)]
+            
+            dA = equation.complex_eqs(vals, 'A', [['-A', '-D'], ['+B', '-D'], ['+A', '-B', '+D']])
+            dB = equation.complex_eqs(vals, 'B', [['-C'], ['+D']])
+            dC = equation.complex_eqs(vals, 'C', [['+D'], ['-A']])
+            dD = equation.complex_eqs(vals, 'D', [['-A'], ['-D']])
+
+            return [dA, dB, dC, dD]
+            
+        return Model(coeffs=coeffs, bounds=bounds, system=system, labels=labels, datapath=datapath, name='ABCD')
+    
+    @staticmethod
+    def ECOLI():
+        labels = ['A', 'B', 'C', 'D', 'E']
+        datapath = '../../Data/ECOLI_DATA.txt'
+        
+        coeffs = {
+            'A': {
+                'A': {'n': None, 'k': None},  # nAA & kAA
+                'C': {'n': None, 'k': None},  # nAC & kAC
+                'D': {'n': None, 'k': None},  # nAD & kAD
+                'E': {'n': None, 'k': None},  # nAE & kAE
+                'tau': None                   # tauA
+            },
+            'B': {
+                'A': {'n': None, 'k': None}, # nBA & kBA
+                'C': {'n': None, 'k': None}, # nBC & kBC
+                'D': {'n': None, 'k': None}, # nBD & kBD
+                'E': {'n': None, 'k': None}, # nBE & kBE
+                'tau': None                  # tauB
+            },
+            'C': {
+                'D': {'n': None, 'k': None}, # nCD & kCD
+                'E': {'n': None, 'k': None}, # nCE & kCE
+                'tau': None,                 # tauC
+            },
+            'D': {
+                'C': {'n': None, 'k': None, '-': False}, # nDC & kDC
+                'tau': None,                             # tauD
+            },
+            'E': {
+                'A': {'n': None, 'k': None}, # nEA & kEA
+                'B': {'n': None, 'k': None}, # nEB & kEB
+                'C': {'n': None, 'k': None}, # nEC & kEC
+                'E': {'n': None, 'k': None}, # nEE & kEE
+                'tau': None,                 # tauD
+            }
+        }
+        
+        bounds = {
+            'tau': (0.1, 5.0),
+            'k': (0.1, 2.0),
+            'n': (0.1, 30.0)
+        }
+
+        # equação é argumento para aumentar eficiencia da função    
+        def system(t, y, ind, equation):
+            vals = [Solvers.norm_hardcoded(val, ind.model.max_data[label]) for val, label in zip(y, labels)]
+            
+            dA = equation.complex_eqs(vals, 'A', [['-A', '-D', '-E'], ['-A', '-C', '+E'], ['+A', '+D', '-E']])
+            dB = equation.complex_eqs(vals, 'B', [['-A', '-D', '-E'], ['-A', '-C', '+E'], ['+A', '+D', '-E']])
+            dC = equation.complex_eqs(vals, 'C', [['+D'], ['+E']])
+            dD = equation.full_eq(vals, 'D', 'C')
+            dE = equation.complex_eqs(vals, 'E', [['+A', '+B', '+C'], ['+E']])
+
+            return [dA, dB, dC, dD, dE]
+            
+        return Model(coeffs=coeffs, bounds=bounds, system=system, labels=labels, datapath=datapath, name='ECOLI')
     
