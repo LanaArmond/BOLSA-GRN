@@ -51,8 +51,10 @@ class ExecutionHandler:
             for solver in self.solvers:
                 for error in self.errors:
                     self.logger.info(f"Running with seed={seed}, solver={solver}, error={error}")
+                    print(f"Running with seed={seed}, solver={solver}, error={error}")
                     result = self.run_single(seed, solver, error)
                     results.append(result)
+                    self.save_results(results)
 
         self.save_results(results)
 
@@ -94,7 +96,7 @@ class ExecutionHandler:
                 seed=seed,
                 error=error,
                 solver=solver,
-                verbose=False
+                verbose=True
             )
             result.update({
                 'model': self.model.name,
@@ -178,7 +180,7 @@ def static_run_single(model, method, logger, run_path, generations, method_name,
             seed=seed,
             error=error,
             solver=solver,
-            verbose=False
+            verbose=True
         )
         result.update({
             'model': model.name,

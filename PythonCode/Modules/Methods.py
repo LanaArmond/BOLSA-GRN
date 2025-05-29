@@ -84,7 +84,7 @@ class Method:
 
     
 class CMAES(Method):
-    def __init__(self, model, tolerance=1e4, no_improvement_limit=50, sigma_increase_factor=10, sigma=10, lambda_='auto'):
+    def __init__(self, model, tolerance=1e-4, no_improvement_limit=50, sigma_increase_factor=10, sigma=10, lambda_='auto'):
         super().__init__()
         self.model = model
         self.tolerance = tolerance
@@ -136,9 +136,9 @@ class CMAES(Method):
                 ind.fitness.values = toolbox.evaluate(ind)
 
             record = stats.compile(population)
-            current_best_fitness = min(ind.fitness.values[0] for ind in population)
+            current_best_fitness = min([ind.fitness.values[0] for ind in population])
             hof.update(population)
-
+            
             if best_fitness is None or current_best_fitness < best_fitness - self.tolerance:
                 best_fitness = current_best_fitness
                 no_improvement_counter = 0
