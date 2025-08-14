@@ -1,0 +1,1996 @@
+2025-07-02 08:53:32,307 | INFO | Starting execution - Serial
+2025-07-02 08:53:32,307 | INFO | Running with seed=0, solver=ODEINT, error=SQUARED
+2025-07-02 08:53:32,308 | INFO | Starting execution for CMAES: Solver=ODEINT, Error=SQUARED, Seed=0
+2025-07-02 08:53:57,536 | INFO | Sigma increased: 1
+2025-07-02 08:54:07,779 | INFO | Sigma increased: 3.2033370412279023
+2025-07-02 08:54:15,880 | INFO | Sigma increased: 5.664218057882426
+2025-07-02 08:54:23,312 | INFO | Sigma increased: 6.433710507035061
+2025-07-02 08:54:30,744 | INFO | Sigma increased: 9.171954475052823
+2025-07-02 08:56:47,507 | INFO | Sigma increased: 1
+2025-07-02 08:57:02,387 | INFO | Sigma increased: 4.585428968596503
+2025-07-02 08:57:14,753 | INFO | Sigma increased: 4.9243814495323
+2025-07-02 08:57:26,969 | INFO | Sigma increased: 4.5283683199845015
+2025-07-02 08:57:41,735 | INFO | Sigma increased: 7.92167890312458
+2025-07-02 08:57:52,026 | INFO | Sigma increased: 15
+2025-07-02 08:58:04,581 | INFO | Sigma increased: 15
+2025-07-02 08:58:15,423 | INFO | Sigma increased: 15
+2025-07-02 08:58:27,643 | INFO | Sigma increased: 15
+2025-07-02 09:00:13,330 | INFO | Sigma increased: 1
+2025-07-02 09:01:11,353 | INFO | Sigma increased: 1
+2025-07-02 09:02:06,619 | INFO | Sigma increased: 1
+2025-07-02 09:02:44,813 | INFO | Sigma increased: 1
+2025-07-02 09:03:42,425 | INFO | Sigma increased: 1
+2025-07-02 09:04:04,057 | INFO | Sigma increased: 1.7983202622357637
+2025-07-02 09:04:24,697 | INFO | Sigma increased: 2.1241641434214067
+2025-07-02 09:05:24,243 | INFO | Sigma increased: 1
+2025-07-02 09:05:46,532 | INFO | Sigma increased: 1.8611144676644624
+2025-07-02 09:06:07,957 | INFO | Sigma increased: 2.991792080201156
+2025-07-02 09:06:30,669 | INFO | Sigma increased: 3.0891104584516595
+2025-07-02 09:06:53,712 | INFO | Sigma increased: 2.0962190709568618
+2025-07-02 09:07:17,460 | INFO | Sigma increased: 1.1517749300421467
+2025-07-02 09:07:41,141 | INFO | Sigma increased: 1
+2025-07-02 09:08:05,250 | INFO | Sigma increased: 1
+2025-07-02 09:08:29,565 | INFO | Sigma increased: 1
+2025-07-02 09:08:53,957 | INFO | Sigma increased: 1
+2025-07-02 09:09:18,271 | INFO | Sigma increased: 1
+2025-07-02 09:09:43,303 | INFO | Sigma increased: 1
+2025-07-02 09:10:08,779 | INFO | Sigma increased: 1
+2025-07-02 09:10:33,946 | INFO | Sigma increased: 1
+2025-07-02 09:10:59,821 | INFO | Sigma increased: 1
+2025-07-02 09:11:26,092 | INFO | Sigma increased: 1
+2025-07-02 09:11:52,406 | INFO | Sigma increased: 1
+2025-07-02 09:12:19,358 | INFO | Sigma increased: 1
+2025-07-02 09:12:46,348 | INFO | Sigma increased: 1
+2025-07-02 09:13:13,362 | INFO | Sigma increased: 1.081988453934854
+2025-07-02 09:13:40,002 | INFO | Sigma increased: 1
+2025-07-02 09:14:03,903 | INFO | Sigma increased: 6.225685055344288
+2025-07-02 09:14:28,947 | INFO | Sigma increased: 15
+2025-07-02 09:14:54,883 | INFO | Sigma increased: 15
+2025-07-02 09:15:22,562 | INFO | Sigma increased: 15
+2025-07-02 09:15:50,105 | INFO | Sigma increased: 15
+2025-07-02 09:16:19,681 | INFO | Sigma increased: 15
+2025-07-02 09:16:50,056 | INFO | Sigma increased: 15
+2025-07-02 09:17:34,540 | INFO | Sigma increased: 15
+2025-07-02 09:18:03,973 | INFO | Sigma increased: 15
+2025-07-02 09:18:33,912 | INFO | Sigma increased: 15
+2025-07-02 09:19:04,656 | INFO | Sigma increased: 3.889219498877619
+2025-07-02 09:19:35,240 | INFO | Sigma increased: 3.2477338382424623
+2025-07-02 09:20:07,982 | INFO | Sigma increased: 1.297368661888993
+2025-07-02 09:20:40,170 | INFO | Sigma increased: 1
+2025-07-02 09:21:12,386 | INFO | Sigma increased: 1
+2025-07-02 09:21:48,261 | INFO | Sigma increased: 1
+2025-07-02 09:22:22,693 | INFO | Sigma increased: 2.0368355634621182
+2025-07-02 09:22:57,398 | INFO | Sigma increased: 1
+2025-07-02 09:23:32,192 | INFO | Sigma increased: 1
+2025-07-02 09:24:07,589 | INFO | Sigma increased: 1.3628078872251144
+2025-07-02 09:24:43,047 | INFO | Sigma increased: 2.27399676591072
+2025-07-02 09:25:18,890 | INFO | Sigma increased: 1.1672643454084257
+2025-07-02 09:25:55,261 | INFO | Sigma increased: 1
+2025-07-02 09:26:31,725 | INFO | Sigma increased: 1
+2025-07-02 09:27:08,751 | INFO | Sigma increased: 1
+2025-07-02 09:27:46,174 | INFO | Sigma increased: 1
+2025-07-02 09:28:24,361 | INFO | Sigma increased: 1
+2025-07-02 09:29:03,240 | INFO | Sigma increased: 1
+2025-07-02 09:29:41,754 | INFO | Sigma increased: 1
+2025-07-02 09:30:20,684 | INFO | Sigma increased: 1
+2025-07-02 09:31:00,069 | INFO | Sigma increased: 1
+2025-07-02 09:31:39,138 | INFO | Sigma increased: 2.0394701968437206
+2025-07-02 09:32:17,905 | INFO | Sigma increased: 1.7523823468895139
+2025-07-02 09:32:56,001 | INFO | Execution finished for solver: ODEINT, seed: 0, error: SQUARED in 2363.67 seconds.
+2025-07-02 09:32:56,014 | INFO | Results saved to ../../Outputs/ABCD_CMAES_SERIAL_20250702_085332\results.csv
+2025-07-02 09:32:56,014 | INFO | Running with seed=0, solver=ODEINT, error=MSE
+2025-07-02 09:32:56,014 | INFO | Starting execution for CMAES: Solver=ODEINT, Error=MSE, Seed=0
+2025-07-02 09:33:00,377 | INFO | Sigma increased: 7.41780124758111
+2025-07-02 09:33:05,646 | INFO | Sigma increased: 5.649337457626187
+2025-07-02 09:33:11,077 | INFO | Sigma increased: 5.924421744258392
+2025-07-02 09:33:16,406 | INFO | Sigma increased: 6.949454724150633
+2025-07-02 09:33:21,486 | INFO | Sigma increased: 6.306483732919212
+2025-07-02 09:33:26,120 | INFO | Sigma increased: 6.8848141042317454
+2025-07-02 09:33:32,029 | INFO | Sigma increased: 9.174495694568945
+2025-07-02 09:33:37,828 | INFO | Sigma increased: 10.242414702387176
+2025-07-02 09:33:42,721 | INFO | Sigma increased: 9.629406691252155
+2025-07-02 09:33:48,896 | INFO | Sigma increased: 11.550223561590759
+2025-07-02 09:33:56,382 | INFO | Sigma increased: 12.750319672994735
+2025-07-02 09:34:03,424 | INFO | Sigma increased: 15
+2025-07-02 09:34:09,804 | INFO | Sigma increased: 15
+2025-07-02 09:34:17,359 | INFO | Sigma increased: 15
+2025-07-02 09:34:23,969 | INFO | Sigma increased: 15
+2025-07-02 09:34:31,282 | INFO | Sigma increased: 15
+2025-07-02 09:34:41,065 | INFO | Sigma increased: 15
+2025-07-02 09:34:49,501 | INFO | Sigma increased: 15
+2025-07-02 09:34:58,591 | INFO | Sigma increased: 15
+2025-07-02 09:35:07,871 | INFO | Sigma increased: 15
+2025-07-02 09:35:16,650 | INFO | Sigma increased: 15
+2025-07-02 09:35:24,824 | INFO | Sigma increased: 15
+2025-07-02 09:35:35,444 | INFO | Sigma increased: 15
+2025-07-02 09:35:47,217 | INFO | Sigma increased: 15
+2025-07-02 09:36:00,771 | INFO | Sigma increased: 15
+2025-07-02 09:36:13,389 | INFO | Sigma increased: 15
+2025-07-02 09:36:27,174 | INFO | Sigma increased: 15
+2025-07-02 09:36:42,481 | INFO | Sigma increased: 15
+2025-07-02 09:36:59,458 | INFO | Sigma increased: 15
+2025-07-02 09:37:17,048 | INFO | Sigma increased: 15
+2025-07-02 09:37:32,938 | INFO | Sigma increased: 15
+2025-07-02 09:37:50,818 | INFO | Sigma increased: 15
+2025-07-02 09:38:07,687 | INFO | Sigma increased: 15
+2025-07-02 09:38:24,132 | INFO | Sigma increased: 15
+2025-07-02 09:38:40,053 | INFO | Sigma increased: 15
+2025-07-02 09:38:56,581 | INFO | Sigma increased: 15
+2025-07-02 09:39:12,280 | INFO | Sigma increased: 15
+2025-07-02 09:39:29,236 | INFO | Sigma increased: 14.538599726211256
+2025-07-02 09:39:46,361 | INFO | Sigma increased: 15
+2025-07-02 09:40:02,211 | INFO | Sigma increased: 15
+2025-07-02 09:40:18,439 | INFO | Sigma increased: 15
+2025-07-02 09:40:35,363 | INFO | Sigma increased: 15
+2025-07-02 09:40:52,751 | INFO | Sigma increased: 15
+2025-07-02 09:41:10,208 | INFO | Sigma increased: 15
+2025-07-02 09:41:27,436 | INFO | Sigma increased: 12.477049878472
+2025-07-02 09:41:45,265 | INFO | Sigma increased: 15
+2025-07-02 09:42:02,222 | INFO | Sigma increased: 15
+2025-07-02 09:42:19,001 | INFO | Sigma increased: 15
+2025-07-02 09:42:36,435 | INFO | Sigma increased: 15
+2025-07-02 09:42:53,561 | INFO | Sigma increased: 15
+2025-07-02 09:43:09,803 | INFO | Sigma increased: 15
+2025-07-02 09:43:27,603 | INFO | Sigma increased: 15
+2025-07-02 09:43:45,416 | INFO | Sigma increased: 15
+2025-07-02 09:44:02,906 | INFO | Sigma increased: 15
+2025-07-02 09:44:18,733 | INFO | Sigma increased: 15
+2025-07-02 09:44:35,967 | INFO | Sigma increased: 15
+2025-07-02 09:44:53,181 | INFO | Sigma increased: 15
+2025-07-02 09:45:10,982 | INFO | Sigma increased: 15
+2025-07-02 09:45:28,833 | INFO | Sigma increased: 15
+2025-07-02 09:45:47,019 | INFO | Sigma increased: 15
+2025-07-02 09:46:04,372 | INFO | Sigma increased: 15
+2025-07-02 09:46:21,690 | INFO | Sigma increased: 15
+2025-07-02 09:46:39,195 | INFO | Sigma increased: 15
+2025-07-02 09:46:57,229 | INFO | Sigma increased: 15
+2025-07-02 09:47:14,215 | INFO | Sigma increased: 15
+2025-07-02 09:47:30,380 | INFO | Sigma increased: 15
+2025-07-02 09:47:45,530 | INFO | Sigma increased: 15
+2025-07-02 09:48:00,873 | INFO | Sigma increased: 13.87244606488484
+2025-07-02 09:48:15,394 | INFO | Sigma increased: 12.777100913765496
+2025-07-02 09:48:29,651 | INFO | Sigma increased: 4.522867528430957
+2025-07-02 09:48:43,703 | INFO | Sigma increased: 5.648619176041539
+2025-07-02 09:48:59,238 | INFO | Sigma increased: 4.640480846511901
+2025-07-02 09:49:13,714 | INFO | Sigma increased: 4.9166964546095375
+2025-07-02 09:49:28,619 | INFO | Sigma increased: 4.093919154706077
+2025-07-02 09:49:43,324 | INFO | Sigma increased: 5.929106855324635
+2025-07-02 09:49:59,228 | INFO | Sigma increased: 11.83117206766317
+2025-07-02 09:50:15,285 | INFO | Sigma increased: 7.849364619317533
+2025-07-02 09:50:32,118 | INFO | Sigma increased: 7.352874634232221
+2025-07-02 09:50:48,457 | INFO | Sigma increased: 4.657953574728571
+2025-07-02 09:51:05,248 | INFO | Sigma increased: 4.485592508121198
+2025-07-02 09:51:21,708 | INFO | Sigma increased: 9.738083393784937
+2025-07-02 09:51:39,524 | INFO | Sigma increased: 11.82157107617601
+2025-07-02 09:51:57,503 | INFO | Sigma increased: 13.12595061605567
+2025-07-02 09:52:15,368 | INFO | Sigma increased: 9.31945407887784
+2025-07-02 09:52:32,624 | INFO | Sigma increased: 4.424331059480483
+2025-07-02 09:52:48,449 | INFO | Sigma increased: 4.594089625372311
+2025-07-02 09:53:04,048 | INFO | Sigma increased: 3.9596071661221064
+2025-07-02 09:53:21,001 | INFO | Sigma increased: 12.516917206165024
+2025-07-02 09:53:40,038 | INFO | Sigma increased: 10.92505445548904
+2025-07-02 09:53:57,063 | INFO | Sigma increased: 13.911247474651407
+2025-07-02 09:54:15,129 | INFO | Sigma increased: 15
+2025-07-02 09:54:32,586 | INFO | Sigma increased: 11.83936693092129
+2025-07-02 09:54:50,202 | INFO | Sigma increased: 12.906975727937375
+2025-07-02 09:55:08,628 | INFO | Sigma increased: 12.027896375093905
+2025-07-02 09:55:25,560 | INFO | Sigma increased: 8.932410469436746
+2025-07-02 09:55:41,014 | INFO | Sigma increased: 3.2517556186256167
+2025-07-02 09:55:55,129 | INFO | Sigma increased: 5.662019120281027
+2025-07-02 09:56:10,304 | INFO | Sigma increased: 3.8253197940370747
+2025-07-02 09:56:24,341 | INFO | Sigma increased: 3.479219186338303
+2025-07-02 09:56:36,527 | INFO | Sigma increased: 2.305148525826018
+2025-07-02 09:56:48,204 | INFO | Sigma increased: 3.3287051126126643
+2025-07-02 09:57:01,318 | INFO | Sigma increased: 7.5563340620952815
+2025-07-02 09:57:15,598 | INFO | Sigma increased: 8.52281236938773
+2025-07-02 09:57:29,917 | INFO | Sigma increased: 6.285854527641083
+2025-07-02 09:57:42,962 | INFO | Sigma increased: 11.842687965111347
+2025-07-02 09:57:57,914 | INFO | Sigma increased: 15
+2025-07-02 09:58:13,565 | INFO | Sigma increased: 14.249835123400326
+2025-07-02 09:58:28,695 | INFO | Sigma increased: 15
+2025-07-02 09:58:40,076 | INFO | Execution finished for solver: ODEINT, seed: 0, error: MSE in 1544.06 seconds.
+2025-07-02 09:58:40,079 | INFO | Results saved to ../../Outputs/ABCD_CMAES_SERIAL_20250702_085332\results.csv
+2025-07-02 09:58:40,079 | INFO | Running with seed=1, solver=ODEINT, error=SQUARED
+2025-07-02 09:58:40,079 | INFO | Starting execution for CMAES: Solver=ODEINT, Error=SQUARED, Seed=1
+2025-07-02 09:59:07,920 | INFO | Sigma increased: 1.377234115438874
+2025-07-02 09:59:14,871 | INFO | Sigma increased: 5.4658652488986705
+2025-07-02 09:59:20,532 | INFO | Sigma increased: 6.366773589114415
+2025-07-02 09:59:26,652 | INFO | Sigma increased: 4.9725360622195405
+2025-07-02 10:03:01,325 | INFO | Sigma increased: 1
+2025-07-02 10:03:13,363 | INFO | Sigma increased: 3.8612094072059633
+2025-07-02 10:03:20,997 | INFO | Sigma increased: 14.632261457487024
+2025-07-02 10:03:26,407 | INFO | Sigma increased: 15
+2025-07-02 10:03:37,019 | INFO | Sigma increased: 12.066692926226835
+2025-07-02 10:03:46,599 | INFO | Sigma increased: 15
+2025-07-02 10:03:57,417 | INFO | Sigma increased: 13.59819184463271
+2025-07-02 10:04:08,727 | INFO | Sigma increased: 15
+2025-07-02 10:04:22,726 | INFO | Sigma increased: 15
+2025-07-02 10:04:35,424 | INFO | Sigma increased: 15
+2025-07-02 10:04:50,807 | INFO | Sigma increased: 15
+2025-07-02 10:05:05,116 | INFO | Sigma increased: 15
+2025-07-02 10:05:22,071 | INFO | Sigma increased: 15
+2025-07-02 10:05:39,126 | INFO | Sigma increased: 15
+2025-07-02 10:08:12,107 | INFO | Sigma increased: 1
+2025-07-02 10:08:47,265 | INFO | Sigma increased: 1
+2025-07-02 10:09:03,345 | INFO | Sigma increased: 2.329081880781325
+2025-07-02 10:10:43,092 | INFO | Sigma increased: 1
+2025-07-02 10:11:52,364 | INFO | Sigma increased: 1
+2025-07-02 10:14:46,738 | INFO | Sigma increased: 1
+2025-07-02 10:15:08,280 | INFO | Sigma increased: 2.029801654266149
+2025-07-02 10:15:30,166 | INFO | Sigma increased: 3.290346973357488
+2025-07-02 10:15:52,064 | INFO | Sigma increased: 5.476872740768725
+2025-07-02 10:16:12,282 | INFO | Sigma increased: 6.071688164609872
+2025-07-02 10:16:31,742 | INFO | Sigma increased: 6.1302675596499165
+2025-07-02 10:16:50,714 | INFO | Sigma increased: 3.798129195173245
+2025-07-02 10:17:09,410 | INFO | Sigma increased: 1.9868479553912264
+2025-07-02 10:17:27,479 | INFO | Sigma increased: 1.6931968879562391
+2025-07-02 10:17:44,572 | INFO | Sigma increased: 1.2889228255277039
+2025-07-02 10:18:03,403 | INFO | Sigma increased: 2.238244771204024
+2025-07-02 10:18:21,825 | INFO | Sigma increased: 1.461124179801162
+2025-07-02 10:18:40,200 | INFO | Sigma increased: 1
+2025-07-02 10:18:58,114 | INFO | Sigma increased: 1
+2025-07-02 10:19:16,907 | INFO | Sigma increased: 1
+2025-07-02 10:19:35,949 | INFO | Sigma increased: 1
+2025-07-02 10:19:55,844 | INFO | Sigma increased: 1
+2025-07-02 10:20:16,730 | INFO | Sigma increased: 1
+2025-07-02 10:20:36,989 | INFO | Sigma increased: 1
+2025-07-02 10:20:58,869 | INFO | Sigma increased: 1
+2025-07-02 10:21:22,285 | INFO | Sigma increased: 1
+2025-07-02 10:21:46,741 | INFO | Sigma increased: 1.4925022866179736
+2025-07-02 10:22:11,504 | INFO | Sigma increased: 1.6346104641287826
+2025-07-02 10:22:35,334 | INFO | Sigma increased: 1.160799001848773
+2025-07-02 10:22:59,409 | INFO | Sigma increased: 1.1929103090940998
+2025-07-02 10:23:24,242 | INFO | Sigma increased: 1.4682904102291272
+2025-07-02 10:23:49,116 | INFO | Sigma increased: 1.6942772195755764
+2025-07-02 10:24:14,184 | INFO | Sigma increased: 1.9428545862862152
+2025-07-02 10:24:41,075 | INFO | Sigma increased: 2.9264251928574474
+2025-07-02 10:25:07,373 | INFO | Sigma increased: 5.7884220335134895
+2025-07-02 10:25:31,816 | INFO | Sigma increased: 3.5292243641043113
+2025-07-02 10:25:58,850 | INFO | Sigma increased: 2.2664230381638766
+2025-07-02 10:26:26,389 | INFO | Sigma increased: 6.236268250865473
+2025-07-02 10:26:52,170 | INFO | Sigma increased: 4.761964462890317
+2025-07-02 10:27:18,871 | INFO | Sigma increased: 3.296639474141105
+2025-07-02 10:27:48,683 | INFO | Sigma increased: 5.003358273302951
+2025-07-02 10:28:15,600 | INFO | Sigma increased: 2.4579593959798993
+2025-07-02 10:28:42,253 | INFO | Sigma increased: 2.3168690634092823
+2025-07-02 10:29:11,039 | INFO | Sigma increased: 3.1710527958171357
+2025-07-02 10:29:39,473 | INFO | Sigma increased: 1.7679665979624697
+2025-07-02 10:29:39,491 | INFO | Execution finished for solver: ODEINT, seed: 1, error: SQUARED in 1859.40 seconds.
+2025-07-02 10:29:39,494 | INFO | Results saved to ../../Outputs/ABCD_CMAES_SERIAL_20250702_085332\results.csv
+2025-07-02 10:29:39,494 | INFO | Running with seed=1, solver=ODEINT, error=MSE
+2025-07-02 10:29:39,494 | INFO | Starting execution for CMAES: Solver=ODEINT, Error=MSE, Seed=1
+2025-07-02 10:29:54,141 | INFO | Sigma increased: 1.256847245748599
+2025-07-02 10:30:01,329 | INFO | Sigma increased: 2.4835838396300267
+2025-07-02 10:30:07,705 | INFO | Sigma increased: 3.5876715326321085
+2025-07-02 10:30:12,815 | INFO | Sigma increased: 3.902391305666446
+2025-07-02 10:30:19,082 | INFO | Sigma increased: 6.60862255787949
+2025-07-02 10:30:24,801 | INFO | Sigma increased: 4.839967242108276
+2025-07-02 10:30:30,882 | INFO | Sigma increased: 8.525645898582939
+2025-07-02 10:30:37,731 | INFO | Sigma increased: 8.627130495417791
+2025-07-02 10:31:30,250 | INFO | Sigma increased: 1
+2025-07-02 10:33:03,007 | INFO | Sigma increased: 1
+2025-07-02 10:33:21,491 | INFO | Sigma increased: 2.690943692855149
+2025-07-02 10:33:35,578 | INFO | Sigma increased: 7.840340921982422
+2025-07-02 10:33:46,449 | INFO | Sigma increased: 14.875859634668915
+2025-07-02 10:33:56,005 | INFO | Sigma increased: 13.19837456474473
+2025-07-02 10:34:02,736 | INFO | Sigma increased: 15
+2025-07-02 10:34:11,791 | INFO | Sigma increased: 15
+2025-07-02 10:34:24,292 | INFO | Sigma increased: 15
+2025-07-02 10:34:35,937 | INFO | Sigma increased: 15
+2025-07-02 10:34:47,398 | INFO | Sigma increased: 15
+2025-07-02 10:34:59,443 | INFO | Sigma increased: 15
+2025-07-02 10:35:12,148 | INFO | Sigma increased: 15
+2025-07-02 10:35:24,835 | INFO | Sigma increased: 15
+2025-07-02 10:35:37,300 | INFO | Sigma increased: 15
+2025-07-02 10:35:49,430 | INFO | Sigma increased: 15
+2025-07-02 10:36:01,220 | INFO | Sigma increased: 15
+2025-07-02 10:37:10,022 | INFO | Sigma increased: 1.6808925001069377
+2025-07-02 10:38:00,878 | INFO | Sigma increased: 1
+2025-07-02 10:38:22,673 | INFO | Sigma increased: 1.3519762682746785
+2025-07-02 10:38:44,178 | INFO | Sigma increased: 2.0286488242253236
+2025-07-02 10:39:20,313 | INFO | Sigma increased: 2.035736886000847
+2025-07-02 10:39:56,541 | INFO | Sigma increased: 2.1158812917675114
+2025-07-02 10:40:17,863 | INFO | Sigma increased: 3.110441215691049
+2025-07-02 10:40:40,136 | INFO | Sigma increased: 8.880702788879525
+2025-07-02 10:41:24,185 | INFO | Sigma increased: 4.339347247672017
+2025-07-02 10:41:48,418 | INFO | Sigma increased: 3.9911624555215415
+2025-07-02 10:42:14,360 | INFO | Sigma increased: 8.123262917747981
+2025-07-02 10:42:41,196 | INFO | Sigma increased: 14.861904209732401
+2025-07-02 10:43:07,495 | INFO | Sigma increased: 15
+2025-07-02 10:43:34,767 | INFO | Sigma increased: 14.619309610859037
+2025-07-02 10:44:01,286 | INFO | Sigma increased: 10.805779240939117
+2025-07-02 10:44:28,311 | INFO | Sigma increased: 10.781209347861312
+2025-07-02 10:44:54,572 | INFO | Sigma increased: 15
+2025-07-02 10:45:20,319 | INFO | Sigma increased: 15
+2025-07-02 10:45:45,948 | INFO | Sigma increased: 7.981746723117389
+2025-07-02 10:46:12,434 | INFO | Sigma increased: 15
+2025-07-02 10:46:40,184 | INFO | Sigma increased: 7.766286129946886
+2025-07-02 10:47:08,462 | INFO | Sigma increased: 6.042721218502636
+2025-07-02 10:47:36,000 | INFO | Sigma increased: 3.3414601146369174
+2025-07-02 10:48:04,116 | INFO | Sigma increased: 2.3564545918811945
+2025-07-02 10:48:32,502 | INFO | Sigma increased: 2.9902974438027736
+2025-07-02 10:49:01,705 | INFO | Sigma increased: 1.8415674473571815
+2025-07-02 10:49:31,082 | INFO | Sigma increased: 1.1637276399133678
+2025-07-02 10:50:00,780 | INFO | Sigma increased: 1
+2025-07-02 10:50:30,226 | INFO | Sigma increased: 1
+2025-07-02 10:51:00,042 | INFO | Sigma increased: 1
+2025-07-02 10:51:30,369 | INFO | Sigma increased: 1.1374527680555777
+2025-07-02 10:52:01,127 | INFO | Sigma increased: 1
+2025-07-02 10:52:32,297 | INFO | Sigma increased: 1.5062514582562998
+2025-07-02 10:53:03,605 | INFO | Sigma increased: 1.0168311340654057
+2025-07-02 10:53:35,117 | INFO | Sigma increased: 1
+2025-07-02 10:54:06,960 | INFO | Sigma increased: 1
+2025-07-02 10:54:39,080 | INFO | Sigma increased: 1.0749276011638913
+2025-07-02 10:55:11,348 | INFO | Sigma increased: 1.13821927873452
+2025-07-02 10:55:44,082 | INFO | Sigma increased: 1.2832751761133552
+2025-07-02 10:56:17,441 | INFO | Sigma increased: 2.565385594582908
+2025-07-02 10:56:50,994 | INFO | Sigma increased: 2.4992901296331427
+2025-07-02 10:57:24,803 | INFO | Sigma increased: 1.7698429891960108
+2025-07-02 10:57:58,929 | INFO | Sigma increased: 1.7604755943220676
+2025-07-02 10:58:33,571 | INFO | Sigma increased: 1.8072006626214332
+2025-07-02 10:59:07,873 | INFO | Sigma increased: 2.6281475917069623
+2025-07-02 10:59:42,741 | INFO | Sigma increased: 4.644924692215665
+2025-07-02 11:00:18,499 | INFO | Sigma increased: 6.252393415098708
+2025-07-02 11:00:54,414 | INFO | Sigma increased: 5.991209008366831
+2025-07-02 11:01:30,504 | INFO | Sigma increased: 7.209508994924759
+2025-07-02 11:02:07,331 | INFO | Sigma increased: 10.983821090695013
+2025-07-02 11:02:45,040 | INFO | Sigma increased: 9.766402896860267
+2025-07-02 11:03:22,466 | INFO | Sigma increased: 10.349794559402849
+2025-07-02 11:03:59,671 | INFO | Sigma increased: 7.147376680985643
+2025-07-02 11:04:37,789 | INFO | Sigma increased: 10.374886493253879
+2025-07-02 11:05:16,727 | INFO | Sigma increased: 6.277601639337051
+2025-07-02 11:05:55,175 | INFO | Sigma increased: 5.291011285275047
+2025-07-02 11:06:33,987 | INFO | Sigma increased: 7.254998076278952
+2025-07-02 11:07:12,826 | INFO | Sigma increased: 6.042959189604231
+2025-07-02 11:07:51,852 | INFO | Sigma increased: 6.8755458022354805
+2025-07-02 11:08:30,516 | INFO | Sigma increased: 3.5671950203746707
+2025-07-02 11:09:09,394 | INFO | Sigma increased: 2.420916354100924
+2025-07-02 11:09:48,550 | INFO | Sigma increased: 1.939121672479478
+2025-07-02 11:10:28,013 | INFO | Sigma increased: 3.0064259781921465
+2025-07-02 11:11:07,941 | INFO | Sigma increased: 3.9404481200135373
+2025-07-02 11:11:48,510 | INFO | Sigma increased: 4.2327409899297415
+2025-07-02 11:12:29,580 | INFO | Sigma increased: 5.188947851067206
+2025-07-02 11:13:12,011 | INFO | Sigma increased: 15
+2025-07-02 11:14:26,822 | INFO | Execution finished for solver: ODEINT, seed: 1, error: MSE in 2687.31 seconds.
+2025-07-02 11:14:26,824 | INFO | Results saved to ../../Outputs/ABCD_CMAES_SERIAL_20250702_085332\results.csv
+2025-07-02 11:14:26,824 | INFO | Running with seed=2, solver=ODEINT, error=SQUARED
+2025-07-02 11:14:26,824 | INFO | Starting execution for CMAES: Solver=ODEINT, Error=SQUARED, Seed=2
+2025-07-02 11:14:32,789 | INFO | Sigma increased: 6.879798452957328
+2025-07-02 11:14:39,368 | INFO | Sigma increased: 5.00680727955607
+2025-07-02 11:14:46,763 | INFO | Sigma increased: 5.179838844682379
+2025-07-02 11:14:54,829 | INFO | Sigma increased: 5.521158626447871
+2025-07-02 11:15:02,648 | INFO | Sigma increased: 6.286910508405228
+2025-07-02 11:15:09,710 | INFO | Sigma increased: 11.646742522225864
+2025-07-02 11:15:16,710 | INFO | Sigma increased: 8.852486625842504
+2025-07-02 11:15:23,250 | INFO | Sigma increased: 10.887184910966084
+2025-07-02 11:15:29,649 | INFO | Sigma increased: 15
+2025-07-02 11:15:36,191 | INFO | Sigma increased: 10.652708481359994
+2025-07-02 11:15:46,725 | INFO | Sigma increased: 12.657793796067603
+2025-07-02 11:15:53,569 | INFO | Sigma increased: 15
+2025-07-02 11:16:00,257 | INFO | Sigma increased: 15
+2025-07-02 11:16:06,408 | INFO | Sigma increased: 13.773795302511349
+2025-07-02 11:16:14,510 | INFO | Sigma increased: 15
+2025-07-02 11:16:22,651 | INFO | Sigma increased: 15
+2025-07-02 11:16:31,774 | INFO | Sigma increased: 15
+2025-07-02 11:16:40,179 | INFO | Sigma increased: 15
+2025-07-02 11:16:47,361 | INFO | Sigma increased: 15
+2025-07-02 11:16:55,624 | INFO | Sigma increased: 15
+2025-07-02 11:17:04,495 | INFO | Sigma increased: 15
+2025-07-02 11:17:17,418 | INFO | Sigma increased: 15
+2025-07-02 11:17:28,414 | INFO | Sigma increased: 15
+2025-07-02 11:17:43,234 | INFO | Sigma increased: 15
+2025-07-02 11:17:56,032 | INFO | Sigma increased: 15
+2025-07-02 11:18:13,404 | INFO | Sigma increased: 15
+2025-07-02 11:18:25,376 | INFO | Sigma increased: 15
+2025-07-02 11:18:37,538 | INFO | Sigma increased: 15
+2025-07-02 11:18:51,890 | INFO | Sigma increased: 15
+2025-07-02 11:21:09,828 | INFO | Sigma increased: 1
+2025-07-02 11:22:41,578 | INFO | Sigma increased: 1
+2025-07-02 11:23:11,354 | INFO | Sigma increased: 1
+2025-07-02 11:23:44,757 | INFO | Sigma increased: 1
+2025-07-02 11:23:57,810 | INFO | Sigma increased: 1.1437521141301947
+2025-07-02 11:24:10,937 | INFO | Sigma increased: 1.3053149022977353
+2025-07-02 11:24:37,360 | INFO | Sigma increased: 1.3526382918155004
+2025-07-02 11:25:00,792 | INFO | Sigma increased: 1
+2025-07-02 11:25:16,378 | INFO | Sigma increased: 1.4597927542227043
+2025-07-02 11:25:31,683 | INFO | Sigma increased: 1.998379309527663
+2025-07-02 11:25:47,427 | INFO | Sigma increased: 1.618051958769021
+2025-07-02 11:26:03,176 | INFO | Sigma increased: 1.7353849847829026
+2025-07-02 11:27:25,062 | INFO | Sigma increased: 1.2403048389823854
+2025-07-02 11:27:39,456 | INFO | Sigma increased: 2.6974353798175352
+2025-07-02 11:28:01,101 | INFO | Sigma increased: 2.063184677257372
+2025-07-02 11:29:15,639 | INFO | Sigma increased: 15
+2025-07-02 11:29:36,945 | INFO | Sigma increased: 15
+2025-07-02 11:31:34,245 | INFO | Sigma increased: 15
+2025-07-02 11:33:53,253 | INFO | Sigma increased: 4.584247079905971
+2025-07-02 11:34:14,424 | INFO | Sigma increased: 7.648074886040752
+2025-07-02 11:34:36,711 | INFO | Sigma increased: 15
+2025-07-02 11:34:57,409 | INFO | Sigma increased: 15
+2025-07-02 11:35:17,042 | INFO | Sigma increased: 12.39402306086882
+2025-07-02 11:35:35,185 | INFO | Sigma increased: 15
+2025-07-02 11:35:53,189 | INFO | Sigma increased: 9.34115541692304
+2025-07-02 11:36:11,368 | INFO | Sigma increased: 10.16881849418522
+2025-07-02 11:36:30,704 | INFO | Sigma increased: 15
+2025-07-02 11:36:49,519 | INFO | Sigma increased: 15
+2025-07-02 11:37:08,038 | INFO | Sigma increased: 13.766708154533946
+2025-07-02 11:37:27,495 | INFO | Sigma increased: 13.555433378486562
+2025-07-02 11:37:47,522 | INFO | Sigma increased: 15
+2025-07-02 11:38:08,192 | INFO | Sigma increased: 15
+2025-07-02 11:38:47,852 | INFO | Sigma increased: 15
+2025-07-02 11:39:29,990 | INFO | Sigma increased: 11.240019661719053
+2025-07-02 11:39:58,292 | INFO | Sigma increased: 15
+2025-07-02 11:40:25,724 | INFO | Sigma increased: 15
+2025-07-02 11:40:53,445 | INFO | Sigma increased: 15
+2025-07-02 11:41:16,816 | INFO | Sigma increased: 15
+2025-07-02 11:41:38,909 | INFO | Sigma increased: 15
+2025-07-02 11:42:28,341 | INFO | Sigma increased: 15
+2025-07-02 11:42:56,404 | INFO | Sigma increased: 15
+2025-07-02 11:43:17,160 | INFO | Execution finished for solver: ODEINT, seed: 2, error: SQUARED in 1730.31 seconds.
+2025-07-02 11:43:17,163 | INFO | Results saved to ../../Outputs/ABCD_CMAES_SERIAL_20250702_085332\results.csv
+2025-07-02 11:43:17,163 | INFO | Running with seed=2, solver=ODEINT, error=MSE
+2025-07-02 11:43:17,163 | INFO | Starting execution for CMAES: Solver=ODEINT, Error=MSE, Seed=2
+2025-07-02 11:43:22,775 | INFO | Sigma increased: 5.320612682613735
+2025-07-02 11:43:29,255 | INFO | Sigma increased: 4.900313235591344
+2025-07-02 11:43:34,670 | INFO | Sigma increased: 5.722067477722859
+2025-07-02 11:43:40,009 | INFO | Sigma increased: 9.928431971761867
+2025-07-02 11:43:46,585 | INFO | Sigma increased: 9.784895737463765
+2025-07-02 11:43:53,466 | INFO | Sigma increased: 9.853268825005381
+2025-07-02 11:44:01,345 | INFO | Sigma increased: 10.779315753052998
+2025-07-02 11:44:07,738 | INFO | Sigma increased: 7.924131006354554
+2025-07-02 11:44:16,930 | INFO | Sigma increased: 11.022544729217705
+2025-07-02 11:44:24,349 | INFO | Sigma increased: 15
+2025-07-02 11:44:31,969 | INFO | Sigma increased: 15
+2025-07-02 11:44:39,498 | INFO | Sigma increased: 15
+2025-07-02 11:44:46,757 | INFO | Sigma increased: 10.011263787703111
+2025-07-02 11:44:55,208 | INFO | Sigma increased: 12.923889808817755
+2025-07-02 11:45:04,150 | INFO | Sigma increased: 15
+2025-07-02 11:45:14,763 | INFO | Sigma increased: 15
+2025-07-02 11:45:24,274 | INFO | Sigma increased: 15
+2025-07-02 11:45:35,707 | INFO | Sigma increased: 15
+2025-07-02 11:45:45,373 | INFO | Sigma increased: 15
+2025-07-02 11:45:53,670 | INFO | Sigma increased: 15
+2025-07-02 11:46:05,153 | INFO | Sigma increased: 15
+2025-07-02 11:46:16,924 | INFO | Sigma increased: 15
+2025-07-02 11:46:28,289 | INFO | Sigma increased: 15
+2025-07-02 11:46:41,478 | INFO | Sigma increased: 15
+2025-07-02 11:46:55,766 | INFO | Sigma increased: 15
+2025-07-02 11:47:11,656 | INFO | Sigma increased: 12.23183626143159
+2025-07-02 11:47:29,758 | INFO | Sigma increased: 13.949039090090153
+2025-07-02 11:47:48,852 | INFO | Sigma increased: 15
+2025-07-02 11:48:07,527 | INFO | Sigma increased: 15
+2025-07-02 11:49:45,653 | INFO | Sigma increased: 1.0340709289640617
+2025-07-02 11:50:01,697 | INFO | Sigma increased: 2.749121759353084
+2025-07-02 11:50:48,915 | INFO | Sigma increased: 2.1892412437545308
+2025-07-02 11:51:05,768 | INFO | Sigma increased: 11.95837013675834
+2025-07-02 11:51:25,504 | INFO | Sigma increased: 15
+2025-07-02 11:51:44,973 | INFO | Sigma increased: 15
+2025-07-02 11:52:04,850 | INFO | Sigma increased: 15
+2025-07-02 11:53:26,579 | INFO | Sigma increased: 4.137821523362362
+2025-07-02 11:53:43,423 | INFO | Sigma increased: 12.602895526710094
+2025-07-02 11:54:35,525 | INFO | Sigma increased: 8.213122459693972
+2025-07-02 11:54:53,701 | INFO | Sigma increased: 13.54899906911938
+2025-07-02 11:55:12,578 | INFO | Sigma increased: 15
+2025-07-02 11:55:33,654 | INFO | Sigma increased: 15
+2025-07-02 11:56:21,042 | INFO | Sigma increased: 6.858158040811992
+2025-07-02 11:56:44,500 | INFO | Sigma increased: 7.125326627197664
+2025-07-02 11:57:22,046 | INFO | Sigma increased: 6.807344076518431
+2025-07-02 11:57:45,058 | INFO | Sigma increased: 10.661956994074691
+2025-07-02 11:58:06,906 | INFO | Sigma increased: 15
+2025-07-02 11:58:32,428 | INFO | Sigma increased: 15
+2025-07-02 11:58:51,475 | INFO | Sigma increased: 15
+2025-07-02 11:59:14,342 | INFO | Sigma increased: 15
+2025-07-02 11:59:37,881 | INFO | Sigma increased: 15
+2025-07-02 12:00:03,879 | INFO | Sigma increased: 11.106956884946314
+2025-07-02 12:00:30,080 | INFO | Sigma increased: 13.417466058234229
+2025-07-02 12:00:55,282 | INFO | Sigma increased: 15
+2025-07-02 12:01:19,138 | INFO | Sigma increased: 15
+2025-07-02 12:01:42,253 | INFO | Sigma increased: 14.187209987006193
+2025-07-02 12:02:07,525 | INFO | Sigma increased: 15
+2025-07-02 12:02:33,345 | INFO | Sigma increased: 15
+2025-07-02 12:02:59,251 | INFO | Sigma increased: 15
+2025-07-02 12:03:26,950 | INFO | Sigma increased: 10.512919388510358
+2025-07-02 12:03:54,463 | INFO | Sigma increased: 15
+2025-07-02 12:04:22,266 | INFO | Sigma increased: 15
+2025-07-02 12:04:50,462 | INFO | Sigma increased: 15
+2025-07-02 12:05:19,131 | INFO | Sigma increased: 15
+2025-07-02 12:05:47,685 | INFO | Sigma increased: 15
+2025-07-02 12:06:15,304 | INFO | Sigma increased: 11.126103992137468
+2025-07-02 12:06:43,552 | INFO | Sigma increased: 15
+2025-07-02 12:07:12,455 | INFO | Sigma increased: 15
+2025-07-02 12:07:42,081 | INFO | Sigma increased: 7.9298139417179625
+2025-07-02 12:08:11,181 | INFO | Sigma increased: 8.562620114165732
+2025-07-02 12:08:40,595 | INFO | Sigma increased: 11.88110188356736
+2025-07-02 12:09:10,102 | INFO | Sigma increased: 8.6118523888916
+2025-07-02 12:09:39,399 | INFO | Sigma increased: 7.9277490888006845
+2025-07-02 12:10:08,666 | INFO | Sigma increased: 3.9287182666712295
+2025-07-02 12:10:38,336 | INFO | Sigma increased: 3.3714255844834757
+2025-07-02 12:11:09,141 | INFO | Sigma increased: 6.376730864861849
+2025-07-02 12:11:40,740 | INFO | Sigma increased: 10.39238998553185
+2025-07-02 12:12:13,126 | INFO | Sigma increased: 11.718278299253118
+2025-07-02 12:12:44,037 | INFO | Sigma increased: 4.191381040337835
+2025-07-02 12:13:15,211 | INFO | Sigma increased: 5.911633358779222
+2025-07-02 12:13:47,818 | INFO | Sigma increased: 4.374842547022748
+2025-07-02 12:14:20,481 | INFO | Sigma increased: 5.829822298461453
+2025-07-02 12:14:53,506 | INFO | Sigma increased: 4.374146919048666
+2025-07-02 12:15:26,454 | INFO | Sigma increased: 5.946910569040481
+2025-07-02 12:16:00,202 | INFO | Sigma increased: 4.354813396168173
+2025-07-02 12:16:35,048 | INFO | Sigma increased: 11.727200438911643
+2025-07-02 12:17:10,620 | INFO | Sigma increased: 8.60846876250684
+2025-07-02 12:17:45,804 | INFO | Sigma increased: 4.624691113882305
+2025-07-02 12:18:20,998 | INFO | Sigma increased: 12.434581873202639
+2025-07-02 12:18:58,557 | INFO | Sigma increased: 15
+2025-07-02 12:19:36,581 | INFO | Sigma increased: 10.584310908292622
+2025-07-02 12:20:13,089 | INFO | Sigma increased: 10.269017318724005
+2025-07-02 12:20:49,241 | INFO | Sigma increased: 7.393917240066148
+2025-07-02 12:21:26,399 | INFO | Sigma increased: 10.793728203079176
+2025-07-02 12:21:52,305 | INFO | Execution finished for solver: ODEINT, seed: 2, error: MSE in 2315.12 seconds.
+2025-07-02 12:21:52,308 | INFO | Results saved to ../../Outputs/ABCD_CMAES_SERIAL_20250702_085332\results.csv
+2025-07-02 12:21:52,308 | INFO | Running with seed=3, solver=ODEINT, error=SQUARED
+2025-07-02 12:21:52,309 | INFO | Starting execution for CMAES: Solver=ODEINT, Error=SQUARED, Seed=3
+2025-07-02 12:21:57,316 | INFO | Sigma increased: 6.657827226851686
+2025-07-02 12:22:03,459 | INFO | Sigma increased: 7.8176698029087275
+2025-07-02 12:22:09,375 | INFO | Sigma increased: 8.966724436805768
+2025-07-02 12:22:16,003 | INFO | Sigma increased: 6.499131217428694
+2025-07-02 12:22:23,203 | INFO | Sigma increased: 4.653474885756733
+2025-07-02 12:22:31,310 | INFO | Sigma increased: 5.134243237311235
+2025-07-02 12:22:38,950 | INFO | Sigma increased: 9.47355664851155
+2025-07-02 12:22:46,090 | INFO | Sigma increased: 8.833648480868138
+2025-07-02 12:22:53,589 | INFO | Sigma increased: 13.579228019145333
+2025-07-02 12:23:01,571 | INFO | Sigma increased: 14.732033641150347
+2025-07-02 12:23:09,787 | INFO | Sigma increased: 15
+2025-07-02 12:23:18,703 | INFO | Sigma increased: 15
+2025-07-02 12:23:27,261 | INFO | Sigma increased: 12.520562587906381
+2025-07-02 12:23:37,067 | INFO | Sigma increased: 15
+2025-07-02 12:23:44,769 | INFO | Sigma increased: 11.663129203944568
+2025-07-02 12:23:56,078 | INFO | Sigma increased: 10.367098986498256
+2025-07-02 12:24:05,028 | INFO | Sigma increased: 9.802556124653968
+2025-07-02 12:24:15,722 | INFO | Sigma increased: 15
+2025-07-02 12:24:27,006 | INFO | Sigma increased: 15
+2025-07-02 12:24:37,391 | INFO | Sigma increased: 15
+2025-07-02 12:24:47,741 | INFO | Sigma increased: 15
+2025-07-02 12:24:58,137 | INFO | Sigma increased: 15
+2025-07-02 12:25:10,594 | INFO | Sigma increased: 15
+2025-07-02 12:25:25,777 | INFO | Sigma increased: 15
+2025-07-02 12:25:39,951 | INFO | Sigma increased: 14.211054990365827
+2025-07-02 12:25:54,066 | INFO | Sigma increased: 15
+2025-07-02 12:26:09,319 | INFO | Sigma increased: 15
+2025-07-02 12:26:24,407 | INFO | Sigma increased: 15
+2025-07-02 12:26:40,228 | INFO | Sigma increased: 13.61009367110934
+2025-07-02 12:26:54,911 | INFO | Sigma increased: 15
+2025-07-02 12:27:12,544 | INFO | Sigma increased: 15
+2025-07-02 12:27:32,191 | INFO | Sigma increased: 15
+2025-07-02 12:27:51,286 | INFO | Sigma increased: 15
+2025-07-02 12:28:10,809 | INFO | Sigma increased: 12.42669720596863
+2025-07-02 12:28:30,940 | INFO | Sigma increased: 13.568061890751466
+2025-07-02 12:28:52,576 | INFO | Sigma increased: 11.235376221730817
+2025-07-02 12:29:13,939 | INFO | Sigma increased: 15
+2025-07-02 12:29:35,880 | INFO | Sigma increased: 15
+2025-07-02 12:29:58,099 | INFO | Sigma increased: 12.637971089261452
+2025-07-02 12:30:21,050 | INFO | Sigma increased: 15
+2025-07-02 12:30:44,256 | INFO | Sigma increased: 15
+2025-07-02 12:31:07,762 | INFO | Sigma increased: 15
+2025-07-02 12:31:31,035 | INFO | Sigma increased: 15
+2025-07-02 12:31:55,417 | INFO | Sigma increased: 15
+2025-07-02 12:32:19,363 | INFO | Sigma increased: 15
+2025-07-02 12:32:44,711 | INFO | Sigma increased: 15
+2025-07-02 12:33:09,928 | INFO | Sigma increased: 15
+2025-07-02 12:33:35,720 | INFO | Sigma increased: 15
+2025-07-02 12:34:02,417 | INFO | Sigma increased: 15
+2025-07-02 12:34:28,884 | INFO | Sigma increased: 15
+2025-07-02 12:34:56,153 | INFO | Sigma increased: 15
+2025-07-02 12:35:23,773 | INFO | Sigma increased: 15
+2025-07-02 12:35:51,593 | INFO | Sigma increased: 12.912731189326763
+2025-07-02 12:36:18,980 | INFO | Sigma increased: 15
+2025-07-02 12:36:47,339 | INFO | Sigma increased: 15
+2025-07-02 12:37:16,147 | INFO | Sigma increased: 15
+2025-07-02 12:37:45,001 | INFO | Sigma increased: 15
+2025-07-02 12:38:13,463 | INFO | Sigma increased: 15
+2025-07-02 12:38:40,720 | INFO | Sigma increased: 11.784982099340919
+2025-07-02 12:39:08,258 | INFO | Sigma increased: 15
+2025-07-02 12:39:36,343 | INFO | Sigma increased: 15
+2025-07-02 12:40:03,645 | INFO | Sigma increased: 12.54477400334313
+2025-07-02 12:40:33,155 | INFO | Sigma increased: 11.714159169591083
+2025-07-02 12:41:02,985 | INFO | Sigma increased: 15
+2025-07-02 12:41:33,822 | INFO | Sigma increased: 15
+2025-07-02 12:42:04,867 | INFO | Sigma increased: 15
+2025-07-02 12:42:35,977 | INFO | Sigma increased: 15
+2025-07-02 12:43:07,569 | INFO | Sigma increased: 15
+2025-07-02 12:43:39,399 | INFO | Sigma increased: 12.42982489500598
+2025-07-02 12:44:11,607 | INFO | Sigma increased: 15
+2025-07-02 12:44:46,061 | INFO | Sigma increased: 13.036009407022958
+2025-07-02 12:45:23,782 | INFO | Sigma increased: 15
+2025-07-02 12:46:00,738 | INFO | Sigma increased: 10.935302052717223
+2025-07-02 12:46:34,593 | INFO | Sigma increased: 9.016628371683574
+2025-07-02 12:47:08,685 | INFO | Sigma increased: 10.701174494269907
+2025-07-02 12:47:43,192 | INFO | Sigma increased: 9.850366054016348
+2025-07-02 12:48:17,919 | INFO | Sigma increased: 8.373864285597788
+2025-07-02 12:48:53,257 | INFO | Sigma increased: 7.385442077349749
+2025-07-02 12:49:29,086 | INFO | Sigma increased: 5.643341029368348
+2025-07-02 12:50:05,285 | INFO | Sigma increased: 5.653939937079128
+2025-07-02 12:50:41,899 | INFO | Sigma increased: 6.391916874847292
+2025-07-02 12:51:18,578 | INFO | Sigma increased: 12.184847302224933
+2025-07-02 12:51:55,251 | INFO | Sigma increased: 8.756659897140569
+2025-07-02 12:52:32,418 | INFO | Sigma increased: 7.729990360977727
+2025-07-02 12:53:10,343 | INFO | Sigma increased: 7.878667038767141
+2025-07-02 12:53:48,347 | INFO | Sigma increased: 15
+2025-07-02 12:54:26,885 | INFO | Sigma increased: 13.993023961242073
+2025-07-02 12:55:05,696 | INFO | Sigma increased: 14.297857043123921
+2025-07-02 12:55:45,648 | INFO | Sigma increased: 14.915380466506543
+2025-07-02 12:56:25,440 | INFO | Sigma increased: 15
+2025-07-02 12:57:05,774 | INFO | Sigma increased: 15
+2025-07-02 12:57:46,238 | INFO | Sigma increased: 13.46148464426555
+2025-07-02 12:58:27,521 | INFO | Sigma increased: 15
+2025-07-02 12:59:09,094 | INFO | Sigma increased: 15
+2025-07-02 12:59:51,247 | INFO | Sigma increased: 15
+2025-07-02 13:00:34,125 | INFO | Sigma increased: 15
+2025-07-02 13:00:41,130 | ERROR | Unexpected error: Eigenvalues did not converge
+Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 40, in run
+    best_ind = self.execute(logging=logging, solver=solver, seed=seed, error=error, gens=gens, verbose=verbose)
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 158, in execute
+    toolbox.update(population)
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\deap\cma.py", line 167, in update
+    self.diagD, self.B = numpy.linalg.eigh(self.C)
+  File "<__array_function__ internals>", line 200, in eigh
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\linalg\linalg.py", line 1451, in eigh
+    w, vt = gufunc(a, signature=signature, extobj=extobj)
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\linalg\linalg.py", line 95, in _raise_linalgerror_eigenvalues_nonconvergence
+    raise LinAlgError("Eigenvalues did not converge")
+numpy.linalg.LinAlgError: Eigenvalues did not converge
+2025-07-02 13:00:41,167 | ERROR | Error running seed=3, solver=ODEINT, error=SQUARED: local variable 'best_ind' referenced before assignment, traceback=Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 44, in run
+    raise e
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 40, in run
+    best_ind = self.execute(logging=logging, solver=solver, seed=seed, error=error, gens=gens, verbose=verbose)
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 158, in execute
+    toolbox.update(population)
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\deap\cma.py", line 167, in update
+    self.diagD, self.B = numpy.linalg.eigh(self.C)
+  File "<__array_function__ internals>", line 200, in eigh
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\linalg\linalg.py", line 1451, in eigh
+    w, vt = gufunc(a, signature=signature, extobj=extobj)
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\linalg\linalg.py", line 95, in _raise_linalgerror_eigenvalues_nonconvergence
+    raise LinAlgError("Eigenvalues did not converge")
+numpy.linalg.LinAlgError: Eigenvalues did not converge
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Handlers.py", line 92, in run_single
+    result = method.run(
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 51, in run
+    if best_ind:
+UnboundLocalError: local variable 'best_ind' referenced before assignment
+
+2025-07-02 13:00:41,172 | INFO | Results saved to ../../Outputs/ABCD_CMAES_SERIAL_20250702_085332\results.csv
+2025-07-02 13:00:41,172 | INFO | Running with seed=3, solver=ODEINT, error=MSE
+2025-07-02 13:00:41,172 | INFO | Starting execution for CMAES: Solver=ODEINT, Error=MSE, Seed=3
+2025-07-02 13:00:57,760 | INFO | Sigma increased: 1.5007904557287848
+2025-07-02 13:01:04,572 | INFO | Sigma increased: 2.9104681272845196
+2025-07-02 13:01:11,018 | INFO | Sigma increased: 4.704004095100062
+2025-07-02 13:01:16,651 | INFO | Sigma increased: 9.402018253040866
+2025-07-02 13:01:22,279 | INFO | Sigma increased: 7.760631184213265
+2025-07-02 13:03:57,218 | INFO | Sigma increased: 1
+2025-07-02 13:04:06,193 | INFO | Sigma increased: 9.2163061002062
+2025-07-02 13:04:13,323 | INFO | Sigma increased: 15
+2025-07-02 13:04:19,384 | INFO | Sigma increased: 15
+2025-07-02 13:04:27,183 | INFO | Sigma increased: 15
+2025-07-02 13:04:36,250 | INFO | Sigma increased: 15
+2025-07-02 13:04:45,858 | INFO | Sigma increased: 15
+2025-07-02 13:04:56,485 | INFO | Sigma increased: 15
+2025-07-02 13:05:07,611 | INFO | Sigma increased: 15
+2025-07-02 13:05:16,723 | INFO | Sigma increased: 15
+2025-07-02 13:05:27,608 | INFO | Sigma increased: 15
+2025-07-02 13:05:40,943 | INFO | Sigma increased: 15
+2025-07-02 13:05:57,220 | INFO | Sigma increased: 15
+2025-07-02 13:06:13,072 | INFO | Sigma increased: 15
+2025-07-02 13:06:30,244 | INFO | Sigma increased: 12.589030871488351
+2025-07-02 13:06:46,218 | INFO | Sigma increased: 15
+2025-07-02 13:07:04,247 | INFO | Sigma increased: 15
+2025-07-02 13:07:20,736 | INFO | Sigma increased: 15
+2025-07-02 13:08:18,014 | INFO | Sigma increased: 2.3225681373675062
+2025-07-02 13:08:32,498 | INFO | Sigma increased: 3.908032435870003
+2025-07-02 13:09:11,116 | INFO | Sigma increased: 2.788287626882889
+2025-07-02 13:09:27,165 | INFO | Sigma increased: 9.45630212907016
+2025-07-02 13:10:25,885 | INFO | Sigma increased: 3.0911577704664337
+2025-07-02 13:10:43,029 | INFO | Sigma increased: 7.190595419588121
+2025-07-02 13:11:00,401 | INFO | Sigma increased: 6.446870129915116
+2025-07-02 13:11:18,148 | INFO | Sigma increased: 15
+2025-07-02 13:11:36,035 | INFO | Sigma increased: 15
+2025-07-02 13:12:04,826 | INFO | Sigma increased: 15
+2025-07-02 13:12:22,955 | INFO | Sigma increased: 15
+2025-07-02 13:12:41,752 | INFO | Sigma increased: 14.28112794257882
+2025-07-02 13:13:10,678 | INFO | Sigma increased: 15
+2025-07-02 13:13:29,470 | INFO | Sigma increased: 15
+2025-07-02 13:13:48,890 | INFO | Sigma increased: 15
+2025-07-02 13:14:09,057 | INFO | Sigma increased: 11.720351794923548
+2025-07-02 13:14:47,631 | INFO | Sigma increased: 15
+2025-07-02 13:15:09,244 | INFO | Sigma increased: 15
+2025-07-02 13:15:30,827 | INFO | Sigma increased: 15
+2025-07-02 13:15:52,794 | INFO | Sigma increased: 15
+2025-07-02 13:16:15,001 | INFO | Sigma increased: 15
+2025-07-02 13:16:37,378 | INFO | Sigma increased: 14.970998829870698
+2025-07-02 13:17:15,862 | INFO | Sigma increased: 15
+2025-07-02 13:17:41,933 | INFO | Sigma increased: 15
+2025-07-02 13:18:04,612 | INFO | Sigma increased: 15
+2025-07-02 13:18:28,269 | INFO | Sigma increased: 15
+2025-07-02 13:18:52,148 | INFO | Sigma increased: 12.259457169386941
+2025-07-02 13:19:16,261 | INFO | Sigma increased: 11.24407289679851
+2025-07-02 13:19:40,842 | INFO | Sigma increased: 7.142497935645936
+2025-07-02 13:20:05,417 | INFO | Sigma increased: 5.67073719183562
+2025-07-02 13:20:30,564 | INFO | Sigma increased: 3.696368441162541
+2025-07-02 13:20:55,894 | INFO | Sigma increased: 3.9691720365843084
+2025-07-02 13:21:21,268 | INFO | Sigma increased: 3.977592800082943
+2025-07-02 13:21:53,158 | INFO | Sigma increased: 1.9415482981311332
+2025-07-02 13:22:19,395 | INFO | Sigma increased: 1.9918646764597283
+2025-07-02 13:22:45,908 | INFO | Sigma increased: 1.5758036209006467
+2025-07-02 13:23:12,564 | INFO | Sigma increased: 1.5575281550380238
+2025-07-02 13:23:40,725 | INFO | Sigma increased: 1
+2025-07-02 13:24:07,995 | INFO | Sigma increased: 1
+2025-07-02 13:24:35,344 | INFO | Sigma increased: 1.2686078491027222
+2025-07-02 13:25:03,111 | INFO | Sigma increased: 1.0613434230578007
+2025-07-02 13:25:31,236 | INFO | Sigma increased: 1.9317711960771713
+2025-07-02 13:25:59,578 | INFO | Sigma increased: 1.7601566307874696
+2025-07-02 13:26:28,067 | INFO | Sigma increased: 3.280691315824323
+2025-07-02 13:26:56,935 | INFO | Sigma increased: 1.5947415042996946
+2025-07-02 13:27:26,318 | INFO | Sigma increased: 4.0508026772648105
+2025-07-02 13:27:56,037 | INFO | Sigma increased: 2.6693794585288897
+2025-07-02 13:28:25,648 | INFO | Sigma increased: 3.94443989022181
+2025-07-02 13:28:55,862 | INFO | Sigma increased: 9.654174980859832
+2025-07-02 13:29:26,399 | INFO | Sigma increased: 10.080474941001832
+2025-07-02 13:29:57,096 | INFO | Sigma increased: 4.890727831004328
+2025-07-02 13:30:27,983 | INFO | Sigma increased: 5.089782226201034
+2025-07-02 13:30:59,327 | INFO | Sigma increased: 7.611424020602801
+2025-07-02 13:31:31,141 | INFO | Sigma increased: 2.527330397873153
+2025-07-02 13:32:03,260 | INFO | Sigma increased: 5.274594251053973
+2025-07-02 13:32:35,546 | INFO | Sigma increased: 6.087144234137861
+2025-07-02 13:33:07,764 | INFO | Sigma increased: 8.66202024276116
+2025-07-02 13:33:40,809 | INFO | Sigma increased: 5.314137984739888
+2025-07-02 13:33:59,810 | INFO | Execution finished for solver: ODEINT, seed: 3, error: MSE in 1998.62 seconds.
+2025-07-02 13:33:59,813 | INFO | Results saved to ../../Outputs/ABCD_CMAES_SERIAL_20250702_085332\results.csv
+2025-07-02 13:33:59,813 | INFO | Running with seed=4, solver=ODEINT, error=SQUARED
+2025-07-02 13:33:59,813 | INFO | Starting execution for CMAES: Solver=ODEINT, Error=SQUARED, Seed=4
+2025-07-02 13:34:06,031 | INFO | Sigma increased: 5.50851684409532
+2025-07-02 13:34:13,877 | INFO | Sigma increased: 5.01403848421036
+2025-07-02 13:34:21,292 | INFO | Sigma increased: 7.034196915601495
+2025-07-02 13:34:27,969 | INFO | Sigma increased: 8.411062025859371
+2025-07-02 13:34:35,276 | INFO | Sigma increased: 6.839818784753119
+2025-07-02 13:34:43,115 | INFO | Sigma increased: 6.954767729684061
+2025-07-02 13:34:50,434 | INFO | Sigma increased: 8.866414909772509
+2025-07-02 13:34:57,128 | INFO | Sigma increased: 9.250869237844526
+2025-07-02 13:35:04,302 | INFO | Sigma increased: 12.77145833381229
+2025-07-02 13:35:12,403 | INFO | Sigma increased: 8.965278288010804
+2025-07-02 13:35:20,730 | INFO | Sigma increased: 9.614023812731084
+2025-07-02 13:35:28,022 | INFO | Sigma increased: 12.272138285491048
+2025-07-02 13:35:35,573 | INFO | Sigma increased: 15
+2025-07-02 13:35:42,497 | INFO | Sigma increased: 15
+2025-07-02 13:35:50,721 | INFO | Sigma increased: 13.553754819404398
+2025-07-02 13:35:59,494 | INFO | Sigma increased: 15
+2025-07-02 13:36:09,388 | INFO | Sigma increased: 15
+2025-07-02 13:36:17,373 | INFO | Sigma increased: 15
+2025-07-02 13:36:29,109 | INFO | Sigma increased: 15
+2025-07-02 13:36:39,618 | INFO | Sigma increased: 15
+2025-07-02 13:36:51,667 | INFO | Sigma increased: 15
+2025-07-02 13:37:00,608 | INFO | Sigma increased: 15
+2025-07-02 13:37:10,911 | INFO | Sigma increased: 15
+2025-07-02 13:37:22,698 | INFO | Sigma increased: 15
+2025-07-02 13:37:34,906 | INFO | Sigma increased: 15
+2025-07-02 13:37:46,091 | INFO | Sigma increased: 15
+2025-07-02 13:37:59,543 | INFO | Sigma increased: 15
+2025-07-02 13:38:14,871 | INFO | Sigma increased: 15
+2025-07-02 13:38:31,593 | INFO | Sigma increased: 15
+2025-07-02 13:38:46,750 | INFO | Sigma increased: 15
+2025-07-02 13:39:01,593 | INFO | Sigma increased: 15
+2025-07-02 13:39:19,523 | INFO | Sigma increased: 15
+2025-07-02 13:39:39,699 | INFO | Sigma increased: 15
+2025-07-02 13:40:00,780 | INFO | Sigma increased: 15
+2025-07-02 13:40:22,871 | INFO | Sigma increased: 15
+2025-07-02 13:40:44,335 | INFO | Sigma increased: 12.967096189937015
+2025-07-02 13:41:06,870 | INFO | Sigma increased: 14.191144187675853
+2025-07-02 13:41:29,566 | INFO | Sigma increased: 15
+2025-07-02 13:41:52,815 | INFO | Sigma increased: 15
+2025-07-02 13:42:17,854 | INFO | Sigma increased: 15
+2025-07-02 13:42:43,137 | INFO | Sigma increased: 15
+2025-07-02 13:43:08,428 | INFO | Sigma increased: 15
+2025-07-02 13:43:33,972 | INFO | Sigma increased: 15
+2025-07-02 13:43:59,467 | INFO | Sigma increased: 15
+2025-07-02 13:44:25,508 | INFO | Sigma increased: 15
+2025-07-02 13:44:51,537 | INFO | Sigma increased: 15
+2025-07-02 13:45:18,865 | INFO | Sigma increased: 15
+2025-07-02 13:45:46,415 | INFO | Sigma increased: 15
+2025-07-02 13:46:14,147 | INFO | Sigma increased: 15
+2025-07-02 13:46:40,996 | INFO | Sigma increased: 15
+2025-07-02 13:47:32,034 | INFO | Sigma increased: 15
+2025-07-02 13:47:59,308 | INFO | Sigma increased: 15
+2025-07-02 13:48:27,308 | INFO | Sigma increased: 15
+2025-07-02 13:48:54,365 | INFO | Sigma increased: 15
+2025-07-02 13:50:03,355 | INFO | Sigma increased: 7.174302695632959
+2025-07-02 13:50:40,024 | INFO | Sigma increased: 5.149044602789843
+2025-07-02 13:52:09,730 | INFO | Sigma increased: 13.257546345035134
+2025-07-02 13:52:34,724 | INFO | Sigma increased: 15
+2025-07-02 13:53:00,147 | INFO | Sigma increased: 15
+2025-07-02 13:53:27,184 | INFO | Sigma increased: 15
+2025-07-02 13:53:54,433 | INFO | Sigma increased: 15
+2025-07-02 13:54:22,113 | INFO | Sigma increased: 15
+2025-07-02 13:54:50,510 | INFO | Sigma increased: 15
+2025-07-02 13:55:18,182 | INFO | Sigma increased: 15
+2025-07-02 13:55:46,818 | INFO | Sigma increased: 15
+2025-07-02 13:56:15,479 | INFO | Sigma increased: 15
+2025-07-02 13:56:44,016 | INFO | Sigma increased: 15
+2025-07-02 13:57:14,289 | INFO | Sigma increased: 15
+2025-07-02 13:57:45,101 | INFO | Sigma increased: 15
+2025-07-02 13:58:15,540 | INFO | Sigma increased: 15
+2025-07-02 13:58:45,956 | INFO | Sigma increased: 10.536988047048652
+2025-07-02 13:59:21,308 | INFO | Sigma increased: 6.719565697649942
+2025-07-02 13:59:52,601 | INFO | Sigma increased: 7.4603941478534175
+2025-07-02 14:00:24,988 | INFO | Sigma increased: 4.398393638504201
+2025-07-02 14:00:56,538 | INFO | Sigma increased: 4.7009406344452795
+2025-07-02 14:01:27,905 | INFO | Sigma increased: 4.680889902273946
+2025-07-02 14:01:59,139 | INFO | Sigma increased: 6.3440764569045545
+2025-07-02 14:02:30,685 | INFO | Sigma increased: 3.763617662590506
+2025-07-02 14:03:03,152 | INFO | Sigma increased: 3.6758512061491766
+2025-07-02 14:03:35,228 | INFO | Sigma increased: 6.866380606829079
+2025-07-02 14:04:08,106 | INFO | Sigma increased: 7.586460303718713
+2025-07-02 14:04:41,189 | INFO | Sigma increased: 8.628993991439845
+2025-07-02 14:05:13,883 | INFO | Sigma increased: 4.309110581993856
+2025-07-02 14:05:46,628 | INFO | Sigma increased: 2.9562865302401224
+2025-07-02 14:06:19,338 | INFO | Sigma increased: 2.866334955143326
+2025-07-02 14:06:52,162 | INFO | Sigma increased: 3.231543273766406
+2025-07-02 14:07:26,243 | INFO | Sigma increased: 2.6935770229406213
+2025-07-02 14:08:01,174 | INFO | Sigma increased: 2.5672893476916565
+2025-07-02 14:08:35,714 | INFO | Sigma increased: 3.0327486857667365
+2025-07-02 14:09:09,684 | INFO | Sigma increased: 3.526414124614841
+2025-07-02 14:09:44,924 | INFO | Sigma increased: 4.751484531499395
+2025-07-02 14:10:08,043 | ERROR | Unexpected error: Eigenvalues did not converge
+Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 40, in run
+    best_ind = self.execute(logging=logging, solver=solver, seed=seed, error=error, gens=gens, verbose=verbose)
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 158, in execute
+    toolbox.update(population)
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\deap\cma.py", line 167, in update
+    self.diagD, self.B = numpy.linalg.eigh(self.C)
+  File "<__array_function__ internals>", line 200, in eigh
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\linalg\linalg.py", line 1451, in eigh
+    w, vt = gufunc(a, signature=signature, extobj=extobj)
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\linalg\linalg.py", line 95, in _raise_linalgerror_eigenvalues_nonconvergence
+    raise LinAlgError("Eigenvalues did not converge")
+numpy.linalg.LinAlgError: Eigenvalues did not converge
+2025-07-02 14:10:08,044 | ERROR | Error running seed=4, solver=ODEINT, error=SQUARED: local variable 'best_ind' referenced before assignment, traceback=Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 44, in run
+    raise e
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 40, in run
+    best_ind = self.execute(logging=logging, solver=solver, seed=seed, error=error, gens=gens, verbose=verbose)
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 158, in execute
+    toolbox.update(population)
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\deap\cma.py", line 167, in update
+    self.diagD, self.B = numpy.linalg.eigh(self.C)
+  File "<__array_function__ internals>", line 200, in eigh
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\linalg\linalg.py", line 1451, in eigh
+    w, vt = gufunc(a, signature=signature, extobj=extobj)
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\linalg\linalg.py", line 95, in _raise_linalgerror_eigenvalues_nonconvergence
+    raise LinAlgError("Eigenvalues did not converge")
+numpy.linalg.LinAlgError: Eigenvalues did not converge
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Handlers.py", line 92, in run_single
+    result = method.run(
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 51, in run
+    if best_ind:
+UnboundLocalError: local variable 'best_ind' referenced before assignment
+
+2025-07-02 14:10:08,046 | INFO | Results saved to ../../Outputs/ABCD_CMAES_SERIAL_20250702_085332\results.csv
+2025-07-02 14:10:08,046 | INFO | Running with seed=4, solver=ODEINT, error=MSE
+2025-07-02 14:10:08,046 | INFO | Starting execution for CMAES: Solver=ODEINT, Error=MSE, Seed=4
+2025-07-02 14:11:20,031 | INFO | Sigma increased: 1
+2025-07-02 14:12:34,261 | INFO | Sigma increased: 1
+2025-07-02 14:14:01,375 | INFO | Sigma increased: 1
+2025-07-02 14:14:16,250 | INFO | Sigma increased: 3.6849269629214927
+2025-07-02 14:14:24,545 | INFO | Sigma increased: 12.57600197355581
+2025-07-02 14:14:31,273 | INFO | Sigma increased: 11.564463163306861
+2025-07-02 14:14:37,610 | INFO | Sigma increased: 12.372366880949365
+2025-07-02 14:14:44,896 | INFO | Sigma increased: 10.352590152961959
+2025-07-02 14:14:54,402 | INFO | Sigma increased: 12.382740507816148
+2025-07-02 14:15:02,492 | INFO | Sigma increased: 13.274865558891156
+2025-07-02 14:15:12,417 | INFO | Sigma increased: 15
+2025-07-02 14:15:21,256 | INFO | Sigma increased: 15
+2025-07-02 14:15:32,012 | INFO | Sigma increased: 15
+2025-07-02 14:15:44,193 | INFO | Sigma increased: 15
+2025-07-02 14:15:57,717 | INFO | Sigma increased: 15
+2025-07-02 14:16:11,067 | INFO | Sigma increased: 15
+2025-07-02 14:16:25,358 | INFO | Sigma increased: 15
+2025-07-02 14:17:24,381 | INFO | Sigma increased: 1.8752257260920007
+2025-07-02 14:18:03,365 | INFO | Sigma increased: 1.6039796056464837
+2025-07-02 14:18:51,700 | INFO | Sigma increased: 1.0362588948955034
+2025-07-02 14:19:20,646 | INFO | Sigma increased: 1.5698234875127577
+2025-07-02 14:19:56,025 | INFO | Sigma increased: 1.099766199437031
+2025-07-02 14:20:25,045 | INFO | Sigma increased: 1.6705530684676768
+2025-07-02 14:20:42,966 | INFO | Sigma increased: 2.3721923660709137
+2025-07-02 14:21:01,280 | INFO | Sigma increased: 6.770801940782984
+2025-07-02 14:21:19,119 | INFO | Sigma increased: 8.755807591620444
+2025-07-02 14:21:36,441 | INFO | Sigma increased: 15
+2025-07-02 14:22:39,828 | INFO | Sigma increased: 5.878373458093561
+2025-07-02 14:23:14,383 | INFO | Sigma increased: 6.553725382183001
+2025-07-02 14:23:38,632 | INFO | Sigma increased: 15
+2025-07-02 14:24:24,560 | INFO | Sigma increased: 7.032957468893761
+2025-07-02 14:25:03,318 | INFO | Sigma increased: 10.30890919986815
+2025-07-02 14:26:11,191 | INFO | Sigma increased: 4.417278844159018
+2025-07-02 14:26:32,395 | INFO | Sigma increased: 9.859991119095152
+2025-07-02 14:27:04,539 | INFO | Sigma increased: 8.205537095434067
+2025-07-02 14:27:26,605 | INFO | Sigma increased: 9.229810738784597
+2025-07-02 14:27:49,977 | INFO | Sigma increased: 4.406658264114365
+2025-07-02 14:28:14,207 | INFO | Sigma increased: 3.50731320184734
+2025-07-02 14:28:37,498 | INFO | Sigma increased: 2.8083645531554415
+2025-07-02 14:29:01,435 | INFO | Sigma increased: 1.3159027504274234
+2025-07-02 14:29:24,364 | INFO | Sigma increased: 1
+2025-07-02 14:29:48,033 | INFO | Sigma increased: 1.5447743520850807
+2025-07-02 14:30:11,938 | INFO | Sigma increased: 3.1006749645402425
+2025-07-02 14:30:36,220 | INFO | Sigma increased: 2.590026559835498
+2025-07-02 14:31:01,145 | INFO | Sigma increased: 2.9978564640004897
+2025-07-02 14:31:25,959 | INFO | Sigma increased: 1.3887614208196317
+2025-07-02 14:31:50,629 | INFO | Sigma increased: 1
+2025-07-02 14:32:15,330 | INFO | Sigma increased: 1.1948423435434425
+2025-07-02 14:32:39,755 | INFO | Sigma increased: 1
+2025-07-02 14:33:04,661 | INFO | Sigma increased: 1
+2025-07-02 14:33:29,890 | INFO | Sigma increased: 1
+2025-07-02 14:33:53,589 | INFO | Sigma increased: 1
+2025-07-02 14:34:18,195 | INFO | Sigma increased: 1
+2025-07-02 14:34:43,515 | INFO | Sigma increased: 1
+2025-07-02 14:35:09,720 | INFO | Sigma increased: 1
+2025-07-02 14:35:36,639 | INFO | Sigma increased: 1
+2025-07-02 14:36:02,757 | INFO | Sigma increased: 1
+2025-07-02 14:36:29,244 | INFO | Sigma increased: 1
+2025-07-02 14:36:57,486 | INFO | Sigma increased: 1
+2025-07-02 14:37:33,501 | INFO | Sigma increased: 1
+2025-07-02 14:38:00,458 | INFO | Sigma increased: 1
+2025-07-02 14:38:27,951 | INFO | Sigma increased: 1
+2025-07-02 14:38:54,813 | INFO | Sigma increased: 1
+2025-07-02 14:39:21,829 | INFO | Sigma increased: 1
+2025-07-02 14:39:45,979 | INFO | Sigma increased: 1
+2025-07-02 14:40:13,532 | INFO | Sigma increased: 1
+2025-07-02 14:40:38,976 | INFO | Sigma increased: 1
+2025-07-02 14:41:03,699 | INFO | Sigma increased: 1
+2025-07-02 14:41:24,138 | INFO | Sigma increased: 1
+2025-07-02 14:41:47,059 | INFO | Sigma increased: 1
+2025-07-02 14:42:09,016 | INFO | Sigma increased: 1
+2025-07-02 14:42:29,055 | INFO | Sigma increased: 1.3141210356810449
+2025-07-02 14:42:49,954 | INFO | Sigma increased: 1.9408606003023174
+2025-07-02 14:43:12,942 | INFO | Sigma increased: 1.4988516295754486
+2025-07-02 14:43:32,757 | INFO | Sigma increased: 2.3697212678956623
+2025-07-02 14:43:55,078 | INFO | Sigma increased: 2.0619414657937596
+2025-07-02 14:44:15,570 | INFO | Sigma increased: 3.50625055886213
+2025-07-02 14:44:35,257 | INFO | Sigma increased: 4.084535106626998
+2025-07-02 14:44:54,725 | INFO | Sigma increased: 3.7589236996563535
+2025-07-02 14:45:03,711 | INFO | Execution finished for solver: ODEINT, seed: 4, error: MSE in 2095.65 seconds.
+2025-07-02 14:45:03,714 | INFO | Results saved to ../../Outputs/ABCD_CMAES_SERIAL_20250702_085332\results.csv
+2025-07-02 14:45:03,714 | INFO | Running with seed=5, solver=ODEINT, error=SQUARED
+2025-07-02 14:45:03,714 | INFO | Starting execution for CMAES: Solver=ODEINT, Error=SQUARED, Seed=5
+2025-07-02 14:45:09,154 | INFO | Sigma increased: 4.6761788204425745
+2025-07-02 14:45:15,399 | INFO | Sigma increased: 5.369327658577462
+2025-07-02 14:45:21,010 | INFO | Sigma increased: 3.691690230043627
+2025-07-02 14:45:28,729 | INFO | Sigma increased: 7.271566774651924
+2025-07-02 14:45:35,101 | INFO | Sigma increased: 7.85486221504423
+2025-07-02 14:45:41,705 | INFO | Sigma increased: 9.002121225602206
+2025-07-02 14:45:47,878 | INFO | Sigma increased: 10.927858837219826
+2025-07-02 14:45:53,641 | INFO | Sigma increased: 8.775536852630458
+2025-07-02 14:46:01,811 | INFO | Sigma increased: 8.396231484518204
+2025-07-02 14:46:08,625 | INFO | Sigma increased: 14.796671728057706
+2025-07-02 14:46:15,462 | INFO | Sigma increased: 12.712907630864223
+2025-07-02 14:46:22,840 | INFO | Sigma increased: 14.32307760043038
+2025-07-02 14:46:30,389 | INFO | Sigma increased: 13.10224275237978
+2025-07-02 14:46:39,441 | INFO | Sigma increased: 10.608938609770973
+2025-07-02 14:46:50,029 | INFO | Sigma increased: 10.641137447676403
+2025-07-02 14:46:59,626 | INFO | Sigma increased: 11.39880994550085
+2025-07-02 14:47:09,539 | INFO | Sigma increased: 15
+2025-07-02 14:47:20,468 | INFO | Sigma increased: 15
+2025-07-02 14:47:30,022 | INFO | Sigma increased: 15
+2025-07-02 14:47:37,260 | INFO | Sigma increased: 15
+2025-07-02 14:47:46,117 | INFO | Sigma increased: 15
+2025-07-02 14:47:57,048 | INFO | Sigma increased: 15
+2025-07-02 14:48:11,084 | INFO | Sigma increased: 15
+2025-07-02 14:48:22,412 | INFO | Sigma increased: 15
+2025-07-02 14:48:36,516 | INFO | Sigma increased: 15
+2025-07-02 14:48:50,770 | INFO | Sigma increased: 15
+2025-07-02 14:49:04,560 | INFO | Sigma increased: 15
+2025-07-02 14:49:20,713 | INFO | Sigma increased: 15
+2025-07-02 14:49:35,187 | INFO | Sigma increased: 15
+2025-07-02 14:49:49,624 | INFO | Sigma increased: 15
+2025-07-02 14:50:05,238 | INFO | Sigma increased: 15
+2025-07-02 14:50:20,367 | INFO | Sigma increased: 15
+2025-07-02 14:50:36,767 | INFO | Sigma increased: 15
+2025-07-02 14:50:53,155 | INFO | Sigma increased: 15
+2025-07-02 14:51:08,778 | INFO | Sigma increased: 15
+2025-07-02 14:51:25,596 | INFO | Sigma increased: 15
+2025-07-02 14:51:41,816 | INFO | Sigma increased: 15
+2025-07-02 14:52:22,614 | INFO | Sigma increased: 5.649308056252287
+2025-07-02 14:52:37,305 | INFO | Sigma increased: 4.416578005931059
+2025-07-02 14:53:03,675 | INFO | Sigma increased: 4.631999352746349
+2025-07-02 14:53:18,390 | INFO | Sigma increased: 11.545720847313273
+2025-07-02 14:54:01,760 | INFO | Sigma increased: 9.941059350736728
+2025-07-02 14:54:28,942 | INFO | Sigma increased: 10.132778715773124
+2025-07-02 14:54:44,961 | INFO | Sigma increased: 15
+2025-07-02 14:55:01,026 | INFO | Sigma increased: 15
+2025-07-02 14:55:16,607 | INFO | Sigma increased: 15
+2025-07-02 14:55:33,068 | INFO | Sigma increased: 15
+2025-07-02 14:56:23,799 | INFO | Sigma increased: 15
+2025-07-02 14:56:41,161 | INFO | Sigma increased: 15
+2025-07-02 14:57:14,707 | INFO | Sigma increased: 4.7919187850238565
+2025-07-02 14:58:00,926 | INFO | Sigma increased: 2.4128068806103697
+2025-07-02 14:58:19,644 | INFO | Sigma increased: 2.7065354761905427
+2025-07-02 14:58:38,483 | INFO | Sigma increased: 2.0990029571379476
+2025-07-02 14:58:57,668 | INFO | Sigma increased: 1.3209620142923784
+2025-07-02 14:59:16,972 | INFO | Sigma increased: 1.0328856595396632
+2025-07-02 14:59:36,372 | INFO | Sigma increased: 1.5770148161380027
+2025-07-02 14:59:56,327 | INFO | Sigma increased: 1.226766987992932
+2025-07-02 15:00:16,114 | INFO | Sigma increased: 1.6172329795868887
+2025-07-02 15:00:36,236 | INFO | Sigma increased: 1.4151546268303323
+2025-07-02 15:00:56,628 | INFO | Sigma increased: 2.0465178368827868
+2025-07-02 15:01:17,036 | INFO | Sigma increased: 2.7865660576702487
+2025-07-02 15:01:37,662 | INFO | Sigma increased: 6.347374629802887
+2025-07-02 15:01:58,705 | INFO | Sigma increased: 5.537187674828291
+2025-07-02 15:02:19,828 | INFO | Sigma increased: 9.219765854872257
+2025-07-02 15:02:41,049 | INFO | Sigma increased: 10.954047233102873
+2025-07-02 15:03:02,598 | INFO | Sigma increased: 3.6603739182972634
+2025-07-02 15:03:24,278 | INFO | Sigma increased: 6.78582935347614
+2025-07-02 15:03:46,247 | INFO | Sigma increased: 6.2805530692728695
+2025-07-02 15:04:08,433 | INFO | Sigma increased: 9.744414797208544
+2025-07-02 15:04:30,790 | INFO | Sigma increased: 15
+2025-07-02 15:06:54,470 | INFO | Sigma increased: 15
+2025-07-02 15:10:13,391 | INFO | Sigma increased: 15
+2025-07-02 15:10:33,434 | INFO | Sigma increased: 15
+2025-07-02 15:10:38,418 | INFO | Sigma increased: 15
+2025-07-02 15:10:44,614 | INFO | Sigma increased: 15
+2025-07-02 15:10:50,765 | INFO | Sigma increased: 15
+2025-07-02 15:10:56,153 | INFO | Sigma increased: 15
+2025-07-02 15:11:00,611 | INFO | Sigma increased: 15
+2025-07-02 15:11:05,097 | INFO | Sigma increased: 15
+2025-07-02 15:11:10,265 | INFO | Sigma increased: 15
+2025-07-02 15:11:15,842 | INFO | Sigma increased: 15
+2025-07-02 15:11:19,827 | INFO | Sigma increased: 15
+2025-07-02 15:11:25,282 | INFO | Sigma increased: 15
+2025-07-02 15:11:30,072 | INFO | Sigma increased: 15
+2025-07-02 15:11:34,202 | INFO | Sigma increased: 15
+2025-07-02 15:11:39,333 | INFO | Sigma increased: 15
+2025-07-02 15:11:39,483 | INFO | Execution finished for solver: ODEINT, seed: 5, error: SQUARED in 1595.75 seconds.
+2025-07-02 15:11:39,486 | INFO | Results saved to ../../Outputs/ABCD_CMAES_SERIAL_20250702_085332\results.csv
+2025-07-02 15:11:39,486 | INFO | Running with seed=5, solver=ODEINT, error=MSE
+2025-07-02 15:11:39,486 | INFO | Starting execution for CMAES: Solver=ODEINT, Error=MSE, Seed=5
+2025-07-02 15:13:51,854 | INFO | Sigma increased: 1
+2025-07-02 15:15:26,914 | INFO | Sigma increased: 1
+2025-07-02 15:16:10,924 | INFO | Sigma increased: 1
+2025-07-02 15:16:27,825 | INFO | Sigma increased: 2.4066706015684196
+2025-07-02 15:16:40,502 | INFO | Sigma increased: 6.857761182662937
+2025-07-02 15:16:49,299 | INFO | Sigma increased: 10.567937889464162
+2025-07-02 15:17:01,887 | INFO | Sigma increased: 10.843380440462035
+2025-07-02 15:17:10,574 | INFO | Sigma increased: 14.956476242651629
+2025-07-02 15:17:19,210 | INFO | Sigma increased: 15
+2025-07-02 15:17:29,058 | INFO | Sigma increased: 15
+2025-07-02 15:17:41,765 | INFO | Sigma increased: 15
+2025-07-02 15:17:50,155 | INFO | Sigma increased: 15
+2025-07-02 15:17:59,982 | INFO | Sigma increased: 14.73255440403869
+2025-07-02 15:18:08,905 | INFO | Sigma increased: 15
+2025-07-02 15:18:20,409 | INFO | Sigma increased: 15
+2025-07-02 15:18:32,828 | INFO | Sigma increased: 15
+2025-07-02 15:18:47,464 | INFO | Sigma increased: 15
+2025-07-02 15:19:01,287 | INFO | Sigma increased: 15
+2025-07-02 15:19:16,752 | INFO | Sigma increased: 15
+2025-07-02 15:19:29,700 | INFO | Sigma increased: 15
+2025-07-02 15:19:45,940 | INFO | Sigma increased: 15
+2025-07-02 15:20:05,103 | INFO | Sigma increased: 15
+2025-07-02 15:20:24,291 | INFO | Sigma increased: 15
+2025-07-02 15:20:43,411 | INFO | Sigma increased: 15
+2025-07-02 15:21:04,091 | INFO | Sigma increased: 15
+2025-07-02 15:21:23,913 | INFO | Sigma increased: 15
+2025-07-02 15:21:47,102 | INFO | Sigma increased: 15
+2025-07-02 15:22:09,168 | INFO | Sigma increased: 15
+2025-07-02 15:22:27,708 | INFO | Sigma increased: 15
+2025-07-02 15:22:45,750 | INFO | Sigma increased: 14.736442396729029
+2025-07-02 15:23:03,497 | INFO | Sigma increased: 15
+2025-07-02 15:23:22,383 | INFO | Sigma increased: 15
+2025-07-02 15:23:40,071 | INFO | Sigma increased: 15
+2025-07-02 15:23:55,600 | INFO | Sigma increased: 15
+2025-07-02 15:24:13,750 | INFO | Sigma increased: 15
+2025-07-02 15:24:33,348 | INFO | Sigma increased: 15
+2025-07-02 15:24:51,628 | INFO | Sigma increased: 15
+2025-07-02 15:25:08,179 | INFO | Sigma increased: 15
+2025-07-02 15:25:25,191 | INFO | Sigma increased: 15
+2025-07-02 15:25:44,003 | INFO | Sigma increased: 11.701457086948412
+2025-07-02 15:26:03,025 | INFO | Sigma increased: 15
+2025-07-02 15:26:24,677 | INFO | Sigma increased: 9.837312486955643
+2025-07-02 15:26:43,727 | INFO | Sigma increased: 11.5073658399851
+2025-07-02 15:27:04,298 | INFO | Sigma increased: 15
+2025-07-02 15:27:24,631 | INFO | Sigma increased: 15
+2025-07-02 15:27:47,590 | INFO | Sigma increased: 14.216627215562404
+2025-07-02 15:28:09,303 | INFO | Sigma increased: 15
+2025-07-02 15:28:33,499 | INFO | Sigma increased: 15
+2025-07-02 15:28:55,581 | INFO | Sigma increased: 13.769242059751143
+2025-07-02 15:29:18,409 | INFO | Sigma increased: 15
+2025-07-02 15:29:42,242 | INFO | Sigma increased: 15
+2025-07-02 15:30:07,039 | INFO | Sigma increased: 15
+2025-07-02 15:30:31,706 | INFO | Sigma increased: 15
+2025-07-02 15:30:57,783 | INFO | Sigma increased: 15
+2025-07-02 15:31:23,074 | INFO | Sigma increased: 13.899927925584556
+2025-07-02 15:31:47,315 | INFO | Sigma increased: 15
+2025-07-02 15:32:11,633 | INFO | Sigma increased: 15
+2025-07-02 15:32:36,363 | INFO | Sigma increased: 14.121070992116065
+2025-07-02 15:33:02,504 | INFO | Sigma increased: 15
+2025-07-02 15:33:28,166 | INFO | Sigma increased: 15
+2025-07-02 15:33:53,344 | INFO | Sigma increased: 15
+2025-07-02 15:34:20,595 | INFO | Sigma increased: 14.166159818520747
+2025-07-02 15:34:46,683 | INFO | Sigma increased: 11.612881662717069
+2025-07-02 15:35:14,304 | INFO | Sigma increased: 10.219568973108299
+2025-07-02 15:35:41,879 | INFO | Sigma increased: 5.122454722192239
+2025-07-02 15:36:10,085 | INFO | Sigma increased: 3.3694318717547764
+2025-07-02 15:36:38,419 | INFO | Sigma increased: 2.476689688351149
+2025-07-02 15:37:07,126 | INFO | Sigma increased: 2.854258103859106
+2025-07-02 15:37:36,263 | INFO | Sigma increased: 5.521598726116654
+2025-07-02 15:38:05,559 | INFO | Sigma increased: 3.590398776607075
+2025-07-02 15:38:34,947 | INFO | Sigma increased: 1.346163287905357
+2025-07-02 15:39:04,824 | INFO | Sigma increased: 1.4716418629961359
+2025-07-02 15:39:35,374 | INFO | Sigma increased: 1.143777465418144
+2025-07-02 15:40:13,917 | INFO | Sigma increased: 1
+2025-07-02 15:40:44,853 | INFO | Sigma increased: 1
+2025-07-02 15:41:16,084 | INFO | Sigma increased: 1.3149215573148074
+2025-07-02 15:41:47,499 | INFO | Sigma increased: 1.1350784395014375
+2025-07-02 15:42:19,252 | INFO | Sigma increased: 1
+2025-07-02 15:42:51,290 | INFO | Sigma increased: 1
+2025-07-02 15:43:23,752 | INFO | Sigma increased: 3.2025519447046626
+2025-07-02 15:43:56,479 | INFO | Sigma increased: 3.7757094759607694
+2025-07-02 15:44:32,074 | INFO | Sigma increased: 4.870333961460061
+2025-07-02 15:45:06,026 | INFO | Sigma increased: 2.0137829661163185
+2025-07-02 15:45:39,792 | INFO | Sigma increased: 1
+2025-07-02 15:46:13,914 | INFO | Sigma increased: 1.896492607460209
+2025-07-02 15:46:48,620 | INFO | Sigma increased: 2.7000939835491957
+2025-07-02 15:47:23,520 | INFO | Sigma increased: 4.24737784762588
+2025-07-02 15:47:58,673 | INFO | Sigma increased: 3.060121236910241
+2025-07-02 15:48:34,630 | INFO | Sigma increased: 6.264095397856202
+2025-07-02 15:49:10,494 | INFO | Sigma increased: 6.05501104169726
+2025-07-02 15:49:46,316 | INFO | Sigma increased: 10.564611538140197
+2025-07-02 15:49:51,698 | ERROR | Unexpected error: Eigenvalues did not converge
+Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 40, in run
+    best_ind = self.execute(logging=logging, solver=solver, seed=seed, error=error, gens=gens, verbose=verbose)
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 158, in execute
+    toolbox.update(population)
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\deap\cma.py", line 167, in update
+    self.diagD, self.B = numpy.linalg.eigh(self.C)
+  File "<__array_function__ internals>", line 200, in eigh
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\linalg\linalg.py", line 1451, in eigh
+    w, vt = gufunc(a, signature=signature, extobj=extobj)
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\linalg\linalg.py", line 95, in _raise_linalgerror_eigenvalues_nonconvergence
+    raise LinAlgError("Eigenvalues did not converge")
+numpy.linalg.LinAlgError: Eigenvalues did not converge
+2025-07-02 15:49:51,699 | ERROR | Error running seed=5, solver=ODEINT, error=MSE: local variable 'best_ind' referenced before assignment, traceback=Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 44, in run
+    raise e
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 40, in run
+    best_ind = self.execute(logging=logging, solver=solver, seed=seed, error=error, gens=gens, verbose=verbose)
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 158, in execute
+    toolbox.update(population)
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\deap\cma.py", line 167, in update
+    self.diagD, self.B = numpy.linalg.eigh(self.C)
+  File "<__array_function__ internals>", line 200, in eigh
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\linalg\linalg.py", line 1451, in eigh
+    w, vt = gufunc(a, signature=signature, extobj=extobj)
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\linalg\linalg.py", line 95, in _raise_linalgerror_eigenvalues_nonconvergence
+    raise LinAlgError("Eigenvalues did not converge")
+numpy.linalg.LinAlgError: Eigenvalues did not converge
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Handlers.py", line 92, in run_single
+    result = method.run(
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 51, in run
+    if best_ind:
+UnboundLocalError: local variable 'best_ind' referenced before assignment
+
+2025-07-02 15:49:51,702 | INFO | Results saved to ../../Outputs/ABCD_CMAES_SERIAL_20250702_085332\results.csv
+2025-07-02 15:49:51,702 | INFO | Running with seed=6, solver=ODEINT, error=SQUARED
+2025-07-02 15:49:51,702 | INFO | Starting execution for CMAES: Solver=ODEINT, Error=SQUARED, Seed=6
+2025-07-02 15:53:25,620 | INFO | Sigma increased: 1
+2025-07-02 15:53:39,558 | INFO | Sigma increased: 1.4366957849716537
+2025-07-02 15:53:59,654 | INFO | Sigma increased: 3.1876272058092403
+2025-07-02 15:54:06,919 | INFO | Sigma increased: 8.714977512130492
+2025-07-02 15:54:14,014 | INFO | Sigma increased: 10.758206626359305
+2025-07-02 15:56:33,461 | INFO | Sigma increased: 1
+2025-07-02 15:57:34,090 | INFO | Sigma increased: 3.8287785882798997
+2025-07-02 15:57:50,937 | INFO | Sigma increased: 13.181011106149336
+2025-07-02 15:58:04,873 | INFO | Sigma increased: 15
+2025-07-02 15:59:42,720 | INFO | Sigma increased: 1
+2025-07-02 16:00:05,122 | INFO | Sigma increased: 2.245268446720254
+2025-07-02 16:00:27,332 | INFO | Sigma increased: 3.8595682260404724
+2025-07-02 16:01:32,245 | INFO | Sigma increased: 1
+2025-07-02 16:01:54,537 | INFO | Sigma increased: 1.0838481560271165
+2025-07-02 16:02:17,663 | INFO | Sigma increased: 1.1869787421378606
+2025-07-02 16:03:04,666 | INFO | Sigma increased: 1
+2025-07-02 16:03:45,301 | INFO | Sigma increased: 1
+2025-07-02 16:04:25,947 | INFO | Sigma increased: 1
+2025-07-02 16:05:03,378 | INFO | Sigma increased: 1.5303524325296922
+2025-07-02 16:05:28,265 | INFO | Sigma increased: 1.8700810356918254
+2025-07-02 16:06:05,739 | INFO | Sigma increased: 1
+2025-07-02 16:06:32,305 | INFO | Sigma increased: 2.7411942753053125
+2025-07-02 16:06:58,841 | INFO | Sigma increased: 2.2179661026573854
+2025-07-02 16:07:24,818 | INFO | Sigma increased: 2.078438556241955
+2025-07-02 16:07:51,287 | INFO | Sigma increased: 2.407424144514181
+2025-07-02 16:08:18,137 | INFO | Sigma increased: 3.024497977778759
+2025-07-02 16:08:45,010 | INFO | Sigma increased: 3.3129560281216452
+2025-07-02 16:09:13,234 | INFO | Sigma increased: 2.96556658706249
+2025-07-02 16:09:39,818 | INFO | Sigma increased: 2.7449277812370134
+2025-07-02 16:10:06,973 | INFO | Sigma increased: 3.7561863147562318
+2025-07-02 16:10:34,332 | INFO | Sigma increased: 3.753725171271984
+2025-07-02 16:11:03,067 | INFO | Sigma increased: 3.648004557818939
+2025-07-02 16:11:31,302 | INFO | Sigma increased: 5.64921574781159
+2025-07-02 16:12:00,232 | INFO | Sigma increased: 6.576132941437724
+2025-07-02 16:12:31,294 | INFO | Sigma increased: 12.745632273059238
+2025-07-02 16:13:02,345 | INFO | Sigma increased: 14.229266763479618
+2025-07-02 16:13:33,987 | INFO | Sigma increased: 11.80568569220619
+2025-07-02 16:14:04,171 | INFO | Sigma increased: 11.350045317523653
+2025-07-02 16:14:34,778 | INFO | Sigma increased: 15
+2025-07-02 16:15:07,017 | INFO | Sigma increased: 15
+2025-07-02 16:15:39,199 | INFO | Sigma increased: 14.281281353659471
+2025-07-02 16:16:10,780 | INFO | Sigma increased: 15
+2025-07-02 16:17:06,429 | INFO | Sigma increased: 4.340694523701011
+2025-07-02 16:17:37,461 | INFO | Sigma increased: 9.781560887826338
+2025-07-02 16:18:09,472 | INFO | Sigma increased: 15
+2025-07-02 16:18:42,180 | INFO | Sigma increased: 14.946792604923726
+2025-07-02 16:19:15,546 | INFO | Sigma increased: 11.778979426962891
+2025-07-02 16:19:49,647 | INFO | Sigma increased: 15
+2025-07-02 16:20:24,357 | INFO | Sigma increased: 15
+2025-07-02 16:20:59,210 | INFO | Sigma increased: 15
+2025-07-02 16:21:33,587 | INFO | Sigma increased: 15
+2025-07-02 16:22:16,005 | INFO | Sigma increased: 15
+2025-07-02 16:22:39,740 | ERROR | Unexpected error: Eigenvalues did not converge
+Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 40, in run
+    best_ind = self.execute(logging=logging, solver=solver, seed=seed, error=error, gens=gens, verbose=verbose)
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 158, in execute
+    toolbox.update(population)
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\deap\cma.py", line 167, in update
+    self.diagD, self.B = numpy.linalg.eigh(self.C)
+  File "<__array_function__ internals>", line 200, in eigh
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\linalg\linalg.py", line 1451, in eigh
+    w, vt = gufunc(a, signature=signature, extobj=extobj)
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\linalg\linalg.py", line 95, in _raise_linalgerror_eigenvalues_nonconvergence
+    raise LinAlgError("Eigenvalues did not converge")
+numpy.linalg.LinAlgError: Eigenvalues did not converge
+2025-07-02 16:22:39,741 | ERROR | Error running seed=6, solver=ODEINT, error=SQUARED: local variable 'best_ind' referenced before assignment, traceback=Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 44, in run
+    raise e
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 40, in run
+    best_ind = self.execute(logging=logging, solver=solver, seed=seed, error=error, gens=gens, verbose=verbose)
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 158, in execute
+    toolbox.update(population)
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\deap\cma.py", line 167, in update
+    self.diagD, self.B = numpy.linalg.eigh(self.C)
+  File "<__array_function__ internals>", line 200, in eigh
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\linalg\linalg.py", line 1451, in eigh
+    w, vt = gufunc(a, signature=signature, extobj=extobj)
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\linalg\linalg.py", line 95, in _raise_linalgerror_eigenvalues_nonconvergence
+    raise LinAlgError("Eigenvalues did not converge")
+numpy.linalg.LinAlgError: Eigenvalues did not converge
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Handlers.py", line 92, in run_single
+    result = method.run(
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 51, in run
+    if best_ind:
+UnboundLocalError: local variable 'best_ind' referenced before assignment
+
+2025-07-02 16:22:39,744 | INFO | Results saved to ../../Outputs/ABCD_CMAES_SERIAL_20250702_085332\results.csv
+2025-07-02 16:22:39,744 | INFO | Running with seed=6, solver=ODEINT, error=MSE
+2025-07-02 16:22:39,745 | INFO | Starting execution for CMAES: Solver=ODEINT, Error=MSE, Seed=6
+2025-07-02 16:22:59,012 | INFO | Sigma increased: 1
+2025-07-02 16:23:05,953 | INFO | Sigma increased: 2.5861322916152414
+2025-07-02 16:23:15,300 | INFO | Sigma increased: 3.5278180991887256
+2025-07-02 16:23:30,634 | INFO | Sigma increased: 2.742970968553509
+2025-07-02 16:23:39,740 | INFO | Sigma increased: 7.0575784548904075
+2025-07-02 16:23:47,171 | INFO | Sigma increased: 10.21585877896053
+2025-07-02 16:23:55,592 | INFO | Sigma increased: 12.756638952636703
+2025-07-02 16:24:04,217 | INFO | Sigma increased: 12.947548460667534
+2025-07-02 16:24:28,294 | INFO | Sigma increased: 4.460859964281749
+2025-07-02 16:25:28,566 | INFO | Sigma increased: 1
+2025-07-02 16:25:44,398 | INFO | Sigma increased: 1.9149458486262234
+2025-07-02 16:26:00,451 | INFO | Sigma increased: 4.820523661286918
+2025-07-02 16:26:13,065 | INFO | Sigma increased: 10.689409309984681
+2025-07-02 16:26:24,261 | INFO | Sigma increased: 15
+2025-07-02 16:26:34,167 | INFO | Sigma increased: 15
+2025-07-02 16:26:46,268 | INFO | Sigma increased: 15
+2025-07-02 16:26:58,964 | INFO | Sigma increased: 15
+2025-07-02 16:27:12,184 | INFO | Sigma increased: 15
+2025-07-02 16:27:26,625 | INFO | Sigma increased: 15
+2025-07-02 16:27:40,555 | INFO | Sigma increased: 15
+2025-07-02 16:27:55,188 | INFO | Sigma increased: 15
+2025-07-02 16:28:09,470 | INFO | Sigma increased: 15
+2025-07-02 16:28:24,676 | INFO | Sigma increased: 15
+2025-07-02 16:28:42,005 | INFO | Sigma increased: 15
+2025-07-02 16:28:59,146 | INFO | Sigma increased: 15
+2025-07-02 16:29:57,618 | INFO | Sigma increased: 2.210099449125761
+2025-07-02 16:30:15,393 | INFO | Sigma increased: 2.5239376457892195
+2025-07-02 16:30:42,546 | INFO | Sigma increased: 1.228627089491555
+2025-07-02 16:31:17,765 | INFO | Sigma increased: 1
+2025-07-02 16:32:02,406 | INFO | Sigma increased: 8.725169635703796
+2025-07-02 16:32:19,870 | INFO | Sigma increased: 14.047950767054271
+2025-07-02 16:32:38,273 | INFO | Sigma increased: 15
+2025-07-02 16:32:56,223 | INFO | Sigma increased: 15
+2025-07-02 16:33:15,199 | INFO | Sigma increased: 15
+2025-07-02 16:33:33,991 | INFO | Sigma increased: 12.299254427683016
+2025-07-02 16:33:53,152 | INFO | Sigma increased: 14.948782220107205
+2025-07-02 16:34:11,489 | INFO | Sigma increased: 15
+2025-07-02 16:34:29,228 | INFO | Sigma increased: 15
+2025-07-02 16:34:47,189 | INFO | Sigma increased: 15
+2025-07-02 16:35:05,528 | INFO | Sigma increased: 15
+2025-07-02 16:35:23,266 | INFO | Sigma increased: 15
+2025-07-02 16:35:41,297 | INFO | Sigma increased: 15
+2025-07-02 16:35:59,220 | INFO | Sigma increased: 15
+2025-07-02 16:36:17,733 | INFO | Sigma increased: 15
+2025-07-02 16:36:36,687 | INFO | Sigma increased: 15
+2025-07-02 16:36:55,224 | INFO | Sigma increased: 15
+2025-07-02 16:37:13,579 | INFO | Sigma increased: 15
+2025-07-02 16:37:42,648 | INFO | Sigma increased: 12.127461304795045
+2025-07-02 16:38:00,516 | INFO | Sigma increased: 12.161260741388295
+2025-07-02 16:38:16,049 | INFO | Sigma increased: 15
+2025-07-02 16:38:32,932 | INFO | Sigma increased: 15
+2025-07-02 16:38:51,591 | INFO | Sigma increased: 15
+2025-07-02 16:39:10,455 | INFO | Sigma increased: 15
+2025-07-02 16:39:28,630 | INFO | Sigma increased: 15
+2025-07-02 16:39:47,682 | INFO | Sigma increased: 15
+2025-07-02 16:40:07,511 | INFO | Sigma increased: 6.060936693919722
+2025-07-02 16:40:27,683 | INFO | Sigma increased: 5.497499085230089
+2025-07-02 16:40:47,984 | INFO | Sigma increased: 4.095112031933795
+2025-07-02 16:41:08,619 | INFO | Sigma increased: 3.671372638752637
+2025-07-02 16:41:29,443 | INFO | Sigma increased: 4.098201170645503
+2025-07-02 16:41:50,384 | INFO | Sigma increased: 5.330895357011346
+2025-07-02 16:42:11,452 | INFO | Sigma increased: 4.3568175922121
+2025-07-02 16:42:32,768 | INFO | Sigma increased: 2.345899148120339
+2025-07-02 16:42:54,603 | INFO | Sigma increased: 1.5218624993564103
+2025-07-02 16:43:16,618 | INFO | Sigma increased: 1.4484178027171208
+2025-07-02 16:43:38,835 | INFO | Sigma increased: 1
+2025-07-02 16:44:01,309 | INFO | Sigma increased: 1
+2025-07-02 16:44:24,240 | INFO | Sigma increased: 1
+2025-07-02 16:44:50,108 | INFO | Sigma increased: 1
+2025-07-02 16:45:19,255 | INFO | Sigma increased: 1
+2025-07-02 16:45:42,634 | INFO | Sigma increased: 1
+2025-07-02 16:46:06,317 | INFO | Sigma increased: 1
+2025-07-02 16:46:30,535 | INFO | Sigma increased: 1
+2025-07-02 16:46:54,931 | INFO | Sigma increased: 1
+2025-07-02 16:47:19,462 | INFO | Sigma increased: 1
+2025-07-02 16:47:46,842 | INFO | Sigma increased: 1
+2025-07-02 16:48:11,759 | INFO | Sigma increased: 1
+2025-07-02 16:48:36,772 | INFO | Sigma increased: 1
+2025-07-02 16:49:02,114 | INFO | Sigma increased: 1
+2025-07-02 16:49:27,639 | INFO | Sigma increased: 1
+2025-07-02 16:49:53,263 | INFO | Sigma increased: 1
+2025-07-02 16:50:19,161 | INFO | Sigma increased: 1
+2025-07-02 16:50:45,442 | INFO | Sigma increased: 1
+2025-07-02 16:51:11,953 | INFO | Sigma increased: 1
+2025-07-02 16:51:38,826 | INFO | Sigma increased: 1
+2025-07-02 16:52:05,983 | INFO | Sigma increased: 1
+2025-07-02 16:52:32,996 | INFO | Sigma increased: 1
+2025-07-02 16:53:00,513 | INFO | Sigma increased: 1
+2025-07-02 16:53:28,285 | INFO | Sigma increased: 1
+2025-07-02 16:53:56,486 | INFO | Sigma increased: 1
+2025-07-02 16:54:24,760 | INFO | Sigma increased: 1
+2025-07-02 16:54:53,388 | INFO | Sigma increased: 1
+2025-07-02 16:55:22,358 | INFO | Sigma increased: 1
+2025-07-02 16:55:51,650 | INFO | Sigma increased: 1
+2025-07-02 16:56:11,943 | INFO | Execution finished for solver: ODEINT, seed: 6, error: MSE in 2012.18 seconds.
+2025-07-02 16:56:11,946 | INFO | Results saved to ../../Outputs/ABCD_CMAES_SERIAL_20250702_085332\results.csv
+2025-07-02 16:56:11,946 | INFO | Running with seed=7, solver=ODEINT, error=SQUARED
+2025-07-02 16:56:11,946 | INFO | Starting execution for CMAES: Solver=ODEINT, Error=SQUARED, Seed=7
+2025-07-02 16:56:17,050 | INFO | Sigma increased: 9.825427616202138
+2025-07-02 17:01:58,046 | INFO | Sigma increased: 1
+2025-07-02 17:02:03,426 | INFO | Sigma increased: 15
+2025-07-02 17:02:09,642 | INFO | Sigma increased: 15
+2025-07-02 17:02:18,715 | INFO | Sigma increased: 10.962175929019569
+2025-07-02 17:02:29,053 | INFO | Sigma increased: 14.406543954618146
+2025-07-02 17:02:38,713 | INFO | Sigma increased: 11.599955655332915
+2025-07-02 17:02:50,151 | INFO | Sigma increased: 15
+2025-07-02 17:03:00,244 | INFO | Sigma increased: 13.990912489586018
+2025-07-02 17:03:11,453 | INFO | Sigma increased: 11.878080422982686
+2025-07-02 17:03:23,401 | INFO | Sigma increased: 15
+2025-07-02 17:13:15,205 | INFO | Sigma increased: 1
+2025-07-02 17:13:44,440 | INFO | Sigma increased: 2.2355709404077433
+2025-07-02 17:14:10,543 | INFO | Sigma increased: 4.521536767891253
+2025-07-02 17:14:36,572 | INFO | Sigma increased: 4.194279391328481
+2025-07-02 17:15:02,411 | INFO | Sigma increased: 2.3144215128988552
+2025-07-02 17:15:28,597 | INFO | Sigma increased: 1.6774166651793752
+2025-07-02 17:15:54,786 | INFO | Sigma increased: 1
+2025-07-02 17:16:21,225 | INFO | Sigma increased: 1
+2025-07-02 17:16:48,197 | INFO | Sigma increased: 1
+2025-07-02 17:17:15,420 | INFO | Sigma increased: 1
+2025-07-02 17:17:42,257 | INFO | Sigma increased: 1
+2025-07-02 17:18:09,676 | INFO | Sigma increased: 1
+2025-07-02 17:18:36,460 | INFO | Sigma increased: 1
+2025-07-02 17:19:03,750 | INFO | Sigma increased: 1
+2025-07-02 17:19:30,145 | INFO | Sigma increased: 1
+2025-07-02 17:19:57,099 | INFO | Sigma increased: 1
+2025-07-02 17:20:24,226 | INFO | Sigma increased: 1
+2025-07-02 17:20:51,390 | INFO | Sigma increased: 1
+2025-07-02 17:21:19,040 | INFO | Sigma increased: 1
+2025-07-02 17:21:48,525 | INFO | Sigma increased: 1
+2025-07-02 17:22:16,447 | INFO | Sigma increased: 1
+2025-07-02 17:22:43,941 | INFO | Sigma increased: 1
+2025-07-02 17:23:11,403 | INFO | Sigma increased: 1
+2025-07-02 17:23:39,360 | INFO | Sigma increased: 1
+2025-07-02 17:24:07,190 | INFO | Sigma increased: 1
+2025-07-02 17:24:35,762 | INFO | Sigma increased: 1.4113844603137942
+2025-07-02 17:25:04,882 | INFO | Sigma increased: 1.366551883992508
+2025-07-02 17:25:33,671 | INFO | Sigma increased: 1.2141612238254895
+2025-07-02 17:26:03,093 | INFO | Sigma increased: 1.389466970378932
+2025-07-02 17:26:31,981 | INFO | Sigma increased: 1
+2025-07-02 17:27:01,549 | INFO | Sigma increased: 1.4099467908013694
+2025-07-02 17:27:31,282 | INFO | Sigma increased: 1.6852340175636304
+2025-07-02 17:28:01,409 | INFO | Sigma increased: 2.6569188330597915
+2025-07-02 17:29:03,772 | INFO | Sigma increased: 15
+2025-07-02 17:29:42,684 | INFO | Sigma increased: 15
+2025-07-02 17:33:52,759 | INFO | Sigma increased: 15
+2025-07-02 17:34:32,870 | INFO | Sigma increased: 15
+2025-07-02 17:35:13,080 | INFO | Sigma increased: 11.254100582545659
+2025-07-02 17:35:52,932 | INFO | Sigma increased: 15
+2025-07-02 17:36:14,383 | INFO | Execution finished for solver: ODEINT, seed: 7, error: SQUARED in 2402.41 seconds.
+2025-07-02 17:36:14,386 | INFO | Results saved to ../../Outputs/ABCD_CMAES_SERIAL_20250702_085332\results.csv
+2025-07-02 17:36:14,386 | INFO | Running with seed=7, solver=ODEINT, error=MSE
+2025-07-02 17:36:14,386 | INFO | Starting execution for CMAES: Solver=ODEINT, Error=MSE, Seed=7
+2025-07-02 17:36:19,300 | INFO | Sigma increased: 6.629436307273044
+2025-07-02 17:36:25,186 | INFO | Sigma increased: 5.923252848414449
+2025-07-02 17:36:31,661 | INFO | Sigma increased: 4.8291299445604805
+2025-07-02 17:36:37,996 | INFO | Sigma increased: 4.383617393506378
+2025-07-02 17:36:45,117 | INFO | Sigma increased: 4.238109753720757
+2025-07-02 17:36:52,327 | INFO | Sigma increased: 5.042842324761817
+2025-07-02 17:36:59,330 | INFO | Sigma increased: 11.055404218569079
+2025-07-02 17:37:06,493 | INFO | Sigma increased: 11.414982602083352
+2025-07-02 17:37:13,016 | INFO | Sigma increased: 12.635555492295898
+2025-07-02 17:37:18,933 | INFO | Sigma increased: 12.493105811667867
+2025-07-02 17:37:24,806 | INFO | Sigma increased: 11.10727529937617
+2025-07-02 17:37:31,521 | INFO | Sigma increased: 12.345119419207336
+2025-07-02 17:37:39,337 | INFO | Sigma increased: 11.78518745859993
+2025-07-02 17:37:47,048 | INFO | Sigma increased: 14.683074849246003
+2025-07-02 17:37:55,914 | INFO | Sigma increased: 15
+2025-07-02 17:38:02,008 | INFO | Sigma increased: 15
+2025-07-02 17:38:09,812 | INFO | Sigma increased: 10.972245291809951
+2025-07-02 17:38:17,835 | INFO | Sigma increased: 14.958362800356397
+2025-07-02 17:38:28,495 | INFO | Sigma increased: 15
+2025-07-02 17:38:39,860 | INFO | Sigma increased: 15
+2025-07-02 17:38:49,225 | INFO | Sigma increased: 15
+2025-07-02 17:39:02,345 | INFO | Sigma increased: 15
+2025-07-02 17:39:12,912 | INFO | Sigma increased: 15
+2025-07-02 17:39:26,573 | INFO | Sigma increased: 15
+2025-07-02 17:39:39,552 | INFO | Sigma increased: 15
+2025-07-02 17:39:52,578 | INFO | Sigma increased: 15
+2025-07-02 17:40:07,759 | INFO | Sigma increased: 15
+2025-07-02 17:40:53,385 | INFO | Sigma increased: 1.1116078789696417
+2025-07-02 17:41:19,171 | INFO | Sigma increased: 1.1587671486348512
+2025-07-02 17:41:39,021 | INFO | Sigma increased: 2.3317757717106504
+2025-07-02 17:42:24,287 | INFO | Sigma increased: 1.6259147955890363
+2025-07-02 17:43:02,895 | INFO | Sigma increased: 2.901885721672841
+2025-07-02 17:43:45,269 | INFO | Sigma increased: 5.303096274376027
+2025-07-02 17:44:25,420 | INFO | Sigma increased: 4.458138969692015
+2025-07-02 17:44:41,401 | INFO | Sigma increased: 11.924606255073504
+2025-07-02 17:46:02,219 | INFO | Sigma increased: 2.8372114453583857
+2025-07-02 17:46:45,965 | INFO | Sigma increased: 1.1299590403820856
+2025-07-02 17:47:06,099 | INFO | Sigma increased: 2.4135426372721596
+2025-07-02 17:47:25,567 | INFO | Sigma increased: 3.4400582704237115
+2025-07-02 17:47:45,359 | INFO | Sigma increased: 4.917235957315718
+2025-07-02 17:48:06,331 | INFO | Sigma increased: 7.2478773164782915
+2025-07-02 17:48:41,732 | INFO | Sigma increased: 3.82906572137263
+2025-07-02 17:49:04,043 | INFO | Sigma increased: 15
+2025-07-02 17:49:27,259 | INFO | Sigma increased: 15
+2025-07-02 17:49:51,607 | INFO | Sigma increased: 10.942094672333663
+2025-07-02 17:50:14,091 | INFO | Sigma increased: 4.745257784578898
+2025-07-02 17:50:38,085 | INFO | Sigma increased: 9.641089700508944
+2025-07-02 17:51:01,169 | INFO | Sigma increased: 6.378324533766518
+2025-07-02 17:51:25,855 | INFO | Sigma increased: 15
+2025-07-02 17:51:51,034 | INFO | Sigma increased: 11.982469676107508
+2025-07-02 17:52:16,572 | INFO | Sigma increased: 13.68163204693958
+2025-07-02 17:52:41,089 | INFO | Sigma increased: 10.229992502549337
+2025-07-02 17:53:04,627 | INFO | Sigma increased: 6.487408394785797
+2025-07-02 17:53:27,939 | INFO | Sigma increased: 5.694127893154808
+2025-07-02 17:53:50,628 | INFO | Sigma increased: 4.489037032004809
+2025-07-02 17:54:13,462 | INFO | Sigma increased: 7.400332892051295
+2025-07-02 17:54:37,991 | INFO | Sigma increased: 4.7935462130410365
+2025-07-02 17:55:02,279 | INFO | Sigma increased: 5.756383516160235
+2025-07-02 17:55:26,846 | INFO | Sigma increased: 4.605274046388071
+2025-07-02 17:55:51,973 | INFO | Sigma increased: 2.807237912875486
+2025-07-02 17:56:17,447 | INFO | Sigma increased: 1.6866220178573395
+2025-07-02 17:56:42,745 | INFO | Sigma increased: 1.9578476645509206
+2025-07-02 17:57:08,809 | INFO | Sigma increased: 1.2771568774706297
+2025-07-02 17:57:36,081 | INFO | Sigma increased: 1
+2025-07-02 17:58:03,225 | INFO | Sigma increased: 1
+2025-07-02 17:58:31,132 | INFO | Sigma increased: 1
+2025-07-02 17:58:59,982 | INFO | Sigma increased: 1
+2025-07-02 17:59:29,367 | INFO | Sigma increased: 1.5834679016426254
+2025-07-02 18:00:00,154 | INFO | Sigma increased: 2.0637683778745766
+2025-07-02 18:00:30,102 | INFO | Sigma increased: 2.3011166037439925
+2025-07-02 18:01:00,776 | INFO | Sigma increased: 3.5270899171787207
+2025-07-02 18:01:32,418 | INFO | Sigma increased: 3.1384440305689987
+2025-07-02 18:02:04,097 | INFO | Sigma increased: 2.1690129496542783
+2025-07-02 18:02:35,732 | INFO | Sigma increased: 1.5873335194929352
+2025-07-02 18:03:07,812 | INFO | Sigma increased: 1.7535777041281573
+2025-07-02 18:03:41,406 | INFO | Sigma increased: 2.570717031072229
+2025-07-02 18:04:14,698 | INFO | Sigma increased: 2.4906856489652456
+2025-07-02 18:04:47,441 | INFO | Sigma increased: 2.742546970975914
+2025-07-02 18:05:20,730 | INFO | Sigma increased: 5.015706763249003
+2025-07-02 18:05:54,693 | INFO | Sigma increased: 3.102145888782934
+2025-07-02 18:06:28,931 | INFO | Sigma increased: 2.6733687710692906
+2025-07-02 18:07:06,793 | INFO | Sigma increased: 6.8724561682127145
+2025-07-02 18:07:41,674 | INFO | Sigma increased: 7.752004278855363
+2025-07-02 18:08:16,729 | INFO | Sigma increased: 3.769949101931036
+2025-07-02 18:08:49,931 | INFO | Sigma increased: 1.3459180050991453
+2025-07-02 18:09:19,845 | INFO | Sigma increased: 1
+2025-07-02 18:09:46,115 | INFO | Sigma increased: 1.3187251085828806
+2025-07-02 18:10:15,242 | INFO | Sigma increased: 1.2129992428086953
+2025-07-02 18:10:39,620 | INFO | Sigma increased: 1.535751756731266
+2025-07-02 18:11:04,535 | INFO | Sigma increased: 2.6839916019595216
+2025-07-02 18:11:29,602 | INFO | Sigma increased: 2.922445789697803
+2025-07-02 18:12:00,333 | INFO | Sigma increased: 3.9869257455690335
+2025-07-02 18:12:29,989 | INFO | Sigma increased: 5.089868795005104
+2025-07-02 18:12:57,460 | INFO | Sigma increased: 3.1390737840139673
+2025-07-02 18:13:22,304 | INFO | Sigma increased: 3.4279400192605958
+2025-07-02 18:13:38,741 | INFO | Execution finished for solver: ODEINT, seed: 7, error: MSE in 2244.31 seconds.
+2025-07-02 18:13:38,744 | INFO | Results saved to ../../Outputs/ABCD_CMAES_SERIAL_20250702_085332\results.csv
+2025-07-02 18:13:38,744 | INFO | Running with seed=8, solver=ODEINT, error=SQUARED
+2025-07-02 18:13:38,744 | INFO | Starting execution for CMAES: Solver=ODEINT, Error=SQUARED, Seed=8
+2025-07-02 18:13:43,636 | INFO | Sigma increased: 5.853493383741929
+2025-07-02 18:13:49,306 | INFO | Sigma increased: 6.319215450963491
+2025-07-02 18:13:54,676 | INFO | Sigma increased: 5.117360066052598
+2025-07-02 18:14:01,207 | INFO | Sigma increased: 5.806091294557428
+2025-07-02 18:14:07,866 | INFO | Sigma increased: 11.479354318924157
+2025-07-02 18:14:14,254 | INFO | Sigma increased: 10.499370289661435
+2025-07-02 18:14:21,762 | INFO | Sigma increased: 7.160912072785305
+2025-07-02 18:14:31,196 | INFO | Sigma increased: 6.1885094085029415
+2025-07-02 18:14:39,817 | INFO | Sigma increased: 6.560655019842933
+2025-07-02 18:14:48,265 | INFO | Sigma increased: 8.39461601355006
+2025-07-02 18:14:57,967 | INFO | Sigma increased: 13.179227704685971
+2025-07-02 18:15:05,310 | INFO | Sigma increased: 14.59201982973986
+2025-07-02 18:15:13,087 | INFO | Sigma increased: 12.442192048657324
+2025-07-02 18:15:19,581 | INFO | Sigma increased: 12.761824496946756
+2025-07-02 18:15:26,220 | INFO | Sigma increased: 15
+2025-07-02 18:15:34,118 | INFO | Sigma increased: 15
+2025-07-02 18:15:45,592 | INFO | Sigma increased: 13.720822714092023
+2025-07-02 18:15:58,396 | INFO | Sigma increased: 13.252066377793541
+2025-07-02 18:16:12,071 | INFO | Sigma increased: 14.675325038331653
+2025-07-02 18:16:24,245 | INFO | Sigma increased: 15
+2025-07-02 18:16:36,463 | INFO | Sigma increased: 15
+2025-07-02 18:16:48,085 | INFO | Sigma increased: 13.787517378749568
+2025-07-02 18:17:00,324 | INFO | Sigma increased: 15
+2025-07-02 18:17:14,154 | INFO | Sigma increased: 15
+2025-07-02 18:17:26,717 | INFO | Sigma increased: 15
+2025-07-02 18:17:40,170 | INFO | Sigma increased: 15
+2025-07-02 18:17:53,849 | INFO | Sigma increased: 15
+2025-07-02 18:18:08,521 | INFO | Sigma increased: 15
+2025-07-02 18:18:24,895 | INFO | Sigma increased: 15
+2025-07-02 18:18:40,146 | INFO | Sigma increased: 15
+2025-07-02 18:18:54,981 | INFO | Sigma increased: 15
+2025-07-02 18:19:10,644 | INFO | Sigma increased: 15
+2025-07-02 18:19:25,379 | INFO | Sigma increased: 15
+2025-07-02 18:19:40,424 | INFO | Sigma increased: 15
+2025-07-02 18:19:55,666 | INFO | Sigma increased: 15
+2025-07-02 18:20:11,229 | INFO | Sigma increased: 15
+2025-07-02 18:20:25,947 | INFO | Sigma increased: 15
+2025-07-02 18:20:40,340 | INFO | Sigma increased: 15
+2025-07-02 18:20:55,951 | INFO | Sigma increased: 15
+2025-07-02 18:21:11,112 | INFO | Sigma increased: 15
+2025-07-02 18:21:26,455 | INFO | Sigma increased: 15
+2025-07-02 18:21:41,558 | INFO | Sigma increased: 15
+2025-07-02 18:21:59,036 | INFO | Sigma increased: 15
+2025-07-02 18:22:14,415 | INFO | Sigma increased: 15
+2025-07-02 18:22:29,979 | INFO | Sigma increased: 15
+2025-07-02 18:22:45,981 | INFO | Sigma increased: 15
+2025-07-02 18:23:01,518 | INFO | Sigma increased: 15
+2025-07-02 18:23:17,288 | INFO | Sigma increased: 15
+2025-07-02 18:23:32,982 | INFO | Sigma increased: 15
+2025-07-02 18:23:48,353 | INFO | Sigma increased: 15
+2025-07-02 18:24:04,123 | INFO | Sigma increased: 15
+2025-07-02 18:24:19,973 | INFO | Sigma increased: 15
+2025-07-02 18:24:35,678 | INFO | Sigma increased: 15
+2025-07-02 18:24:51,862 | INFO | Sigma increased: 15
+2025-07-02 18:25:10,544 | INFO | Sigma increased: 15
+2025-07-02 18:25:28,008 | INFO | Sigma increased: 15
+2025-07-02 18:25:45,946 | INFO | Sigma increased: 15
+2025-07-02 18:26:04,445 | INFO | Sigma increased: 12.36137352618341
+2025-07-02 18:26:23,127 | INFO | Sigma increased: 15
+2025-07-02 18:26:42,175 | INFO | Sigma increased: 15
+2025-07-02 18:27:02,019 | INFO | Sigma increased: 15
+2025-07-02 18:27:21,553 | INFO | Sigma increased: 15
+2025-07-02 18:27:41,415 | INFO | Sigma increased: 12.658830216706898
+2025-07-02 18:28:01,682 | INFO | Sigma increased: 13.181145434351919
+2025-07-02 18:28:22,007 | INFO | Sigma increased: 15
+2025-07-02 18:28:42,512 | INFO | Sigma increased: 15
+2025-07-02 18:29:03,359 | INFO | Sigma increased: 12.804819130764107
+2025-07-02 18:29:24,566 | INFO | Sigma increased: 8.663241103124124
+2025-07-02 18:29:45,635 | INFO | Sigma increased: 11.537220323606537
+2025-07-02 18:30:07,548 | INFO | Sigma increased: 9.375493175118018
+2025-07-02 18:30:28,920 | INFO | Sigma increased: 12.637332691816617
+2025-07-02 18:30:50,824 | INFO | Sigma increased: 15
+2025-07-02 18:31:13,235 | INFO | Sigma increased: 15
+2025-07-02 18:31:35,937 | INFO | Sigma increased: 13.542169719664942
+2025-07-02 18:31:59,223 | INFO | Sigma increased: 11.080027690423355
+2025-07-02 18:32:22,524 | INFO | Sigma increased: 6.229635017618093
+2025-07-02 18:32:46,162 | INFO | Sigma increased: 5.222630017102883
+2025-07-02 18:33:10,368 | INFO | Sigma increased: 4.516529675153265
+2025-07-02 18:33:34,626 | INFO | Sigma increased: 2.362353244957726
+2025-07-02 18:33:59,350 | INFO | Sigma increased: 1.3608910655765807
+2025-07-02 18:34:23,926 | INFO | Sigma increased: 1.4601850324505805
+2025-07-02 18:34:48,909 | INFO | Sigma increased: 1.443819056035246
+2025-07-02 18:35:13,934 | INFO | Sigma increased: 1
+2025-07-02 18:35:39,231 | INFO | Sigma increased: 1
+2025-07-02 18:36:04,997 | INFO | Sigma increased: 1
+2025-07-02 18:36:30,695 | INFO | Sigma increased: 1.7539381387160282
+2025-07-02 18:36:56,885 | INFO | Sigma increased: 2.8719127482448377
+2025-07-02 18:37:23,024 | INFO | Sigma increased: 4.01398092944334
+2025-07-02 18:37:49,789 | INFO | Sigma increased: 3.111274966014379
+2025-07-02 18:38:16,737 | INFO | Sigma increased: 2.30795422535755
+2025-07-02 18:38:43,780 | INFO | Sigma increased: 2.9671498313025686
+2025-07-02 18:39:11,187 | INFO | Sigma increased: 1
+2025-07-02 18:39:38,723 | INFO | Sigma increased: 1.6380601954304117
+2025-07-02 18:40:06,563 | INFO | Sigma increased: 1
+2025-07-02 18:40:34,593 | INFO | Sigma increased: 1
+2025-07-02 18:41:03,183 | INFO | Sigma increased: 1
+2025-07-02 18:41:31,839 | INFO | Sigma increased: 1
+2025-07-02 18:42:00,846 | INFO | Sigma increased: 1
+2025-07-02 18:42:30,241 | INFO | Sigma increased: 1
+2025-07-02 18:42:59,717 | INFO | Sigma increased: 1
+2025-07-02 18:43:29,416 | INFO | Sigma increased: 1
+2025-07-02 18:43:59,653 | INFO | Sigma increased: 1
+2025-07-02 18:44:30,323 | INFO | Sigma increased: 1
+2025-07-02 18:45:01,470 | INFO | Sigma increased: 1
+2025-07-02 18:45:32,701 | INFO | Sigma increased: 2.723082232184729
+2025-07-02 18:46:04,472 | INFO | Sigma increased: 1.9873718020389528
+2025-07-02 18:46:23,523 | ERROR | Unexpected error: Eigenvalues did not converge
+Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 40, in run
+    best_ind = self.execute(logging=logging, solver=solver, seed=seed, error=error, gens=gens, verbose=verbose)
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 158, in execute
+    toolbox.update(population)
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\deap\cma.py", line 167, in update
+    self.diagD, self.B = numpy.linalg.eigh(self.C)
+  File "<__array_function__ internals>", line 200, in eigh
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\linalg\linalg.py", line 1451, in eigh
+    w, vt = gufunc(a, signature=signature, extobj=extobj)
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\linalg\linalg.py", line 95, in _raise_linalgerror_eigenvalues_nonconvergence
+    raise LinAlgError("Eigenvalues did not converge")
+numpy.linalg.LinAlgError: Eigenvalues did not converge
+2025-07-02 18:46:23,523 | ERROR | Error running seed=8, solver=ODEINT, error=SQUARED: local variable 'best_ind' referenced before assignment, traceback=Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 44, in run
+    raise e
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 40, in run
+    best_ind = self.execute(logging=logging, solver=solver, seed=seed, error=error, gens=gens, verbose=verbose)
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 158, in execute
+    toolbox.update(population)
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\deap\cma.py", line 167, in update
+    self.diagD, self.B = numpy.linalg.eigh(self.C)
+  File "<__array_function__ internals>", line 200, in eigh
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\linalg\linalg.py", line 1451, in eigh
+    w, vt = gufunc(a, signature=signature, extobj=extobj)
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\linalg\linalg.py", line 95, in _raise_linalgerror_eigenvalues_nonconvergence
+    raise LinAlgError("Eigenvalues did not converge")
+numpy.linalg.LinAlgError: Eigenvalues did not converge
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Handlers.py", line 92, in run_single
+    result = method.run(
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 51, in run
+    if best_ind:
+UnboundLocalError: local variable 'best_ind' referenced before assignment
+
+2025-07-02 18:46:23,528 | INFO | Results saved to ../../Outputs/ABCD_CMAES_SERIAL_20250702_085332\results.csv
+2025-07-02 18:46:23,528 | INFO | Running with seed=8, solver=ODEINT, error=MSE
+2025-07-02 18:46:23,528 | INFO | Starting execution for CMAES: Solver=ODEINT, Error=MSE, Seed=8
+2025-07-02 18:47:01,133 | INFO | Sigma increased: 1
+2025-07-02 18:47:09,400 | INFO | Sigma increased: 4.031031340593849
+2025-07-02 18:49:08,908 | INFO | Sigma increased: 1
+2025-07-02 18:49:20,581 | INFO | Sigma increased: 4.784195860426841
+2025-07-02 18:49:25,099 | INFO | Sigma increased: 15
+2025-07-02 18:49:29,830 | INFO | Sigma increased: 12.390776412732176
+2025-07-02 18:49:35,946 | INFO | Sigma increased: 13.378890704675122
+2025-07-02 18:49:42,532 | INFO | Sigma increased: 12.90760572325333
+2025-07-02 18:49:50,916 | INFO | Sigma increased: 13.536835501702164
+2025-07-02 18:49:59,616 | INFO | Sigma increased: 13.884176046129175
+2025-07-02 18:50:11,666 | INFO | Sigma increased: 15
+2025-07-02 18:50:18,577 | INFO | Sigma increased: 15
+2025-07-02 18:50:26,392 | INFO | Sigma increased: 15
+2025-07-02 18:50:34,492 | INFO | Sigma increased: 15
+2025-07-02 18:50:44,506 | INFO | Sigma increased: 15
+2025-07-02 18:50:55,745 | INFO | Sigma increased: 15
+2025-07-02 18:51:04,395 | INFO | Sigma increased: 15
+2025-07-02 18:51:14,671 | INFO | Sigma increased: 14.72928294145147
+2025-07-02 18:51:28,050 | INFO | Sigma increased: 15
+2025-07-02 18:51:39,748 | INFO | Sigma increased: 15
+2025-07-02 18:51:54,420 | INFO | Sigma increased: 15
+2025-07-02 18:52:07,552 | INFO | Sigma increased: 15
+2025-07-02 18:52:23,061 | INFO | Sigma increased: 15
+2025-07-02 18:53:54,446 | INFO | Sigma increased: 2.611954817471189
+2025-07-02 18:54:31,164 | INFO | Sigma increased: 1.8219133682590374
+2025-07-02 18:55:06,299 | INFO | Sigma increased: 2.39343167048505
+2025-07-02 18:55:42,241 | INFO | Sigma increased: 1
+2025-07-02 18:56:02,855 | INFO | Sigma increased: 1
+2025-07-02 18:56:23,682 | INFO | Sigma increased: 1.098635318815428
+2025-07-02 18:57:19,570 | INFO | Sigma increased: 1.7492213500523737
+2025-07-02 18:57:44,142 | INFO | Sigma increased: 1.0293263775001185
+2025-07-02 18:58:03,560 | INFO | Sigma increased: 1
+2025-07-02 18:58:24,020 | INFO | Sigma increased: 1
+2025-07-02 18:58:44,611 | INFO | Sigma increased: 1
+2025-07-02 18:59:05,277 | INFO | Sigma increased: 1
+2025-07-02 18:59:26,022 | INFO | Sigma increased: 1
+2025-07-02 18:59:46,981 | INFO | Sigma increased: 1
+2025-07-02 19:00:08,812 | INFO | Sigma increased: 1
+2025-07-02 19:00:30,342 | INFO | Sigma increased: 1
+2025-07-02 19:00:52,005 | INFO | Sigma increased: 1
+2025-07-02 19:01:14,113 | INFO | Sigma increased: 1
+2025-07-02 19:01:36,239 | INFO | Sigma increased: 1
+2025-07-02 19:01:58,852 | INFO | Sigma increased: 1
+2025-07-02 19:02:42,301 | INFO | Sigma increased: 15
+2025-07-02 19:03:04,311 | INFO | Sigma increased: 15
+2025-07-02 19:03:26,167 | INFO | Sigma increased: 15
+2025-07-02 19:04:00,330 | INFO | Sigma increased: 15
+2025-07-02 19:04:23,336 | INFO | Sigma increased: 15
+2025-07-02 19:04:46,545 | INFO | Sigma increased: 15
+2025-07-02 19:05:10,696 | INFO | Sigma increased: 15
+2025-07-02 19:05:34,294 | INFO | Sigma increased: 15
+2025-07-02 19:05:59,279 | INFO | Sigma increased: 13.058847550130658
+2025-07-02 19:06:22,149 | INFO | Sigma increased: 15
+2025-07-02 19:06:47,788 | INFO | Sigma increased: 15
+2025-07-02 19:07:13,289 | INFO | Sigma increased: 15
+2025-07-02 19:07:38,905 | INFO | Sigma increased: 15
+2025-07-02 19:08:05,351 | INFO | Sigma increased: 15
+2025-07-02 19:08:32,385 | INFO | Sigma increased: 15
+2025-07-02 19:08:59,344 | INFO | Sigma increased: 13.925280307109858
+2025-07-02 19:09:25,483 | INFO | Sigma increased: 15
+2025-07-02 19:09:52,497 | INFO | Sigma increased: 15
+2025-07-02 19:10:20,571 | INFO | Sigma increased: 15
+2025-07-02 19:10:48,481 | INFO | Sigma increased: 15
+2025-07-02 19:11:15,706 | INFO | Sigma increased: 15
+2025-07-02 19:11:44,068 | INFO | Sigma increased: 15
+2025-07-02 19:12:12,650 | INFO | Sigma increased: 13.265646733397523
+2025-07-02 19:12:42,272 | INFO | Sigma increased: 14.93635207335094
+2025-07-02 19:13:12,255 | INFO | Sigma increased: 15
+2025-07-02 19:13:41,386 | INFO | Sigma increased: 11.318808968914826
+2025-07-02 19:14:11,323 | INFO | Sigma increased: 15
+2025-07-02 19:14:42,683 | INFO | Sigma increased: 10.71080796316288
+2025-07-02 19:15:13,053 | INFO | Sigma increased: 9.659475868007048
+2025-07-02 19:15:42,908 | INFO | Sigma increased: 8.556432831767049
+2025-07-02 19:16:15,166 | INFO | Sigma increased: 8.886270086065716
+2025-07-02 19:16:47,338 | INFO | Sigma increased: 9.3539212730199
+2025-07-02 19:17:20,194 | INFO | Sigma increased: 9.0367440452283
+2025-07-02 19:17:54,251 | INFO | Sigma increased: 4.713645679827759
+2025-07-02 19:18:28,832 | INFO | Sigma increased: 4.2646794521779565
+2025-07-02 19:19:02,080 | INFO | Sigma increased: 4.781811011398584
+2025-07-02 19:19:36,409 | INFO | Sigma increased: 4.535175429057271
+2025-07-02 19:20:11,565 | INFO | Sigma increased: 6.074815518812145
+2025-07-02 19:20:46,251 | INFO | Sigma increased: 8.678301090986714
+2025-07-02 19:21:21,413 | INFO | Sigma increased: 12.968770180897462
+2025-07-02 19:21:39,964 | INFO | Execution finished for solver: ODEINT, seed: 8, error: MSE in 2116.42 seconds.
+2025-07-02 19:21:39,968 | INFO | Results saved to ../../Outputs/ABCD_CMAES_SERIAL_20250702_085332\results.csv
+2025-07-02 19:21:39,968 | INFO | Running with seed=9, solver=ODEINT, error=SQUARED
+2025-07-02 19:21:39,968 | INFO | Starting execution for CMAES: Solver=ODEINT, Error=SQUARED, Seed=9
+2025-07-02 19:24:27,720 | INFO | Sigma increased: 1
+2025-07-02 19:24:39,807 | INFO | Sigma increased: 2.1925165471577115
+2025-07-02 19:24:52,440 | INFO | Sigma increased: 5.807436395191271
+2025-07-02 19:24:57,293 | INFO | Sigma increased: 13.574371029284006
+2025-07-02 19:25:00,828 | INFO | Sigma increased: 15
+2025-07-02 19:25:05,832 | INFO | Sigma increased: 15
+2025-07-02 19:25:12,257 | INFO | Sigma increased: 14.440901727882537
+2025-07-02 19:25:18,999 | INFO | Sigma increased: 15
+2025-07-02 19:25:26,084 | INFO | Sigma increased: 11.099590423762693
+2025-07-02 19:25:36,470 | INFO | Sigma increased: 11.88471735159103
+2025-07-02 19:25:46,405 | INFO | Sigma increased: 12.33434526500764
+2025-07-02 19:25:55,374 | INFO | Sigma increased: 15
+2025-07-02 19:26:04,640 | INFO | Sigma increased: 15
+2025-07-02 19:26:17,137 | INFO | Sigma increased: 15
+2025-07-02 19:26:29,913 | INFO | Sigma increased: 15
+2025-07-02 19:26:43,766 | INFO | Sigma increased: 10.282557838091611
+2025-07-02 19:27:00,612 | INFO | Sigma increased: 12.373967448054039
+2025-07-02 19:27:18,331 | INFO | Sigma increased: 15
+2025-07-02 19:27:32,967 | INFO | Sigma increased: 15
+2025-07-02 19:27:47,672 | INFO | Sigma increased: 15
+2025-07-02 19:28:02,295 | INFO | Sigma increased: 15
+2025-07-02 19:28:17,927 | INFO | Sigma increased: 15
+2025-07-02 19:28:33,923 | INFO | Sigma increased: 15
+2025-07-02 19:28:50,064 | INFO | Sigma increased: 13.125834591621858
+2025-07-02 19:29:05,813 | INFO | Sigma increased: 15
+2025-07-02 19:29:22,012 | INFO | Sigma increased: 15
+2025-07-02 19:29:37,574 | INFO | Sigma increased: 15
+2025-07-02 19:29:55,374 | INFO | Sigma increased: 15
+2025-07-02 19:30:12,846 | INFO | Sigma increased: 15
+2025-07-02 19:30:30,670 | INFO | Sigma increased: 15
+2025-07-02 19:33:17,834 | INFO | Sigma increased: 1.7186889043840976
+2025-07-02 19:33:41,108 | INFO | Sigma increased: 1.7451620552690894
+2025-07-02 19:34:04,791 | INFO | Sigma increased: 1.4244200753105105
+2025-07-02 19:34:28,788 | INFO | Sigma increased: 1
+2025-07-02 19:35:01,930 | INFO | Sigma increased: 1
+2025-07-02 19:35:41,773 | INFO | Sigma increased: 1.6281552033307536
+2025-07-02 19:36:06,822 | INFO | Sigma increased: 1
+2025-07-02 19:37:14,258 | INFO | Sigma increased: 1.2236468632288924
+2025-07-02 19:37:40,585 | INFO | Sigma increased: 1.0413805044593867
+2025-07-02 19:38:07,023 | INFO | Sigma increased: 1
+2025-07-02 19:38:33,631 | INFO | Sigma increased: 1
+2025-07-02 19:39:00,522 | INFO | Sigma increased: 1
+2025-07-02 19:39:27,932 | INFO | Sigma increased: 1
+2025-07-02 19:39:55,689 | INFO | Sigma increased: 1
+2025-07-02 19:40:23,549 | INFO | Sigma increased: 1.5087855204540321
+2025-07-02 19:40:51,919 | INFO | Sigma increased: 1.458326012106316
+2025-07-02 19:41:20,408 | INFO | Sigma increased: 1.4502472487514604
+2025-07-02 19:41:49,162 | INFO | Sigma increased: 1.852963219474103
+2025-07-02 19:42:18,117 | INFO | Sigma increased: 1
+2025-07-02 19:42:47,395 | INFO | Sigma increased: 1.7729659845958101
+2025-07-02 19:43:18,071 | INFO | Sigma increased: 1
+2025-07-02 19:43:48,550 | INFO | Sigma increased: 1
+2025-07-02 19:44:19,667 | INFO | Sigma increased: 1.8622422910831813
+2025-07-02 19:44:50,544 | INFO | Sigma increased: 2.8194059985502227
+2025-07-02 19:45:21,724 | INFO | Sigma increased: 1.1275338034026823
+2025-07-02 19:45:53,333 | INFO | Sigma increased: 1
+2025-07-02 19:46:25,583 | INFO | Sigma increased: 1
+2025-07-02 19:46:58,184 | INFO | Sigma increased: 1
+2025-07-02 19:47:31,750 | INFO | Sigma increased: 1.0623338537419817
+2025-07-02 19:48:05,034 | INFO | Sigma increased: 1
+2025-07-02 19:48:38,180 | INFO | Sigma increased: 1
+2025-07-02 19:49:11,636 | INFO | Sigma increased: 1
+2025-07-02 19:49:45,648 | INFO | Sigma increased: 1
+2025-07-02 19:50:19,974 | INFO | Sigma increased: 1.1475690123533346
+2025-07-02 19:50:54,390 | INFO | Sigma increased: 1
+2025-07-02 19:51:29,191 | INFO | Sigma increased: 1.113251655783084
+2025-07-02 19:52:05,073 | INFO | Sigma increased: 1
+2025-07-02 19:52:40,840 | INFO | Sigma increased: 1.186380487409141
+2025-07-02 19:53:17,129 | INFO | Sigma increased: 1
+2025-07-02 19:53:53,495 | INFO | Sigma increased: 1
+2025-07-02 19:54:30,332 | INFO | Sigma increased: 1
+2025-07-02 19:55:07,718 | INFO | Sigma increased: 1.4167766787232106
+2025-07-02 19:55:45,526 | INFO | Sigma increased: 2.698474187387101
+2025-07-02 19:56:23,237 | INFO | Sigma increased: 2.1660078331210224
+2025-07-02 19:57:01,307 | INFO | Sigma increased: 2.3056958574278004
+2025-07-02 19:57:39,638 | INFO | Sigma increased: 2.721519794238778
+2025-07-02 19:58:18,405 | INFO | Sigma increased: 1
+2025-07-02 19:58:57,920 | INFO | Sigma increased: 1.8242615286715969
+2025-07-02 19:59:39,194 | INFO | Sigma increased: 3.191386322844746
+2025-07-02 20:00:20,084 | INFO | Sigma increased: 1.6637352900961535
+2025-07-02 20:01:00,713 | INFO | Sigma increased: 1
+2025-07-02 20:01:42,061 | INFO | Sigma increased: 2.3868936432471073
+2025-07-02 20:02:05,914 | INFO | Execution finished for solver: ODEINT, seed: 9, error: SQUARED in 2425.93 seconds.
+2025-07-02 20:02:05,918 | INFO | Results saved to ../../Outputs/ABCD_CMAES_SERIAL_20250702_085332\results.csv
+2025-07-02 20:02:05,918 | INFO | Running with seed=9, solver=ODEINT, error=MSE
+2025-07-02 20:02:05,918 | INFO | Starting execution for CMAES: Solver=ODEINT, Error=MSE, Seed=9
+2025-07-02 20:03:21,532 | INFO | Sigma increased: 1
+2025-07-02 20:03:31,191 | INFO | Sigma increased: 2.147582191985033
+2025-07-02 20:03:38,241 | INFO | Sigma increased: 4.972079745000365
+2025-07-02 20:03:44,989 | INFO | Sigma increased: 4.681894107630836
+2025-07-02 20:03:50,804 | INFO | Sigma increased: 7.039794435891555
+2025-07-02 20:03:56,164 | INFO | Sigma increased: 7.836766343906417
+2025-07-02 20:04:03,548 | INFO | Sigma increased: 7.007205988682282
+2025-07-02 20:04:11,394 | INFO | Sigma increased: 6.8485000531728915
+2025-07-02 20:04:18,025 | INFO | Sigma increased: 12.454276123867462
+2025-07-02 20:04:23,688 | INFO | Sigma increased: 10.957422158732356
+2025-07-02 20:04:31,670 | INFO | Sigma increased: 9.86628245289067
+2025-07-02 20:04:38,855 | INFO | Sigma increased: 14.285872061360838
+2025-07-02 20:04:47,163 | INFO | Sigma increased: 15
+2025-07-02 20:04:56,611 | INFO | Sigma increased: 15
+2025-07-02 20:05:07,645 | INFO | Sigma increased: 10.763884627078104
+2025-07-02 20:05:20,446 | INFO | Sigma increased: 9.21524678271076
+2025-07-02 20:05:33,391 | INFO | Sigma increased: 15
+2025-07-02 20:05:48,730 | INFO | Sigma increased: 15
+2025-07-02 20:06:00,575 | INFO | Sigma increased: 15
+2025-07-02 20:06:13,028 | INFO | Sigma increased: 14.40163074442835
+2025-07-02 20:06:26,474 | INFO | Sigma increased: 15
+2025-07-02 20:06:40,123 | INFO | Sigma increased: 15
+2025-07-02 20:06:54,127 | INFO | Sigma increased: 15
+2025-07-02 20:07:09,080 | INFO | Sigma increased: 15
+2025-07-02 20:07:24,937 | INFO | Sigma increased: 15
+2025-07-02 20:07:42,861 | INFO | Sigma increased: 15
+2025-07-02 20:07:59,209 | INFO | Sigma increased: 15
+2025-07-02 20:08:16,975 | INFO | Sigma increased: 15
+2025-07-02 20:08:34,886 | INFO | Sigma increased: 15
+2025-07-02 20:08:52,923 | INFO | Sigma increased: 15
+2025-07-02 20:09:10,167 | INFO | Sigma increased: 15
+2025-07-02 20:09:28,374 | INFO | Sigma increased: 15
+2025-07-02 20:09:49,179 | INFO | Sigma increased: 15
+2025-07-02 20:10:10,101 | INFO | Sigma increased: 15
+2025-07-02 20:10:31,637 | INFO | Sigma increased: 15
+2025-07-02 20:10:52,453 | INFO | Sigma increased: 15
+2025-07-02 20:11:13,566 | INFO | Sigma increased: 15
+2025-07-02 20:11:35,713 | INFO | Sigma increased: 15
+2025-07-02 20:11:58,097 | INFO | Sigma increased: 15
+2025-07-02 20:12:18,200 | INFO | Sigma increased: 14.736793354128771
+2025-07-02 20:12:41,270 | INFO | Sigma increased: 15
+2025-07-02 20:13:03,670 | INFO | Sigma increased: 15
+2025-07-02 20:13:26,731 | INFO | Sigma increased: 15
+2025-07-02 20:13:49,013 | INFO | Sigma increased: 15
+2025-07-02 20:14:16,249 | INFO | Sigma increased: 15
+2025-07-02 20:14:43,304 | INFO | Sigma increased: 15
+2025-07-02 20:15:09,829 | INFO | Sigma increased: 15
+2025-07-02 20:15:37,795 | INFO | Sigma increased: 15
+2025-07-02 20:16:06,593 | INFO | Sigma increased: 15
+2025-07-02 20:16:35,070 | INFO | Sigma increased: 9.789114098769645
+2025-07-02 20:17:04,718 | INFO | Sigma increased: 9.9171768132477
+2025-07-02 20:17:34,875 | INFO | Sigma increased: 7.720163894216817
+2025-07-02 20:18:04,911 | INFO | Sigma increased: 8.139697013823936
+2025-07-02 20:18:35,192 | INFO | Sigma increased: 6.026875567407685
+2025-07-02 20:19:06,003 | INFO | Sigma increased: 4.839534967146885
+2025-07-02 20:19:36,535 | INFO | Sigma increased: 3.3009205484253346
+2025-07-02 20:20:07,526 | INFO | Sigma increased: 3.209700297311901
+2025-07-02 20:20:39,624 | INFO | Sigma increased: 5.09728561058361
+2025-07-02 20:21:11,358 | INFO | Sigma increased: 4.990011245589774
+2025-07-02 20:21:44,228 | INFO | Sigma increased: 3.803182321416702
+2025-07-02 20:22:16,723 | INFO | Sigma increased: 3.2079148630555396
+2025-07-02 20:22:45,236 | INFO | Sigma increased: 1.0858734860716535
+2025-07-02 20:23:12,195 | INFO | Sigma increased: 1
+2025-07-02 20:23:38,532 | INFO | Sigma increased: 1
+2025-07-02 20:24:05,174 | INFO | Sigma increased: 1
+2025-07-02 20:24:31,354 | INFO | Sigma increased: 1
+2025-07-02 20:24:57,924 | INFO | Sigma increased: 1
+2025-07-02 20:25:24,077 | INFO | Sigma increased: 1
+2025-07-02 20:25:50,369 | INFO | Sigma increased: 1
+2025-07-02 20:26:17,282 | INFO | Sigma increased: 1
+2025-07-02 20:26:44,224 | INFO | Sigma increased: 1
+2025-07-02 20:27:12,060 | INFO | Sigma increased: 1
+2025-07-02 20:27:40,257 | INFO | Sigma increased: 1
+2025-07-02 20:28:08,008 | INFO | Sigma increased: 1
+2025-07-02 20:28:36,624 | INFO | Sigma increased: 1
+2025-07-02 20:29:04,724 | INFO | Sigma increased: 1
+2025-07-02 20:29:33,091 | INFO | Sigma increased: 1
+2025-07-02 20:30:02,485 | INFO | Sigma increased: 1
+2025-07-02 20:30:31,324 | INFO | Sigma increased: 1
+2025-07-02 20:31:00,333 | INFO | Sigma increased: 1
+2025-07-02 20:31:29,604 | INFO | Sigma increased: 1
+2025-07-02 20:31:59,218 | INFO | Sigma increased: 1
+2025-07-02 20:32:29,466 | INFO | Sigma increased: 1
+2025-07-02 20:32:59,590 | INFO | Sigma increased: 1
+2025-07-02 20:33:29,951 | INFO | Sigma increased: 1
+2025-07-02 20:34:01,084 | INFO | Sigma increased: 1
+2025-07-02 20:34:32,053 | INFO | Sigma increased: 1.5104119355977295
+2025-07-02 20:35:03,197 | INFO | Sigma increased: 1
+2025-07-02 20:35:34,934 | INFO | Sigma increased: 1.139114804057567
+2025-07-02 20:36:07,222 | INFO | Sigma increased: 1.6021880489139741
+2025-07-02 20:36:39,639 | INFO | Sigma increased: 1.7414796946761575
+2025-07-02 20:37:12,811 | INFO | Sigma increased: 2.089306115061352
+2025-07-02 20:37:45,992 | INFO | Sigma increased: 1.9427634422496682
+2025-07-02 20:38:19,305 | INFO | Sigma increased: 3.6681722524896094
+2025-07-02 20:38:53,410 | INFO | Sigma increased: 3.45186660769806
+2025-07-02 20:39:27,651 | INFO | Sigma increased: 2.565594023248649
+2025-07-02 20:40:02,099 | INFO | Sigma increased: 5.160699593963182
+2025-07-02 20:40:09,702 | ERROR | Unexpected error: Eigenvalues did not converge
+Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 40, in run
+    best_ind = self.execute(logging=logging, solver=solver, seed=seed, error=error, gens=gens, verbose=verbose)
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 158, in execute
+    toolbox.update(population)
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\deap\cma.py", line 167, in update
+    self.diagD, self.B = numpy.linalg.eigh(self.C)
+  File "<__array_function__ internals>", line 200, in eigh
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\linalg\linalg.py", line 1451, in eigh
+    w, vt = gufunc(a, signature=signature, extobj=extobj)
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\linalg\linalg.py", line 95, in _raise_linalgerror_eigenvalues_nonconvergence
+    raise LinAlgError("Eigenvalues did not converge")
+numpy.linalg.LinAlgError: Eigenvalues did not converge
+2025-07-02 20:40:09,703 | ERROR | Error running seed=9, solver=ODEINT, error=MSE: local variable 'best_ind' referenced before assignment, traceback=Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 44, in run
+    raise e
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 40, in run
+    best_ind = self.execute(logging=logging, solver=solver, seed=seed, error=error, gens=gens, verbose=verbose)
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 158, in execute
+    toolbox.update(population)
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\deap\cma.py", line 167, in update
+    self.diagD, self.B = numpy.linalg.eigh(self.C)
+  File "<__array_function__ internals>", line 200, in eigh
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\linalg\linalg.py", line 1451, in eigh
+    w, vt = gufunc(a, signature=signature, extobj=extobj)
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\numpy\linalg\linalg.py", line 95, in _raise_linalgerror_eigenvalues_nonconvergence
+    raise LinAlgError("Eigenvalues did not converge")
+numpy.linalg.LinAlgError: Eigenvalues did not converge
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Handlers.py", line 92, in run_single
+    result = method.run(
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 51, in run
+    if best_ind:
+UnboundLocalError: local variable 'best_ind' referenced before assignment
+
+2025-07-02 20:40:09,707 | INFO | Results saved to ../../Outputs/ABCD_CMAES_SERIAL_20250702_085332\results.csv
+2025-07-02 20:40:09,710 | INFO | Results saved to ../../Outputs/ABCD_CMAES_SERIAL_20250702_085332\results.csv
+2025-07-02 20:40:09,710 | INFO | Execution finished in 42397.40 seconds.

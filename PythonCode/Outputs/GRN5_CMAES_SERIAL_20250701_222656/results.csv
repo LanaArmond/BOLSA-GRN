@@ -1,0 +1,2 @@
+model,method,parallel,run_id,seed,solver,error_type,ABS_Fitness,SQUARED_Fitness,MSE_Fitness,MABS_Fitness,execution_time
+GRN5,CMAES,False,GRN5_CMAES_SERIAL_20250701_222656,0,ODEINT,MSE,,,,,

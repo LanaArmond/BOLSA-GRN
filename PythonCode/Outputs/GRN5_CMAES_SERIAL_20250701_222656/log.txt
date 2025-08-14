@@ -1,0 +1,36 @@
+2025-07-01 22:26:56,673 | INFO | Starting execution - Serial
+2025-07-01 22:26:56,674 | INFO | Running with seed=0, solver=ODEINT, error=MSE
+2025-07-01 22:26:56,676 | INFO | Starting execution for CMAES: Solver=ODEINT, Error=MSE, Seed=0
+2025-07-01 22:26:57,042 | INFO | Sigma increased: 6.9345695110823
+2025-07-01 22:26:57,376 | INFO | Sigma increased: 6.577011905052242
+2025-07-01 22:26:57,706 | INFO | Sigma increased: 6.420236518473441
+2025-07-01 22:26:58,087 | INFO | Sigma increased: 6.47068562028839
+2025-07-01 22:26:58,428 | INFO | Sigma increased: 11.391425388315753
+2025-07-01 22:26:58,772 | INFO | Sigma increased: 12.42930770218123
+2025-07-01 22:26:59,118 | INFO | Sigma increased: 14.061475566436727
+2025-07-01 22:26:59,466 | INFO | Sigma increased: 15
+2025-07-01 22:26:59,821 | INFO | Sigma increased: 13.333249321252772
+2025-07-01 22:27:00,199 | INFO | Sigma increased: 15
+2025-07-01 22:27:00,559 | INFO | Sigma increased: 15
+2025-07-01 22:27:00,965 | INFO | Sigma increased: 15
+2025-07-01 22:27:01,430 | INFO | Sigma increased: 15
+2025-07-01 22:27:01,834 | INFO | Sigma increased: 15
+2025-07-01 22:27:02,242 | INFO | Sigma increased: 15
+2025-07-01 22:27:02,629 | INFO | Sigma increased: 15
+2025-07-01 22:27:03,094 | INFO | Sigma increased: 15
+2025-07-01 22:27:03,523 | ERROR | Error running seed=0, solver=ODEINT, error=MSE: Individual.solve_ivp.<locals>.<lambda>() takes 2 positional arguments but 4 were given, traceback=Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Handlers.py", line 92, in run_single
+    result = method.run(
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 56, in run
+    errors_result = best_ind.calc_all_fitness(solver=solver)
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\EvolutionModules.py", line 95, in calc_all_fitness
+    y = self.solve_ivp(solver)
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\EvolutionModules.py", line 52, in solve_ivp
+    sol = odeint(
+  File "C:\Users\anabi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\scipy\integrate\_odepack_py.py", line 242, in odeint
+    output = _odepack.odeint(func, y0, t, args, Dfun, col_deriv, ml, mu,
+TypeError: Individual.solve_ivp.<locals>.<lambda>() takes 2 positional arguments but 4 were given
+
+2025-07-01 22:27:03,536 | INFO | Results saved to ../../Outputs/GRN5_CMAES_SERIAL_20250701_222656\results.csv
+2025-07-01 22:27:03,537 | INFO | Results saved to ../../Outputs/GRN5_CMAES_SERIAL_20250701_222656\results.csv
+2025-07-01 22:27:03,537 | INFO | Execution finished in 6.86 seconds.

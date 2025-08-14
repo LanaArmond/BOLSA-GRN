@@ -6,6 +6,7 @@ import random
 import numpy as np
 import copy
 from scipy import integrate
+from scipy.integrate import odeint
 import matplotlib.pyplot as plt
 from Modules.Plotters import Plotter
 from Modules.Helpers import Helper
@@ -43,8 +44,32 @@ class Individual:
         self.coeffs = copy.deepcopy(self.model.coeffs)
         
         
+    # def solve_ivp(self, solver='RK45'):
+    #     return integrate.solve_ivp(self.model.system, self.model.t_span, self.model.initial_conditions, method=solver, t_eval=self.model.t_eval, args=(self, self.equation), min_step=0.001).y
+    
     def solve_ivp(self, solver='RK45'):
-        return integrate.solve_ivp(self.model.system, self.model.t_span, self.model.initial_conditions, method=solver, t_eval=self.model.t_eval, args=(self, self.equation), min_step=0.001).y
+        if solver.upper() == 'ODEINT':
+            sol = odeint(
+                self.model.system,
+                # lambda y, t: self.model.system(t, y, self, self.equation),  # Wrap system for odeint (t first)
+                self.model.initial_conditions,
+                self.model.t_eval,
+                args=(self, self.equation),
+                tfirst=True,  # Important: tells odeint the function is (t, y) instead of (y, t)
+                hmin=0.001
+            )
+            
+            return sol.T
+        else:
+            return integrate.solve_ivp(
+                self.model.system,
+                self.model.t_span,
+                self.model.initial_conditions,
+                method=solver,
+                t_eval=self.model.t_eval,
+                args=(self, self.equation),
+                min_step=0.001
+            ).y
     
     def ind_to_list(self):
         ind_list = []

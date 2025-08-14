@@ -1,0 +1,83 @@
+2025-07-11 12:44:59,121 | INFO | Starting execution - Serial
+2025-07-11 12:44:59,121 | INFO | Running with seed=0, solver=ODEINT, error=SQUARED
+2025-07-11 12:44:59,121 | INFO | Starting execution for DE: Solver=ODEINT, Error=SQUARED, Seed=0
+2025-07-13 01:07:38,345 | INFO | Execution finished for solver: ODEINT, seed: 0, error: SQUARED in 130959.11 seconds.
+2025-07-13 01:07:38,362 | INFO | Results saved to ../../Outputs/GRN10_DE_SERIAL_20250711_124459\results.csv
+2025-07-13 01:07:38,362 | INFO | Running with seed=0, solver=ODEINT, error=MSE
+2025-07-13 01:07:38,363 | INFO | Starting execution for DE: Solver=ODEINT, Error=MSE, Seed=0
+2025-07-14 13:44:10,123 | INFO | Execution finished for solver: ODEINT, seed: 0, error: MSE in 131791.63 seconds.
+2025-07-14 13:44:10,129 | INFO | Results saved to ../../Outputs/GRN10_DE_SERIAL_20250711_124459\results.csv
+2025-07-14 13:44:10,130 | INFO | Running with seed=1, solver=ODEINT, error=SQUARED
+2025-07-14 13:44:10,130 | INFO | Starting execution for DE: Solver=ODEINT, Error=SQUARED, Seed=1
+2025-07-15 23:58:02,845 | INFO | Execution finished for solver: ODEINT, seed: 1, error: SQUARED in 123232.58 seconds.
+2025-07-15 23:58:02,882 | INFO | Results saved to ../../Outputs/GRN10_DE_SERIAL_20250711_124459\results.csv
+2025-07-15 23:58:02,882 | INFO | Running with seed=1, solver=ODEINT, error=MSE
+2025-07-15 23:58:02,883 | INFO | Starting execution for DE: Solver=ODEINT, Error=MSE, Seed=1
+2025-07-17 10:48:36,309 | INFO | Execution finished for solver: ODEINT, seed: 1, error: MSE in 125433.31 seconds.
+2025-07-17 10:48:36,317 | INFO | Results saved to ../../Outputs/GRN10_DE_SERIAL_20250711_124459\results.csv
+2025-07-17 10:48:36,317 | INFO | Running with seed=2, solver=ODEINT, error=SQUARED
+2025-07-17 10:48:36,317 | INFO | Starting execution for DE: Solver=ODEINT, Error=SQUARED, Seed=2
+2025-07-18 22:07:07,042 | INFO | Execution finished for solver: ODEINT, seed: 2, error: SQUARED in 127110.36 seconds.
+2025-07-18 22:07:07,052 | INFO | Results saved to ../../Outputs/GRN10_DE_SERIAL_20250711_124459\results.csv
+2025-07-18 22:07:07,052 | INFO | Running with seed=2, solver=ODEINT, error=MSE
+2025-07-18 22:07:07,053 | INFO | Starting execution for DE: Solver=ODEINT, Error=MSE, Seed=2
+2025-07-20 14:26:52,026 | INFO | Execution finished for solver: ODEINT, seed: 2, error: MSE in 145184.83 seconds.
+2025-07-20 14:26:52,035 | INFO | Results saved to ../../Outputs/GRN10_DE_SERIAL_20250711_124459\results.csv
+2025-07-20 14:26:52,035 | INFO | Running with seed=3, solver=ODEINT, error=SQUARED
+2025-07-20 14:26:52,035 | INFO | Starting execution for DE: Solver=ODEINT, Error=SQUARED, Seed=3
+2025-07-22 00:31:23,652 | INFO | Execution finished for solver: ODEINT, seed: 3, error: SQUARED in 122671.50 seconds.
+2025-07-22 00:31:23,690 | INFO | Results saved to ../../Outputs/GRN10_DE_SERIAL_20250711_124459\results.csv
+2025-07-22 00:31:23,690 | INFO | Running with seed=3, solver=ODEINT, error=MSE
+2025-07-22 00:31:23,690 | INFO | Starting execution for DE: Solver=ODEINT, Error=MSE, Seed=3
+2025-07-23 10:24:40,333 | INFO | Execution finished for solver: ODEINT, seed: 3, error: MSE in 121996.53 seconds.
+2025-07-23 10:24:40,341 | INFO | Results saved to ../../Outputs/GRN10_DE_SERIAL_20250711_124459\results.csv
+2025-07-23 10:24:40,341 | INFO | Running with seed=4, solver=ODEINT, error=SQUARED
+2025-07-23 10:24:40,341 | INFO | Starting execution for DE: Solver=ODEINT, Error=SQUARED, Seed=4
+2025-07-24 20:49:02,060 | INFO | Execution finished for solver: ODEINT, seed: 4, error: SQUARED in 123861.59 seconds.
+2025-07-24 20:49:02,068 | INFO | Results saved to ../../Outputs/GRN10_DE_SERIAL_20250711_124459\results.csv
+2025-07-24 20:49:02,069 | INFO | Running with seed=4, solver=ODEINT, error=MSE
+2025-07-24 20:49:02,069 | INFO | Starting execution for DE: Solver=ODEINT, Error=MSE, Seed=4
+2025-07-26 06:52:47,867 | INFO | Execution finished for solver: ODEINT, seed: 4, error: MSE in 122625.67 seconds.
+2025-07-26 06:52:47,873 | INFO | Results saved to ../../Outputs/GRN10_DE_SERIAL_20250711_124459\results.csv
+2025-07-26 06:52:47,873 | INFO | Running with seed=5, solver=ODEINT, error=SQUARED
+2025-07-26 06:52:47,873 | INFO | Starting execution for DE: Solver=ODEINT, Error=SQUARED, Seed=5
+2025-07-27 17:30:47,104 | INFO | Execution finished for solver: ODEINT, seed: 5, error: SQUARED in 124679.11 seconds.
+2025-07-27 17:30:47,119 | INFO | Results saved to ../../Outputs/GRN10_DE_SERIAL_20250711_124459\results.csv
+2025-07-27 17:30:47,119 | INFO | Running with seed=5, solver=ODEINT, error=MSE
+2025-07-27 17:30:47,119 | INFO | Starting execution for DE: Solver=ODEINT, Error=MSE, Seed=5
+2025-07-29 04:11:29,939 | INFO | Execution finished for solver: ODEINT, seed: 5, error: MSE in 124842.70 seconds.
+2025-07-29 04:11:29,948 | INFO | Results saved to ../../Outputs/GRN10_DE_SERIAL_20250711_124459\results.csv
+2025-07-29 04:11:29,948 | INFO | Running with seed=6, solver=ODEINT, error=SQUARED
+2025-07-29 04:11:29,948 | INFO | Starting execution for DE: Solver=ODEINT, Error=SQUARED, Seed=6
+2025-07-30 15:59:16,472 | INFO | Execution finished for solver: ODEINT, seed: 6, error: SQUARED in 128866.39 seconds.
+2025-07-30 15:59:16,478 | INFO | Results saved to ../../Outputs/GRN10_DE_SERIAL_20250711_124459\results.csv
+2025-07-30 15:59:16,478 | INFO | Running with seed=6, solver=ODEINT, error=MSE
+2025-07-30 15:59:16,479 | INFO | Starting execution for DE: Solver=ODEINT, Error=MSE, Seed=6
+2025-08-01 04:31:09,189 | INFO | Execution finished for solver: ODEINT, seed: 6, error: MSE in 131512.57 seconds.
+2025-08-01 04:31:09,197 | INFO | Results saved to ../../Outputs/GRN10_DE_SERIAL_20250711_124459\results.csv
+2025-08-01 04:31:09,197 | INFO | Running with seed=7, solver=ODEINT, error=SQUARED
+2025-08-01 04:31:09,197 | INFO | Starting execution for DE: Solver=ODEINT, Error=SQUARED, Seed=7
+2025-08-02 17:35:45,368 | INFO | Execution finished for solver: ODEINT, seed: 7, error: SQUARED in 133476.05 seconds.
+2025-08-02 17:35:45,376 | INFO | Results saved to ../../Outputs/GRN10_DE_SERIAL_20250711_124459\results.csv
+2025-08-02 17:35:45,376 | INFO | Running with seed=7, solver=ODEINT, error=MSE
+2025-08-02 17:35:45,377 | INFO | Starting execution for DE: Solver=ODEINT, Error=MSE, Seed=7
+2025-08-04 07:42:54,634 | INFO | Execution finished for solver: ODEINT, seed: 7, error: MSE in 137229.15 seconds.
+2025-08-04 07:42:54,640 | INFO | Results saved to ../../Outputs/GRN10_DE_SERIAL_20250711_124459\results.csv
+2025-08-04 07:42:54,640 | INFO | Running with seed=8, solver=ODEINT, error=SQUARED
+2025-08-04 07:42:54,640 | INFO | Starting execution for DE: Solver=ODEINT, Error=SQUARED, Seed=8
+2025-08-05 18:49:33,606 | INFO | Execution finished for solver: ODEINT, seed: 8, error: SQUARED in 126398.81 seconds.
+2025-08-05 18:49:33,616 | INFO | Results saved to ../../Outputs/GRN10_DE_SERIAL_20250711_124459\results.csv
+2025-08-05 18:49:33,616 | INFO | Running with seed=8, solver=ODEINT, error=MSE
+2025-08-05 18:49:33,617 | INFO | Starting execution for DE: Solver=ODEINT, Error=MSE, Seed=8
+2025-08-07 13:39:32,129 | INFO | Execution finished for solver: ODEINT, seed: 8, error: MSE in 154198.38 seconds.
+2025-08-07 13:39:32,139 | INFO | Results saved to ../../Outputs/GRN10_DE_SERIAL_20250711_124459\results.csv
+2025-08-07 13:39:32,140 | INFO | Running with seed=9, solver=ODEINT, error=SQUARED
+2025-08-07 13:39:32,141 | INFO | Starting execution for DE: Solver=ODEINT, Error=SQUARED, Seed=9
+2025-08-08 23:55:50,780 | INFO | Execution finished for solver: ODEINT, seed: 9, error: SQUARED in 123378.52 seconds.
+2025-08-08 23:55:50,792 | INFO | Results saved to ../../Outputs/GRN10_DE_SERIAL_20250711_124459\results.csv
+2025-08-08 23:55:50,792 | INFO | Running with seed=9, solver=ODEINT, error=MSE
+2025-08-08 23:55:50,792 | INFO | Starting execution for DE: Solver=ODEINT, Error=MSE, Seed=9
+2025-08-10 09:26:31,234 | INFO | Execution finished for solver: ODEINT, seed: 9, error: MSE in 120640.33 seconds.
+2025-08-10 09:26:31,244 | INFO | Results saved to ../../Outputs/GRN10_DE_SERIAL_20250711_124459\results.csv
+2025-08-10 09:26:31,250 | INFO | Results saved to ../../Outputs/GRN10_DE_SERIAL_20250711_124459\results.csv
+2025-08-10 09:26:31,250 | INFO | Execution finished in 2580092.13 seconds.
