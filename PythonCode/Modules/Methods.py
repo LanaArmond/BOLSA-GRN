@@ -208,3 +208,145 @@ class DE(Method):
         )
         
         return Individual.list_to_ind(result.x, self.model)
+    
+# Método DE Adaptativo
+class SaDE(Method):
+    def __init__(self, model, pop_size=None, max_gens=1000, LP=50):
+        super().__init__()
+        self.model = model
+        self.dim = model.IND_SIZE
+        self.pop_size = pop_size if pop_size else 10 * self.dim
+        self.max_gens = max_gens
+        self.LP = LP
+
+        # Estratégias
+        self.strategy_names = ['rand/1/bin', 'rand/2/bin', 'current-to-best/1']
+        self.K = len(self.strategy_names)
+
+        # Probabilidades iniciais
+        self.p_k = np.ones(self.K) / self.K
+        self.CRm = np.full(self.K, 0.5)
+        self.Fm = np.full(self.K, 0.5)
+
+        # Contadores de aprendizado
+        self.success_count = np.zeros(self.K, dtype=int)
+        self.attempt_count = np.zeros(self.K, dtype=int)
+        self.success_cr_values = [[] for _ in range(self.K)]
+        self.success_f_values = [[] for _ in range(self.K)]
+
+    def _ensure_bounds(self, vec):
+        lb, ub = np.array(self.model.bounds_list()).T
+        return np.minimum(np.maximum(vec, lb), ub)
+
+    def _sample_CR(self, k):
+        cr = np.random.normal(self.CRm[k], 0.1)
+        return float(np.clip(cr, 0.0, 1.0))
+
+    def _sample_F(self, k):
+        for _ in range(10):
+            f = np.random.standard_cauchy() * 0.1 + self.Fm[k]
+            if 0 < f <= 1:
+                return float(f)
+        return float(np.random.uniform(0.1, 0.9))
+
+    def _choose_strategy_index(self):
+        return int(np.random.choice(self.K, p=self.p_k))
+
+    def _mutate_and_crossover(self, pop, i, F, CR, strategy_idx, best_idx):
+        NP, dim = pop.shape
+        idxs = list(range(NP))
+        idxs.remove(i)
+        r = np.random.choice(idxs, size=5, replace=False)
+        x_t = pop[i]
+
+        if self.strategy_names[strategy_idx] == 'rand/1/bin':
+            a, b, c = pop[r[0]], pop[r[1]], pop[r[2]]
+            v = a + F * (b - c)
+        elif self.strategy_names[strategy_idx] == 'rand/2/bin':
+            a, b, c, d, e = pop[r[0]], pop[r[1]], pop[r[2]], pop[r[3]], pop[r[4]]
+            v = a + F * (b - c + d - e)
+        elif self.strategy_names[strategy_idx] == 'current-to-best/1':
+            a, b = pop[r[0]], pop[r[1]]
+            best = pop[best_idx]
+            v = x_t + F * (best - x_t) + F * (a - b)
+        else:
+            a, b, c = pop[r[0]], pop[r[1]], pop[r[2]]
+            v = a + F * (b - c)
+
+        # binomial crossover
+        jrand = np.random.randint(dim)
+        u = np.copy(x_t)
+        mask = np.random.rand(dim) < CR
+        u[mask] = v[mask]
+        u[jrand] = v[jrand]
+        return self._ensure_bounds(u)
+
+    def adapt_probabilities(self):
+        q = np.where(self.attempt_count > 0,
+                     self.success_count / self.attempt_count,
+                     0.0)
+        q = q + 1e-6
+        self.p_k = q / q.sum()
+        self.success_count[:] = 0
+        self.attempt_count[:] = 0
+        for k in range(self.K):
+            if self.success_cr_values[k]:
+                self.CRm[k] = np.mean(self.success_cr_values[k])
+            if self.success_f_values[k]:
+                self.Fm[k] = np.mean(self.success_f_values[k])
+            self.success_cr_values[k].clear()
+            self.success_f_values[k].clear()
+
+    def execute(self, logging, solver, error, seed, gens=None, verbose=False):
+        np.random.seed(seed)
+        gens = gens if gens else self.max_gens
+
+        bounds = np.array(self.model.bounds_list())
+        pop = np.random.uniform(bounds[:,0], bounds[:,1], size=(self.pop_size, self.dim))
+        fitness = []
+
+        for ind in pop:
+            ind_obj = Individual.list_to_ind(ind, self.model)
+            ind_obj.calculate_fitness(solver=solver, error=error)
+            fitness.append(ind_obj.fitness)
+        fitness = np.array(fitness)
+
+        best_idx = np.argmin(fitness)
+        best = pop[best_idx].copy()
+        best_fit = fitness[best_idx]
+
+        for gen in range(1, gens + 1):
+            new_pop = pop.copy()
+            new_fit = fitness.copy()
+
+            for i in range(self.pop_size):
+                k = self._choose_strategy_index()
+                CR = self._sample_CR(k)
+                F = self._sample_F(k)
+
+                trial = self._mutate_and_crossover(pop, i, F, CR, k, best_idx)
+                ind_trial = Individual.list_to_ind(trial, self.model)
+                ind_trial.calculate_fitness(solver=solver, error=error)
+                tfit = ind_trial.fitness
+
+                self.attempt_count[k] += 1
+                if tfit < fitness[i]:
+                    new_pop[i] = trial
+                    new_fit[i] = tfit
+                    self.success_count[k] += 1
+                    self.success_cr_values[k].append(CR)
+                    self.success_f_values[k].append(F)
+                    if tfit < best_fit:
+                        best = trial.copy()
+                        best_fit = tfit
+
+            pop, fitness = new_pop, new_fit
+            best_idx = np.argmin(fitness)
+
+            if gen % self.LP == 0:
+                self.adapt_probabilities()
+
+            if verbose and gen % (gens // 10) == 0:
+                logging.info(f"[SaDE] Gen {gen}/{gens} | best {best_fit:.6e}")
+
+        return Individual.list_to_ind(best, self.model)
