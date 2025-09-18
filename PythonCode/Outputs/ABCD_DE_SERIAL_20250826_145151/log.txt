@@ -1,0 +1,83 @@
+2025-08-26 14:51:51,771 | INFO | Starting execution - Serial
+2025-08-26 14:51:51,771 | INFO | Running with seed=0, solver=ODEINT, error=SQUARED
+2025-08-26 14:51:51,771 | INFO | Starting execution for DE: Solver=ODEINT, Error=SQUARED, Seed=0
+2025-08-26 15:58:12,252 | INFO | Execution finished for solver: ODEINT, seed: 0, error: SQUARED in 3980.45 seconds.
+2025-08-26 15:58:12,267 | INFO | Results saved to ../../Outputs/ABCD_DE_SERIAL_20250826_145151\results.csv
+2025-08-26 15:58:12,268 | INFO | Running with seed=0, solver=ODEINT, error=MSE
+2025-08-26 15:58:12,268 | INFO | Starting execution for DE: Solver=ODEINT, Error=MSE, Seed=0
+2025-08-26 17:45:44,241 | INFO | Execution finished for solver: ODEINT, seed: 0, error: MSE in 6451.95 seconds.
+2025-08-26 17:45:44,250 | INFO | Results saved to ../../Outputs/ABCD_DE_SERIAL_20250826_145151\results.csv
+2025-08-26 17:45:44,250 | INFO | Running with seed=1, solver=ODEINT, error=SQUARED
+2025-08-26 17:45:44,251 | INFO | Starting execution for DE: Solver=ODEINT, Error=SQUARED, Seed=1
+2025-08-26 18:47:07,906 | INFO | Execution finished for solver: ODEINT, seed: 1, error: SQUARED in 3683.63 seconds.
+2025-08-26 18:47:07,909 | INFO | Results saved to ../../Outputs/ABCD_DE_SERIAL_20250826_145151\results.csv
+2025-08-26 18:47:07,909 | INFO | Running with seed=1, solver=ODEINT, error=MSE
+2025-08-26 18:47:07,909 | INFO | Starting execution for DE: Solver=ODEINT, Error=MSE, Seed=1
+2025-08-26 19:40:04,850 | INFO | Execution finished for solver: ODEINT, seed: 1, error: MSE in 3176.91 seconds.
+2025-08-26 19:40:04,853 | INFO | Results saved to ../../Outputs/ABCD_DE_SERIAL_20250826_145151\results.csv
+2025-08-26 19:40:04,853 | INFO | Running with seed=2, solver=ODEINT, error=SQUARED
+2025-08-26 19:40:04,853 | INFO | Starting execution for DE: Solver=ODEINT, Error=SQUARED, Seed=2
+2025-08-26 20:39:39,937 | INFO | Execution finished for solver: ODEINT, seed: 2, error: SQUARED in 3575.07 seconds.
+2025-08-26 20:39:39,940 | INFO | Results saved to ../../Outputs/ABCD_DE_SERIAL_20250826_145151\results.csv
+2025-08-26 20:39:39,940 | INFO | Running with seed=2, solver=ODEINT, error=MSE
+2025-08-26 20:39:39,940 | INFO | Starting execution for DE: Solver=ODEINT, Error=MSE, Seed=2
+2025-08-26 21:39:25,374 | INFO | Execution finished for solver: ODEINT, seed: 2, error: MSE in 3585.42 seconds.
+2025-08-26 21:39:25,377 | INFO | Results saved to ../../Outputs/ABCD_DE_SERIAL_20250826_145151\results.csv
+2025-08-26 21:39:25,377 | INFO | Running with seed=3, solver=ODEINT, error=SQUARED
+2025-08-26 21:39:25,377 | INFO | Starting execution for DE: Solver=ODEINT, Error=SQUARED, Seed=3
+2025-08-26 23:38:07,799 | INFO | Execution finished for solver: ODEINT, seed: 3, error: SQUARED in 7122.40 seconds.
+2025-08-26 23:38:07,802 | INFO | Results saved to ../../Outputs/ABCD_DE_SERIAL_20250826_145151\results.csv
+2025-08-26 23:38:07,802 | INFO | Running with seed=3, solver=ODEINT, error=MSE
+2025-08-26 23:38:07,802 | INFO | Starting execution for DE: Solver=ODEINT, Error=MSE, Seed=3
+2025-08-27 01:36:18,227 | INFO | Execution finished for solver: ODEINT, seed: 3, error: MSE in 7090.42 seconds.
+2025-08-27 01:36:18,230 | INFO | Results saved to ../../Outputs/ABCD_DE_SERIAL_20250826_145151\results.csv
+2025-08-27 01:36:18,230 | INFO | Running with seed=4, solver=ODEINT, error=SQUARED
+2025-08-27 01:36:18,231 | INFO | Starting execution for DE: Solver=ODEINT, Error=SQUARED, Seed=4
+2025-08-27 02:36:15,305 | INFO | Execution finished for solver: ODEINT, seed: 4, error: SQUARED in 3597.07 seconds.
+2025-08-27 02:36:15,310 | INFO | Results saved to ../../Outputs/ABCD_DE_SERIAL_20250826_145151\results.csv
+2025-08-27 02:36:15,310 | INFO | Running with seed=4, solver=ODEINT, error=MSE
+2025-08-27 02:36:15,311 | INFO | Starting execution for DE: Solver=ODEINT, Error=MSE, Seed=4
+2025-08-27 03:36:23,643 | INFO | Execution finished for solver: ODEINT, seed: 4, error: MSE in 3608.33 seconds.
+2025-08-27 03:36:23,646 | INFO | Results saved to ../../Outputs/ABCD_DE_SERIAL_20250826_145151\results.csv
+2025-08-27 03:36:23,646 | INFO | Running with seed=5, solver=ODEINT, error=SQUARED
+2025-08-27 03:36:23,646 | INFO | Starting execution for DE: Solver=ODEINT, Error=SQUARED, Seed=5
+2025-08-27 04:58:43,410 | INFO | Execution finished for solver: ODEINT, seed: 5, error: SQUARED in 4939.74 seconds.
+2025-08-27 04:58:43,413 | INFO | Results saved to ../../Outputs/ABCD_DE_SERIAL_20250826_145151\results.csv
+2025-08-27 04:58:43,413 | INFO | Running with seed=5, solver=ODEINT, error=MSE
+2025-08-27 04:58:43,414 | INFO | Starting execution for DE: Solver=ODEINT, Error=MSE, Seed=5
+2025-08-27 06:20:52,982 | INFO | Execution finished for solver: ODEINT, seed: 5, error: MSE in 4929.55 seconds.
+2025-08-27 06:20:52,986 | INFO | Results saved to ../../Outputs/ABCD_DE_SERIAL_20250826_145151\results.csv
+2025-08-27 06:20:52,986 | INFO | Running with seed=6, solver=ODEINT, error=SQUARED
+2025-08-27 06:20:52,986 | INFO | Starting execution for DE: Solver=ODEINT, Error=SQUARED, Seed=6
+2025-08-27 07:31:43,139 | INFO | Execution finished for solver: ODEINT, seed: 6, error: SQUARED in 4250.14 seconds.
+2025-08-27 07:31:43,143 | INFO | Results saved to ../../Outputs/ABCD_DE_SERIAL_20250826_145151\results.csv
+2025-08-27 07:31:43,143 | INFO | Running with seed=6, solver=ODEINT, error=MSE
+2025-08-27 07:31:43,143 | INFO | Starting execution for DE: Solver=ODEINT, Error=MSE, Seed=6
+2025-08-27 08:41:48,863 | INFO | Execution finished for solver: ODEINT, seed: 6, error: MSE in 4205.70 seconds.
+2025-08-27 08:41:48,866 | INFO | Results saved to ../../Outputs/ABCD_DE_SERIAL_20250826_145151\results.csv
+2025-08-27 08:41:48,866 | INFO | Running with seed=7, solver=ODEINT, error=SQUARED
+2025-08-27 08:41:48,867 | INFO | Starting execution for DE: Solver=ODEINT, Error=SQUARED, Seed=7
+2025-08-27 09:52:39,401 | INFO | Execution finished for solver: ODEINT, seed: 7, error: SQUARED in 4250.51 seconds.
+2025-08-27 09:52:39,404 | INFO | Results saved to ../../Outputs/ABCD_DE_SERIAL_20250826_145151\results.csv
+2025-08-27 09:52:39,405 | INFO | Running with seed=7, solver=ODEINT, error=MSE
+2025-08-27 09:52:39,405 | INFO | Starting execution for DE: Solver=ODEINT, Error=MSE, Seed=7
+2025-08-27 11:03:38,750 | INFO | Execution finished for solver: ODEINT, seed: 7, error: MSE in 4259.32 seconds.
+2025-08-27 11:03:38,754 | INFO | Results saved to ../../Outputs/ABCD_DE_SERIAL_20250826_145151\results.csv
+2025-08-27 11:03:38,754 | INFO | Running with seed=8, solver=ODEINT, error=SQUARED
+2025-08-27 11:03:38,754 | INFO | Starting execution for DE: Solver=ODEINT, Error=SQUARED, Seed=8
+2025-08-27 11:55:30,003 | INFO | Execution finished for solver: ODEINT, seed: 8, error: SQUARED in 3111.22 seconds.
+2025-08-27 11:55:30,007 | INFO | Results saved to ../../Outputs/ABCD_DE_SERIAL_20250826_145151\results.csv
+2025-08-27 11:55:30,007 | INFO | Running with seed=8, solver=ODEINT, error=MSE
+2025-08-27 11:55:30,007 | INFO | Starting execution for DE: Solver=ODEINT, Error=MSE, Seed=8
+2025-08-27 12:47:24,122 | INFO | Execution finished for solver: ODEINT, seed: 8, error: MSE in 3114.09 seconds.
+2025-08-27 12:47:24,126 | INFO | Results saved to ../../Outputs/ABCD_DE_SERIAL_20250826_145151\results.csv
+2025-08-27 12:47:24,126 | INFO | Running with seed=9, solver=ODEINT, error=SQUARED
+2025-08-27 12:47:24,127 | INFO | Starting execution for DE: Solver=ODEINT, Error=SQUARED, Seed=9
+2025-08-27 13:41:29,700 | INFO | Execution finished for solver: ODEINT, seed: 9, error: SQUARED in 3245.56 seconds.
+2025-08-27 13:41:29,703 | INFO | Results saved to ../../Outputs/ABCD_DE_SERIAL_20250826_145151\results.csv
+2025-08-27 13:41:29,704 | INFO | Running with seed=9, solver=ODEINT, error=MSE
+2025-08-27 13:41:29,704 | INFO | Starting execution for DE: Solver=ODEINT, Error=MSE, Seed=9
+2025-08-27 14:35:39,483 | INFO | Execution finished for solver: ODEINT, seed: 9, error: MSE in 3249.76 seconds.
+2025-08-27 14:35:39,487 | INFO | Results saved to ../../Outputs/ABCD_DE_SERIAL_20250826_145151\results.csv
+2025-08-27 14:35:39,491 | INFO | Results saved to ../../Outputs/ABCD_DE_SERIAL_20250826_145151\results.csv
+2025-08-27 14:35:39,492 | INFO | Execution finished in 85427.72 seconds.

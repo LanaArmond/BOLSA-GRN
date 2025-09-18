@@ -1,0 +1,7 @@
+2025-08-26 14:21:31,621 | INFO | Starting execution - Serial
+2025-08-26 14:21:31,621 | INFO | Running with seed=0, solver=ODEINT, error=MSE
+2025-08-26 14:21:31,621 | INFO | Starting execution for CMAES: Solver=ODEINT, Error=MSE, Seed=0
+2025-08-26 14:21:31,787 | INFO | Execution finished for solver: ODEINT, seed: 0, error: MSE in 0.17 seconds.
+2025-08-26 14:21:31,804 | INFO | Results saved to ../../Outputs/ECOLI_CMAES_SERIAL_20250826_142131\results.csv
+2025-08-26 14:21:31,804 | INFO | Results saved to ../../Outputs/ECOLI_CMAES_SERIAL_20250826_142131\results.csv
+2025-08-26 14:21:31,804 | INFO | Execution finished in 0.18 seconds.

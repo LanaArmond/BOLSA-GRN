@@ -1,0 +1,3 @@
+2025-08-26 14:14:34,624 | INFO | Starting execution - Serial
+2025-08-26 14:14:34,624 | INFO | Running with seed=0, solver=ODEINT, error=SQUARED
+2025-08-26 14:14:34,624 | INFO | Starting execution for DE: Solver=ODEINT, Error=SQUARED, Seed=0
