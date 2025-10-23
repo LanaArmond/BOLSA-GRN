@@ -164,8 +164,7 @@ class CMAES(Method):
             Individual.apply_bounds(population, self.model)
             
         return Individual.list_to_ind(best_ind, self.model)
-        
-        
+         
 class DE(Method):
     def __init__(
         self, 
@@ -193,7 +192,6 @@ class DE(Method):
             ind.calculate_fitness()
             return ind.fitness
     
-        
         result = differential_evolution(
             objective_function,
             self.model.bounds_list(),
@@ -219,11 +217,18 @@ class SaDE(Method):
         self.max_gens = max_gens
         self.LP = LP
 
-        # Estratégias
-        self.strategy_names = ['rand/1/bin', 'rand/2/bin', 'current-to-best/1']
+        # Estratégias DE
+        self.strategy_names = [
+            'rand/1/bin',
+            'rand/2/bin',
+            'best/1/bin',
+            'best/2/bin',
+            'current-to-best/1',
+            'current-to-rand/1'
+        ]
         self.K = len(self.strategy_names)
 
-        # Probabilidades iniciais
+        # Probabilidades iniciais e médias de parâmetros
         self.p_k = np.ones(self.K) / self.K
         self.CRm = np.full(self.K, 0.5)
         self.Fm = np.full(self.K, 0.5)
@@ -258,34 +263,45 @@ class SaDE(Method):
         idxs.remove(i)
         r = np.random.choice(idxs, size=5, replace=False)
         x_t = pop[i]
+        best = pop[best_idx]
 
-        if self.strategy_names[strategy_idx] == 'rand/1/bin':
+        s = self.strategy_names[strategy_idx]
+
+        if s == 'rand/1/bin':
             a, b, c = pop[r[0]], pop[r[1]], pop[r[2]]
             v = a + F * (b - c)
-        elif self.strategy_names[strategy_idx] == 'rand/2/bin':
+        elif s == 'rand/2/bin':
             a, b, c, d, e = pop[r[0]], pop[r[1]], pop[r[2]], pop[r[3]], pop[r[4]]
             v = a + F * (b - c + d - e)
-        elif self.strategy_names[strategy_idx] == 'current-to-best/1':
+        elif s == 'best/1/bin':
             a, b = pop[r[0]], pop[r[1]]
-            best = pop[best_idx]
+            v = best + F * (a - b)
+        elif s == 'best/2/bin':
+            a, b, c, d = pop[r[0]], pop[r[1]], pop[r[2]], pop[r[3]]
+            v = best + F * (a - b + c - d)
+        elif s == 'current-to-best/1':
+            a, b = pop[r[0]], pop[r[1]]
             v = x_t + F * (best - x_t) + F * (a - b)
-        else:
+        elif s == 'current-to-rand/1':
             a, b, c = pop[r[0]], pop[r[1]], pop[r[2]]
-            v = a + F * (b - c)
+            v = x_t + np.random.rand() * (a - x_t) + F * (b - c)
+        else:
+            v = pop[r[0]] + F * (pop[r[1]] - pop[r[2]])
 
-        # binomial crossover
+        # Crossover binomial
         jrand = np.random.randint(dim)
         u = np.copy(x_t)
         mask = np.random.rand(dim) < CR
         u[mask] = v[mask]
         u[jrand] = v[jrand]
+
         return self._ensure_bounds(u)
 
     def adapt_probabilities(self):
         q = np.where(self.attempt_count > 0,
                      self.success_count / self.attempt_count,
                      0.0)
-        q = q + 1e-6
+        q = q + 1e-8
         self.p_k = q / q.sum()
         self.success_count[:] = 0
         self.attempt_count[:] = 0
@@ -302,7 +318,7 @@ class SaDE(Method):
         gens = gens if gens else self.max_gens
 
         bounds = np.array(self.model.bounds_list())
-        pop = np.random.uniform(bounds[:,0], bounds[:,1], size=(self.pop_size, self.dim))
+        pop = np.random.uniform(bounds[:, 0], bounds[:, 1], size=(self.pop_size, self.dim))
         fitness = []
 
         for ind in pop:
@@ -314,12 +330,16 @@ class SaDE(Method):
         best_idx = np.argmin(fitness)
         best = pop[best_idx].copy()
         best_fit = fitness[best_idx]
+        best_strategy = None
+        best_CR = None
+        best_F = None
 
         for gen in range(1, gens + 1):
             new_pop = pop.copy()
             new_fit = fitness.copy()
 
             for i in range(self.pop_size):
+                # Escolhe estratégia adaptativamente
                 k = self._choose_strategy_index()
                 CR = self._sample_CR(k)
                 F = self._sample_F(k)
@@ -329,6 +349,7 @@ class SaDE(Method):
                 ind_trial.calculate_fitness(solver=solver, error=error)
                 tfit = ind_trial.fitness
 
+                # Atualiza contadores de sucesso
                 self.attempt_count[k] += 1
                 if tfit < fitness[i]:
                     new_pop[i] = trial
@@ -336,9 +357,14 @@ class SaDE(Method):
                     self.success_count[k] += 1
                     self.success_cr_values[k].append(CR)
                     self.success_f_values[k].append(F)
+
+                    # Atualiza melhor global
                     if tfit < best_fit:
                         best = trial.copy()
                         best_fit = tfit
+                        best_strategy = self.strategy_names[k]
+                        best_CR = CR
+                        best_F = F
 
             pop, fitness = new_pop, new_fit
             best_idx = np.argmin(fitness)
@@ -346,7 +372,33 @@ class SaDE(Method):
             if gen % self.LP == 0:
                 self.adapt_probabilities()
 
-            if verbose and gen % (gens // 10) == 0:
-                logging.info(f"[SaDE] Gen {gen}/{gens} | best {best_fit:.6e}")
+            if verbose and gen % max(1, gens // 10) == 0:
+                # Evita erro se ainda não houver melhor estratégia
+                strategy_str = best_strategy if best_strategy is not None else "-"
+                CR_str = f"{best_CR:.3f}" if best_CR is not None else "-"
+                F_str = f"{best_F:.3f}" if best_F is not None else "-"
+
+                logging.info(
+                    f"[SaDE] Gen {gen}/{gens} | Best Fitness: {best_fit:.6e} "
+                    f"| Best Strategy: {strategy_str} | CR={CR_str} | F={F_str}"
+                )
+
+        # Log final após todas as gerações
+        strategy_str = best_strategy if best_strategy is not None else "-"
+        CR_str = f"{best_CR:.3f}" if best_CR is not None else "-"
+        F_str = f"{best_F:.3f}" if best_F is not None else "-"
+
+        logging.info(
+            f"[SaDE] Final Results:\n"
+            f"  ├─ Best Fitness: {best_fit:.6e}\n"
+            f"  ├─ Best Strategy: {strategy_str}\n"
+            f"  ├─ CR (Crossover Rate): {CR_str}\n"
+            f"  ├─ F (Mutation Factor): {F_str}\n"
+            f"  ├─ Population Size: {self.pop_size}\n"
+            f"  ├─ Strategies Probabilities: {np.round(self.p_k, 3)}\n"
+            f"  └─ Learning Period (LP): {self.LP}\n"
+        )
 
         return Individual.list_to_ind(best, self.model)
+
+

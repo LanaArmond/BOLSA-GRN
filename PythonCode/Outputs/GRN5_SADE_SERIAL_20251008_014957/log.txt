@@ -1,0 +1,59 @@
+2025-10-08 01:49:57,008 | INFO | Starting execution - Serial
+2025-10-08 01:49:57,008 | INFO | Running with seed=0, solver=ODEINT, error=SQUARED
+2025-10-08 01:49:57,008 | INFO | Starting execution for SaDE: Solver=ODEINT, Error=SQUARED, Seed=0
+2025-10-08 01:49:59,080 | ERROR | Unexpected error: integer division or modulo by zero
+Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 40, in run
+    best_ind = self.execute(logging=logging, solver=solver, seed=seed, error=error, gens=gens, verbose=verbose)
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 367, in execute
+    if verbose and gen % (gens // 10) == 0:
+ZeroDivisionError: integer division or modulo by zero
+2025-10-08 01:49:59,083 | ERROR | Error running seed=0, solver=ODEINT, error=SQUARED: local variable 'best_ind' referenced before assignment, traceback=Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 44, in run
+    raise e
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 40, in run
+    best_ind = self.execute(logging=logging, solver=solver, seed=seed, error=error, gens=gens, verbose=verbose)
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 367, in execute
+    if verbose and gen % (gens // 10) == 0:
+ZeroDivisionError: integer division or modulo by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Handlers.py", line 92, in run_single
+    result = method.run(
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 51, in run
+    if best_ind:
+UnboundLocalError: local variable 'best_ind' referenced before assignment
+
+2025-10-08 01:49:59,099 | INFO | Results saved to ../../Outputs/GRN5_SADE_SERIAL_20251008_014957\results.csv
+2025-10-08 01:49:59,099 | INFO | Running with seed=0, solver=ODEINT, error=MSE
+2025-10-08 01:49:59,099 | INFO | Starting execution for SaDE: Solver=ODEINT, Error=MSE, Seed=0
+2025-10-08 01:50:01,004 | ERROR | Unexpected error: integer division or modulo by zero
+Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 40, in run
+    best_ind = self.execute(logging=logging, solver=solver, seed=seed, error=error, gens=gens, verbose=verbose)
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 367, in execute
+    if verbose and gen % (gens // 10) == 0:
+ZeroDivisionError: integer division or modulo by zero
+2025-10-08 01:50:01,004 | ERROR | Error running seed=0, solver=ODEINT, error=MSE: local variable 'best_ind' referenced before assignment, traceback=Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 44, in run
+    raise e
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 40, in run
+    best_ind = self.execute(logging=logging, solver=solver, seed=seed, error=error, gens=gens, verbose=verbose)
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 367, in execute
+    if verbose and gen % (gens // 10) == 0:
+ZeroDivisionError: integer division or modulo by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Handlers.py", line 92, in run_single
+    result = method.run(
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 51, in run
+    if best_ind:
+UnboundLocalError: local variable 'best_ind' referenced before assignment
+
+2025-10-08 01:50:01,004 | INFO | Results saved to ../../Outputs/GRN5_SADE_SERIAL_20251008_014957\results.csv
+2025-10-08 01:50:01,004 | INFO | Results saved to ../../Outputs/GRN5_SADE_SERIAL_20251008_014957\results.csv
+2025-10-08 01:50:01,019 | INFO | Execution finished in 4.01 seconds.

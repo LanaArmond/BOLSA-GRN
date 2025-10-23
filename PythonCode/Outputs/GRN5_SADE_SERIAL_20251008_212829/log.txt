@@ -1,0 +1,121 @@
+2025-10-08 21:28:29,644 | INFO | Starting execution - Serial
+2025-10-08 21:28:29,645 | INFO | Running with seed=0, solver=ODEINT, error=SQUARED
+2025-10-08 21:28:29,645 | INFO | Starting execution for SaDE: Solver=ODEINT, Error=SQUARED, Seed=0
+2025-10-08 21:51:25,576 | INFO | [SaDE] Gen 500/5000 | Best Fitness: 1.613810e+00 | Best Strategy: current-to-best/1 | CR=0.504 | F=0.093
+2025-10-08 22:17:17,299 | INFO | [SaDE] Gen 1000/5000 | Best Fitness: 1.580072e+00 | Best Strategy: best/1/bin | CR=0.882 | F=0.251
+2025-10-08 22:43:07,263 | INFO | [SaDE] Gen 1500/5000 | Best Fitness: 1.580072e+00 | Best Strategy: rand/1/bin | CR=0.996 | F=0.361
+2025-10-08 23:08:53,281 | INFO | [SaDE] Gen 2000/5000 | Best Fitness: 1.580072e+00 | Best Strategy: best/2/bin | CR=1.000 | F=0.188
+2025-10-08 23:34:41,033 | INFO | [SaDE] Gen 2500/5000 | Best Fitness: 1.580072e+00 | Best Strategy: best/2/bin | CR=1.000 | F=0.188
+2025-10-09 00:00:27,508 | INFO | [SaDE] Gen 3000/5000 | Best Fitness: 1.580072e+00 | Best Strategy: best/2/bin | CR=1.000 | F=0.188
+2025-10-09 00:26:17,713 | INFO | [SaDE] Gen 3500/5000 | Best Fitness: 1.580072e+00 | Best Strategy: current-to-rand/1 | CR=0.801 | F=0.070
+2025-10-09 00:52:03,297 | INFO | [SaDE] Gen 4000/5000 | Best Fitness: 1.580072e+00 | Best Strategy: current-to-rand/1 | CR=0.801 | F=0.070
+2025-10-09 01:17:49,385 | INFO | [SaDE] Gen 4500/5000 | Best Fitness: 1.580072e+00 | Best Strategy: current-to-rand/1 | CR=1.000 | F=0.384
+2025-10-09 01:43:34,802 | INFO | [SaDE] Gen 5000/5000 | Best Fitness: 1.580072e+00 | Best Strategy: current-to-rand/1 | CR=0.848 | F=0.362
+2025-10-09 01:43:34,974 | INFO | Execution finished for solver: ODEINT, seed: 0, error: SQUARED in 15305.31 seconds.
+2025-10-09 01:43:34,985 | INFO | Results saved to ../../Outputs/GRN5_SADE_SERIAL_20251008_212829\results.csv
+2025-10-09 01:43:34,985 | INFO | Running with seed=0, solver=ODEINT, error=MSE
+2025-10-09 01:43:34,986 | INFO | Starting execution for SaDE: Solver=ODEINT, Error=MSE, Seed=0
+2025-10-09 02:10:24,612 | INFO | [SaDE] Gen 500/5000 | Best Fitness: 1.206329e-02 | Best Strategy: current-to-best/1 | CR=0.423 | F=0.160
+2025-10-09 02:39:09,909 | INFO | [SaDE] Gen 1000/5000 | Best Fitness: 1.028963e-02 | Best Strategy: best/1/bin | CR=0.903 | F=0.038
+2025-10-09 03:09:25,171 | INFO | [SaDE] Gen 1500/5000 | Best Fitness: 1.028962e-02 | Best Strategy: best/1/bin | CR=0.968 | F=0.538
+2025-10-09 03:39:58,055 | INFO | [SaDE] Gen 2000/5000 | Best Fitness: 1.028962e-02 | Best Strategy: best/1/bin | CR=1.000 | F=0.261
+2025-10-09 04:11:12,320 | INFO | [SaDE] Gen 2500/5000 | Best Fitness: 1.028952e-02 | Best Strategy: best/1/bin | CR=0.977 | F=0.695
+2025-10-09 04:42:30,116 | INFO | [SaDE] Gen 3000/5000 | Best Fitness: 1.028952e-02 | Best Strategy: current-to-rand/1 | CR=0.046 | F=0.633
+2025-10-09 05:13:42,709 | INFO | [SaDE] Gen 3500/5000 | Best Fitness: 1.028952e-02 | Best Strategy: current-to-rand/1 | CR=0.046 | F=0.633
+2025-10-09 05:45:03,903 | INFO | [SaDE] Gen 4000/5000 | Best Fitness: 1.028952e-02 | Best Strategy: best/1/bin | CR=0.990 | F=0.584
+2025-10-09 06:16:22,614 | INFO | [SaDE] Gen 4500/5000 | Best Fitness: 1.028952e-02 | Best Strategy: best/1/bin | CR=1.000 | F=0.778
+2025-10-09 06:47:37,044 | INFO | [SaDE] Gen 5000/5000 | Best Fitness: 1.028952e-02 | Best Strategy: best/1/bin | CR=1.000 | F=0.778
+2025-10-09 06:47:37,065 | INFO | Execution finished for solver: ODEINT, seed: 0, error: MSE in 18242.06 seconds.
+2025-10-09 06:47:37,068 | INFO | Results saved to ../../Outputs/GRN5_SADE_SERIAL_20251008_212829\results.csv
+2025-10-09 06:47:37,068 | INFO | Running with seed=1, solver=ODEINT, error=SQUARED
+2025-10-09 06:47:37,068 | INFO | Starting execution for SaDE: Solver=ODEINT, Error=SQUARED, Seed=1
+2025-10-09 07:09:40,746 | INFO | [SaDE] Gen 500/5000 | Best Fitness: 1.977257e+00 | Best Strategy: current-to-best/1 | CR=0.279 | F=0.272
+2025-10-09 07:33:05,672 | INFO | [SaDE] Gen 1000/5000 | Best Fitness: 1.776030e+00 | Best Strategy: current-to-best/1 | CR=0.198 | F=0.053
+2025-10-09 07:52:35,620 | INFO | [SaDE] Gen 1500/5000 | Best Fitness: 1.749198e+00 | Best Strategy: rand/1/bin | CR=0.000 | F=0.349
+2025-10-09 08:11:35,337 | INFO | [SaDE] Gen 2000/5000 | Best Fitness: 1.730521e+00 | Best Strategy: current-to-rand/1 | CR=0.000 | F=0.393
+2025-10-09 08:30:15,398 | INFO | [SaDE] Gen 2500/5000 | Best Fitness: 1.720892e+00 | Best Strategy: current-to-best/1 | CR=0.370 | F=0.127
+2025-10-09 08:49:04,606 | INFO | [SaDE] Gen 3000/5000 | Best Fitness: 1.716959e+00 | Best Strategy: current-to-best/1 | CR=0.000 | F=0.111
+2025-10-09 09:08:01,916 | INFO | [SaDE] Gen 3500/5000 | Best Fitness: 1.714635e+00 | Best Strategy: current-to-best/1 | CR=0.103 | F=0.077
+2025-10-09 09:27:19,887 | INFO | [SaDE] Gen 4000/5000 | Best Fitness: 1.712273e+00 | Best Strategy: best/2/bin | CR=0.054 | F=0.006
+2025-10-09 09:46:35,807 | INFO | [SaDE] Gen 4500/5000 | Best Fitness: 1.711985e+00 | Best Strategy: current-to-best/1 | CR=0.000 | F=0.089
+2025-10-09 10:05:58,929 | INFO | [SaDE] Gen 5000/5000 | Best Fitness: 1.708645e+00 | Best Strategy: current-to-best/1 | CR=0.284 | F=0.055
+2025-10-09 10:05:58,946 | INFO | Execution finished for solver: ODEINT, seed: 1, error: SQUARED in 11901.86 seconds.
+2025-10-09 10:05:58,949 | INFO | Results saved to ../../Outputs/GRN5_SADE_SERIAL_20251008_212829\results.csv
+2025-10-09 10:05:58,949 | INFO | Running with seed=1, solver=ODEINT, error=MSE
+2025-10-09 10:05:58,949 | INFO | Starting execution for SaDE: Solver=ODEINT, Error=MSE, Seed=1
+2025-10-09 10:16:26,025 | ERROR | Unexpected error: unsupported format string passed to NoneType.__format__
+Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 40, in run
+    best_ind = self.execute(logging=logging, solver=solver, seed=seed, error=error, gens=gens, verbose=verbose)
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 379, in execute
+    f"[SaDE] Gen {gen}/{gens} | Best Fitness: {best_fit:.6e} "
+TypeError: unsupported format string passed to NoneType.__format__
+2025-10-09 10:16:26,026 | ERROR | Error running seed=1, solver=ODEINT, error=MSE: local variable 'best_ind' referenced before assignment, traceback=Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 44, in run
+    raise e
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 40, in run
+    best_ind = self.execute(logging=logging, solver=solver, seed=seed, error=error, gens=gens, verbose=verbose)
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 379, in execute
+    f"[SaDE] Gen {gen}/{gens} | Best Fitness: {best_fit:.6e} "
+TypeError: unsupported format string passed to NoneType.__format__
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Handlers.py", line 92, in run_single
+    result = method.run(
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 51, in run
+    if best_ind:
+UnboundLocalError: local variable 'best_ind' referenced before assignment
+
+2025-10-09 10:16:26,028 | INFO | Results saved to ../../Outputs/GRN5_SADE_SERIAL_20251008_212829\results.csv
+2025-10-09 10:16:26,028 | INFO | Running with seed=2, solver=ODEINT, error=SQUARED
+2025-10-09 10:16:26,029 | INFO | Starting execution for SaDE: Solver=ODEINT, Error=SQUARED, Seed=2
+2025-10-09 10:38:07,874 | INFO | [SaDE] Gen 500/5000 | Best Fitness: 1.866332e+00 | Best Strategy: rand/2/bin | CR=0.000 | F=0.599
+2025-10-09 11:04:13,187 | INFO | [SaDE] Gen 1000/5000 | Best Fitness: 1.648064e+00 | Best Strategy: rand/1/bin | CR=0.804 | F=0.221
+2025-10-09 11:28:05,259 | INFO | [SaDE] Gen 1500/5000 | Best Fitness: 1.645693e+00 | Best Strategy: best/1/bin | CR=1.000 | F=0.852
+2025-10-09 11:52:16,561 | INFO | [SaDE] Gen 2000/5000 | Best Fitness: 1.645693e+00 | Best Strategy: best/1/bin | CR=1.000 | F=0.325
+2025-10-09 12:16:26,863 | INFO | [SaDE] Gen 2500/5000 | Best Fitness: 1.645693e+00 | Best Strategy: best/1/bin | CR=0.995 | F=0.329
+2025-10-09 12:40:35,040 | INFO | [SaDE] Gen 3000/5000 | Best Fitness: 1.645693e+00 | Best Strategy: best/1/bin | CR=1.000 | F=0.333
+2025-10-09 13:04:34,859 | INFO | [SaDE] Gen 3500/5000 | Best Fitness: 1.645693e+00 | Best Strategy: best/1/bin | CR=0.997 | F=0.035
+2025-10-09 13:30:05,531 | INFO | [SaDE] Gen 4000/5000 | Best Fitness: 1.645693e+00 | Best Strategy: best/1/bin | CR=0.988 | F=0.445
+2025-10-09 13:55:04,895 | INFO | [SaDE] Gen 4500/5000 | Best Fitness: 1.645693e+00 | Best Strategy: current-to-best/1 | CR=0.258 | F=0.259
+2025-10-09 14:20:04,602 | INFO | [SaDE] Gen 5000/5000 | Best Fitness: 1.645693e+00 | Best Strategy: current-to-best/1 | CR=0.520 | F=0.395
+2025-10-09 14:20:04,622 | INFO | Execution finished for solver: ODEINT, seed: 2, error: SQUARED in 14618.58 seconds.
+2025-10-09 14:20:04,627 | INFO | Results saved to ../../Outputs/GRN5_SADE_SERIAL_20251008_212829\results.csv
+2025-10-09 14:20:04,627 | INFO | Running with seed=2, solver=ODEINT, error=MSE
+2025-10-09 14:20:04,627 | INFO | Starting execution for SaDE: Solver=ODEINT, Error=MSE, Seed=2
+2025-10-09 14:50:50,893 | INFO | [SaDE] Gen 500/5000 | Best Fitness: 1.506336e-02 | Best Strategy: current-to-best/1 | CR=0.403 | F=0.001
+2025-10-09 15:22:43,643 | INFO | [SaDE] Gen 1000/5000 | Best Fitness: 1.248696e-02 | Best Strategy: rand/1/bin | CR=0.912 | F=0.758
+2025-10-09 15:47:20,995 | INFO | [SaDE] Gen 1500/5000 | Best Fitness: 1.205701e-02 | Best Strategy: best/1/bin | CR=0.837 | F=0.227
+2025-10-09 16:10:35,366 | INFO | [SaDE] Gen 2000/5000 | Best Fitness: 1.205701e-02 | Best Strategy: best/1/bin | CR=0.982 | F=0.392
+2025-10-09 16:33:51,395 | INFO | [SaDE] Gen 2500/5000 | Best Fitness: 1.205701e-02 | Best Strategy: best/1/bin | CR=1.000 | F=0.292
+2025-10-09 16:56:49,667 | INFO | [SaDE] Gen 3000/5000 | Best Fitness: 1.205701e-02 | Best Strategy: best/1/bin | CR=0.931 | F=0.196
+2025-10-09 17:19:21,428 | INFO | [SaDE] Gen 3500/5000 | Best Fitness: 1.205701e-02 | Best Strategy: best/1/bin | CR=0.964 | F=0.554
+2025-10-09 17:42:36,965 | INFO | [SaDE] Gen 4000/5000 | Best Fitness: 1.205701e-02 | Best Strategy: best/1/bin | CR=0.973 | F=0.480
+2025-10-09 18:05:20,789 | INFO | [SaDE] Gen 4500/5000 | Best Fitness: 1.205701e-02 | Best Strategy: best/1/bin | CR=0.973 | F=0.480
+2025-10-09 18:29:53,910 | INFO | [SaDE] Gen 5000/5000 | Best Fitness: 1.205701e-02 | Best Strategy: rand/1/bin | CR=0.970 | F=0.576
+2025-10-09 18:29:53,937 | INFO | Execution finished for solver: ODEINT, seed: 2, error: MSE in 14989.29 seconds.
+2025-10-09 18:29:53,950 | INFO | Results saved to ../../Outputs/GRN5_SADE_SERIAL_20251008_212829\results.csv
+2025-10-09 18:29:53,950 | INFO | Running with seed=3, solver=ODEINT, error=SQUARED
+2025-10-09 18:29:53,950 | INFO | Starting execution for SaDE: Solver=ODEINT, Error=SQUARED, Seed=3
+2025-10-09 18:46:32,419 | INFO | [SaDE] Gen 500/5000 | Best Fitness: 2.130482e+00 | Best Strategy: current-to-best/1 | CR=0.325 | F=0.117
+2025-10-09 19:13:09,850 | INFO | [SaDE] Gen 1000/5000 | Best Fitness: 1.927212e+00 | Best Strategy: best/1/bin | CR=0.000 | F=0.232
+2025-10-09 19:35:45,335 | INFO | [SaDE] Gen 1500/5000 | Best Fitness: 1.879566e+00 | Best Strategy: current-to-best/1 | CR=0.111 | F=0.087
+2025-10-09 19:55:03,269 | INFO | [SaDE] Gen 2000/5000 | Best Fitness: 1.804748e+00 | Best Strategy: current-to-rand/1 | CR=0.011 | F=0.484
+2025-10-09 20:12:30,144 | INFO | [SaDE] Gen 2500/5000 | Best Fitness: 1.802535e+00 | Best Strategy: current-to-best/1 | CR=0.096 | F=0.079
+2025-10-09 20:29:07,910 | INFO | [SaDE] Gen 3000/5000 | Best Fitness: 1.786144e+00 | Best Strategy: current-to-best/1 | CR=0.158 | F=0.108
+2025-10-09 20:45:09,008 | INFO | [SaDE] Gen 3500/5000 | Best Fitness: 1.764400e+00 | Best Strategy: current-to-best/1 | CR=0.058 | F=0.008
+2025-10-09 21:00:16,649 | INFO | [SaDE] Gen 4000/5000 | Best Fitness: 1.730712e+00 | Best Strategy: current-to-best/1 | CR=0.071 | F=0.014
+2025-10-09 21:15:42,420 | INFO | [SaDE] Gen 4500/5000 | Best Fitness: 1.698119e+00 | Best Strategy: current-to-best/1 | CR=0.116 | F=0.080
+2025-10-09 21:31:08,408 | INFO | [SaDE] Gen 5000/5000 | Best Fitness: 1.683138e+00 | Best Strategy: current-to-best/1 | CR=0.034 | F=0.120
+2025-10-09 21:31:08,432 | INFO | Execution finished for solver: ODEINT, seed: 3, error: SQUARED in 10874.47 seconds.
+2025-10-09 21:31:08,443 | INFO | Results saved to ../../Outputs/GRN5_SADE_SERIAL_20251008_212829\results.csv
+2025-10-09 21:31:08,443 | INFO | Running with seed=3, solver=ODEINT, error=MSE
+2025-10-09 21:31:08,444 | INFO | Starting execution for SaDE: Solver=ODEINT, Error=MSE, Seed=3
+2025-10-09 21:43:14,739 | INFO | [SaDE] Gen 500/5000 | Best Fitness: 2.106482e-02 | Best Strategy: current-to-best/1 | CR=0.080 | F=0.066
+2025-10-09 22:02:34,531 | INFO | [SaDE] Gen 1000/5000 | Best Fitness: 1.397990e-02 | Best Strategy: best/1/bin | CR=0.000 | F=0.278
+2025-10-09 22:28:31,099 | INFO | [SaDE] Gen 1500/5000 | Best Fitness: 1.260716e-02 | Best Strategy: current-to-rand/1 | CR=0.142 | F=0.788
+2025-10-09 23:05:07,422 | INFO | [SaDE] Gen 2000/5000 | Best Fitness: 1.238281e-02 | Best Strategy: best/2/bin | CR=0.048 | F=0.089
+2025-10-09 23:42:09,014 | INFO | [SaDE] Gen 2500/5000 | Best Fitness: 1.237648e-02 | Best Strategy: current-to-rand/1 | CR=0.138 | F=0.333
+2025-10-10 00:19:17,627 | INFO | [SaDE] Gen 3000/5000 | Best Fitness: 1.237243e-02 | Best Strategy: rand/2/bin | CR=1.000 | F=0.198
