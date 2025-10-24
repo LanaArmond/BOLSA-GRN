@@ -390,13 +390,13 @@ class SaDE(Method):
 
         logging.info(
             f"[SaDE] Final Results:\n"
-            f"  ├─ Best Fitness: {best_fit:.6e}\n"
-            f"  ├─ Best Strategy: {strategy_str}\n"
-            f"  ├─ CR (Crossover Rate): {CR_str}\n"
-            f"  ├─ F (Mutation Factor): {F_str}\n"
-            f"  ├─ Population Size: {self.pop_size}\n"
-            f"  ├─ Strategies Probabilities: {np.round(self.p_k, 3)}\n"
-            f"  └─ Learning Period (LP): {self.LP}\n"
+            f"  -> Best Fitness: {best_fit:.6e}\n"
+            f"  -> Best Strategy: {strategy_str}\n"
+            f"  -> CR (Crossover Rate): {CR_str}\n"
+            f"  -> F (Mutation Factor): {F_str}\n"
+            f"  -> Population Size: {self.pop_size}\n"
+            f"  -> Strategies Probabilities: {np.round(self.p_k, 3)}\n"
+            f"  -> Learning Period (LP): {self.LP}\n"
         )
 
         return Individual.list_to_ind(best, self.model)
