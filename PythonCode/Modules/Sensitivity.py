@@ -9,6 +9,10 @@ from Modules.Equations import Equation
 from scipy.integrate import solve_ivp
 from scipy.interpolate import interp1d
 
+# SHAP
+from sklearn.ensemble import RandomForestRegressor
+import shap
+
 
 class SensitivityAnalyzer:
     def __init__(self, model: Any):
@@ -43,22 +47,43 @@ class SensitivityAnalyzer:
         return coeffs
 
     # --- Simulação do modelo ---
+    # def _simulate_model(self, coeffs: Dict[str, dict]):
+    #     y0 = np.array([self.model.df[label].iloc[0] for label in self.model.labels])
+    #     t_eval = np.array(self.model.df['t'])
+
+    #     eq = Equation(coeffs, self.model.labels)
+
+    #     class DummyInd:
+    #         pass
+
+    #     dummy = DummyInd()
+    #     dummy.model = self.model
+
+    #     def system(t, y):
+    #         return self.model.system(t, y, dummy, equation=eq)
+
+    #     sol = solve_ivp(system, (t_eval[0], t_eval[-1]), y0, t_eval=t_eval, method='LSODA')
+    #     return sol.y
+    
     def _simulate_model(self, coeffs: Dict[str, dict]):
         y0 = np.array([self.model.df[label].iloc[0] for label in self.model.labels])
         t_eval = np.array(self.model.df['t'])
-
         eq = Equation(coeffs, self.model.labels)
-
+        
         class DummyInd:
             pass
-
         dummy = DummyInd()
         dummy.model = self.model
-
+        
         def system(t, y):
             return self.model.system(t, y, dummy, equation=eq)
-
+        
         sol = solve_ivp(system, (t_eval[0], t_eval[-1]), y0, t_eval=t_eval, method='LSODA')
+        
+        # Verificar NaN e substituir por 1e6
+        if np.isnan(sol.y).any():
+            sol.y = np.where(np.isnan(sol.y), 1e6, sol.y)
+        
         return sol.y
 
     # --- Cálculo do erro MSE ---
@@ -70,8 +95,10 @@ class SensitivityAnalyzer:
         for i, label in enumerate(self.model.labels):
             f = interp1d(np.linspace(0, 1, original.shape[1]), original[i, :], kind='linear')
             original_interp[i, :] = f(np.linspace(0, 1, n_sim))
-
-        return np.mean((sim_data - original_interp) ** 2)
+            
+        error = np.mean((sim_data - original_interp) ** 2)
+        
+        return 1e6 if np.isnan(error) else error
 
     # --- Análise Local ---
     def local_sensitivity(self, coeffs: Dict[str, dict], delta: float = 0.05) -> Dict[str, float]:
@@ -82,6 +109,7 @@ class SensitivityAnalyzer:
 
         baseline_sim = self._simulate_model(coeffs)
         baseline_err = self._evaluate_error(baseline_sim)
+        
         if baseline_err == 0:
             baseline_err = 1e-9
 
@@ -228,3 +256,38 @@ class SensitivityAnalyzer:
                 plt.title("Sobol - Índices de Segunda Ordem (S2)")
                 plt.tight_layout()
                 plt.show()
+                
+    # Análise SHAP
+    def shap_sensitivity(self, coeffs, N=2048):
+        # 1. gera o problema e as amostras
+        problem = self._build_problem(coeffs)
+        param_values = saltelli.sample(problem, N=N)
+        # return param_values
+
+        # 2. executa simulações
+        Y = []
+        for params in param_values:
+            flat = dict(zip(problem['names'], params))
+            new_coeffs = self._rebuild_coeffs(coeffs, flat)
+            sim_data = self._simulate_model(new_coeffs)
+            Y.append(self._evaluate_error(sim_data))
+        Y = np.array(Y)
+
+        # 3. treina surrogate
+        surrogate = RandomForestRegressor(n_estimators=400, random_state=0)
+        surrogate.fit(param_values, Y)
+
+        # 4. calcula SHAP
+        explainer = shap.TreeExplainer(surrogate)
+        shap_values = explainer.shap_values(param_values)
+
+        self.shap_explainer = explainer
+        self.shap_values = shap_values
+        self.shap_X = param_values
+        self.shap_names = problem["names"]
+
+        return shap_values
+
+    def plot_shap_summary(self):
+        shap.summary_plot(self.shap_values, self.shap_X, feature_names=self.shap_names)
+

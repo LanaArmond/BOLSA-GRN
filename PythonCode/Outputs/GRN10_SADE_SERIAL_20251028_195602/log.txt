@@ -1,0 +1,36 @@
+2025-10-28 19:56:02,658 | INFO | Starting execution - Serial
+2025-10-28 19:56:02,658 | INFO | Running with seed=0, solver=ODEINT, error=SQUARED
+2025-10-28 19:56:02,658 | INFO | Starting execution for SaDE: Solver=ODEINT, Error=SQUARED, Seed=0
+2025-10-28 22:27:22,797 | INFO | [SaDE] Gen 500/5000 | Best Fitness: 4.092695e+00 | Best Strategy: best/2/bin | CR=0.000 | F=0.311
+2025-10-29 01:49:21,377 | INFO | [SaDE] Gen 1000/5000 | Best Fitness: 3.583334e+00 | Best Strategy: current-to-best/1 | CR=0.000 | F=0.035
+2025-10-29 04:19:06,870 | INFO | [SaDE] Gen 1500/5000 | Best Fitness: 3.438916e+00 | Best Strategy: current-to-best/1 | CR=0.000 | F=0.241
+2025-10-29 06:56:05,268 | INFO | [SaDE] Gen 2000/5000 | Best Fitness: 3.354503e+00 | Best Strategy: current-to-rand/1 | CR=0.000 | F=0.447
+2025-10-29 09:29:47,434 | INFO | [SaDE] Gen 2500/5000 | Best Fitness: 3.330242e+00 | Best Strategy: current-to-best/1 | CR=0.000 | F=0.151
+2025-10-29 11:52:09,306 | INFO | [SaDE] Gen 3000/5000 | Best Fitness: 3.323561e+00 | Best Strategy: current-to-rand/1 | CR=0.004 | F=0.006
+2025-10-29 14:12:20,620 | INFO | [SaDE] Gen 3500/5000 | Best Fitness: 3.322353e+00 | Best Strategy: current-to-best/1 | CR=0.000 | F=0.711
+2025-10-29 16:23:55,210 | INFO | [SaDE] Gen 4000/5000 | Best Fitness: 3.288614e+00 | Best Strategy: current-to-rand/1 | CR=0.000 | F=0.362
+2025-10-29 18:20:45,403 | ERROR | Unexpected error: <built-in method choice of numpy.random.mtrand.RandomState object at 0x000001D654B00A40> returned NULL without setting an exception
+Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 40, in run
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 347, in execute
+    trial = self._mutate_and_crossover(pop, i, F, CR, k, best_idx)
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 264, in _mutate_and_crossover
+    r = np.random.choice(idxs, size=5, replace=False)
+SystemError: <built-in method choice of numpy.random.mtrand.RandomState object at 0x000001D654B00A40> returned NULL without setting an exception
+2025-10-29 18:20:45,502 | ERROR | Error running seed=0, solver=ODEINT, error=SQUARED: local variable 'best_ind' referenced before assignment, traceback=Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 44, in run
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 40, in run
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 347, in execute
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 264, in _mutate_and_crossover
+SystemError: <built-in method choice of numpy.random.mtrand.RandomState object at 0x000001D654B00A40> returned NULL without setting an exception
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Handlers.py", line 92, in run_single
+  File "c:\Users\anabi\OneDrive\Documentos\# BOLSA GRN\Códigos\BOLSA-GRN\PythonCode\Modules\Methods.py", line 51, in run
+UnboundLocalError: local variable 'best_ind' referenced before assignment
+
+2025-10-29 18:20:45,619 | INFO | Results saved to ../../Outputs/GRN10_SADE_SERIAL_20251028_195602\results.csv
+2025-10-29 18:20:45,619 | INFO | Running with seed=0, solver=ODEINT, error=MSE
+2025-10-29 18:20:45,621 | INFO | Starting execution for SaDE: Solver=ODEINT, Error=MSE, Seed=0
